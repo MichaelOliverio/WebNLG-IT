@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Asterix_(character) | creator | René_Goscinny</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asterix_(character) | creators | René_Goscinny</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asterix_(comicsCharacter) | creator | René_Goscinny</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Asterix was created by Rene Goscinny.</lex>
+      <lex comment="good" lid="Id2" lang="en">The creator of Asterix (comics character) is René Goscinny.</lex>
+      <lex comment="good" lid="Id3" lang="en">The comic character Asterix, was created by René Goscinny.</lex>
+      <lex comment="good" lid="Id1" lang="it">Asterix è stato creato da Rene Goscinny.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il creatore di Asterix (personaggio dei fumetti) è René Goscinny.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il personaggio dei fumetti Asterix è stato creato da René Goscinny.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Auron_(comics) | creators | &quot;Marv Wolfman&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Marv_Wolfman</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auron_(comicsCharacter) | creator | Marv_Wolfman</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The comic character Auron was created by Marv Wolfman.</lex>
+      <lex comment="good" lid="Id2" lang="en">Auron was created by Marv Wolfman.</lex>
+      <lex comment="good" lid="Id3" lang="en">The comic book character Auron was created by Marv Wolfman.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il personaggio dei fumetti Auron è stato creato da Marv Wolfman.</lex>
+      <lex comment="good" lid="Id2" lang="it">Auron è stato creato da Marv Wolfman.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il personaggio dei fumetti Auron è stato creato da Marv Wolfman.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Balder_(comics) | creators | Jack_Kirby</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Balder_(comicsCharacter) | creator | Jack_Kirby</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The comic character, Balder, was created by Jack Kirby.</lex>
+      <lex comment="good" lid="Id2" lang="en">The comic character Balder was created by Jack Kirby.</lex>
+      <lex comment="good" lid="Id3" lang="en">Jack Kirby created the comic character Balder.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il personaggio dei fumetti, Balder, è stato creato da Jack Kirby.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il personaggio dei fumetti Balder è stato creato da Jack Kirby.</lex>
+      <lex comment="good" lid="Id3" lang="it">Jack Kirby ha creato il personaggio dei fumetti Balder.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bananaman | network | &quot;STV&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | broadcastedBy | &quot;STV&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Bananaman is broadcast by STV.</lex>
+      <lex comment="good" lid="Id2" lang="en">Bananaman is broadcasted by &quot;STV&quot;.</lex>
+      <lex comment="good" lid="Id3" lang="en">Bananaman was broadcasted by STV.</lex>
+      <lex comment="good" lid="Id1" lang="it">Bananaman è trasmesso da STV.</lex>
+      <lex comment="good" lid="Id2" lang="it">Bananaman è trasmesso da &quot;STV&quot;.</lex>
+      <lex comment="good" lid="Id3" lang="it">Bananaman è stato trasmesso da STV.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bananaman | firstAired | &quot;1983-10-03&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | firstAired | &quot;1983-10-03&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Bananaman first aired on 3rd October 1983.</lex>
+      <lex comment="good" lid="Id2" lang="en">Bananaman first aired on the 3rd of October, 1983.</lex>
+      <lex comment="good" lid="Id3" lang="en">Bananaman was first aired on 10/03/1983.</lex>
+      <lex comment="good" lid="Id1" lang="it">Bananaman è andato in onda per la prima volta il 3 ottobre 1983.</lex>
+      <lex comment="good" lid="Id2" lang="it">Bananaman è andato in onda per la prima volta il 3 ottobre 1983.</lex>
+      <lex comment="good" lid="Id3" lang="it">Bananaman è stato trasmesso per la prima volta il 10/03/1983.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Bill Oddie stars in Bananaman.</lex>
+      <lex comment="good" lid="Id2" lang="en">Bananaman starred Bill Oddie.</lex>
+      <lex comment="good" lid="Id3" lang="en">Bill Oddie starred in Bananaman.</lex>
+      <lex comment="good" lid="Id1" lang="it">Bill Oddie è il protagonista di Bananaman.</lex>
+      <lex comment="good" lid="Id2" lang="it">Bananaman è interpretato da Bill Oddie.</lex>
+      <lex comment="good" lid="Id3" lang="it">Bill Oddie ha recitato in Bananaman.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Baymax | series | Big_Hero_6_(film)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | series | Big_Hero_6_(film)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Baymax is a character in Big Hero 6.</lex>
+      <lex comment="good" lid="Id1" lang="it">Baymax è un personaggio di Big Hero 6.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bill_Everett | award | Eisner_Award</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bill_Everett | award | Eisner_Award</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Bill Everett has won the Eisner Award.</lex>
+      <lex comment="good" lid="Id2" lang="en">Bill Everett has been awarded the Eisner award.</lex>
+      <lex comment="good" lid="Id1" lang="it">Bill Everett ha vinto il premio Eisner.</lex>
+      <lex comment="good" lid="Id2" lang="it">Bill Everett ha ricevuto il premio Eisner.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bill_Oddie | children | Kate_Hardie</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bill_Oddie | child | Kate_Hardie</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bill_Oddie | child | Kate_Hardie</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Bill Oddie's daughter is Kate Hardie.</lex>
+      <lex comment="good" lid="Id2" lang="en">Kate Hardie is Bill Oddie's child.</lex>
+      <lex comment="good" lid="Id1" lang="it">La figlia di Bill Oddie è Kate Hardie.</lex>
+      <lex comment="good" lid="Id2" lang="it">Kate Hardie è la figlia di Bill Oddie.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Dan_Mishkin</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creator | Dan_Mishkin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Dan_Mishkin</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Dan Mishkin is one of the creators of the comic character, Bolt.</lex>
+      <lex comment="good" lid="Id2" lang="en">The comic book character Bolt was created by Dan Mishkin.</lex>
+      <lex comment="good" lid="Id3" lang="en">The comic character Bolt was created by Dan Mishkin.</lex>
+      <lex comment="good" lid="Id1" lang="it">Dan Mishkin è uno dei creatori del personaggio a fumetti Bolt.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il personaggio dei fumetti Bolt è stato creato da Dan Mishkin.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il personaggio dei fumetti Bolt è stato creato da Dan Mishkin.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Bozo_the_Iron_Man | fullName | &quot;Hugh Hazzard&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bozo_the_Iron_Man | fullName | &quot;Hugh Hazzard&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Bozo the Iron Man’s full name is Hugh Hazzard.</lex>
+      <lex comment="good" lid="Id2" lang="en">The full name of Bozo the Iron Man is &quot;Hugh Hazzard&quot;.</lex>
+      <lex comment="good" lid="Id3" lang="en">The comic book character Bozo the Iron Man's alter ego is Hugh Hazzard.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il nome completo di Bozo l'uomo di ferro è Hugh Hazzard.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il nome completo di Bozo l'uomo di ferro è &quot;Hugh Hazzard&quot;.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'alter ego del personaggio dei fumetti Bozo the Iron Man è Hugh Hazzard.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>John_Buscema | award | Eagle_Award_(comics)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>John_Buscema | award | Eagle_Award_(comics)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">John Buscema has won the comic book award, Eagle Award.</lex>
+      <lex comment="good" lid="Id2" lang="en">John Buscema received the Eagle Award for his work in comics.</lex>
+      <lex comment="good" lid="Id1" lang="it">John Buscema ha vinto il premio del fumetto Eagle Award.</lex>
+      <lex comment="good" lid="Id2" lang="it">John Buscema ha ricevuto il premio Eagle per il suo lavoro nei fumetti.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Marv_Wolfman | award | Eagle_Award_(comics)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Marv_Wolfman | award | Eagle_Award_(comics)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Marv Wolfman is a recipient of the Eagle Award.</lex>
+      <lex comment="good" lid="Id2" lang="en">Marv Wolfman won the Eagle Award for comics.</lex>
+      <lex comment="good" lid="Id3" lang="en">Marv Wolfman has received the Eagle Award for comics.</lex>
+      <lex comment="good" lid="Id1" lang="it">Marv Wolfman ha ricevuto il premio Eagle.</lex>
+      <lex comment="good" lid="Id2" lang="it">Marv Wolfman ha vinto il premio Eagle per i fumetti.</lex>
+      <lex comment="good" lid="Id3" lang="it">Marv Wolfman ha ricevuto il premio Eagle per i fumetti.</lex>
+    </entry>
+  </entries>
+</benchmark>

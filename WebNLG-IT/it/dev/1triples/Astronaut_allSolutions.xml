@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Astronaut" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Shepard | awards | Distinguished_Service_Medal_(United_States_Navy)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | award | Distinguished_Service_Medal_(United_States_Navy)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The United States Navy awarded the Distinguished Service Medal to Alan Shepard.</lex>
+      <lex comment="good" lid="Id2" lang="en">Alan Shepard was awarded the Distinguished Service Medal by the United States Navy.</lex>
+      <lex comment="good" lid="Id3" lang="en">Alan Shepard was awarded the Distinguished Service Medal in the United States Navy.</lex>
+      <lex comment="good" lid="Id4" lang="en">Alan Shepard was awarded the Distinguished Service Medal by the US Navy.</lex>
+      <lex comment="good" lid="Id5" lang="en">Alan Shepard was awarded the United States Navy Distinguished Service Medal.</lex>
+      <lex comment="good" lid="Id1" lang="it">La Marina degli Stati Uniti ha conferito la Distinguished Service Medal ad Alan Shepard.</lex>
+      <lex comment="good" lid="Id2" lang="it">Alan Shepard è stato insignito della Distinguished Service Medal dalla Marina degli Stati Uniti.</lex>
+      <lex comment="good" lid="Id3" lang="it">Alan Shepard è stato insignito della Distinguished Service Medal della Marina degli Stati Uniti.</lex>
+      <lex comment="good" lid="Id4" lang="it">Alan Shepard è stato insignito della Distinguished Service Medal dalla Marina degli Stati Uniti.</lex>
+      <lex comment="good" lid="Id5" lang="it">Alan Shepard è stato insignito della United States Navy Distinguished Service Medal.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Shepard | deathPlace | California</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Shepard | deathPlace | California</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Alan Shepard died in California.</lex>
+      <lex comment="good" lid="Id1" lang="it">Alan Shepard è morto in California.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Apollo_11 | crew2Up | William_Anders</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Apollo_11 | backupPilot | William_Anders</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">William Anders was the backup pilot on Apollo 11.</lex>
+      <lex comment="good" lid="Id2" lang="en">William Anders was a backup pilot on the Apollo 11 mission.</lex>
+      <lex comment="good" lid="Id3" lang="en">Apollo 11's backup pilot was William Anders.</lex>
+      <lex comment="good" lid="Id1" lang="it">William Anders era il pilota di riserva dell'Apollo 11.</lex>
+      <lex comment="good" lid="Id2" lang="it">William Anders era un pilota di riserva della missione Apollo 11.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il pilota di riserva dell'Apollo 11 era William Anders.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Apollo_14 | operator | NASA</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Apollo_14 | operator | NASA</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Apollo 14 was operated by NASA.</lex>
+      <lex comment="good" lid="Id2" lang="en">NASA operated the Apollo 14.</lex>
+      <lex comment="good" lid="Id3" lang="en">Apollo 14 was operated by NASA.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Apollo 14 è stato gestito dalla NASA.</lex>
+      <lex comment="good" lid="Id2" lang="it">La NASA ha gestito l'Apollo 14.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'Apollo 14 è stato gestito dalla NASA.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Apollo_8 | operator | NASA</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Apollo_8 | operator | NASA</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Apollo 8 operator is NASA.</lex>
+      <lex comment="good" lid="Id2" lang="en">Apollo 8 is operated by Nasa.</lex>
+      <lex comment="good" lid="Id3" lang="en">Apollo 8 was operated by NASA.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'operatore dell'Apollo 8 è la NASA.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Apollo 8 è gestito dalla Nasa.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'Apollo 8 è stato gestito dalla NASA.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Buzz_Aldrin | nationality | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Buzz_Aldrin | nationality | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Buzz Aldrin's nationality is United States.</lex>
+      <lex comment="good" lid="Id2" lang="en">Buzz Aldrin was a United States national.</lex>
+      <lex comment="good" lid="Id3" lang="en">Buzz Aldrin was an American.</lex>
+      <lex comment="good" lid="Id4" lang="en">Buzz Aldrin is a US national.</lex>
+      <lex comment="good" lid="Id1" lang="it">La nazionalità di Buzz Aldrin è quella degli Stati Uniti.</lex>
+      <lex comment="good" lid="Id2" lang="it">Buzz Aldrin era un cittadino statunitense.</lex>
+      <lex comment="good" lid="Id3" lang="it">Buzz Aldrin era americano.</lex>
+      <lex comment="good" lid="Id4" lang="it">Buzz Aldrin è un cittadino statunitense.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Elliot_See | occupation | Test_pilot</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Elliot_See | occupation | Test_pilot</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Elliot See was a test pilot.</lex>
+      <lex comment="good" lid="Id2" lang="en">Elliot See served as a test pilot.</lex>
+      <lex comment="good" lid="Id3" lang="en">Elliot See flew as a test pilot.</lex>
+      <lex comment="good" lid="Id4" lang="en">Elliot See's occupation was a test pilot.</lex>
+      <lex comment="good" lid="Id5" lang="en">Elliot See performed as a test pilot.</lex>
+      <lex comment="good" lid="Id1" lang="it">Elliot See era un pilota collaudatore.</lex>
+      <lex comment="good" lid="Id2" lang="it">Elliot See ha servito come pilota collaudatore.</lex>
+      <lex comment="good" lid="Id3" lang="it">Elliot See ha volato come pilota collaudatore.</lex>
+      <lex comment="good" lid="Id4" lang="it">L'occupazione di Elliot See era quella di pilota collaudatore.</lex>
+      <lex comment="good" lid="Id5" lang="it">Elliot See si è esibito come pilota collaudatore.</lex>
+    </entry>
+    <entry category="Astronaut" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>University_of_Texas_at_Austin | mascot | Hook_'em_(mascot)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>University_of_Texas_at_Austin | mascot | Hook_'em_(mascot)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The University of Texas at Austin's mascot is called Hook'em.</lex>
+      <lex comment="good" lid="Id2" lang="en">Hook'em is the mascot for the University of Texas at Austin.</lex>
+      <lex comment="good" lid="Id3" lang="en">The mascot of the University of Texas at Austin is Hook'em.</lex>
+      <lex comment="good" lid="Id4" lang="en">The Hook 'em is the mascot of University of Texas at Austin.</lex>
+      <lex comment="good" lid="Id1" lang="it">La mascotte dell'Università del Texas ad Austin si chiama Hook'em.</lex>
+      <lex comment="good" lid="Id2" lang="it">Hook'em è la mascotte dell'Università del Texas ad Austin.</lex>
+      <lex comment="good" lid="Id3" lang="it">La mascotte dell'Università del Texas ad Austin è Hook'em.</lex>
+      <lex comment="good" lid="Id4" lang="it">L'Hook 'em è la mascotte dell'Università del Texas ad Austin.</lex>
+    </entry>
+  </entries>
+</benchmark>

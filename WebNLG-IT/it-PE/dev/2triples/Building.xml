@@ -1,0 +1,425 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Building" eid="Id1" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | ethnicGroups | Coloured</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>11_Diagonal_Street | location | South_Africa</otriple>
+        <otriple>South_Africa | ethnicGroup | Coloured</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11_Diagonal_Street | location | South_Africa</mtriple>
+        <mtriple>South_Africa | ethnicGroup | Coloured</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">11 Diagonal Street is in South Africa. One South African group is the Coloured.</lex>
+      <lex comment="good" lid="Id2" lang="en">The address, 11 Diagonal Street is located in South Africa which is home to some coloured people.</lex>
+      <lex comment="good" lid="Id1" lang="it">11 Diagonal Street si trova in Sudafrica. Un gruppo sudafricano è quello dei coloured.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'indirizzo, 11 Diagonal Street, si trova in Sudafrica, dove vivono alcune persone di colore.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">11 Diagonal Street si trova in Sudafrica. Un gruppo sudafricano è quello dei coloured.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'indirizzo, 11 Diagonal Street, si trova in Sudafrica, dove vivono alcune persone di colore.</lex>
+    </entry>
+    <entry category="Building" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>200_Public_Square | location | Cleveland</otriple>
+        <otriple>200_Public_Square | floorCount | 45</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>200_Public_Square | location | Cleveland</otriple>
+        <otriple>200_Public_Square | floorCount | &quot;45&quot;^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>200_Public_Square | location | Cleveland</mtriple>
+        <mtriple>200_Public_Square | floorCount | 45</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">There are 45 floors at 200 Public Square in Cleveland.</lex>
+      <lex comment="good" lid="Id2" lang="en">200 Public square, Cleveland, has a floor count of 45.</lex>
+      <lex comment="good" lid="Id1" lang="it">Al 200 Public Square di Cleveland ci sono 45 piani.</lex>
+      <lex comment="good" lid="Id2" lang="it">200 Public square, Cleveland, conta 45 piani.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Al 200 Public Square di Cleveland ci sono 45 piani.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">200 Public square, Cleveland, conta 45 piani.</lex>
+    </entry>
+    <entry category="Building" eid="Id3" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>20_Fenchurch_Street | location | London</otriple>
+        <otriple>London | leaderTitle | European_Parliament</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>20_Fenchurch_Street | location | London</mtriple>
+        <mtriple>London | leaderTitle | European_Parliament</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">20 Fenchurch Street is located in London, which is currently led by the European Parliament.</lex>
+      <lex comment="good" lid="Id2" lang="en">20 Fenchurch Street is located in London, which is led via the European Parliament.</lex>
+      <lex comment="good" lid="Id3" lang="en">20 Fenchurch Street is located in London which is led by the European Parliament.</lex>
+      <lex comment="good" lid="Id1" lang="it">20 Fenchurch Street si trova a Londra, attualmente guidata dal Parlamento europeo.</lex>
+      <lex comment="good" lid="Id2" lang="it">20 Fenchurch Street si trova a Londra, guidata dal Parlamento europeo.</lex>
+      <lex comment="good" lid="Id3" lang="it">20 Fenchurch Street si trova a Londra, dove ha sede il Parlamento europeo.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">20 Fenchurch Street si trova a Londra, attualmente guidata dal Parlamento europeo.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">20 Fenchurch Street si trova a Londra, guidata dal Parlamento europeo.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">20 Fenchurch Street si trova a Londra, dove ha sede il Parlamento europeo.</lex>
+    </entry>
+    <entry category="Building" eid="Id4" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>250_Delaware_Avenue | location | United_States</otriple>
+        <otriple>United_States | leaderName | Barack_Obama</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>250_Delaware_Avenue | location | United_States</mtriple>
+        <mtriple>United_States | leader | Barack_Obama</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">250 Delaware Avenue is located in the United States, the leader of which was Barack Obama.</lex>
+      <lex comment="good" lid="Id2" lang="en">250 Delaware Avenue is located in the United States - which is led by Barack Obama.</lex>
+      <lex comment="good" lid="Id1" lang="it">250 Delaware Avenue si trova negli Stati Uniti, il cui leader è Barack Obama.</lex>
+      <lex comment="good" lid="Id2" lang="it">250 Delaware Avenue si trova negli Stati Uniti, guidati da Barack Obama.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">250 Delaware Avenue si trova negli Stati Uniti, il cui leader è Barack Obama.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">250 Delaware Avenue si trova negli Stati Uniti, guidati da Barack Obama.</lex>
+    </entry>
+    <entry category="Building" eid="Id5" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>300_North_LaSalle | location | Illinois</otriple>
+        <otriple>300_North_LaSalle | floorCount | 60</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>300_North_LaSalle | location | Illinois</otriple>
+        <otriple>300_North_LaSalle | floorCount | &quot;60&quot;^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>300_North_LaSalle | location | Illinois</mtriple>
+        <mtriple>300_North_LaSalle | floorCount | 60</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">There are 60 floors at 300 North LaSalle in Illinois.</lex>
+      <lex comment="good" lid="Id2" lang="en">300 North LaSalle in Illinois has 60 floors.</lex>
+      <lex comment="good" lid="Id1" lang="it">Ci sono 60 piani al 300 North LaSalle in Illinois.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il 300 North LaSalle in Illinois ha 60 piani.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Ci sono 60 piani al 300 North LaSalle in Illinois.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il 300 North LaSalle in Illinois ha 60 piani.</lex>
+    </entry>
+    <entry category="Building" eid="Id6" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>3Arena | location | North_Wall,_Dublin</otriple>
+        <otriple>3Arena | architect | &quot;HOK SVE&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>3Arena | location | North_Wall,_Dublin</mtriple>
+        <mtriple>3Arena | architect | &quot;HOK SVE&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">HOK SVE was the architect of the 3Arena at North Wall, Dublin.</lex>
+      <lex comment="good" lid="Id2" lang="en">3Arena is located at North Wall, Dublin, and was built by HOK SVE.</lex>
+      <lex comment="good" lid="Id3" lang="en">The 3Arena is located at North Wall, Dublin and was designed by HOK SVE.</lex>
+      <lex comment="good" lid="Id1" lang="it">HOK SVE è stata l'architetto della 3Arena di North Wall, a Dublino.</lex>
+      <lex comment="good" lid="Id2" lang="it">La 3Arena si trova a North Wall, Dublino, ed è stata costruita da HOK SVE.</lex>
+      <lex comment="good" lid="Id3" lang="it">La 3Arena si trova a North Wall, Dublino, ed è stata progettata da HOK SVE.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">HOK SVE è stata l'architetto della 3Arena di North Wall, a Dublino.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">La 3Arena si trova a North Wall, Dublino, ed è stata costruita da HOK SVE.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">La 3Arena si trova a North Wall, Dublino, ed è stata progettata da HOK SVE.</lex>
+    </entry>
+    <entry category="Building" eid="Id7" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>3Arena | owner | Live_Nation_Entertainment</otriple>
+        <otriple>3Arena | location | &quot;East Link Bridge&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>3Arena | owner | Live_Nation_Entertainment</mtriple>
+        <mtriple>3Arena | location | &quot;East Link Bridge&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">3Arena at East Link Bridge is owned by Live Nation Entertainment.</lex>
+      <lex comment="good" lid="Id2" lang="en">3Arena is located at East Link Bridge and is owned by Live Nation Entertainment.</lex>
+      <lex comment="good" lid="Id1" lang="it">La 3Arena at East Link Bridge è di proprietà di Live Nation Entertainment.</lex>
+      <lex comment="good" lid="Id2" lang="it">La 3Arena si trova all'East Link Bridge ed è di proprietà di Live Nation Entertainment.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La 3Arena at East Link Bridge è di proprietà di Live Nation Entertainment.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">La 3Arena si trova all'East Link Bridge ed è di proprietà di Live Nation Entertainment.</lex>
+    </entry>
+    <entry category="Building" eid="Id8" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>3Arena | owner | Live_Nation_Entertainment</otriple>
+        <otriple>Live_Nation_Entertainment | location | Beverly_Hills,_California</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>3Arena | owner | Live_Nation_Entertainment</mtriple>
+        <mtriple>Live_Nation_Entertainment | location | Beverly_Hills,_California</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">3Arena, owned by Live Nation Entertainment, is located in Beverly Hills, California.</lex>
+      <lex comment="good" lid="Id2" lang="en">Live Nation Entertainment from Beverly Hills, California, are the owners of 3Arena.</lex>
+      <lex comment="good" lid="Id1" lang="it">La 3Arena, di proprietà di Live Nation Entertainment, si trova a Beverly Hills, in California.</lex>
+      <lex comment="good" lid="Id2" lang="it">Live Nation Entertainment di Beverly Hills, California, è il proprietario della 3Arena.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La 3Arena, di proprietà di Live Nation Entertainment, si trova a Beverly Hills, in California.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Live Nation Entertainment di Beverly Hills, California, è il proprietario della 3Arena.</lex>
+    </entry>
+    <entry category="Building" eid="Id9" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | operator | Marriott_International</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | &quot;23&quot;^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</otriple>
+        <otriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | &quot;23&quot;^^xsd:positiveInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International</mtriple>
+        <mtriple>AC_Hotel_Bella_Sky_Copenhagen | floorCount | 23</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Marriott International is the tenant of AC Hotel Bella Sky Copenhagen and it has 23 floors.</lex>
+      <lex comment="good" lid="Id2" lang="en">The tenant of the AC Hotel Bella Sky Copenhagen, which has 23 floors, is the Marriott International Hotel.</lex>
+      <lex comment="good" lid="Id1" lang="it">Marriott International è l'affittuario dell'AC Hotel Bella Sky Copenhagen, che si sviluppa su 23 piani.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'affittuario dell'AC Hotel Bella Sky Copenhagen, che ha 23 piani, è l'hotel Marriott International.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Marriott International è l'affittuario dell'AC Hotel Bella Sky Copenhagen, che si sviluppa su 23 piani.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'affittuario dell'AC Hotel Bella Sky Copenhagen, che ha 23 piani, è l'hotel Marriott International.</lex>
+    </entry>
+    <entry category="Building" eid="Id10" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | currentTenants | &quot;Government of Addis Ababa&quot;@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | height | &quot;42.0&quot;^^xsd:double</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addis_Ababa_City_Hall | currentTenants | &quot;Government of Addis Ababa&quot;@en</otriple>
+        <otriple>Addis_Ababa_City_Hall | height | &quot;42 m&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addis_Ababa_City_Hall | currentTenants | &quot;Government of Addis Ababa&quot;</mtriple>
+        <mtriple>Addis_Ababa_City_Hall | height | &quot;42 m&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Addis Ababa City Hall is 42 m high and houses the Government of Addis Ababa.</lex>
+      <lex comment="good" lid="Id2" lang="en">The &quot; Government of Addis Ababa&quot; are the current tenants of Addis Ababa City Hall which is 42 metres high.</lex>
+      <lex comment="good" lid="Id3" lang="en">Addis Ababa City Hall is 42 m high and is occupied by the Government of Addis Adaba.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il municipio di Addis Abeba è alto 42 metri e ospita il governo di Addis Abeba.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il &quot;Governo di Addis Abeba&quot; è l'attuale inquilino del Municipio di Addis Abeba, alto 42 metri.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il municipio di Addis Abeba è alto 42 metri ed è occupato dal governo di Addis Abeba.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il municipio di Addis Abeba è alto 42 metri e ospita il governo di Addis Abeba.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il &quot;Governo di Addis Abeba&quot; è l'attuale inquilino del Municipio di Addis Abeba, alto 42 metri.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il municipio di Addis Abeba è alto 42 metri ed è occupato dal governo di Addis Abeba.</lex>
+    </entry>
+    <entry category="Building" eid="Id11" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Adisham_Hall | architecturalStyle | &quot;Tudor and Jacabian&quot;@en</otriple>
+        <otriple>Adisham_Hall | location | &quot;Haputale, Sri Lanka&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adisham_Hall | architecturalStyle | &quot;Tudor and Jacabian&quot;</mtriple>
+        <mtriple>Adisham_Hall | location | &quot;Haputale, Sri Lanka&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Adisham Hall's architectural style is Tudor and Jacabian and the building is located in Haputale, Sri Lanka.</lex>
+      <lex comment="good" lid="Id2" lang="en">Adisham Hall, Haputale, Sri Lanka, is Tudor and Jacabian in style.</lex>
+      <lex comment="good" lid="Id1" lang="it">Lo stile architettonico dell'Adisham Hall è Tudor e Jacabian e l'edificio si trova a Haputale, nello Sri Lanka.</lex>
+      <lex comment="good" lid="Id2" lang="it">Adisham Hall, Haputale, Sri Lanka, è in stile Tudor e Jacabian.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Lo stile architettonico dell'Adisham Hall è Tudor e Jacabian e l'edificio si trova a Haputale, nello Sri Lanka.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Adisham Hall, Haputale, Sri Lanka, è in stile Tudor e Jacabian.</lex>
+    </entry>
+    <entry category="Building" eid="Id12" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Adisham_Hall | locationCountry | Sri_Lanka</otriple>
+        <otriple>Sri_Lanka | language | Tamil_language</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adisham_Hall | country | Sri_Lanka</otriple>
+        <otriple>Sri_Lanka | language | Tamil_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adisham_Hall | country | Sri_Lanka</mtriple>
+        <mtriple>Sri_Lanka | language | Tamil_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Adisham Hall is located in Sri Lanka, where they speak the Tamil language.</lex>
+      <lex comment="good" lid="Id2" lang="en">Adisham Hall is located in the country of Sri Lanka where they speak Tamil.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Adisham Hall si trova in Sri Lanka, dove si parla la lingua tamil.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Adisham Hall si trova nello Sri Lanka, dove si parla tamil.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'Adisham Hall si trova in Sri Lanka, dove si parla la lingua tamil.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'Adisham Hall si trova nello Sri Lanka, dove si parla tamil.</lex>
+    </entry>
+    <entry category="Building" eid="Id13" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alan_B._Miller_Hall | startDate | &quot;2007-03-30&quot;^^xsd:date</otriple>
+        <otriple>Alan_B._Miller_Hall | address | &quot;101 Ukrop Way&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_B._Miller_Hall | buildingStartDate | &quot;30 March 2007&quot;</mtriple>
+        <mtriple>Alan_B._Miller_Hall | address | &quot;101 Ukrop Way&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The construction of Alan B Miller Hall, 101 Ukrop Way, began on 30th March 2007.</lex>
+      <lex comment="good" lid="Id2" lang="en">Alan B. Miller Hall's building start date was in 30th March 2007 and is located at 101 Ukrop Way.</lex>
+      <lex comment="good" lid="Id3" lang="en">Alan B. Miller Hall at 101 Ukrop Way opened on March 30, 2007.</lex>
+      <lex comment="good" lid="Id1" lang="it">La costruzione della Alan B Miller Hall, al 101 di Ukrop Way, è iniziata il 30 marzo 2007.</lex>
+      <lex comment="good" lid="Id2" lang="it">La Alan B. Miller Hall è stata costruita il 30 marzo 2007 e si trova al numero 101 di Ukrop Way.</lex>
+      <lex comment="good" lid="Id3" lang="it">La Alan B. Miller Hall al 101 di Ukrop Way è stata inaugurata il 30 marzo 2007.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La costruzione della Alan B Miller Hall, al 101 di Ukrop Way, è iniziata il 30 marzo 2007.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">La Alan B. Miller Hall è stata costruita il 30 marzo 2007 e si trova al numero 101 di Ukrop Way.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">La Alan B. Miller Hall al 101 di Ukrop Way è stata inaugurata il 30 marzo 2007.</lex>
+    </entry>
+    <entry category="Building" eid="Id14" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alan_B._Miller_Hall | owner | College_of_William_&amp;_Mary</otriple>
+        <otriple>Alan_B._Miller_Hall | location | Williamsburg,_Virginia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_B._Miller_Hall | owner | College_of_William_&amp;_Mary</mtriple>
+        <mtriple>Alan_B._Miller_Hall | location | Williamsburg,_Virginia</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Alan B Miller Hall is owned by The College of William and Mary and located in Williamsburg, Virginia.</lex>
+      <lex comment="good" lid="Id2" lang="en">Alan B. Miller Hall in Williamsburg, Virginia is owned by The College of William and Mary.</lex>
+      <lex comment="good" lid="Id3" lang="en">The College of William and Mary is the owner of the Alan B. Miller Hall in Williamsburg, Virginia.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Alan B Miller Hall è di proprietà del College of William and Mary e si trova a Williamsburg, in Virginia.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Alan B. Miller Hall di Williamsburg, Virginia, è di proprietà del College of William and Mary.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il College of William and Mary è proprietario dell'Alan B. Miller Hall di Williamsburg, in Virginia.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'Alan B Miller Hall è di proprietà del College of William and Mary e si trova a Williamsburg, in Virginia.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'Alan B. Miller Hall di Williamsburg, Virginia, è di proprietà del College of William and Mary.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il College of William and Mary è proprietario dell'Alan B. Miller Hall di Williamsburg, in Virginia.</lex>
+    </entry>
+    <entry category="Building" eid="Id15" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alan_B._Miller_Hall | tenant | Mason_School_of_Business</otriple>
+        <otriple>Alan_B._Miller_Hall | architect | Robert_A._M._Stern</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_B._Miller_Hall | tenant | Mason_School_of_Business</mtriple>
+        <mtriple>Alan_B._Miller_Hall | architect | Robert_A._M._Stern</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Robert A. M. Stern is the architect of the Alan B. Miller Hall where the Mason School of Business is located.</lex>
+      <lex comment="good" lid="Id2" lang="en">Robert A M Stern designed Alan B Miller Hall and the Mason School of Business is a tenant there.</lex>
+      <lex comment="good" lid="Id3" lang="en">Mason School of Business is a tenant of the Alan B. Miller Hall, which was designed by Robert A.M. Stern.</lex>
+      <lex comment="good" lid="Id1" lang="it">Robert A. M. Stern è l'architetto della Alan B. Miller Hall, dove ha sede la Mason School of Business.</lex>
+      <lex comment="good" lid="Id2" lang="it">Robert A M Stern ha progettato l'Alan B Miller Hall e la Mason School of Business ne è un inquilino.</lex>
+      <lex comment="good" lid="Id3" lang="it">La Mason School of Business è inquilina della Alan B. Miller Hall, progettata da Robert A.M. Stern.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Robert A. M. Stern è l'architetto della Alan B. Miller Hall, dove ha sede la Mason School of Business.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Robert A M Stern ha progettato l'Alan B Miller Hall e la Mason School of Business ne è un inquilino.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">La Mason School of Business è inquilina della Alan B. Miller Hall, progettata da Robert A.M. Stern.</lex>
+    </entry>
+    <entry category="Building" eid="Id16" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Ampara_Hospital | region | Ampara_District</otriple>
+        <otriple>Ampara_Hospital | country | &quot;Sri Lanka&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ampara_Hospital | country | Sri_Lanka</otriple>
+        <otriple>Ampara_Hospital | region | Ampara_District</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ampara_Hospital | country | Sri_Lanka</mtriple>
+        <mtriple>Ampara_Hospital | region | Ampara_District</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Ampara Hospital is located in the Ampara District in Sri Lanka.</lex>
+      <lex comment="good" lid="Id2" lang="en">Ampara Hospital is located in the Ampara District of Sri Lanka.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'ospedale di Ampara si trova nel distretto di Ampara, nello Sri Lanka.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'ospedale di Ampara si trova nel distretto di Ampara, nello Sri Lanka.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'ospedale di Ampara si trova nel distretto di Ampara, nello Sri Lanka.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'ospedale di Ampara si trova nel distretto di Ampara, nello Sri Lanka.</lex>
+    </entry>
+    <entry category="Building" eid="Id17" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Ampara_Hospital | country | Sri_Lanka</otriple>
+        <otriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ampara_Hospital | country | Sri_Lanka</mtriple>
+        <mtriple>Sri_Lanka | capital | Sri_Jayawardenepura_Kotte</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Sri Jayawardenepura Kotte is the capital of Sri Lanka, where Ampara Hospital is located.</lex>
+      <lex comment="good" lid="Id2" lang="en">Ampara Hospital is located in Sri Lanka whose capital is Sri Jayawardenepura Kotte.</lex>
+      <lex comment="good" lid="Id3" lang="en">Ampara Hospital is located in Sri Lanka where the capital is Sri Jayawardenepura Kotte.</lex>
+      <lex comment="good" lid="Id1" lang="it">Sri Jayawardenepura Kotte è la capitale dello Sri Lanka, dove si trova l'ospedale di Ampara.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'ospedale di Ampara si trova nello Sri Lanka, la cui capitale è Sri Jayawardenepura Kotte.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'ospedale di Ampara si trova nello Sri Lanka, la cui capitale è Sri Jayawardenepura Kotte.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Sri Jayawardenepura Kotte è la capitale dello Sri Lanka, dove si trova l'ospedale di Ampara.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'ospedale di Ampara si trova nello Sri Lanka, la cui capitale è Sri Jayawardenepura Kotte.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">L'ospedale di Ampara si trova nello Sri Lanka, la cui capitale è Sri Jayawardenepura Kotte.</lex>
+    </entry>
+    <entry category="Building" eid="Id18" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | location | U.S._Route_83</otriple>
+        <otriple>Asher_and_Mary_Isabelle_Richardson_House | nrhpReferenceNumber | &quot;88002539&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | location | U.S._Route_83</mtriple>
+        <mtriple>Asher_and_Mary_Isabelle_Richardson_House | NationalRegisterOfHistoricPlacesReferenceNumber | &quot;88002539&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Asher and Mary Isabelle Richardson House is located on U.S. Route 83 and has the reference number 88002539 in the National Register of Historic Places.</lex>
+      <lex comment="good" lid="Id2" lang="en">The National Register of Historic Places has the Asher and Mary Isabelle Richardson House, located at U.S. Route 83, referenced at 88002539.</lex>
+      <lex comment="good" lid="Id3" lang="en">Asher and Mary Isabelle Richardson House has the reference number 88002539 in the National Register of Historic Places, and is located at U.S. Route 83.</lex>
+      <lex comment="good" lid="Id1" lang="it">La casa di Asher e Mary Isabelle Richardson si trova sulla U.S. Route 83 e ha il numero di riferimento 88002539 nel Registro nazionale dei luoghi storici.</lex>
+      <lex comment="good" lid="Id2" lang="it">Nel Registro Nazionale dei Luoghi Storici, la casa di Asher e Mary Isabelle Richardson, situata sulla U.S. Route 83, è segnalata al numero 88002539.</lex>
+      <lex comment="good" lid="Id3" lang="it">La casa di Asher e Mary Isabelle Richardson ha il numero di riferimento 88002539 nel Registro Nazionale dei Luoghi Storici ed è situata sulla U.S. Route 83.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La casa di Asher e Mary Isabelle Richardson si trova sulla U.S. Route 83 e ha il numero di riferimento 88002539 nel Registro nazionale dei luoghi storici.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Nel Registro Nazionale dei Luoghi Storici, la casa di Asher e Mary Isabelle Richardson, situata sulla U.S. Route 83, è segnalata al numero 88002539.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">La casa di Asher e Mary Isabelle Richardson ha il numero di riferimento 88002539 nel Registro Nazionale dei Luoghi Storici ed è situata sulla U.S. Route 83.</lex>
+    </entry>
+    <entry category="Building" eid="Id19" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | location | &quot;Asilomar Blvd., Pacific Grove, California&quot;@en</otriple>
+        <otriple>Asilomar_Conference_Grounds | nrhpReferenceNumber | &quot;87000823&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | location | &quot;Asilomar Blvd., Pacific Grove, California&quot;</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | NationalRegisterOfHistoricPlacesReferenceNumber | &quot;87000823&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Asilomar Conference Grounds, Asilomar Blvd., Pacific Grove, California has a reference number in the National Register of Historic Places of: 87000823.</lex>
+      <lex comment="good" lid="Id2" lang="en">Asilomar Conference Grounds is located at Asilomar Blvd., Pacific Grove, California and its reference number is 87000823 in the National Register of Historic Places.</lex>
+      <lex comment="good" lid="Id3" lang="en">&quot;87000823&quot; is Asilomar Conference Grounds' reference number in the National Register of Historic Places, and it is located on Asilomar Blvd, Pacific Grove, California.</lex>
+      <lex comment="good" lid="Id1" lang="it">Asilomar Conference Grounds, Asilomar Blvd., Pacific Grove, California ha un numero di riferimento nel Registro Nazionale dei Luoghi Storici di: 87000823.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Asilomar Conference Grounds si trova in Asilomar Blvd., Pacific Grove, California e il suo numero di riferimento è 87000823 nel National Register of Historic Places.</lex>
+      <lex comment="good" lid="Id3" lang="it">&quot;87000823&quot; è il numero di riferimento dell'Asilomar Conference Grounds nel National Register of Historic Places e si trova su Asilomar Blvd, Pacific Grove, California.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Asilomar Conference Grounds, Asilomar Blvd., Pacific Grove, California ha un numero di riferimento nel Registro Nazionale dei Luoghi Storici di: 87000823.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'Asilomar Conference Grounds si trova in Asilomar Blvd., Pacific Grove, California e il suo numero di riferimento è 87000823 nel National Register of Historic Places.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">&quot;87000823&quot; è il numero di riferimento dell'Asilomar Conference Grounds nel National Register of Historic Places e si trova su Asilomar Blvd, Pacific Grove, California.</lex>
+    </entry>
+    <entry category="Building" eid="Id20" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</otriple>
+        <otriple>Asilomar_Conference_Grounds | added | &quot;1987-02-27&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asilomar_Conference_Grounds | location | Pacific_Grove,_California</mtriple>
+        <mtriple>Asilomar_Conference_Grounds | addedToTheNationalRegisterOfHistoricPlaces | &quot;1987-02-27&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Asilomar Conference Grounds at Pacific Grove, California was added to the National Register of Historic Places on February the 27nd 1987.</lex>
+      <lex comment="good" lid="Id2" lang="en">Asilomar Conference Grounds are located in Pacific Grove, California and was added to the National Register of Historic Places on February the 27nd 1987.</lex>
+      <lex comment="good" lid="Id3" lang="en">Asilomar Conference Grounds, Pacific Grove, California was added to the National Register of Historic Places on February 27, 1987.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Asilomar Conference Grounds di Pacific Grove, in California, è stato inserito nel Registro nazionale dei luoghi storici il 27 febbraio 1987.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Asilomar Conference Grounds si trova a Pacific Grove, in California, ed è stato inserito nel Registro Nazionale dei Luoghi Storici il 27 febbraio 1987.</lex>
+      <lex comment="good" lid="Id3" lang="it">Asilomar Conference Grounds, Pacific Grove, California, è stato inserito nel Registro nazionale dei luoghi storici il 27 febbraio 1987.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'Asilomar Conference Grounds di Pacific Grove, in California, è stato inserito nel Registro nazionale dei luoghi storici il 27 febbraio 1987.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'Asilomar Conference Grounds si trova a Pacific Grove, in California, ed è stato inserito nel Registro Nazionale dei Luoghi Storici il 27 febbraio 1987.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Asilomar Conference Grounds, Pacific Grove, California, è stato inserito nel Registro nazionale dei luoghi storici il 27 febbraio 1987.</lex>
+    </entry>
+    <entry category="Building" eid="Id21" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | 23rd_Street_(Manhattan)</otriple>
+        <otriple>Asser_Levy_Public_Baths | built | 1904</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asser_Levy_Public_Baths | location | 23rd_Street_(Manhattan)</otriple>
+        <otriple>Asser_Levy_Public_Baths | yearOfConstruction | &quot;1904&quot;^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asser_Levy_Public_Baths | location | 23rd_Street_(Manhattan)</mtriple>
+        <mtriple>Asser_Levy_Public_Baths | yearOfConstruction | 1904</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Asser Levy Public Baths is located on 23rd Street, Manhattan, and was constructed in 1904.</lex>
+      <lex comment="good" lid="Id2" lang="en">Asser Levy Public Baths which was built in 1904 is located at 23rd Street in Manhattan.</lex>
+      <lex comment="good" lid="Id3" lang="en">The Asser Levy Public Baths, constructed in 1904, is located at 23rd Street (Manhattan).</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Asser Levy Public Baths si trova sulla 23rd Street, a Manhattan, ed è stato costruito nel 1904.</lex>
+      <lex comment="good" lid="Id2" lang="it">Gli Asser Levy Public Baths, costruiti nel 1904, si trovano sulla 23a strada a Manhattan.</lex>
+      <lex comment="good" lid="Id3" lang="it">Gli Asser Levy Public Baths, costruiti nel 1904, si trovano sulla 23rd Street (Manhattan).</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'Asser Levy Public Baths si trova sulla 23rd Street, a Manhattan, ed è stato costruito nel 1904.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Gli Asser Levy Public Baths, costruiti nel 1904, si trovano sulla 23a strada a Manhattan.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Gli Asser Levy Public Baths, costruiti nel 1904, si trovano sulla 23rd Street (Manhattan).</lex>
+    </entry>
+    <entry category="Building" eid="Id22" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Gujarat | leaderName | Anandiben_Patel</otriple>
+        <otriple>Amdavad_ni_Gufa | locationTown | Gujarat</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Gujarat | leader | Anandiben_Patel</mtriple>
+        <mtriple>Amdavad_ni_Gufa | location | Gujarat</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Anandiben Patel was the leader of Gujarat where Amdavad ni Gufa is located.</lex>
+      <lex comment="good" lid="Id2" lang="en">Amdavad ni Gufa is located in Gujarat and its leader is Anandiben Patel.</lex>
+      <lex comment="good" lid="Id3" lang="en">Amdavad ni Gufa is in Gujarat and its leader is Anandiben Patel.</lex>
+      <lex comment="good" lid="Id1" lang="it">Anandiben Patel era il leader del Gujarat, dove si trova Amdavad ni Gufa.</lex>
+      <lex comment="good" lid="Id2" lang="it">Amdavad ni Gufa si trova in Gujarat e il suo leader è Anandiben Patel.</lex>
+      <lex comment="good" lid="Id3" lang="it">Amdavad ni Gufa si trova in Gujarat e il suo leader è Anandiben Patel.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Anandiben Patel era il leader del Gujarat, dove si trova Amdavad ni Gufa.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Amdavad ni Gufa si trova in Gujarat e il suo leader è Anandiben Patel.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Amdavad ni Gufa si trova in Gujarat e il suo leader è Anandiben Patel.</lex>
+    </entry>
+  </entries>
+</benchmark>

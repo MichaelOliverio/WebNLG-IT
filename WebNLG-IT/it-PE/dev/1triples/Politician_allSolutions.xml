@@ -1,0 +1,582 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Politician" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_S._Daggett | award | Purple_Heart</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_S._Daggett | award | Purple_Heart</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Aaron S Daggett was awarded the Purple Heart.</lex>
+      <lex comment="good" lid="Id2" lang="en">Aaron S. Daggett was awarded the Purple Heart.</lex>
+      <lex comment="good" lid="Id1" lang="it">Aaron S Daggett è stato insignito del Cuore Viola.</lex>
+      <lex comment="good" lid="Id2" lang="it">Aaron S. Daggett è stato insignito del Cuore Viola.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Aaron S Daggett è stato insignito del Cuore Viola.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Aaron S. Daggett è stato insignito del Cuore Viola.</lex>
+    </entry>
+    <entry category="Politician" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_S._Daggett | battle | Battle_of_Mine_Run</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_S._Daggett | battle | Battle_of_Mine_Run</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Battle of Mine Run was one fought by Aaron S Daggett.</lex>
+      <lex comment="good" lid="Id2" lang="en">Aaron S. Daggett fought in the Battle of Mine Run.</lex>
+      <lex comment="good" lid="Id3" lang="en">The Battle of Mine Run was one of the battles that Aaron S. Daggett fought at.</lex>
+      <lex comment="good" lid="Id1" lang="it">La battaglia di Mine Run fu combattuta da Aaron S Daggett.</lex>
+      <lex comment="good" lid="Id2" lang="it">Aaron S. Daggett combatté nella battaglia di Mine Run.</lex>
+      <lex comment="good" lid="Id3" lang="it">La battaglia di Mine Run fu una delle battaglie in cui combatté Aaron S. Daggett.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La battaglia di Mine Run fu combattuta da Aaron S Daggett.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Aaron S. Daggett combatté nella battaglia di Mine Run.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">La battaglia di Mine Run fu una delle battaglie in cui combatté Aaron S. Daggett.</lex>
+    </entry>
+    <entry category="Politician" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abdul_Rahman_Ya'kub | governor | Tuanku_Bujang_Tuanku_Othman</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abdul_Rahman_Ya'kub | inOfficeWhileVicePresident | Tuanku_Bujang_Tuanku_Othman</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Abdul Rahman Ya'kub was in office while Tuanku Bujang Tuanku Othman was Vice President.</lex>
+      <lex comment="good" lid="Id2" lang="en">Abdul Rahman Ya'kub was in office whilst Tuanku Bujang Tuanku Othman was Vice President.</lex>
+      <lex comment="good" lid="Id1" lang="it">Abdul Rahman Ya'kub era in carica mentre Tuanku Bujang Tuanku Othman era vicepresidente.</lex>
+      <lex comment="good" lid="Id2" lang="it">Abdul Rahman Ya'kub era in carica mentre Tuanku Bujang Tuanku Othman era vicepresidente.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Abdul Rahman Ya'kub era in carica mentre Tuanku Bujang Tuanku Othman era vicepresidente.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Abdul Rahman Ya'kub era in carica mentre Tuanku Bujang Tuanku Othman era vicepresidente.</lex>
+    </entry>
+    <entry category="Politician" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abdul_Taib_Mahmud | almaMater | University_of_Adelaide</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abdul_Taib_Mahmud | almaMater | University_of_Adelaide</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Abdul Taib Mahmud's Alma mater is the University of Adelaide.</lex>
+      <lex comment="good" lid="Id2" lang="en">The University of Adelaide is the alma mater of Abdul Taib Mahmud.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Alma mater di Abdul Taib Mahmud è l'Università di Adelaide.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Università di Adelaide è l'alma mater di Abdul Taib Mahmud.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'Alma mater di Abdul Taib Mahmud è l'Università di Adelaide.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'Università di Adelaide è l'alma mater di Abdul Taib Mahmud.</lex>
+    </entry>
+    <entry category="Politician" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abdul_Taib_Mahmud | region | Kota_Samarahan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abdul_Taib_Mahmud | region | Kota_Samarahan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Abdul Taib Mahmud is from Kota Samarahan.</lex>
+      <lex comment="good" lid="Id2" lang="en">Abdul Taib Mahmud is from the region of Kota Samarahan.</lex>
+      <lex comment="good" lid="Id3" lang="en">Abdul Taib Mahmud lived in the Kota Samarahan region.</lex>
+      <lex comment="good" lid="Id1" lang="it">Abdul Taib Mahmud viene da Kota Samarahan.</lex>
+      <lex comment="good" lid="Id2" lang="it">Abdul Taib Mahmud proviene dalla regione di Kota Samarahan.</lex>
+      <lex comment="good" lid="Id3" lang="it">Abdul Taib Mahmud viveva nella regione di Kota Samarahan.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Abdul Taib Mahmud viene da Kota Samarahan.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Abdul Taib Mahmud proviene dalla regione di Kota Samarahan.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Abdul Taib Mahmud viveva nella regione di Kota Samarahan.</lex>
+    </entry>
+    <entry category="Politician" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abdul_Taib_Mahmud | successor | Adenan_Satem</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abdul_Taib_Mahmud | successor | Adenan_Satem</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Abdul Taib Mahmud successor was Adenan Satem.</lex>
+      <lex comment="good" lid="Id2" lang="en">Adenan Satem succeeded Abdul Taib Mahmud.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il successore di Abdul Taib Mahmud fu Adenan Satem.</lex>
+      <lex comment="good" lid="Id2" lang="it">Adenan Satem è succeduto ad Abdul Taib Mahmud.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il successore di Abdul Taib Mahmud fu Adenan Satem.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Adenan Satem è succeduto ad Abdul Taib Mahmud.</lex>
+    </entry>
+    <entry category="Politician" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abdul_Taib_Mahmud | successor | Sulaiman_Abdul_Rahman_Taib</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abdul_Taib_Mahmud | successor | Sulaiman_Abdul_Rahman_Taib</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Abdul Taib Mahmud's successor was Sulaiman Abdul Rahman Taib.</lex>
+      <lex comment="good" lid="Id2" lang="en">Abdul Taib Mahmud was succeded by Sulaiman Abdul Rahman Taib.</lex>
+      <lex comment="good" lid="Id3" lang="en">The successor to Abdul Taib Mahmud was Sulaiman Abdul Rahman Taib.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il successore di Abdul Taib Mahmud fu Sulaiman Abdul Rahman Taib.</lex>
+      <lex comment="good" lid="Id2" lang="it">Ad Abdul Taib Mahmud successe Sulaiman Abdul Rahman Taib.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il successore di Abdul Taib Mahmud fu Sulaiman Abdul Rahman Taib.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il successore di Abdul Taib Mahmud fu Sulaiman Abdul Rahman Taib.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Ad Abdul Taib Mahmud successe Sulaiman Abdul Rahman Taib.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il successore di Abdul Taib Mahmud fu Sulaiman Abdul Rahman Taib.</lex>
+    </entry>
+    <entry category="Politician" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abdulsalami_Abubakar | militaryBranch | Nigerian_Army</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abdulsalami_Abubakar | militaryBranch | Nigerian_Army</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Abdulsalami Abubakar served in the Nigerian Army.</lex>
+      <lex comment="good" lid="Id1" lang="it">Abdulsalami Abubakar ha prestato servizio nell'esercito nigeriano.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Abdulsalami Abubakar ha prestato servizio nell'esercito nigeriano.</lex>
+    </entry>
+    <entry category="Politician" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abel_Caballero | monarch | Juan_Carlos_I_of_Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abel_Caballero | inOfficeWhileMonarch | Juan_Carlos_I_of_Spain</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Abel Caballero was in office during the reign of Monarch, Juan Carlos I of Spain.</lex>
+      <lex comment="good" lid="Id2" lang="en">Abel Caballero was in office whilst Juan Carlos I of Spain was Monarch.</lex>
+      <lex comment="good" lid="Id1" lang="it">Abel Caballero era in carica durante il regno del monarca Juan Carlos I di Spagna.</lex>
+      <lex comment="good" lid="Id2" lang="it">Abel Caballero era in carica mentre Juan Carlos I di Spagna era monarca.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Abel Caballero era in carica durante il regno del monarca Juan Carlos I di Spagna.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Abel Caballero era in carica mentre Juan Carlos I di Spagna era monarca.</lex>
+    </entry>
+    <entry category="Politician" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | battle | World_War_II</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abner_W._Sibal | battles | World_War_II</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_W._Sibal | battle | World_War_II</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Abner W. Sibal fought in World War II.</lex>
+      <lex comment="good" lid="Id2" lang="en">Abner W. Sibal fought during WWII.</lex>
+      <lex comment="good" lid="Id1" lang="it">Abner W. Sibal ha combattuto nella Seconda Guerra Mondiale.</lex>
+      <lex comment="good" lid="Id2" lang="it">Abner W. Sibal ha combattuto durante la seconda guerra mondiale.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Abner W. Sibal ha combattuto nella Seconda Guerra Mondiale.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Abner W. Sibal ha combattuto durante la seconda guerra mondiale.</lex>
+    </entry>
+    <entry category="Politician" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abraham_A._Ribicoff | successor | Anthony_J._Celebrezze</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abraham_A._Ribicoff | successor | Anthony_J._Celebrezze</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The successor to Abraham A. Ribicoff is Anthony J. Celebrezze.</lex>
+      <lex comment="good" lid="Id2" lang="en">Anthony J. Celebrezze succeeded Abraham A. Ribicoff.</lex>
+      <lex comment="good" lid="Id3" lang="en">Abraham A. Ribicoff's successor was Anthony J. Celebrezze.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il successore di Abraham A. Ribicoff è Anthony J. Celebrezze.</lex>
+      <lex comment="good" lid="Id2" lang="it">Anthony J. Celebrezze è succeduto ad Abraham A. Ribicoff.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il successore di Abraham A. Ribicoff fu Anthony J. Celebrezze.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il successore di Abraham A. Ribicoff è Anthony J. Celebrezze.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Anthony J. Celebrezze è succeduto ad Abraham A. Ribicoff.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il successore di Abraham A. Ribicoff fu Anthony J. Celebrezze.</lex>
+    </entry>
+    <entry category="Politician" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adam_Koc | awards | Cross_of_Valour_(Poland)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adam_Koc | award | Cross_of_Valour_(Poland)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Koc | award | Cross_of_Valour_(Poland)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Adam Koc was awarded the Cross of Valour (Poland).</lex>
+      <lex comment="good" lid="Id2" lang="en">Adam Koc has been awarded the Cross of Valour for Poland.</lex>
+      <lex comment="good" lid="Id1" lang="it">Adam Koc è stato insignito della Croce al Valore (Polonia).</lex>
+      <lex comment="good" lid="Id2" lang="it">Adam Koc è stato insignito della Croce al Valore per la Polonia.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Adam Koc è stato insignito della Croce al Valore (Polonia).</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Adam Koc è stato insignito della Croce al Valore per la Polonia.</lex>
+    </entry>
+    <entry category="Politician" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adam_Koc | deathPlace | New_York_City</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Koc | deathPlace | New_York_City</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Adam Koc died in New York City.</lex>
+      <lex comment="good" lid="Id1" lang="it">Adam Koc è morto a New York.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Adam Koc è morto a New York.</lex>
+    </entry>
+    <entry category="Politician" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adenan_Satem | almaMater | University_of_Adelaide</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adenan_Satem | almaMater | University_of_Adelaide</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The alma mater of Adenan Satem is the University of Adelaide.</lex>
+      <lex comment="good" lid="Id2" lang="en">Adenan Satem's alma mater is the University of Adelaide.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'alma mater di Adenan Satem è l'Università di Adelaide.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'alma mater di Adenan Satem è l'Università di Adelaide.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'alma mater di Adenan Satem è l'Università di Adelaide.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'alma mater di Adenan Satem è l'Università di Adelaide.</lex>
+    </entry>
+    <entry category="Politician" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adonis_Georgiadis | office | &quot;Deputy Minister for Development, Competitiveness and Shipping&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adonis_Georgiadis | office | &quot;Deputy Minister for Development, Competitiveness and Shipping&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Adonis Georgiadis worked as Deputy Minister for Development, Competitiveness and Shipping.</lex>
+      <lex comment="good" lid="Id2" lang="en">Adonis Georgiadis was the Deputy Minister for Development, Competitiveness and Shipping.</lex>
+      <lex comment="good" lid="Id3" lang="en">Adonis Georgiadis worked as the Deputy Minister for Development, Competitiveness and Shipping.</lex>
+      <lex comment="good" lid="Id1" lang="it">Adonis Georgiadis ha lavorato come vice ministro dello Sviluppo, della Competitività e della Navigazione.</lex>
+      <lex comment="good" lid="Id2" lang="it">Adonis Georgiadis è stato vice ministro dello Sviluppo, della Competitività e della Navigazione.</lex>
+      <lex comment="good" lid="Id3" lang="it">Adonis Georgiadis ha lavorato come vice ministro dello Sviluppo, della Competitività e della Navigazione.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Adonis Georgiadis ha lavorato come vice ministro dello Sviluppo, della Competitività e della Navigazione.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Adonis Georgiadis è stato vice ministro dello Sviluppo, della Competitività e della Navigazione.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Adonis Georgiadis ha lavorato come vice ministro dello Sviluppo, della Competitività e della Navigazione.</lex>
+    </entry>
+    <entry category="Politician" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Agnes_Kant | office | House_of_Representatives_(Netherlands)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agnes_Kant | office | House_of_Representatives_(Netherlands)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Agnes Kant worked at the House of Representatives in Netherlands.</lex>
+      <lex comment="good" lid="Id2" lang="en">Agnes Kant worked at the House of Representatives in the Netherlands.</lex>
+      <lex comment="good" lid="Id1" lang="it">Agnes Kant ha lavorato presso la Camera dei Rappresentanti dei Paesi Bassi.</lex>
+      <lex comment="good" lid="Id2" lang="it">Agnes Kant ha lavorato presso la Camera dei Rappresentanti dei Paesi Bassi.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Agnes Kant ha lavorato presso la Camera dei Rappresentanti dei Paesi Bassi.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Agnes Kant ha lavorato presso la Camera dei Rappresentanti dei Paesi Bassi.</lex>
+    </entry>
+    <entry category="Politician" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Agnes_Kant | residence | Netherlands</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agnes_Kant | residence | Netherlands</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Agnes Kant lives in the Netherlands.</lex>
+      <lex comment="good" lid="Id2" lang="en">Agnes Kant resides in the Netherlands.</lex>
+      <lex comment="good" lid="Id1" lang="it">Agnes Kant vive nei Paesi Bassi.</lex>
+      <lex comment="good" lid="Id2" lang="it">Agnes Kant risiede nei Paesi Bassi.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Agnes Kant vive nei Paesi Bassi.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Agnes Kant risiede nei Paesi Bassi.</lex>
+    </entry>
+    <entry category="Politician" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Airey_Neave | award | Territorial_Decoration</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Airey_Neave | award | Territorial_Decoration</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Airey Neave was awarded the Territorial Decoration.</lex>
+      <lex comment="good" lid="Id2" lang="en">Airey Neave won the Territorial Decoration award.</lex>
+      <lex comment="good" lid="Id1" lang="it">Airey Neave ha ricevuto la Decorazione Territoriale.</lex>
+      <lex comment="good" lid="Id2" lang="it">Airey Neave ha vinto il premio della Decorazione Territoriale.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Airey Neave ha ricevuto la Decorazione Territoriale.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Airey Neave ha vinto il premio della Decorazione Territoriale.</lex>
+    </entry>
+    <entry category="Politician" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Airey_Neave | birthPlace | &quot;Knightsbridge, London&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Airey_Neave | birthPlace | &quot;Knightsbridge, London&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Knightsbridge, London is the birthplace of Airey Neave.</lex>
+      <lex comment="good" lid="Id2" lang="en">Airey Neave was born in Knightsbridge, London.</lex>
+      <lex comment="good" lid="Id1" lang="it">Knightsbridge, Londra, è il luogo di nascita di Airey Neave.</lex>
+      <lex comment="good" lid="Id2" lang="it">Airey Neave è nato a Knightsbridge, Londra.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Knightsbridge, Londra, è il luogo di nascita di Airey Neave.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Airey Neave è nato a Knightsbridge, Londra.</lex>
+    </entry>
+    <entry category="Politician" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Airey_Neave | serviceStartYear | &quot;1935&quot;^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Airey_Neave | serviceStartYear | 1935</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Airey Neave began his military career in 1935.</lex>
+      <lex comment="good" lid="Id2" lang="en">Airey Neave started serving in military in 1935.</lex>
+      <lex comment="good" lid="Id3" lang="en">Airey Neave began his service in 1935.</lex>
+      <lex comment="good" lid="Id1" lang="it">Airey Neave iniziò la sua carriera militare nel 1935.</lex>
+      <lex comment="good" lid="Id2" lang="it">Airey Neave ha iniziato a prestare servizio militare nel 1935.</lex>
+      <lex comment="good" lid="Id3" lang="it">Airey Neave ha iniziato il suo servizio nel 1935.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Airey Neave iniziò la sua carriera militare nel 1935.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Airey Neave ha iniziato a prestare servizio militare nel 1935.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Airey Neave ha iniziato il suo servizio nel 1935.</lex>
+    </entry>
+    <entry category="Politician" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alberto_Teisaire | nationality | Argentina</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alberto_Teisaire | nationality | Argentina</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Alberto Teisaire's nationality is Argentinian.</lex>
+      <lex comment="good" lid="Id2" lang="en">Alberto Teisaire is Argentinian.</lex>
+      <lex comment="good" lid="Id3" lang="en">Alberto Teisaire was Argentinian.</lex>
+      <lex comment="good" lid="Id1" lang="it">La nazionalità di Alberto Teisaire è argentina.</lex>
+      <lex comment="good" lid="Id2" lang="it">Alberto Teisaire è argentino.</lex>
+      <lex comment="good" lid="Id3" lang="it">Alberto Teisaire era argentino.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La nazionalità di Alberto Teisaire è argentina.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Alberto Teisaire è argentino.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Alberto Teisaire era argentino.</lex>
+    </entry>
+    <entry category="Politician" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | battles | Battle_of_Chancellorsville</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | battle | Battle_of_Chancellorsville</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | battle | Battle_of_Chancellorsville</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Alfred Moore Scales took part in the Battle of Chancellorsville.</lex>
+      <lex comment="good" lid="Id2" lang="en">Alfred Moore Scales fought in the Battle of Chancellorsville.</lex>
+      <lex comment="good" lid="Id3" lang="en">Alfred Moore Scales was involved in the Battle of Chancellorsville.</lex>
+      <lex comment="good" lid="Id1" lang="it">Alfred Moore Scales partecipò alla battaglia di Chancellorsville.</lex>
+      <lex comment="good" lid="Id2" lang="it">Alfred Moore Scales combatté nella battaglia di Chancellorsville.</lex>
+      <lex comment="good" lid="Id3" lang="it">Alfred Moore Scales partecipò alla battaglia di Chancellorsville.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Alfred Moore Scales partecipò alla battaglia di Chancellorsville.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Alfred Moore Scales combatté nella battaglia di Chancellorsville.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Alfred Moore Scales partecipò alla battaglia di Chancellorsville.</lex>
+    </entry>
+    <entry category="Politician" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | battle | Overland_Campaign</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alfred_Moore_Scales | battles | Overland_Campaign</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfred_Moore_Scales | battle | Overland_Campaign</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Alfred Moore Scales fought in the Overland Campaign.</lex>
+      <lex comment="good" lid="Id1" lang="it">Alfred Moore Scales combatté nella Campagna d'Oltremare.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Alfred Moore Scales combatté nella Campagna d'Oltremare.</lex>
+    </entry>
+    <entry category="Politician" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Allan_Shivers | battle | World_War_II</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Allan_Shivers | battles | World_War_II</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allan_Shivers | battle | World_War_II</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Allan Shivers fought battles in World War II.</lex>
+      <lex comment="good" lid="Id2" lang="en">Allan Shivers fought in World War II.</lex>
+      <lex comment="good" lid="Id1" lang="it">Allan Shivers ha combattuto nella Seconda guerra mondiale.</lex>
+      <lex comment="good" lid="Id2" lang="it">Allan Shivers ha combattuto nella Seconda guerra mondiale.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Allan Shivers ha combattuto nella Seconda guerra mondiale.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Allan Shivers ha combattuto nella Seconda guerra mondiale.</lex>
+    </entry>
+    <entry category="Politician" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Allan_Shivers | militaryBranch | United_States_Army</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Allan_Shivers | branch | United_States_Army</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allan_Shivers | militaryBranch | United_States_Army</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Allan Shivers served in the United States Army.</lex>
+      <lex comment="good" lid="Id1" lang="it">Allan Shivers ha prestato servizio nell'esercito degli Stati Uniti.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Allan Shivers ha prestato servizio nell'esercito degli Stati Uniti.</lex>
+    </entry>
+    <entry category="Politician" eid="Id26" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alvah_Sabin | activeYearsEndDate | &quot;1857-03-03&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alvah_Sabin | activeYearsEndDate | 1857-03-03</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Alvah Sabin ended their career on 1857-03-03.</lex>
+      <lex comment="good" lid="Id1" lang="it">Alvah Sabin terminò la sua carriera il 1857-03-03.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Alvah Sabin terminò la sua carriera il 1857-03-03.</lex>
+    </entry>
+    <entry category="Politician" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alvah_Sabin | party | Whig_Party_(United_States)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alvah_Sabin | party | Whig_Party_(United_States)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Alvah Sabin was a member of the United States Whig Party.</lex>
+      <lex comment="good" lid="Id2" lang="en">Alvah Sabin belongs to the Whig Party (United States).</lex>
+      <lex comment="good" lid="Id3" lang="en">Alvah Sabin was a member of the Whig Party of the United States.</lex>
+      <lex comment="good" lid="Id1" lang="it">Alvah Sabin era un membro del Partito Whig degli Stati Uniti.</lex>
+      <lex comment="good" lid="Id2" lang="it">Alvah Sabin appartiene al Partito Whig (Stati Uniti).</lex>
+      <lex comment="good" lid="Id3" lang="it">Alvah Sabin era un membro del Partito Whig degli Stati Uniti.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Alvah Sabin era un membro del Partito Whig degli Stati Uniti.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Alvah Sabin appartiene al Partito Whig (Stati Uniti).</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Alvah Sabin era un membro del Partito Whig degli Stati Uniti.</lex>
+    </entry>
+    <entry category="Politician" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Antonis_Samaras | successor | Konstantinos_Mitsotakis</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Antonis_Samaras | successor | Konstantinos_Mitsotakis</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Konstantinos Mitsotakis was the successor to Antonis Samaras.</lex>
+      <lex comment="good" lid="Id2" lang="en">The successor to Antonis Samaras was Konstantinos Mitsotakis.</lex>
+      <lex comment="good" lid="Id1" lang="it">Konstantinos Mitsotakis è stato il successore di Antonis Samaras.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il successore di Antonis Samaras è stato Konstantinos Mitsotakis.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Konstantinos Mitsotakis è stato il successore di Antonis Samaras.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il successore di Antonis Samaras è stato Konstantinos Mitsotakis.</lex>
+    </entry>
+    <entry category="Politician" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Argentina | leaderName | Gabriela_Michetti</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Argentina | leader | Gabriela_Michetti</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The leader of Argentina is Gabriela Michetti.</lex>
+      <lex comment="good" lid="Id2" lang="en">Gabriela Michetti is a leader in Argentina.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il leader dell'Argentina è Gabriela Michetti.</lex>
+      <lex comment="good" lid="Id2" lang="it">Gabriela Michetti è una leader in Argentina.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il leader dell'Argentina è Gabriela Michetti.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Gabriela Michetti è una leader in Argentina.</lex>
+    </entry>
+    <entry category="Politician" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Austria | language | Austrian_German</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Austria | language | Austrian_German</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">In Austria, the language is Austrian German.</lex>
+      <lex comment="good" lid="Id2" lang="en">The language in Austria is Austrian German.</lex>
+      <lex comment="good" lid="Id3" lang="en">The spoken language of Austria is Austrian German.</lex>
+      <lex comment="good" lid="Id1" lang="it">In Austria, la lingua è il tedesco austriaco.</lex>
+      <lex comment="good" lid="Id2" lang="it">La lingua dell'Austria è il tedesco austriaco.</lex>
+      <lex comment="good" lid="Id3" lang="it">La lingua parlata in Austria è il tedesco austriaco.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">In Austria, la lingua è il tedesco austriaco.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">La lingua dell'Austria è il tedesco austriaco.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">La lingua parlata in Austria è il tedesco austriaco.</lex>
+    </entry>
+    <entry category="Politician" eid="Id31" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Battle_of_Fredericksburg | isPartOfMilitaryConflict | American_Civil_War</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Battle_of_Fredericksburg | isPartOfMilitaryConflict | American_Civil_War</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Battle of Fredericksburg was fought during the American Civil War.</lex>
+      <lex comment="good" lid="Id2" lang="en">The battle of Fredericksburg was part of the American Civil War military conflict.</lex>
+      <lex comment="good" lid="Id1" lang="it">La battaglia di Fredericksburg fu combattuta durante la guerra civile americana.</lex>
+      <lex comment="good" lid="Id2" lang="it">La battaglia di Fredericksburg fa parte del conflitto militare della Guerra Civile americana.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La battaglia di Fredericksburg fu combattuta durante la guerra civile americana.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">La battaglia di Fredericksburg fa parte del conflitto militare della Guerra Civile americana.</lex>
+    </entry>
+    <entry category="Politician" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Edmund_J._Davis | deathPlace | Austin,_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Edmund_J._Davis | deathPlace | Austin,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The death place of Edmund J. Davis is Austin Texas.</lex>
+      <lex comment="good" lid="Id2" lang="en">Edmund J. Davis died in Austin, Texas.</lex>
+      <lex comment="good" lid="Id3" lang="en">Edmund J. Davis died in Austin Texas.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il luogo di morte di Edmund J. Davis è Austin, Texas.</lex>
+      <lex comment="good" lid="Id2" lang="it">Edmund J. Davis è morto ad Austin, in Texas.</lex>
+      <lex comment="good" lid="Id3" lang="it">Edmund J. Davis è morto a Austin, in Texas.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il luogo di morte di Edmund J. Davis è Austin, Texas.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Edmund J. Davis è morto ad Austin, in Texas.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Edmund J. Davis è morto ad Austin, in Texas.</lex>
+    </entry>
+    <entry category="Politician" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Josef_Klaus | almaMater | University_of_Vienna</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Josef_Klaus | almaMater | University_of_Vienna</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The University of Vienna is the Alma mater of Josef Klaus.</lex>
+      <lex comment="good" lid="Id2" lang="en">Josef Klaus alma mater is the University of Vienna.</lex>
+      <lex comment="good" lid="Id3" lang="en">The alma mater of Josef Klaus is the University of Vienna.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Università di Vienna è l'Alma mater di Josef Klaus.</lex>
+      <lex comment="good" lid="Id2" lang="it">Josef Klaus ha come alma mater l'Università di Vienna.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'alma mater di Josef Klaus è l'Università di Vienna.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'Università di Vienna è l'Alma mater di Josef Klaus.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Josef Klaus ha come alma mater l'Università di Vienna.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">L'alma mater di Josef Klaus è l'Università di Vienna.</lex>
+    </entry>
+    <entry category="Politician" eid="Id34" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Juan_Perón | party | Labour_Party_(Argentina)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Juan_Perón | party | Labour_Party_(Argentina)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Juan Perón was a member of the Labour Party in Argentina.</lex>
+      <lex comment="good" lid="Id2" lang="en">Juan Peron belongs to the Labour Party in Argentina.</lex>
+      <lex comment="good" lid="Id1" lang="it">Juan Perón era un membro del Partito del Lavoro in Argentina.</lex>
+      <lex comment="good" lid="Id2" lang="it">Juan Peron appartiene al Partito del Lavoro in Argentina.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Juan Perón era un membro del Partito del Lavoro in Argentina.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Juan Peron appartiene al Partito del Lavoro in Argentina.</lex>
+    </entry>
+    <entry category="Politician" eid="Id35" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Mike_Akhigbe | predecessor | Oladipo_Diya</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Mike_Akhigbe | predecessor | Oladipo_Diya</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Oladipo Diya was Mike Akhigbe's predecessor.</lex>
+      <lex comment="good" lid="Id2" lang="en">Oladipo Diya was the predecessor of Mike Akhigbe.</lex>
+      <lex comment="good" lid="Id1" lang="it">Oladipo Diya è stato il predecessore di Mike Akhigbe.</lex>
+      <lex comment="good" lid="Id2" lang="it">Oladipo Diya è stato il predecessore di Mike Akhigbe.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Oladipo Diya è stato il predecessore di Mike Akhigbe.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Oladipo Diya è stato il predecessore di Mike Akhigbe.</lex>
+    </entry>
+    <entry category="Politician" eid="Id36" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Nigerian_Air_Force | commander | Sadique_Abubakar</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Nigerian_Air_Force | commander | Sadique_Abubakar</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Sadique Abubakar is a commander in the Nigerian Air Force.</lex>
+      <lex comment="good" lid="Id2" lang="en">The commander of the Nigerian Air Force is Sadique Abubakar.</lex>
+      <lex comment="good" lid="Id3" lang="en">Sadique Abubakar was commander of the Nigerian Air Force.</lex>
+      <lex comment="good" lid="Id1" lang="it">Sadique Abubakar è un comandante dell'aeronautica nigeriana.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il comandante dell'aeronautica nigeriana è Sadique Abubakar.</lex>
+      <lex comment="good" lid="Id3" lang="it">Sadique Abubakar era il comandante dell'aeronautica nigeriana.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Sadique Abubakar è un comandante dell'aeronautica nigeriana.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il comandante dell'aeronautica nigeriana è Sadique Abubakar.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Sadique Abubakar era il comandante dell'aeronautica nigeriana.</lex>
+    </entry>
+    <entry category="Politician" eid="Id37" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Poland | ethnicGroup | Romani_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Poland | ethnicGroup | Romani_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Romani are an ethnic group in Poland.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Romani people are an ethnic group in Poland.</lex>
+      <lex comment="good" lid="Id3" lang="en">An ethnic group in Poland is the Romani people.</lex>
+      <lex comment="good" lid="Id1" lang="it">I rom sono un gruppo etnico della Polonia.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il popolo romaní è un gruppo etnico della Polonia.</lex>
+      <lex comment="good" lid="Id3" lang="it">Un gruppo etnico in Polonia è il popolo romaní.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">I rom sono un gruppo etnico della Polonia.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il popolo romaní è un gruppo etnico della Polonia.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Un gruppo etnico in Polonia è il popolo romaní.</lex>
+    </entry>
+    <entry category="Politician" eid="Id38" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Poland | language | Kashubian_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Poland | language | Kashubian_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Kashubian language is spoken in Poland.</lex>
+      <lex comment="good" lid="Id2" lang="en">The language spoken in Poland is the Kashubian language.</lex>
+      <lex comment="good" lid="Id1" lang="it">La lingua casciuba è parlata in Polonia.</lex>
+      <lex comment="good" lid="Id2" lang="it">La lingua parlata in Polonia è il casciubo.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La lingua casciuba è parlata in Polonia.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">La lingua parlata in Polonia è il casciubo.</lex>
+    </entry>
+  </entries>
+</benchmark>

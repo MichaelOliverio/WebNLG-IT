@@ -1,0 +1,518 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="WrittenWork" eid="Id1" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>1634:_The_Bavarian_Crisis | previousWork | 1634:_The_Baltic_War</otriple>
+        <otriple>1634:_The_Baltic_War | author | David_Weber</otriple>
+        <otriple>1634:_The_Bavarian_Crisis | followedBy | Ring_of_Fire_II</otriple>
+        <otriple>Ring_of_Fire_II | language | English_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Bavarian_Crisis | precededBy | 1634:_The_Baltic_War</mtriple>
+        <mtriple>1634:_The_Baltic_War | author | David_Weber</mtriple>
+        <mtriple>1634:_The_Bavarian_Crisis | followedBy | Ring_of_Fire_II</mtriple>
+        <mtriple>Ring_of_Fire_II | language | English_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">1634: The Bavarian Crisis was preceded by 1634: The Baltic War (author: David Weber) and followed by Ring of Fire II which is written in English.</lex>
+      <lex comment="good" lid="Id2" lang="en">1634: The Baltic War, written by David Weber, has two sequels, 1634: The Bavarian Crisis and Ring of Fire II (written in English).</lex>
+      <lex comment="good" lid="Id1" lang="it">1634: The Bavarian Crisis è stato preceduto da 1634: The Baltic War (autore: David Weber) e seguito da Ring of Fire II, scritto in inglese.</lex>
+      <lex comment="good" lid="Id2" lang="it">1634: The Baltic War, scritto da David Weber, ha due sequel, 1634: The Bavarian Crisis e Ring of Fire II (scritto in inglese).</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">1634: The Bavarian Crisis è stato preceduto da 1634: The Baltic War (autore: David Weber) e seguito da Ring of Fire II, scritto in inglese.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">1634: The Baltic War, scritto da David Weber, ha due sequel, 1634: The Bavarian Crisis e Ring of Fire II (scritto in inglese).</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id2" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>1634:_The_Ram_Rebellion | mediaType | E-book</otriple>
+        <otriple>1634:_The_Ram_Rebellion | numberOfPages | &quot;512&quot;^^xsd:positiveInteger</otriple>
+        <otriple>1634:_The_Ram_Rebellion | author | Virginia_DeMarce</otriple>
+        <otriple>1634:_The_Ram_Rebellion | isbn | &quot;1-4165-2060-0&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1634:_The_Ram_Rebellion | mediaType | E-book</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | numberOfPages | &quot;512&quot;</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | author | Virginia_DeMarce</mtriple>
+        <mtriple>1634:_The_Ram_Rebellion | isbnNumber | &quot;1-4165-2060-0&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">1634: The Ram Rebellion was written by Virginia DeMarce and has 512 pages. It can be found as an ebook and has the ISBN number of 1-4165-2060-0.</lex>
+      <lex comment="good" lid="Id2" lang="en">The author of the novel 1634 The Ram Rebellions author is Virginia DeMarce, it is 512 pages long (also can be found as an e-book) and has an ISBN number 1-4165-2060-0.</lex>
+      <lex comment="good" lid="Id3" lang="en">Virginia DeMarce is the author of 1634: The Ram Rebellion, which has 512 pages, the ISBN number 1-4165-2060-0 and is available as an e book.</lex>
+      <lex comment="good" lid="Id1" lang="it">1634: The Ram Rebellion è stato scritto da Virginia DeMarce e ha 512 pagine. È disponibile come ebook e ha il numero ISBN 1-4165-2060-0.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'autore del romanzo 1634 The Ram Rebellions è Virginia DeMarce, ha una lunghezza di 512 pagine (si può trovare anche come e-book) e un numero ISBN 1-4165-2060-0.</lex>
+      <lex comment="good" lid="Id3" lang="it">Virginia DeMarce è l'autrice di 1634: The Ram Rebellion, che ha 512 pagine, il numero ISBN 1-4165-2060-0 ed è disponibile come libro elettronico.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">1634: The Ram Rebellion è stato scritto da Virginia DeMarce e ha 512 pagine. È disponibile come ebook e ha il numero ISBN 1-4165-2060-0.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'autore del romanzo 1634 The Ram Rebellions è Virginia DeMarce, ha una lunghezza di 512 pagine (si può trovare anche come e-book) e un numero ISBN 1-4165-2060-0.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Virginia DeMarce è l'autrice di 1634: The Ram Rebellion, che ha 512 pagine, il numero ISBN 1-4165-2060-0 ed è disponibile come libro elettronico.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id3" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>AIDS_(journal) | country | United_Kingdom</otriple>
+        <otriple>United_Kingdom | capital | London</otriple>
+        <otriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</otriple>
+        <otriple>United_Kingdom | leader | Elizabeth_II</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDS_(journal) | country | United_Kingdom</mtriple>
+        <mtriple>United_Kingdom | capital | London</mtriple>
+        <mtriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</mtriple>
+        <mtriple>United_Kingdom | leader | Elizabeth_II</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The AIDS journal is published by Lippincott, Williams &amp; Wilkins in the United Kingdom. The capital of the country is London and its leader is Elizabeth II.</lex>
+      <lex comment="good" lid="Id2" lang="en">The AIDS journal was published in the United Kingdom by Lippincott, Williams &amp; Wilkins. The UK is governed by Elizabeth II and its capital is London.</lex>
+      <lex comment="good" lid="Id3" lang="en">Published by Lippincott Williams &amp; Wilkins, the AIDS journal was published in the United Kingdom, the capital of the UK is London and the head of state is Elizabeth II.</lex>
+      <lex comment="good" lid="Id1" lang="it">La rivista AIDS è pubblicata da Lippincott, Williams &amp; Wilkins nel Regno Unito. La capitale del Paese è Londra e il suo leader è Elisabetta II.</lex>
+      <lex comment="good" lid="Id2" lang="it">La rivista AIDS è stata pubblicata nel Regno Unito da Lippincott, Williams &amp; Wilkins. Il Regno Unito è governato da Elisabetta II e la sua capitale è Londra.</lex>
+      <lex comment="good" lid="Id3" lang="it">Pubblicata da Lippincott Williams &amp; Wilkins, la rivista sull'AIDS è stata pubblicata nel Regno Unito, la cui capitale è Londra e il capo di Stato è Elisabetta II.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'AIDS Journal è pubblicata da Lippincott, Williams &amp; Wilkins nel Regno Unito. La capitale del Paese è Londra e il suo leader è Elisabetta II.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">L'AIDS Journal è stata pubblicata nel Regno Unito da Lippincott, Williams &amp; Wilkins. Il Regno Unito è governato da Elisabetta II e la sua capitale è Londra.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Pubblicata da Lippincott Williams &amp; Wilkins, la rivista sull'AIDS è stata pubblicata nel Regno Unito, la cui capitale è Londra e il capo di Stato è Elisabetta II.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id4" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>A_Fortress_of_Grey_Ice | author | J._V._Jones</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | mediaType | &quot;Print&quot;@en</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | oclc | 51969173</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | isbn | &quot;0-7653-0633-6&quot;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A_Fortress_of_Grey_Ice | oclc | &quot;51969173&quot;</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | author | J._V._Jones</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | mediaType | &quot;Print&quot;@en</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | isbn | &quot;0-7653-0633-6&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Fortress_of_Grey_Ice | author | J._V._Jones</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | mediaType | &quot;Print&quot;</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | oclcNumber | 51969173</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | isbnNumber | &quot;0-7653-0633-6&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">A Fortress of Grey Ice was written by J. V. Jones and is available in print. The book has the ISBN number 0-7653-0633-6. It also has the OCLC number 51969173.</lex>
+      <lex comment="good" lid="Id2" lang="en">The author of A Fortress of Grey Ice, available in print, is J.V. Jones and has an OCLC number of 51969173 and the ISBN number is 0-7653-0633-6.</lex>
+      <lex comment="good" lid="Id3" lang="en">J.V. Jones authored A Fortress of Grey Ice, made available in print. Its OCLC and ISBN numbers are 51969173 and 0-7653-0633-6 respectively.</lex>
+      <lex comment="good" lid="Id1" lang="it">A Fortress of Grey Ice è stato scritto da J. V. Jones ed è disponibile in versione cartacea. Il libro ha il numero ISBN 0-7653-0633-6. Ha anche il numero OCLC 51969173.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'autore di Una fortezza di ghiaccio grigio, disponibile in versione cartacea, è J.V. Jones e ha un numero OCLC di 51969173 e il numero ISBN è 0-7653-0633-6.</lex>
+      <lex comment="good" lid="Id3" lang="it">J.V. Jones è l'autore di Una fortezza di ghiaccio grigio, disponibile a stampa. I suoi numeri OCLC e ISBN sono rispettivamente 51969173 e 0-7653-0633-6.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">A Fortress of Grey Ice è stato scritto da J. V. Jones ed è disponibile in versione cartacea. Il libro ha il numero ISBN 0-7653-0633-6. Ha anche il numero OCLC 51969173.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'autore di Una fortezza di ghiaccio grigio, disponibile in versione cartacea, è J.V. Jones e ha un numero OCLC di 51969173 e il numero ISBN è 0-7653-0633-6.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">J.V. Jones è l'autore di Una fortezza di ghiaccio grigio, disponibile a stampa. I suoi numeri OCLC e ISBN sono rispettivamente 51969173 e 0-7653-0633-6.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id5" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>A_Long_Long_Way | previousWork | Annie_Dunne</otriple>
+        <otriple>A_Long_Long_Way | country | Ireland</otriple>
+        <otriple>A_Long_Long_Way | publisher | Viking_Press</otriple>
+        <otriple>A_Long_Long_Way | subsequentWork | The_Secret_Scripture</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Long_Long_Way | precededBy | Annie_Dunne</mtriple>
+        <mtriple>A_Long_Long_Way | country | Ireland</mtriple>
+        <mtriple>A_Long_Long_Way | publisher | Viking_Press</mtriple>
+        <mtriple>A_Long_Long_Way | followedBy | The_Secret_Scripture</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Published by Viking Press, the Irish novel A Long Long Way was preceded by Annie Dunne and followed by The Secret Scripture.</lex>
+      <lex comment="good" lid="Id2" lang="en">A Long Long Way, written in Ireland and published by Viking Press, was preceded by Annie Dunne, and followed by The Secret Scripture.</lex>
+      <lex comment="good" lid="Id3" lang="en">A Long Long Way was written in Ireland and published by Viking Press. It was preceded by Annie Dunne and followed by The Secret Scripture.</lex>
+      <lex comment="good" lid="Id1" lang="it">Pubblicato da Viking Press, il romanzo irlandese A Long Long Way è stato preceduto da Annie Dunne e seguito da The Secret Scripture.</lex>
+      <lex comment="good" lid="Id2" lang="it">A Long Long Way, scritto in Irlanda e pubblicato da Viking Press, è stato preceduto da Annie Dunne e seguito da The Secret Scripture.</lex>
+      <lex comment="good" lid="Id3" lang="it">A Long Long Way è stato scritto in Irlanda e pubblicato da Viking Press. È stato preceduto da Annie Dunne e seguito da The Secret Scripture.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Pubblicato da Viking Press, il romanzo irlandese A Long Long Way è stato preceduto da Annie Dunne e seguito da The Secret Scripture.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">A Long Long Way, scritto in Irlanda e pubblicato da Viking Press, è stato preceduto da Annie Dunne e seguito da The Secret Scripture.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">A Long Long Way è stato scritto in Irlanda e pubblicato da Viking Press. È stato preceduto da Annie Dunne e seguito da The Secret Scripture.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id6" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | oclc | &quot;8805735&quot;</otriple>
+        <otriple>A_Severed_Wasp | congress | &quot;PS3523.E55 S4 1982&quot;@en</otriple>
+        <otriple>A_Severed_Wasp | mediaType | &quot;Print&quot;@en</otriple>
+        <otriple>A_Severed_Wasp | isbn | &quot;0-374-26131-8&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Severed_Wasp | oclcNumber | 8805735</mtriple>
+        <mtriple>A_Severed_Wasp | libraryofCongressClassification | &quot;PS3523.E55 S4 1982&quot;</mtriple>
+        <mtriple>A_Severed_Wasp | mediaType | &quot;Print&quot;</mtriple>
+        <mtriple>A_Severed_Wasp | isbnNumber | &quot;0-374-26131-8&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">A Severed Wasp is available in print, with The Library of Congress Classification PS3523.E55 S4 1982. Its ISBN number is 0-374-26131-8, and its OCLC number is 8805735.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Book A Severed Wasp (ISBN number 0-374-26131-8) is available in print and has the OCLC number 8805735. It has the Library of Congress Classification PS3523.E55 S4 1982.</lex>
+      <lex comment="good" lid="Id3" lang="en">A Severed Wasp is in print and has the OCLC number of 8805735 and the ISBN number 0-374-26131-8. The Library of Congress Classification is PS3523.E55 S4 1982.</lex>
+      <lex comment="good" lid="Id1" lang="it">A Severed Wasp è disponibile in versione cartacea, con la classificazione della Library of Congress PS3523.E55 S4 1982. Il suo numero ISBN è 0-374-26131-8 e il suo numero OCLC è 8805735.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il libro Una vespa mozzata (ISBN 0-374-26131-8) è disponibile in stampa e ha il numero OCLC 8805735. Ha la classificazione della Biblioteca del Congresso PS3523.E55 S4 1982.</lex>
+      <lex comment="good" lid="Id3" lang="it">A Severed Wasp è in stampa e ha il numero OCLC di 8805735 e il numero ISBN di 0-374-26131-8. La classificazione della Biblioteca del Congresso è PS3523.E55 S4 1982.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">A Severed Wasp è disponibile in versione cartacea, con la classificazione della Library of Congress PS3523.E55 S4 1982. Il suo numero ISBN è 0-374-26131-8 e il suo numero OCLC è 8805735.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il libro Una vespa mozzata (ISBN 0-374-26131-8) è disponibile in stampa e ha il numero OCLC 8805735. Ha la classificazione della Biblioteca del Congresso PS3523.E55 S4 1982.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">A Severed Wasp è in stampa e ha il numero OCLC di 8805735 e il numero ISBN di 0-374-26131-8. La classificazione della Biblioteca del Congresso è PS3523.E55 S4 1982.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id7" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | language | English_language</otriple>
+        <otriple>English_language | spokenIn | Great_Britain</otriple>
+        <otriple>A_Severed_Wasp | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Severed_Wasp | language | English_language</mtriple>
+        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
+        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">English is spoken in Great Britain and is the language used in A Severed Wasp. The book originates from the United States where the African Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id2" lang="en">A Severed Wasp was written in English (the language originated in Great Britain) in the United States. The US has many ethnic groups, including African American.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'inglese è parlato in Gran Bretagna ed è la lingua utilizzata in A Severed Wasp. Il libro proviene dagli Stati Uniti, dove gli afroamericani sono un gruppo etnico.</lex>
+      <lex comment="good" lid="Id2" lang="it">A Severed Wasp è stato scritto in inglese (lingua originaria della Gran Bretagna) negli Stati Uniti. Negli Stati Uniti sono presenti molti gruppi etnici, tra cui gli afroamericani.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'inglese è parlato in Gran Bretagna ed è la lingua utilizzata in A Severed Wasp. Il libro proviene dagli Stati Uniti, dove gli afroamericani sono un gruppo etnico.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">A Severed Wasp è stato scritto in inglese (lingua originaria della Gran Bretagna) negli Stati Uniti. Negli Stati Uniti sono presenti molti gruppi etnici, tra cui gli afroamericani.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id8" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | numberOfPages | &quot;388&quot;^^xsd:positiveInteger</otriple>
+        <otriple>A_Severed_Wasp | oclc | 8805735</otriple>
+        <otriple>A_Severed_Wasp | isbn | &quot;0-374-26131-8&quot;</otriple>
+        <otriple>A_Severed_Wasp | mediaType | Hardcover</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A_Severed_Wasp | numberOfPages | &quot;388&quot;^^xsd:positiveInteger</otriple>
+        <otriple>A_Severed_Wasp | oclc | &quot;8805735&quot;</otriple>
+        <otriple>A_Severed_Wasp | isbn | &quot;0-374-26131-8&quot;</otriple>
+        <otriple>A_Severed_Wasp | mediaType | Hardcover</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Severed_Wasp | numberOfPages | &quot;388&quot;</mtriple>
+        <mtriple>A_Severed_Wasp | oclcNumber | 8805735</mtriple>
+        <mtriple>A_Severed_Wasp | isbnNumber | &quot;0-374-26131-8&quot;</mtriple>
+        <mtriple>A_Severed_Wasp | mediaType | Hardcover</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">A Severed Wasp was published in hardback and has 388 pages. The OCLC number of A Severed Wasp is 8805735 and the ISBN number of &quot;0-374-26131-8&quot;.</lex>
+      <lex comment="good" lid="Id2" lang="en">A Severed Wasp, published in hardback, has 388 pages. Its OCLC number is 8805735, and ISBN number is 0-374-26131-8.</lex>
+      <lex comment="good" lid="Id3" lang="en">A Severed Wasp is a hardcover book with 388 pages. Its OCLC number is 8805735 and the ISBN number is 0-374-26131-8.</lex>
+      <lex comment="good" lid="Id1" lang="it">A Severed Wasp è stato pubblicato in cartonato e ha 388 pagine. Il numero OCLC di A Severed Wasp è 8805735 e il numero ISBN &quot;0-374-26131-8&quot;.</lex>
+      <lex comment="good" lid="Id2" lang="it">A Severed Wasp, pubblicato in cartonato, ha 388 pagine. Il suo numero OCLC è 8805735, mentre il numero ISBN è 0-374-26131-8.</lex>
+      <lex comment="good" lid="Id3" lang="it">A Severed Wasp è un libro con copertina rigida di 388 pagine. Il suo numero OCLC è 8805735 e il numero ISBN è 0-374-26131-8.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">A Severed Wasp è stato pubblicato in cartonato e ha 388 pagine. Il numero OCLC di A Severed Wasp è 8805735 e il numero ISBN &quot;0-374-26131-8&quot;.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">A Severed Wasp, pubblicato in cartonato, ha 388 pagine. Il suo numero OCLC è 8805735, mentre il numero ISBN è 0-374-26131-8.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">A Severed Wasp è un libro con copertina rigida di 388 pagine. Il suo numero OCLC è 8805735 e il numero ISBN è 0-374-26131-8.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id9" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>A_Wizard_of_Mars | mediaType | Hardcover</otriple>
+        <otriple>A_Wizard_of_Mars | author | Diane_Duane</otriple>
+        <otriple>A_Wizard_of_Mars | oclc | 318875313</otriple>
+        <otriple>A_Wizard_of_Mars | isbn | &quot;978-0-15-204770-2&quot;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A_Wizard_of_Mars | mediaType | Hardcover</otriple>
+        <otriple>A_Wizard_of_Mars | oclc | &quot;318875313&quot;</otriple>
+        <otriple>A_Wizard_of_Mars | author | Diane_Duane</otriple>
+        <otriple>A_Wizard_of_Mars | isbn | &quot;978-0-15-204770-2&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A_Wizard_of_Mars | mediaType | Hardcover</mtriple>
+        <mtriple>A_Wizard_of_Mars | author | Diane_Duane</mtriple>
+        <mtriple>A_Wizard_of_Mars | oclcNumber | 318875313</mtriple>
+        <mtriple>A_Wizard_of_Mars | isbnNumber | &quot;978-0-15-204770-2&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">A Wizard of Mars, written by Diane Duane, is available in hardcover, has the ISBN number 978-0-15-204770-2 and the OCLC number 318875313.</lex>
+      <lex comment="good" lid="Id2" lang="en">A Wizard of Mars, OCLC number 318875313, ISBN number 978-0-15-204770-2, was written by Diane Duane and published in hardback.</lex>
+      <lex comment="good" lid="Id3" lang="en">A Wizard of Mars, ISBN number is &quot;978-0-15-204770-2&quot;, OCLC number 318875313, was written by Diane Duane and published in hardback.</lex>
+      <lex comment="good" lid="Id1" lang="it">Un mago di Marte, scritto da Diane Duane, è disponibile in copertina rigida, ha il numero ISBN 978-0-15-204770-2 e il numero OCLC 318875313.</lex>
+      <lex comment="good" lid="Id2" lang="it">Un mago di Marte, numero OCLC 318875313, ISBN 978-0-15-204770-2, è stato scritto da Diane Duane e pubblicato in edizione cartonata.</lex>
+      <lex comment="good" lid="Id3" lang="it">Un mago di Marte, il cui numero ISBN è &quot;978-0-15-204770-2&quot;, numero OCLC 318875313, è stato scritto da Diane Duane e pubblicato in edizione cartonata.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Un mago di Marte, scritto da Diane Duane, è disponibile in copertina rigida, ha il numero ISBN 978-0-15-204770-2 e il numero OCLC 318875313.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Un mago di Marte, numero OCLC 318875313, ISBN 978-0-15-204770-2, è stato scritto da Diane Duane e pubblicato in edizione cartonata.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Un mago di Marte, il cui numero ISBN è &quot;978-0-15-204770-2&quot;, numero OCLC 318875313, è stato scritto da Diane Duane e pubblicato in edizione cartonata.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id10" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>Addiction_(journal) | abbreviation | &quot;Addiction&quot;@en</otriple>
+        <otriple>Addiction_(journal) | discipline | Addiction</otriple>
+        <otriple>Addiction_(journal) | lccn | 93645978</otriple>
+        <otriple>Addiction_(journal) | issn | &quot;1360-0443&quot;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addiction_(journal) | discipline | Addiction</otriple>
+        <otriple>Addiction_(journal) | abbreviation | &quot;Addiction&quot;</otriple>
+        <otriple>Addiction_(journal) | issn | &quot;1360-0443&quot;</otriple>
+        <otriple>Addiction_(journal) | lccn | &quot;93645978&quot;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Addiction_(journal) | discipline | Addiction</otriple>
+        <otriple>Addiction_(journal) | lccn | 93645978</otriple>
+        <otriple>Addiction_(journal) | abbreviation | &quot;Addiction&quot;</otriple>
+        <otriple>Addiction_(journal) | issn | &quot;1360-0443&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Addiction_(journal) | academicDiscipline | Addiction</mtriple>
+        <mtriple>Addiction_(journal) | LCCN_number | 93645978</mtriple>
+        <mtriple>Addiction_(journal) | abbreviation | &quot;Addiction&quot;</mtriple>
+        <mtriple>Addiction_(journal) | issnNumber | &quot;1360-0443&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Addiction journal concerns the topic of Addiction and has the LCCN number 93645978. The abbreviated name is &quot;Addiction&quot; and the ISSN number is 1360-0443.</lex>
+      <lex comment="good" lid="Id2" lang="en">Addiction is the abbreviated version of the Addiction journal and is about Addiction. The LCCN number is 93645978 and the ISSN number is 1360-0443.</lex>
+      <lex comment="good" lid="Id3" lang="en">The ISSN number of Addiction (journal), which is about addiction, is 1360-0443. Addiction (journal) has the abbreviation of Addiction and the LCCN number 93645978.</lex>
+      <lex comment="good" lid="Id1" lang="it">La rivista Addiction riguarda il tema delle dipendenze e ha il numero LCCN 93645978. Il nome abbreviato è &quot;Addiction&quot; e il numero ISSN è 1360-0443.</lex>
+      <lex comment="good" lid="Id2" lang="it">Addiction è la versione abbreviata della rivista Addiction e tratta di dipendenze. Il numero LCCN è 93645978 e il numero ISSN è 1360-0443.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il numero ISSN di Addiction (rivista), che tratta di dipendenze, è 1360-0443. Addiction (rivista) ha l'abbreviazione di Addiction e il numero LCCN 93645978.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La rivista Addiction riguarda il tema delle dipendenze e ha il numero LCCN 93645978. Il nome abbreviato è &quot;Addiction&quot; e il numero ISSN è 1360-0443.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Addiction è la versione abbreviata della rivista Addiction e tratta di dipendenze. Il numero LCCN è 93645978 e il numero ISSN è 1360-0443.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il numero ISSN di Addiction (rivista), che tratta di dipendenze, è 1360-0443. Addiction (rivista) ha l'abbreviazione di Addiction e il numero LCCN 93645978.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id11" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Administrative_Science_Quarterly | publisher | Cornell_University</otriple>
+        <otriple>Cornell_University | affiliation | Association_of_American_Universities</otriple>
+        <otriple>Cornell_University | state | New_York</otriple>
+        <otriple>Cornell_University | city | Ithaca,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Administrative_Science_Quarterly | publisher | Cornell_University</mtriple>
+        <mtriple>Cornell_University | affiliation | Association_of_American_Universities</mtriple>
+        <mtriple>Cornell_University | state | New_York</mtriple>
+        <mtriple>Cornell_University | city | Ithaca,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Cornell University in Ithaca, New York is the publisher of Administrative Science Quarterly. The University is affiliated with the Association of American Universities.</lex>
+      <lex comment="good" lid="Id2" lang="en">Cornell University is located in Ithaca, New York state. It is affiliated with the Association of American Universities and publishes the Administrative Science Quarterly.</lex>
+      <lex comment="good" lid="Id3" lang="en">Cornell University is located in the city of Ithaca, New York, it's affiliated with the Association of American Universities and publishes the Administrative Science Quarterly.</lex>
+      <lex comment="good" lid="Id1" lang="it">La Cornell University di Ithaca, New York, è l'editore di Administrative Science Quarterly. L'università è affiliata all'Associazione delle università americane.</lex>
+      <lex comment="good" lid="Id2" lang="it">La Cornell University si trova a Ithaca, nello Stato di New York. È affiliata all'Associazione delle università americane e pubblica l'Administrative Science Quarterly.</lex>
+      <lex comment="good" lid="Id3" lang="it">La Cornell University si trova nella città di Ithaca, New York, è affiliata all'Association of American Universities e pubblica l'Administrative Science Quarterly.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La Cornell University di Ithaca, New York, è l'editore di Administrative Science Quarterly. L'università è affiliata all'Associazione delle università americane.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">La Cornell University si trova a Ithaca, nello Stato di New York. È affiliata all'Associazione delle università americane e pubblica l'Administrative Science Quarterly.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">La Cornell University si trova nella città di Ithaca, New York, è affiliata all'Association of American Universities e pubblica l'Administrative Science Quarterly.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id12" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | language | English_language</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | language | English_language</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The book Alcatraz Versus the Evil Librarians was written in English and comes from the United States where the capital city is Washington DC and the African Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id2" lang="en">Alcatraz Versus the Evil Librarians is an English book written in the USA where African Americans are an ethnic group and the capital city is Washington.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il libro Alcatraz Versus the Evil Librarians è stato scritto in inglese e proviene dagli Stati Uniti, dove la capitale è Washington DC e gli afroamericani sono un gruppo etnico.</lex>
+      <lex comment="good" lid="Id2" lang="it">Alcatraz Versus the Evil Librarians è un libro inglese scritto negli Stati Uniti, dove gli afroamericani sono un gruppo etnico e la capitale è Washington.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il libro Alcatraz Versus the Evil Librarians è stato scritto in inglese e proviene dagli Stati Uniti, dove la capitale è Washington DC e gli afroamericani sono un gruppo etnico.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Alcatraz Versus the Evil Librarians è un libro inglese scritto negli Stati Uniti, dove gli afroamericani sono un gruppo etnico e la capitale è Washington.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id13" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>American_Journal_of_Mathematics | abbreviation | &quot;Am. J. Math.&quot;@en</otriple>
+        <otriple>American_Journal_of_Mathematics | discipline | Mathematics</otriple>
+        <otriple>American_Journal_of_Mathematics | frequency | &quot;Bimonthly&quot;@en</otriple>
+        <otriple>American_Journal_of_Mathematics | issn | &quot;1080-6377&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_Journal_of_Mathematics | abbreviation | &quot;Am. J. Math.&quot;</mtriple>
+        <mtriple>American_Journal_of_Mathematics | academicDiscipline | Mathematics</mtriple>
+        <mtriple>American_Journal_of_Mathematics | frequency | &quot;Bimonthly&quot;</mtriple>
+        <mtriple>American_Journal_of_Mathematics | issnNumber | &quot;1080-6377&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The American Journal of Mathematics is abbreviated to Am. J. Math. and comes under the discipline of Math. It is published bimonthly and has the ISSN number 1080-6377.</lex>
+      <lex comment="good" lid="Id2" lang="en">The American Journal of Mathematics studies mathematics and is abbreviated to Am. J. Math. It is published bimonthly and has the ISSN number 1080-6377.</lex>
+      <lex comment="good" lid="Id3" lang="en">The American Journal of Mathematics, aka Am. J. Math., is a bi-monthly journal about Mathematics, ISBN number 1080-6377.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'American Journal of Mathematics è abbreviato in Am. J. Math. e rientra nella disciplina della matematica. Viene pubblicato bimestralmente e ha il numero ISSN 1080-6377.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'American Journal of Mathematics studia la matematica ed è abbreviato in Am. J. Math. È pubblicato con cadenza bimestrale e ha il numero ISSN 1080-6377.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'American Journal of Mathematics, noto anche come Am. J. Math., è una rivista bimestrale di matematica, con numero ISBN 1080-6377.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'American Journal of Mathematics è abbreviato in Am. J. Math. e rientra nella disciplina della matematica. Viene pubblicato bimestralmente e ha il numero ISSN 1080-6377.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'American Journal of Mathematics studia la matematica ed è abbreviato in Am. J. Math. È pubblicato con cadenza bimestrale e ha il numero ISSN 1080-6377.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">L'American Journal of Mathematics, noto anche come Am. J. Math., è una rivista bimestrale di matematica, con numero ISBN 1080-6377.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id14" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
+      <originaltripleset>
+        <otriple>American_Journal_of_Mathematics | abbreviation | &quot;Am. J. Math.&quot;@en</otriple>
+        <otriple>American_Journal_of_Mathematics | discipline | Mathematics</otriple>
+        <otriple>American_Journal_of_Mathematics | history | 1878</otriple>
+        <otriple>American_Journal_of_Mathematics | issn | &quot;1080-6377&quot;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_Journal_of_Mathematics | discipline | Mathematics</otriple>
+        <otriple>American_Journal_of_Mathematics | history | 1878</otriple>
+        <otriple>American_Journal_of_Mathematics | abbreviation | &quot;Am. J. Math.&quot;</otriple>
+        <otriple>American_Journal_of_Mathematics | issn | &quot;1080-6377&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_Journal_of_Mathematics | academicDiscipline | Mathematics</mtriple>
+        <mtriple>American_Journal_of_Mathematics | firstPublicationYear | 1878</mtriple>
+        <mtriple>American_Journal_of_Mathematics | abbreviation | &quot;Am. J. Math.&quot;</mtriple>
+        <mtriple>American_Journal_of_Mathematics | issnNumber | &quot;1080-6377&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The academic discipline of the American Journal of Mathematics is Mathematics; it was first published in 1878. Its acronym is &quot;Am. J. Math.&quot; and its ISSN number is 1080-6377.</lex>
+      <lex comment="good" lid="Id2" lang="en">The American Journal of Mathematics, abbreviated to Am. J. Math, studies mathematics. It was first published in 1878 and has an ISSN number of 1080-6377.</lex>
+      <lex comment="good" lid="Id3" lang="en">The American Journal of Mathematics was first published in 1878 and has the ISSN number 1080-6377. It falls under the academic discipline of Math and the abbreviated title is Am. J. Math.</lex>
+      <lex comment="good" lid="Id1" lang="it">La disciplina accademica dell'American Journal of Mathematics è la matematica; è stato pubblicato per la prima volta nel 1878. Il suo acronimo è &quot;Am. J. Math.&quot; e il suo numero ISSN è 1080-6377.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'American Journal of Mathematics, abbreviato in Am. J. Math, studia la matematica. È stato pubblicato per la prima volta nel 1878 e ha un numero ISSN di 1080-6377.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'American Journal of Mathematics è stato pubblicato per la prima volta nel 1878 e ha il numero ISSN 1080-6377. Rientra nella disciplina accademica della matematica e il titolo abbreviato è Am. J. Math.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La disciplina accademica dell'American Journal of Mathematics è la matematica; è stato pubblicato per la prima volta nel 1878. Il suo acronimo è &quot;Am. J. Math.&quot; e il suo numero ISSN è 1080-6377.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'American Journal of Mathematics, abbreviato in Am. J. Math, studia la matematica. È stato pubblicato per la prima volta nel 1878 e ha un numero ISSN di 1080-6377.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">L'American Journal of Mathematics è stato pubblicato per la prima volta nel 1878 e ha il numero ISSN 1080-6377. Rientra nella disciplina accademica della matematica e il titolo abbreviato è Am. J. Math.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id15" shape="(X (X (X (X (X)))))" shape_type="chain" size="4">
+      <originaltripleset>
+        <otriple>English_language | spokenIn | Great_Britain</otriple>
+        <otriple>A_Loyal_Character_Dancer | publisher | Soho_Press</otriple>
+        <otriple>Soho_Press | country | United_States</otriple>
+        <otriple>United_States | language | English_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
+        <mtriple>A_Loyal_Character_Dancer | publisher | Soho_Press</mtriple>
+        <mtriple>Soho_Press | country | United_States</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">English is the language in Great Britain and the United States. A Loyal Character Dancer was published by Soho Press in the United States.</lex>
+      <lex comment="good" lid="Id2" lang="en">English is spoken in Great Britain and the United States. A Loyal Character Dancer was published by Soho Press which are based in the United States.</lex>
+      <lex comment="good" lid="Id3" lang="en">A Loyal Character Dancer is published by Soho Press which is based in the United States. The language spoken in the U.S., and in Great Britain, is English.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'inglese è la lingua in Gran Bretagna e negli Stati Uniti. A Loyal Character Dancer è stato pubblicato da Soho Press negli Stati Uniti.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'inglese è parlato in Gran Bretagna e negli Stati Uniti. A Loyal Character Dancer è stato pubblicato da Soho Press, che ha sede negli Stati Uniti.</lex>
+      <lex comment="good" lid="Id3" lang="it">A Loyal Character Dancer è pubblicato da Soho Press, con sede negli Stati Uniti. La lingua parlata negli Stati Uniti e in Gran Bretagna è l'inglese.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'inglese è la lingua in Gran Bretagna e negli Stati Uniti. A Loyal Character Dancer è stato pubblicato da Soho Press negli Stati Uniti.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'inglese è parlato in Gran Bretagna e negli Stati Uniti. A Loyal Character Dancer è stato pubblicato da Soho Press, che ha sede negli Stati Uniti.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">A Loyal Character Dancer è pubblicato da Soho Press, con sede negli Stati Uniti. La lingua parlata negli Stati Uniti e in Gran Bretagna è l'inglese.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id16" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>English_language | spokenIn | Great_Britain</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>A_Severed_Wasp | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The language of the United States and Great Britain is English. The United States has an ethnic group called Asian Americans and is where A severed Wasp originates from.</lex>
+      <lex comment="good" lid="Id2" lang="en">English is the language of Great Britain and the United States. The country is the origin of A Severed Wasp and includes many Asian Americans.</lex>
+      <lex comment="good" lid="Id3" lang="en">A Severed Wasp is from the English speaking (also spoken in Great Britain) United States. The United States is home to the Asian American ethnic group.</lex>
+      <lex comment="good" lid="Id1" lang="it">La lingua degli Stati Uniti e della Gran Bretagna è l'inglese. Negli Stati Uniti esiste un gruppo etnico chiamato Asian Americans, da cui proviene A severed Wasp.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'inglese è la lingua della Gran Bretagna e degli Stati Uniti. Il Paese è l'origine di A Severed Wasp e comprende molti asiatici americani.</lex>
+      <lex comment="good" lid="Id3" lang="it">A Severed Wasp proviene dagli Stati Uniti di lingua inglese (parlata anche in Gran Bretagna). Gli Stati Uniti sono la patria del gruppo etnico asiatico-americano.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La lingua degli Stati Uniti e della Gran Bretagna è l'inglese. Negli Stati Uniti esiste un gruppo etnico chiamato Asian Americans, da cui proviene A severed Wasp.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'inglese è la lingua della Gran Bretagna e degli Stati Uniti. Il Paese è l'origine di A Severed Wasp e comprende molti asiatici americani.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">A Severed Wasp proviene dagli Stati Uniti di lingua inglese (parlata anche in Gran Bretagna). Gli Stati Uniti sono la patria del gruppo etnico asioamericano.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id17" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>English_language | spokenIn | Great_Britain</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>Alcatraz_Versus_the_Evil_Librarians | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Alcatraz Versus the Evil Librarians is from The United States where one of the ethnic groups are the Native Americans. The English language is spoken in the US as well as Great Britain.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Book Alcatraz Versus the Evil Librarians originated in the U.S. where Native Americans make up many of the countries ethnic groups. English is the national language of both Great Britain and the United States.</lex>
+      <lex comment="good" lid="Id3" lang="en">English is spoken in Great Britain and is also the language of the United States, of which Native Americans are one of its ethnic groups and from where Alcatraz Versus the Evil Librarians has come.</lex>
+      <lex comment="good" lid="Id1" lang="it">Alcatraz Versus the Evil Librarians proviene dagli Stati Uniti, dove uno dei gruppi etnici sono i nativi americani. La lingua inglese è parlata sia negli Stati Uniti che in Gran Bretagna.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il libro Alcatraz contro i bibliotecari cattivi ha avuto origine negli Stati Uniti, dove i nativi americani costituiscono molti dei gruppi etnici del paese. L'inglese è la lingua nazionale sia della Gran Bretagna che degli Stati Uniti.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'inglese è parlato in Gran Bretagna ed è anche la lingua degli Stati Uniti, di cui i nativi americani sono uno dei gruppi etnici e da cui proviene Alcatraz Versus the Evil Librarians.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Alcatraz Versus the Evil Librarians proviene dagli Stati Uniti, dove uno dei gruppi etnici sono i nativi americani. La lingua inglese è parlata sia negli Stati Uniti che in Gran Bretagna.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il libro Alcatraz contro i bibliotecari cattivi ha avuto origine negli Stati Uniti, dove i nativi americani costituiscono molti dei gruppi etnici del paese. L'inglese è la lingua nazionale sia della Gran Bretagna che degli Stati Uniti.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">L'inglese è parlato in Gran Bretagna ed è anche la lingua degli Stati Uniti, di cui i nativi americani sono uno dei gruppi etnici e da cui proviene Alcatraz Versus the Evil Librarians.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id18" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_Kingdom | leaderName | David_Cameron</otriple>
+        <otriple>AIDS_(journal) | country | United_Kingdom</otriple>
+        <otriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</otriple>
+        <otriple>United_Kingdom | leader | Elizabeth_II</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>United_Kingdom | leaderName | Elizabeth_II</otriple>
+        <otriple>United_Kingdom | leader | David_Cameron</otriple>
+        <otriple>AIDS_(journal) | country | United_Kingdom</otriple>
+        <otriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_Kingdom | leader | David_Cameron</mtriple>
+        <mtriple>AIDS_(journal) | country | United_Kingdom</mtriple>
+        <mtriple>AIDS_(journal) | publisher | Lippincott_Williams_&amp;_Wilkins</mtriple>
+        <mtriple>United_Kingdom | leader | Elizabeth_II</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">In the United Kingdom, the Prime Minister is David Cameron and the queen is Elizabeth II. The AIDS journal was published in the United Kingdom by Lippincott, Williams &amp; Wilkins.</lex>
+      <lex comment="good" lid="Id2" lang="en">AIDS Journal, published by Lippincott Williams and Wilkins, is from the United Kingdom. The leader of the UK was David Cameron and Elizabeth II is the Queen.</lex>
+      <lex comment="good" lid="Id3" lang="en">The AIDS (journal) is published by Lippincott Williams &amp; Wilkins in the United Kingdom, the two leaders of this country are David Cameron and Elizabeth II.</lex>
+      <lex comment="good" lid="Id1" lang="it">Nel Regno Unito, il primo ministro è David Cameron e la regina è Elisabetta II. La rivista AIDS è stata pubblicata nel Regno Unito da Lippincott, Williams &amp; Wilkins.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'AIDS Journal, pubblicato da Lippincott Williams and Wilkins, proviene dal Regno Unito. Il leader del Regno Unito è David Cameron ed Elisabetta II è la Regina.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'AIDS (rivista) è pubblicata da Lippincott Williams &amp; Wilkins nel Regno Unito, i due leader di questo Paese sono David Cameron ed Elisabetta II.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Nel Regno Unito, il primo ministro è David Cameron e la regina è Elisabetta II. L'AIDS Journal è stata pubblicata nel Regno Unito da Lippincott, Williams &amp; Wilkins.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'AIDS Journal, pubblicato da Lippincott Williams and Wilkins, proviene dal Regno Unito. Il leader del Regno Unito è David Cameron ed Elisabetta II è la Regina.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">L'AIDS (rivista) è pubblicata da Lippincott Williams &amp; Wilkins nel Regno Unito, i due leader di questo Paese sono David Cameron ed Elisabetta II.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id19" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>English_language | spokenIn | Great_Britain</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">A Fortress of Grey Ice is from the United states where African American is an ethnic group and English is spoken like in Great Britain.</lex>
+      <lex comment="good" lid="Id2" lang="en">English is spoken in Great Britain and the United States. A Fortress of Grey Ice is from the United States where one of the ethnic groups are African Americans.</lex>
+      <lex comment="good" lid="Id3" lang="en">A Fortress of Grey Ice is from the United States where the African Americans are an ethnic group. English is spoken in the United States and also in Great Britain.</lex>
+      <lex comment="good" lid="Id1" lang="it">A Fortress of Grey Ice viene dagli Stati Uniti, dove gli afroamericani sono un gruppo etnico e si parla inglese come in Gran Bretagna.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'inglese è parlato in Gran Bretagna e negli Stati Uniti. A Fortress of Grey Ice proviene dagli Stati Uniti, dove uno dei gruppi etnici è costituito da afroamericani.</lex>
+      <lex comment="good" lid="Id3" lang="it">A Fortress of Grey Ice proviene dagli Stati Uniti, dove gli afroamericani sono un gruppo etnico. L'inglese è parlato negli Stati Uniti e anche in Gran Bretagna.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">A Fortress of Grey Ice viene dagli Stati Uniti, dove gli afroamericani sono un gruppo etnico e si parla inglese come in Gran Bretagna.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'inglese è parlato in Gran Bretagna e negli Stati Uniti. A Fortress of Grey Ice proviene dagli Stati Uniti, dove uno dei gruppi etnici è costituito da afroamericani.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">A Fortress of Grey Ice proviene dagli Stati Uniti, dove gli afroamericani sono un gruppo etnico. L'inglese è parlato negli Stati Uniti e anche in Gran Bretagna.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id20" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>English_language | spokenIn | Great_Britain</otriple>
+        <otriple>A_Fortress_of_Grey_Ice | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>English_language | spokenIn | Great_Britain</mtriple>
+        <mtriple>A_Fortress_of_Grey_Ice | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">A Fortress of Grey Ice is from the United States. That country has an ethnic group called Asian Americans and they speak English, same as in Great Britain.</lex>
+      <lex comment="good" lid="Id2" lang="en">In Great Britain English is the language spoken. The same is true for the United States where there are many Asian Americans. It is also where A Fortress of Grey Ice is from.</lex>
+      <lex comment="good" lid="Id3" lang="en">Asian Americans are one of the ethnic groups in the United States of which A Fortress of Grey Ice is also, the English language is spoken in both the United States and in Great Britain.</lex>
+      <lex comment="good" lid="Id1" lang="it">Una Fortezza di Ghiaccio Grigio viene dagli Stati Uniti. In quel Paese esiste un gruppo etnico chiamato Asian Americans che parla inglese, come in Gran Bretagna.</lex>
+      <lex comment="good" lid="Id2" lang="it">In Gran Bretagna la lingua parlata è l'inglese. Lo stesso vale per gli Stati Uniti, dove ci sono molti asiatici americani. È anche il luogo da cui proviene Una fortezza di ghiaccio grigio.</lex>
+      <lex comment="good" lid="Id3" lang="it">Gli asiatici americani sono uno dei gruppi etnici degli Stati Uniti di cui Una fortezza di ghiaccio grigio è anche, la lingua inglese è parlata sia negli Stati Uniti che in Gran Bretagna.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Una Fortezza di Ghiaccio Grigio viene dagli Stati Uniti. In quel Paese esiste un gruppo etnico chiamato Asian Americans che parla inglese, come in Gran Bretagna.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">In Gran Bretagna la lingua parlata è l'inglese. Lo stesso vale per gli Stati Uniti, dove ci sono molti asiatici americani. È anche il luogo da cui proviene Una fortezza di ghiaccio grigio.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Gli asiatici americani sono uno dei gruppi etnici degli Stati Uniti di cui Una fortezza di ghiaccio grigio è anche, la lingua inglese è parlata sia negli Stati Uniti che in Gran Bretagna.</lex>
+    </entry>
+    <entry category="WrittenWork" eid="Id21" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+        <otriple>United_States | language | English_language</otriple>
+        <otriple>A_Severed_Wasp | country | United_States</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | leader | Barack_Obama</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+        <mtriple>A_Severed_Wasp | country | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">A severed Wasp originates from the United States where the leader is Barack Obama. The English language is spoken in the US where one of the ethnic groups is African American.</lex>
+      <lex comment="good" lid="Id2" lang="en">The President of the United States is Barack Obama who is African American, which makes up one of the many ethnic groups in the United States. The national language spoken in the U.S. is English. The book A Severed Wasp originated in the U.S.</lex>
+      <lex comment="good" lid="Id1" lang="it">Una vespa mozzata proviene dagli Stati Uniti, dove il leader è Barack Obama. La lingua inglese è parlata negli Stati Uniti, dove uno dei gruppi etnici è quello afroamericano.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il Presidente degli Stati Uniti è Barack Obama, afroamericano, uno dei tanti gruppi etnici degli Stati Uniti. La lingua nazionale parlata negli Stati Uniti è l'inglese. Il libro Una vespa mozzata è nato negli Stati Uniti.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Una vespa mozzata proviene dagli Stati Uniti, dove il leader è Barack Obama. La lingua inglese è parlata negli Stati Uniti, dove uno dei gruppi etnici è quello afroamericano.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il Presidente degli Stati Uniti è Barack Obama, afroamericano, uno dei tanti gruppi etnici degli Stati Uniti. La lingua nazionale parlata negli Stati Uniti è l'inglese. Il libro Una vespa mozzata è nato negli Stati Uniti.</lex>
+    </entry>
+  </entries>
+</benchmark>

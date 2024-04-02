@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Monument" eid="Id1" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | west | Franklin_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southwest | Frederick_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsWest | Franklin_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSouthwest | Frederick_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Adams County, Pennsylvania is the location of the 11th Mississippi Infantry monument. Franklin County Pennsylvania is to the west and Frederick County to the south west.</lex>
+      <lex comment="good" lid="Id2" lang="en">The 11th Mississippi Infantry Monument is located in Adams County Pennsylvania, between Franklin County to the west and Frederick County to the southwest.</lex>
+      <lex comment="good" lid="Id1" lang="it">La Contea di Adams, Pennsylvania, è il luogo in cui si trova il monumento dell'11° Fanteria del Mississippi. La contea di Franklin, in Pennsylvania, si trova a ovest e la contea di Frederick a sud-ovest.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il monumento all'11° Fanteria del Mississippi si trova nella Contea di Adams in Pennsylvania, tra la Contea di Franklin a ovest e la Contea di Frederick a sud-ovest.</lex>
+    </entry>
+    <entry category="Monument" eid="Id2" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Azerbaijan | leader | Artur_Rasizade</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | leader | Artur_Rasizade</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Baku Turkish Martyrs' memorial which is dedicated to the soldiers of the Ottoman army who were killed in the Battle of Baku is located in Azerbaijan. At present Artur Rasizade is the leader of the country.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il memoriale dei martiri turchi di Baku, dedicato ai soldati dell'esercito ottomano uccisi nella battaglia di Baku, si trova in Azerbaigian. Attualmente il leader del Paese è Artur Rasizade.</lex>
+    </entry>
+    <entry category="Monument" eid="Id3" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Baku Turkish Martyrs Memorial in Azerbaijan was designed by Hüseyin Bütüner and Hilmi Güner and is dedicated to Ottoman Army soldiers killed in the Battle of Baku.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Baku Turkish Martyrs' Memorial in Azerbaijan was designed by Hüseyin Bütüner and Hilmi Güner and is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku.</lex>
+      <lex comment="good" lid="Id3" lang="en">The Baku Turkish Martyrs' Memorial in Azerbaijan, designed by Hüseyin Bütüner and Hilmi Güner, is dedicated to the Ottoman Army soldiers killed in the Battle of Baku.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il Memoriale dei martiri turchi di Baku, in Azerbaigian, è stato progettato da Hüseyin Bütüner e Hilmi Güner ed è dedicato ai soldati dell'esercito ottomano uccisi nella battaglia di Baku.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il Memoriale dei martiri turchi di Baku, in Azerbaigian, è stato progettato da Hüseyin Bütüner e Hilmi Güner ed è dedicato ai soldati dell'esercito ottomano uccisi nella battaglia di Baku.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il Memoriale dei martiri turchi di Baku, in Azerbaigian, progettato da Hüseyin Bütüner e Hilmi Güner, è dedicato ai soldati dell'esercito ottomano uccisi nella battaglia di Baku.</lex>
+    </entry>
+    <entry category="Monument" eid="Id4" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Azerbaijan | leader | Artur_Rasizade</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Azerbaijan, where the leader is Artur Rasizade, is the location of the Baku Turkish Martyrs Memorial. The memorial was designed by Huseyin Butuner and Hilmi Guner.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Baku Turkish Martyrs' Memorial, designed by Huseyin Butuner and Hilmi Guner, is located in Azerbaijan, where the leader is Artur Rasizade.</lex>
+      <lex comment="good" lid="Id1" lang="it">In Azerbaigian, dove il leader è Artur Rasizade, si trova il Memoriale dei Martiri Turchi di Baku. Il monumento è stato progettato da Huseyin Butuner e Hilmi Guner.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il Memoriale dei martiri turchi di Baku, progettato da Huseyin Butuner e Hilmi Guner, si trova in Azerbaigian, dove il leader è Artur Rasizade.</lex>
+    </entry>
+    <entry category="Monument" eid="Id5" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | nativeName | &quot;Türk Şehitleri Anıtı&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | &quot;Türk Şehitleri Anıtı&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Baku Turkish Martyrs' Memorial was designed by Huseyin Butuner and Hilmi Guner, and is located in Azerbaijan, where it is called Turk Sehitleri Aniti.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il Memoriale dei martiri turchi di Baku è stato progettato da Huseyin Butuner e Hilmi Guner e si trova in Azerbaigian, dove è chiamato Turk Sehitleri Aniti.</lex>
+    </entry>
+  </entries>
+</benchmark>

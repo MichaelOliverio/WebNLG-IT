@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="University" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | facultySize | &quot;100&quot;^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | faculty | 100</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The academic staff size of Accademia di Architettura di Mendrisio is 100.</lex>
+      <lex comment="good" lid="Id2" lang="en">The academic staff number 100 at the Accademia di Architettura di Mendrisio.</lex>
+      <lex comment="good" lid="Id3" lang="en">The Accademia di Architettura di Mendrisio has an academic staff of 100.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il personale accademico dell'Accademia di Architettura di Mendrisio è di 100 persone.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il personale accademico dell'Accademia di Architettura di Mendrisio è composto da 100 persone.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'Accademia di Architettura di Mendrisio ha un organico accademico di 100 persone.</lex>
+    </entry>
+    <entry category="University" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | campus | &quot;Urban, ,\nIn Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | campus | &quot;In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The campus address for the Acharya Institute of Technology is: Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Acharya Institute of Technology campus is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
+      <lex comment="good" lid="Id3" lang="en">The campus of the Acharya Institute of Technology is located at Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'indirizzo del campus dell'Acharya Institute of Technology è: Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il campus dell'Acharya Institute of Technology è situato a Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il campus dell'Acharya Institute of Technology si trova a Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090.</lex>
+    </entry>
+    <entry category="University" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alba_Iulia | country | Romania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alba_Iulia | country | Romania</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Alba Iulia is located in Romania.</lex>
+      <lex comment="good" lid="Id2" lang="en">Alba Iulia is in the country of Romania.</lex>
+      <lex comment="good" lid="Id3" lang="en">Alba Iulia is in Romania.</lex>
+      <lex comment="good" lid="Id1" lang="it">Alba Iulia si trova in Romania.</lex>
+      <lex comment="good" lid="Id2" lang="it">Alba Iulia si trova nel paese della Romania.</lex>
+      <lex comment="good" lid="Id3" lang="it">Alba Iulia si trova in Romania.</lex>
+    </entry>
+    <entry category="University" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alba_Iulia | isPartOf | Alba_County</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alba_Iulia | isPartOf | Alba_County</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Alba Iulia is part of the county of Alba.</lex>
+      <lex comment="good" lid="Id2" lang="en">Alba Iulia is part of Alba County.</lex>
+      <lex comment="good" lid="Id1" lang="it">Alba Iulia fa parte della contea di Alba.</lex>
+      <lex comment="good" lid="Id2" lang="it">Alba Iulia fa parte della Contea di Alba.</lex>
+    </entry>
+    <entry category="University" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Romania | patronSaint | Andrew_the_Apostle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Romania | patronSaint | Andrew_the_Apostle</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The patron saint of Romania is Andrew the Apostle.</lex>
+      <lex comment="good" lid="Id2" lang="en">Andrew the Apostle is the patron saint of Romania.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il santo patrono della Romania è l'apostolo Andrea.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'apostolo Andrea è il patrono della Romania.</lex>
+    </entry>
+    <entry category="University" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | facultySize | &quot;737&quot;^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The academic staff of the School of Business and Social Sciences at the Aarhus University number 737.</lex>
+      <lex comment="good" lid="Id2" lang="en">The School of Business and Social Sciences at the Aarhus University has academic staff size of 737.</lex>
+      <lex comment="good" lid="Id3" lang="en">The School of Business and Social Sciences at the Aarhus University has an academic staff of 737.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il personale accademico della School of Business and Social Sciences dell'Università di Aarhus è composto da 737 persone.</lex>
+      <lex comment="good" lid="Id2" lang="it">La Scuola di Business e Scienze Sociali dell'Università di Aarhus ha un organico accademico di 737 persone.</lex>
+      <lex comment="good" lid="Id3" lang="it">La Scuola di Business e Scienze Sociali dell'Università di Aarhus ha uno staff accademico di 737 persone.</lex>
+    </entry>
+    <entry category="University" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Aarhus University School of Business and Social Sciences is in the country of Denmark.</lex>
+      <lex comment="good" lid="Id2" lang="en">The School of Business and Social Sciences at the Aarhus University is situated in Denmark.</lex>
+      <lex comment="good" lid="Id3" lang="en">The School of Business and Social Sciences at the Aarhus University is located in Denmark.</lex>
+      <lex comment="good" lid="Id4" lang="en">The School of Business and Social Sciences at the Aarhus University is in Denmark.</lex>
+      <lex comment="good" lid="Id1" lang="it">La Scuola di Business e Scienze Sociali dell'Università di Aarhus si trova in Danimarca.</lex>
+      <lex comment="good" lid="Id2" lang="it">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus si trova in Danimarca.</lex>
+      <lex comment="good" lid="Id3" lang="it">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus si trova in Danimarca.</lex>
+      <lex comment="good" lid="Id4" lang="it">La Scuola di Business e Scienze Sociali dell'Università di Aarhus si trova in Danimarca.</lex>
+    </entry>
+  </entries>
+</benchmark>

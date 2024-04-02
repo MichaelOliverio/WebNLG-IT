@@ -1,0 +1,525 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Artist" eid="Id1" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aaron_Bertram | associatedBand | Suburban_Legends</otriple>
+        <otriple>Aaron_Bertram | associatedActs | Kids_Imagine_Nation</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aaron_Bertram | associatedMusicalArtist | Suburban_Legends</otriple>
+        <otriple>Aaron_Bertram | associatedBand | Kids_Imagine_Nation</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aaron_Bertram | associatedActs | Suburban_Legends</otriple>
+        <otriple>Aaron_Bertram | associatedMusicalArtist | Kids_Imagine_Nation</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aaron_Bertram | associatedMusicalArtist | Suburban_Legends</otriple>
+        <otriple>Aaron_Bertram | associatedActs | Kids_Imagine_Nation</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aaron_Bertram | associatedBand | Suburban_Legends</otriple>
+        <otriple>Aaron_Bertram | associatedMusicalArtist | Kids_Imagine_Nation</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aaron_Bertram | associatedActs | Suburban_Legends</otriple>
+        <otriple>Aaron_Bertram | associatedBand | Kids_Imagine_Nation</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Bertram | associatedBand/associatedMusicalArtist | Suburban_Legends</mtriple>
+        <mtriple>Aaron_Bertram | associatedBand/associatedMusicalArtist | Kids_Imagine_Nation</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Aaron Bertram plays for the Suburban Legends band and Kids Imagine Nation.</lex>
+      <lex comment="good" lid="Id2" lang="en">Aaron Bertram is an artist with the band Kids Imagine Nation and plays for the Suburban Legends band.</lex>
+      <lex comment="good" lid="Id3" lang="en">Aaron Bertram plays for both the Suburban Legends band and the Kids Imagine Nation band.</lex>
+      <lex comment="good" lid="Id1" lang="it">Aaron Bertram suona nella band Suburban Legends e nei Kids Imagine Nation.</lex>
+      <lex comment="good" lid="Id2" lang="it">Aaron Bertram è un artista del gruppo Kids Imagine Nation e suona nella band Suburban Legends.</lex>
+      <lex comment="good" lid="Id3" lang="it">Aaron Bertram suona sia nella band Suburban Legends che nella band Kids Imagine Nation.</lex>
+    </entry>
+    <entry category="Artist" eid="Id2" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Aaron_Bertram | associatedActs | Suburban_Legends</otriple>
+        <otriple>Suburban_Legends | genre | Ska</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aaron_Bertram | associatedMusicalArtist | Suburban_Legends</otriple>
+        <otriple>Suburban_Legends | genre | Ska</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Bertram | associatedBand/associatedMusicalArtist | Suburban_Legends</mtriple>
+        <mtriple>Suburban_Legends | genre | Ska</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Aaron Bertram plays for the Suburban Legends band and their genre is Ska.</lex>
+      <lex comment="good" lid="Id2" lang="en">Aaron Bertram plays for the Suburban Legends band which play Ska music.</lex>
+      <lex comment="good" lid="Id3" lang="en">Aaron Bertram plays for the Suburban Legends band who perform Ska music.</lex>
+      <lex comment="good" lid="Id1" lang="it">Aaron Bertram suona nella band Suburban Legends e il loro genere è lo Ska.</lex>
+      <lex comment="good" lid="Id2" lang="it">Aaron Bertram suona nella band Suburban Legends, che propone musica Ska.</lex>
+      <lex comment="good" lid="Id3" lang="it">Aaron Bertram suona nella band Suburban Legends, che esegue musica Ska.</lex>
+    </entry>
+    <entry category="Artist" eid="Id3" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aaron_Deer | genre | Psychedelia</otriple>
+        <otriple>Aaron_Deer | instrument | Guitar</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Deer | genre | Psychedelia</mtriple>
+        <mtriple>Aaron_Deer | instrument | Guitar</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Guitarist Aaron Deer plays Psychedelia.</lex>
+      <lex comment="good" lid="Id2" lang="en">Aaron Deer plays the guitar and performs Psychedelia music.</lex>
+      <lex comment="good" lid="Id3" lang="en">Guitarist Aaron Deer performs music from the Psychedelia genre.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il chitarrista Aaron Deer suona la psichedelia.</lex>
+      <lex comment="good" lid="Id2" lang="it">Aaron Deer suona la chitarra ed esegue musica psichedelica.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il chitarrista Aaron Deer esegue musica del genere psichedelia.</lex>
+    </entry>
+    <entry category="Artist" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aaron_Turner | associatedMusicalArtist | Isis_(band)</otriple>
+        <otriple>Aaron_Turner | associatedBand | Lotus_Eaters_(band)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Isis_(band)</mtriple>
+        <mtriple>Aaron_Turner | associatedBand/associatedMusicalArtist | Lotus_Eaters_(band)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Aaron Turner is an artist for the band Isis and a musician in the Lotus Eaters band.</lex>
+      <lex comment="good" lid="Id2" lang="en">Aaron Turner, is a musician in the Lotus Eaters band and is an artist for the band Isis.</lex>
+      <lex comment="good" lid="Id3" lang="en">Aaron Turner has played for Isis and the Lotus Eaters band.</lex>
+      <lex comment="good" lid="Id1" lang="it">Aaron Turner è un artista della band Isis e un musicista del gruppo Lotus Eaters.</lex>
+      <lex comment="good" lid="Id2" lang="it">Aaron Turner è un musicista del gruppo Lotus Eaters ed è un artista del gruppo Isis.</lex>
+      <lex comment="good" lid="Id3" lang="it">Aaron Turner ha suonato per gli Isis e per la band Lotus Eaters.</lex>
+    </entry>
+    <entry category="Artist" eid="Id5" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Abradab | birthPlace | Katowice</otriple>
+        <otriple>Abradab | placeOfBirth | Poland</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Abradab | birthPlace | Poland</otriple>
+        <otriple>Abradab | placeOfBirth | Katowice</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abradab | birthPlace | Katowice</mtriple>
+        <mtriple>Abradab | birthPlace | Poland</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Abradab was born in Katowice, Poland.</lex>
+      <lex comment="good" lid="Id2" lang="en">The birth place of Abradab is Poland, in Katowice.</lex>
+      <lex comment="good" lid="Id3" lang="en">Abradab was born is Katowice, Poland.</lex>
+      <lex comment="good" lid="Id1" lang="it">Abradab è nato a Katowice, in Polonia.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il luogo di nascita di Abradab è la Polonia, a Katowice.</lex>
+      <lex comment="good" lid="Id3" lang="it">Abradab è nato a Katowice, in Polonia.</lex>
+    </entry>
+    <entry category="Artist" eid="Id6" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Ace_Wilder | genre | Hip_hop_music</otriple>
+        <otriple>Hip_hop_music | stylisticOrigin | Disco</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ace_Wilder | genre | Hip_hop_music</otriple>
+        <otriple>Hip_hop_music | stylisticOrigins | Disco</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ace_Wilder | genre | Hip_hop_music</mtriple>
+        <mtriple>Hip_hop_music | stylisticOrigin | Disco</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Ace Wilder is an exponent of hip hop music, a style that originated from disco.</lex>
+      <lex comment="good" lid="Id2" lang="en">The musical genre of Ace Wilder is hip hop music which has its origins in Disco.</lex>
+      <lex comment="good" lid="Id3" lang="en">Ace Wilder's musical genre is Hip hop music which has its origins in Disco.</lex>
+      <lex comment="good" lid="Id1" lang="it">Ace Wilder è un esponente della musica hip hop, uno stile nato dalla discoteca.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il genere musicale di Ace Wilder è la musica hip hop, che ha le sue origini nella Disco.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il genere musicale di Ace Wilder è la musica Hip hop, che ha le sue origini nella Disco.</lex>
+    </entry>
+    <entry category="Artist" eid="Id7" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Al_Anderson_(NRBQ) | genre | Rock_music</otriple>
+        <otriple>Rock_music | stylisticOrigin | Country_music</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Al_Anderson_(NRBQ band) | genre | Rock_music</mtriple>
+        <mtriple>Rock_music | stylisticOrigin | Country_music</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Al Anderson is a performer of rock music, which has its origins in country music.</lex>
+      <lex comment="good" lid="Id2" lang="en">Al Anderson, a member of the band NRBQ, performs rock music, the genre which originated from country music.</lex>
+      <lex comment="good" lid="Id3" lang="en">Al Anderson is a member of the rock music band NRBQ. Rock music came from country music.</lex>
+      <lex comment="good" lid="Id1" lang="it">Al Anderson è un interprete della musica rock, che ha le sue origini nella musica country.</lex>
+      <lex comment="good" lid="Id2" lang="it">Al Anderson, membro del gruppo NRBQ, esegue musica rock, il genere che ha avuto origine dalla musica country.</lex>
+      <lex comment="good" lid="Id3" lang="it">Al Anderson è un membro del gruppo musicale rock NRBQ. La musica rock è nata dalla musica country.</lex>
+    </entry>
+    <entry category="Artist" eid="Id8" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Alan_Frew | genre | Rock_music</otriple>
+        <otriple>Rock_music | stylisticOrigin | Country_music</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alan_Frew | genre | Rock_music</otriple>
+        <otriple>Rock_music | stylisticOrigins | Country_music</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Frew | genre | Rock_music</mtriple>
+        <mtriple>Rock_music | stylisticOrigin | Country_music</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Alan Frew plays rock music, which originated from country music.</lex>
+      <lex comment="good" lid="Id2" lang="en">Alan Frew's musical genre is rock music, which originated from country music.</lex>
+      <lex comment="good" lid="Id3" lang="en">Alan Frew plays rock music which has its roots in country music.</lex>
+      <lex comment="good" lid="Id1" lang="it">Alan Frew suona musica rock, che ha avuto origine dalla musica country.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il genere musicale di Alan Frew è la musica rock, che ha avuto origine dalla musica country.</lex>
+      <lex comment="good" lid="Id3" lang="it">Alan Frew suona musica rock che affonda le sue radici nella musica country.</lex>
+    </entry>
+    <entry category="Artist" eid="Id9" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Albennie_Jones | genre | Jazz</otriple>
+        <otriple>Jazz | stylisticOrigin | Blues</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Albennie_Jones | genre | Jazz</otriple>
+        <otriple>Jazz | stylisticOrigins | Blues</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albennie_Jones | genre | Jazz</mtriple>
+        <mtriple>Jazz | stylisticOrigin | Blues</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Jazz music originated from blues music. Albennie Jones is a jazz performer.</lex>
+      <lex comment="good" lid="Id2" lang="en">Albennie Jones plays Jazz, which originated from Blues music.</lex>
+      <lex comment="good" lid="Id3" lang="en">The origins of Jazz is Blues and a jazz artist is Albennie Jones.</lex>
+      <lex comment="good" lid="Id1" lang="it">La musica jazz ha avuto origine dalla musica blues. Albennie Jones è un'interprete jazz.</lex>
+      <lex comment="good" lid="Id2" lang="it">Albennie Jones suona il jazz, che ha origine dalla musica blues.</lex>
+      <lex comment="good" lid="Id3" lang="it">Le origini del jazz sono il blues e un artista jazz è Albennie Jones.</lex>
+    </entry>
+    <entry category="Artist" eid="Id10" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Albennie_Jones | genre | Rhythm_and_blues</otriple>
+        <otriple>Rhythm_and_blues | stylisticOrigins | Blues</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Albennie_Jones | genre | Rhythm_and_blues</otriple>
+        <otriple>Rhythm_and_blues | stylisticOrigin | Blues</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Albennie_Jones | genre | Rhythm_and_blues</mtriple>
+        <mtriple>Rhythm_and_blues | stylisticOrigin | Blues</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Albennie Jones performs rhythm and blues music, a genre that originated from blues music.</lex>
+      <lex comment="good" lid="Id2" lang="en">Originating from blues music, rhythm and blues is the music genre of Albennie Jones.</lex>
+      <lex comment="good" lid="Id3" lang="en">Albennie Jones plays rhythm and blues, derived from the blues.</lex>
+      <lex comment="good" lid="Id1" lang="it">Albennie Jones esegue musica rhythm and blues, un genere che ha avuto origine dalla musica blues.</lex>
+      <lex comment="good" lid="Id2" lang="it">Originato dalla musica blues, il rhythm and blues è il genere musicale di Albennie Jones.</lex>
+      <lex comment="good" lid="Id3" lang="it">Albennie Jones suona rhythm and blues, derivato dal blues.</lex>
+    </entry>
+    <entry category="Artist" eid="Id11" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aleksandra_Kovač | genre | Soul_music</otriple>
+        <otriple>Aleksandra_Kovač | activeYearsStartYear | &quot;1990&quot;^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandra_Kovač | genre | Soul_music</mtriple>
+        <mtriple>Aleksandra_Kovač | activeYearsStartYear | 1990</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Aleksandra Kovac stared in 1990 and she performs soul music.</lex>
+      <lex comment="good" lid="Id2" lang="en">Aleksandra Kovač began her musical career in 1990, she performs soul music.</lex>
+      <lex comment="good" lid="Id3" lang="en">Aleksandra Kovac is a soul music performer who began her musical career in 1990.</lex>
+      <lex comment="good" lid="Id1" lang="it">Aleksandra Kovac è nata nel 1990 ed esegue musica soul.</lex>
+      <lex comment="good" lid="Id2" lang="it">Aleksandra Kovač ha iniziato la sua carriera musicale nel 1990, eseguendo musica soul.</lex>
+      <lex comment="good" lid="Id3" lang="it">Aleksandra Kovac è un'interprete di musica soul che ha iniziato la sua carriera musicale nel 1990.</lex>
+    </entry>
+    <entry category="Artist" eid="Id12" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Alex_Day | genre | Synthpop</otriple>
+        <otriple>Synthpop | stylisticOrigins | Disco</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alex_Day | genre | Synthpop</otriple>
+        <otriple>Synthpop | stylisticOrigin | Disco</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alex_Day | genre | Synthpop</mtriple>
+        <mtriple>Synthpop | stylisticOrigin | Disco</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The musical genre of Alex Day is Synthpop which is a derivative of disco music.</lex>
+      <lex comment="good" lid="Id2" lang="en">Alex Day is a Synthpop artist, a derivative of disco.</lex>
+      <lex comment="good" lid="Id3" lang="en">Synthpop, originated from Disco and is the musical genre of Alex Day.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il genere musicale di Alex Day è il Synthpop, derivato dalla disco music.</lex>
+      <lex comment="good" lid="Id2" lang="it">Alex Day è un artista Synthpop, un derivato della disco.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il Synthpop, originato dalla Disco, è il genere musicale di Alex Day.</lex>
+    </entry>
+    <entry category="Artist" eid="Id13" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Alex_Day | genre | Synthpop</otriple>
+        <otriple>Synthpop | stylisticOrigin | New_wave_music</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alex_Day | genre | Synthpop</otriple>
+        <otriple>Synthpop | stylisticOrigins | New_wave_music</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alex_Day | genre | Synthpop</mtriple>
+        <mtriple>Synthpop | stylisticOrigin | New_wave_music</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Alex Day plays Synthpop, which originated from new wave music.</lex>
+      <lex comment="good" lid="Id2" lang="en">Alex Day performs Synthpop music which has its stylistic origin in new wave music.</lex>
+      <lex comment="good" lid="Id3" lang="en">Alex Day plays Synthpop, which is derived from New Wave music.</lex>
+      <lex comment="good" lid="Id1" lang="it">Alex Day suona Synthpop, che ha origine dalla musica new wave.</lex>
+      <lex comment="good" lid="Id2" lang="it">Alex Day esegue musica Synthpop che ha la sua origine stilistica nella musica new wave.</lex>
+      <lex comment="good" lid="Id3" lang="it">Alex Day suona Synthpop, che deriva dalla musica New Wave.</lex>
+    </entry>
+    <entry category="Artist" eid="Id14" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Alfredo_Zitarrosa | deathPlace | Montevideo</otriple>
+        <otriple>Montevideo | leaderName | Daniel_Martínez_(politician)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfredo_Zitarrosa | deathPlace | Montevideo</mtriple>
+        <mtriple>Montevideo | leader | Daniel_Martínez_(politician)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Alfredo Zitarrosa died in Montevideo where Daniel Martinez is the leader.</lex>
+      <lex comment="good" lid="Id2" lang="en">Alfredo Zitarrosa died in Montevideo, where the leader is Daniel Martinez.</lex>
+      <lex comment="good" lid="Id3" lang="en">Alfredo Zitarrosa death place was in Montevideo, the leader of which is, Daniel Martínez.</lex>
+      <lex comment="good" lid="Id1" lang="it">Alfredo Zitarrosa è morto a Montevideo, dove Daniel Martinez è il leader.</lex>
+      <lex comment="good" lid="Id2" lang="it">Alfredo Zitarrosa è morto a Montevideo, dove il leader è Daniel Martinez.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il luogo di morte di Alfredo Zitarrosa è stato Montevideo, il cui leader è Daniel Martínez.</lex>
+    </entry>
+    <entry category="Artist" eid="Id15" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alfredo_Zitarrosa | background | &quot;solo_singer&quot;</otriple>
+        <otriple>Alfredo_Zitarrosa | genre | Zamba_(artform)</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alfredo_Zitarrosa | genre | Zamba_(artform)</otriple>
+        <otriple>Alfredo_Zitarrosa | background | &quot;solo_singer&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfredo_Zitarrosa | genre | Zamba_(artform)</mtriple>
+        <mtriple>Alfredo_Zitarrosa | background | &quot;solo_singer&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Alfredo Zitarrosa's genre is Zamba which is considered an art form and he started out as a solo singer.</lex>
+      <lex comment="good" lid="Id2" lang="en">Alfredo Zitarrosa has a background as a solo singer and performs Zamba music.</lex>
+      <lex comment="good" lid="Id3" lang="en">Alfredo Zitarrosa performs Zamba music and started out as a solo singer.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il genere di Alfredo Zitarrosa è Zamba, considerato una forma d'arte, e ha iniziato come cantante solista.</lex>
+      <lex comment="good" lid="Id2" lang="it">Alfredo Zitarrosa ha un passato da cantante solista ed esegue musica Zamba.</lex>
+      <lex comment="good" lid="Id3" lang="it">Alfredo Zitarrosa esegue musica Zamba e ha iniziato come cantante solista.</lex>
+    </entry>
+    <entry category="Artist" eid="Id16" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alison_O'Donnell | associatedBand | Plastik_Mak</otriple>
+        <otriple>Alison_O'Donnell | associatedMusicalArtist | Head_South_By_Weaving</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alison_O'Donnell | associatedBand/associatedMusicalArtist | Plastik_Mak</mtriple>
+        <mtriple>Alison_O'Donnell | associatedBand/associatedMusicalArtist | Head_South_By_Weaving</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Alison O'Donnell is associated with Plastik Mak and the band Head South By Weaving.</lex>
+      <lex comment="good" lid="Id2" lang="en">Alison O'Donnell is associated with Plastik Mak and is musically associated with the band Head South By Weaving.</lex>
+      <lex comment="good" lid="Id3" lang="en">Alison O'Donnell is musically associated with Plastik Mak and Head South By Weaving.</lex>
+      <lex comment="good" lid="Id1" lang="it">Alison O'Donnell è associata a Plastik Mak e alla band Head South By Weaving.</lex>
+      <lex comment="good" lid="Id2" lang="it">Alison O'Donnell è associata a Plastik Mak e musicalmente è associata alla band Head South By Weaving.</lex>
+      <lex comment="good" lid="Id3" lang="it">Alison O'Donnell è associata musicalmente a Plastik Mak e Head South By Weaving.</lex>
+    </entry>
+    <entry category="Artist" eid="Id17" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Alison_O'Donnell | genre | Jazz</otriple>
+        <otriple>Alison_O'Donnell | instrument | Autoharp</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alison_O'Donnell | genre | Jazz</mtriple>
+        <mtriple>Alison_O'Donnell | instrument | Autoharp</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Alison O'Donnell is a jazz artist who plays the autoharp.</lex>
+      <lex comment="good" lid="Id2" lang="en">Alison O'Donnell plays the autoharp and performs jazz music.</lex>
+      <lex comment="good" lid="Id3" lang="en">Alison O'Donnell is a jazz musician who plays the autoharp.</lex>
+      <lex comment="good" lid="Id1" lang="it">Alison O'Donnell è un'artista jazz che suona l'autoharp.</lex>
+      <lex comment="good" lid="Id2" lang="it">Alison O'Donnell suona l'autoharp ed esegue musica jazz.</lex>
+      <lex comment="good" lid="Id3" lang="it">Alison O'Donnell è una musicista jazz che suona l'autoharp.</lex>
+    </entry>
+    <entry category="Artist" eid="Id18" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Allen_Forrest | background | &quot;solo_singer&quot;@en</otriple>
+        <otriple>Allen_Forrest | genre | Pop_music</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Allen_Forrest | genre | Pop_music</otriple>
+        <otriple>Allen_Forrest | background | &quot;solo_singer&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allen_Forrest | genre | Pop_music</mtriple>
+        <mtriple>Allen_Forrest | background | &quot;solo_singer&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Allen Forrest has a background as a solo singer and was a pop artist.</lex>
+      <lex comment="good" lid="Id2" lang="en">Allen Forrest is a solo singer and an exponent of pop music.</lex>
+      <lex comment="good" lid="Id3" lang="en">Allen Forrest, a solo singer, was a pop artist.</lex>
+      <lex comment="good" lid="Id1" lang="it">Allen Forrest ha un passato da cantante solista ed è stato un artista pop.</lex>
+      <lex comment="good" lid="Id2" lang="it">Allen Forrest è un cantante solista ed esponente della musica pop.</lex>
+      <lex comment="good" lid="Id3" lang="it">Allen Forrest, cantante solista, era un artista pop.</lex>
+    </entry>
+    <entry category="Artist" eid="Id19" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Alternative_rock | musicFusionGenre | Nu_metal</otriple>
+        <otriple>Andrew_White_(musician) | genre | Alternative_rock</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alternative_rock | musicFusionGenre | Nu_metal</mtriple>
+        <mtriple>Andrew_White_(musician) | genre | Alternative_rock</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Andrew White plays alternative rock, of which nu metal is a fusion genre.</lex>
+      <lex comment="good" lid="Id2" lang="en">The musician Andrew White's genre is alternative rock and nu metal is an of alternative rock music fusion.</lex>
+      <lex comment="good" lid="Id3" lang="en">Andrew White performs alternative rock music, a genre that nu metal is a fusion genre of.</lex>
+      <lex comment="good" lid="Id1" lang="it">Andrew White suona rock alternativo, di cui il nu metal è un genere di fusione.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il genere del musicista Andrew White è il rock alternativo e il nu metal è una fusione di musica rock alternativa.</lex>
+      <lex comment="good" lid="Id3" lang="it">Andrew White esegue musica rock alternativa, un genere di cui il nu metal è una fusione.</lex>
+    </entry>
+    <entry category="Artist" eid="Id20" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Anders_Osborne | associatedBand | Billy_Iuso</otriple>
+        <otriple>Anders_Osborne | associatedMusicalArtist | Theresa_Andersson</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Billy_Iuso</mtriple>
+        <mtriple>Anders_Osborne | associatedBand/associatedMusicalArtist | Theresa_Andersson</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Anders Osborne is associated with musicians Billy Iuso and Theresa Andersson.</lex>
+      <lex comment="good" lid="Id2" lang="en">Anders Osborne is associated with musical artist Billy Iuso and Theresa Andersson.</lex>
+      <lex comment="good" lid="Id3" lang="en">Anders Osborne is associated with Billy Iuso and Theresa Andersson.</lex>
+      <lex comment="good" lid="Id1" lang="it">Anders Osborne è associato ai musicisti Billy Iuso e Theresa Andersson.</lex>
+      <lex comment="good" lid="Id2" lang="it">Anders Osborne è associato all'artista musicale Billy Iuso e a Theresa Andersson.</lex>
+      <lex comment="good" lid="Id3" lang="it">Anders Osborne è associato a Billy Iuso e Theresa Andersson.</lex>
+    </entry>
+    <entry category="Artist" eid="Id21" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Anders_Osborne | genre | Rhythm_and_blues</otriple>
+        <otriple>Anders_Osborne | recordLabel | Rabadash_Records</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Anders_Osborne | genre | Rhythm_and_blues</mtriple>
+        <mtriple>Anders_Osborne | recordLabel | Rabadash_Records</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Rhythm and blues artist Anders Osborne is signed with Rabadash Records.</lex>
+      <lex comment="good" lid="Id2" lang="en">Anders Osborne genre is Rhythm and blues and his record label is Rabadash Records.</lex>
+      <lex comment="good" lid="Id3" lang="en">Anders Osborne's genre is Rhythm and blues and he is signed to the Rabadash Records label.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'artista rhythm and blues Anders Osborne ha firmato con la Rabadash Records.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il genere di Anders Osborne è Rhythm and blues e la sua etichetta discografica è Rabadash Records.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il genere di Anders Osborne è Rhythm and blues ed è firmato dall'etichetta Rabadash Records.</lex>
+    </entry>
+    <entry category="Artist" eid="Id22" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Andra_(singer) | genre | Pop_music</otriple>
+        <otriple>Andra_(singer) | activeYearsStartYear | &quot;2000&quot;^^xsd:gYear</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andra_(singer) | genre | Pop_music</mtriple>
+        <mtriple>Andra_(singer) | activeYearsStartYear | 2000</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Andra began her Pop music singing career in 2000.</lex>
+      <lex comment="good" lid="Id2" lang="en">Andra is a pop singer who started in 2000.</lex>
+      <lex comment="good" lid="Id3" lang="en">Andra began her singing career in 2000 and sings pop music.</lex>
+      <lex comment="good" lid="Id1" lang="it">Andra ha iniziato la sua carriera di cantante di musica pop nel 2000.</lex>
+      <lex comment="good" lid="Id2" lang="it">Andra è una cantante pop che ha esordito nel 2000.</lex>
+      <lex comment="good" lid="Id3" lang="it">Andra ha iniziato la sua carriera di cantante nel 2000 e canta musica pop.</lex>
+    </entry>
+    <entry category="Artist" eid="Id23" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Andra_(singer) | genre | Pop_music</otriple>
+        <otriple>Andra_(singer) | background | &quot;solo_singer&quot;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Andra_(singer) | genre | Pop_music</otriple>
+        <otriple>Andra_(singer) | background | &quot;solo_singer&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andra_(singer) | genre | Pop_music</mtriple>
+        <mtriple>Andra_(singer) | background | &quot;solo_singer&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Andra began her career as a solo singer and she sings pop music.</lex>
+      <lex comment="good" lid="Id2" lang="en">Andra began her career as a solo singer and sings pop music.</lex>
+      <lex comment="good" lid="Id3" lang="en">Andra is a solo singer who performs pop music.</lex>
+      <lex comment="good" lid="Id1" lang="it">Andra ha iniziato la sua carriera come cantante solista e canta musica pop.</lex>
+      <lex comment="good" lid="Id2" lang="it">Andra ha iniziato la sua carriera come cantante solista e canta musica pop.</lex>
+      <lex comment="good" lid="Id3" lang="it">Andra è una cantante solista che esegue musica pop.</lex>
+    </entry>
+    <entry category="Artist" eid="Id24" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Andra_(singer) | genre | Pop_music</otriple>
+        <otriple>Pop_music | fusiongenres | Disco</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Andra_(singer) | genre | Pop_music</otriple>
+        <otriple>Pop_music | musicFusionGenre | Disco</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andra_(singer) | genre | Pop_music</mtriple>
+        <mtriple>Pop_music | musicFusionGenre | Disco</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Disco can be considered a fusion genre as it contains elements of other genres such as pop music which is performed by Andra (singer).</lex>
+      <lex comment="good" lid="Id2" lang="en">Disco music is a fusion genre of pop music, the genre of singer, Andra.</lex>
+      <lex comment="good" lid="Id3" lang="en">Andra sings pop music, a fusion genre of pop music is disco music.</lex>
+      <lex comment="good" lid="Id1" lang="it">La discoteca può essere considerata un genere fusion in quanto contiene elementi di altri generi, come la musica pop che viene eseguita da Andra (cantante).</lex>
+      <lex comment="good" lid="Id2" lang="it">La disco music è un genere fusion di musica pop, il genere della cantante Andra.</lex>
+      <lex comment="good" lid="Id3" lang="it">Andra canta musica pop, un genere fusion della musica pop è la disco music.</lex>
+    </entry>
+    <entry category="Artist" eid="Id25" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Andrew_Rayel | associatedBand | Jonathan_Mendelsohn</otriple>
+        <otriple>Andrew_Rayel | associatedMusicalArtist | Mark_Sixma</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Jonathan_Mendelsohn</mtriple>
+        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Mark_Sixma</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Andrew Rayel is associated with both musical artist Jonathan Mendelsohn and Mark Sixma.</lex>
+      <lex comment="good" lid="Id2" lang="en">Andrew Rayel has worked musically with Jonathan Mendelsohn and Mark Sixma.</lex>
+      <lex comment="good" lid="Id3" lang="en">Andrew Rayel is associated with Jonathan Mendelsohn and Mark Sixma.</lex>
+      <lex comment="good" lid="Id1" lang="it">Andrew Rayel è associato all'artista musicale Jonathan Mendelsohn e a Mark Sixma.</lex>
+      <lex comment="good" lid="Id2" lang="it">Andrew Rayel ha collaborato musicalmente con Jonathan Mendelsohn e Mark Sixma.</lex>
+      <lex comment="good" lid="Id3" lang="it">Andrew Rayel è associato a Jonathan Mendelsohn e Mark Sixma.</lex>
+    </entry>
+    <entry category="Artist" eid="Id26" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Andrew_Rayel | associatedBand | Mark_Sixma</otriple>
+        <otriple>Andrew_Rayel | associatedMusicalArtist | Christian_Burns</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Mark_Sixma</mtriple>
+        <mtriple>Andrew_Rayel | associatedBand/associatedMusicalArtist | Christian_Burns</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Musicians Andrew Rayel, who is associated with Christian Burns, and Mark Sixma are associates.</lex>
+      <lex comment="good" lid="Id2" lang="en">The musicians Andrew Rayel and Christian Burns are associates and they worked with Mark Sixma.</lex>
+      <lex comment="good" lid="Id3" lang="en">Musicians, Andrew Rayel, Christian Burns and Mark Sixma, are associates.</lex>
+      <lex comment="good" lid="Id1" lang="it">I musicisti Andrew Rayel, associato a Christian Burns, e Mark Sixma sono associati.</lex>
+      <lex comment="good" lid="Id2" lang="it">I musicisti Andrew Rayel e Christian Burns sono associati e hanno lavorato con Mark Sixma.</lex>
+      <lex comment="good" lid="Id3" lang="it">I musicisti Andrew Rayel, Christian Burns e Mark Sixma sono associati.</lex>
+    </entry>
+    <entry category="Artist" eid="Id27" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Andrew_White_(musician) | associatedMusicalArtist | Marry_Banilow</otriple>
+        <otriple>Andrew_White_(musician) | genre | Alternative_rock</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Andrew_White_(musician) | associatedBand | Marry_Banilow</otriple>
+        <otriple>Andrew_White_(musician) | genre | Alternative_rock</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andrew_White_(musician) | associatedBand/associatedMusicalArtist | Marry_Banilow</mtriple>
+        <mtriple>Andrew_White_(musician) | genre | Alternative_rock</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Andrew White whose genre is alternative rock, is associated with the musical artist Marry Banilow.</lex>
+      <lex comment="good" lid="Id2" lang="en">Andrew White is and alternative rock musician who is associated with Marry Banilow.</lex>
+      <lex comment="good" lid="Id3" lang="en">Andrew White, whose genre is alternative rock, is associated with the musical artist Marry Banilow.</lex>
+      <lex comment="good" lid="Id1" lang="it">Andrew White, il cui genere è rock alternativo, è associato all'artista musicale Marry Banilow.</lex>
+      <lex comment="good" lid="Id2" lang="it">Andrew White è un musicista rock alternativo associato ai Marry Banilow.</lex>
+      <lex comment="good" lid="Id3" lang="it">Andrew White, il cui genere è il rock alternativo, è associato all'artista musicale Marry Banilow.</lex>
+    </entry>
+    <entry category="Artist" eid="Id28" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Uruguay | leaderName | Tabaré_Vázquez</otriple>
+        <otriple>Alfredo_Zitarrosa | birthPlace | Uruguay</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Uruguay | leader | Tabaré_Vázquez</mtriple>
+        <mtriple>Alfredo_Zitarrosa | birthPlace | Uruguay</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Alfredo Zitarrosa was born in Tabaré Vázquez led Uruguay.</lex>
+      <lex comment="good" lid="Id2" lang="en">Alfredo Zitarrosa's birthplace was Uruguay where the leader is Tabaré Vázquez.</lex>
+      <lex comment="good" lid="Id3" lang="en">Tabare Vazquez is the leader of Uruguay where Alfredo Zitarrosa was born.</lex>
+      <lex comment="good" lid="Id1" lang="it">Alfredo Zitarrosa è nato a Tabaré Vázquez, in Uruguay.</lex>
+      <lex comment="good" lid="Id2" lang="it">Alfredo Zitarrosa è nato in Uruguay, dove il leader è Tabaré Vázquez.</lex>
+      <lex comment="good" lid="Id3" lang="it">Tabare Vazquez è il leader dell'Uruguay dove è nato Alfredo Zitarrosa.</lex>
+    </entry>
+  </entries>
+</benchmark>

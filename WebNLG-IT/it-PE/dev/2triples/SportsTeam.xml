@@ -1,0 +1,435 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="SportsTeam" eid="Id1" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>A.C._Cesena | league | Serie_B</otriple>
+        <otriple>Serie_B | champions | Carpi_F.C._1909</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Cesena | league | Serie_B</mtriple>
+        <mtriple>Serie_B | champions | Carpi_F.C._1909</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">AC Cesena are in the Serie B league, the previous champions of which are Carpi FC 1909.</lex>
+      <lex comment="good" lid="Id2" lang="en">A.C. Cesena play in Serie B, in which Carpi FC 1909 are the champions.</lex>
+      <lex comment="good" lid="Id3" lang="en">AC Cesena are in the Serie B league, previously won by Carpi F.C. 1909.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'AC Cesena milita nel campionato di Serie B, i cui precedenti campioni sono il Carpi FC 1909.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'A.C. Cesena gioca in Serie B, dove il Carpi FC 1909 è campione.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'AC Cesena milita nel campionato di Serie B, precedentemente vinto dal Carpi F.C. 1909.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'AC Cesena milita nel campionato di Serie B, i cui precedenti campioni sono il Carpi FC 1909.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'A.C. Cesena gioca in Serie B, dove il Carpi FC 1909 è campione.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">L'AC Cesena milita nel campionato di Serie B, precedentemente vinto dal Carpi F.C. 1909.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>A.C._Chievo_Verona | ground | Stadio_Marc'Antonio_Bentegodi</otriple>
+        <otriple>A.C._Chievo_Verona | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Chievo_Verona | ground | Stadio_Marc'Antonio_Bentegodi</mtriple>
+        <mtriple>A.C._Chievo_Verona | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">AC Chievo Verona play in the Serie A league and their home ground is Stadio Marc'Antonio Bentegodi.</lex>
+      <lex comment="good" lid="Id2" lang="en">The home ground of A.C. Chievo Verona is Stadio Marc'Antonio Bentegodi and the club is in the league, Serie A.</lex>
+      <lex comment="good" lid="Id3" lang="en">The home ground of A.C. Chievo Verona is Stadio Marc'Antonio Bentegodi, he played in Serie A.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'AC Chievo Verona gioca nel campionato di Serie A e il suo campo di gioco è lo Stadio Marc'Antonio Bentegodi.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il terreno di gioco dell'A.C. Chievo Verona è lo Stadio Marc'Antonio Bentegodi e il club milita nel campionato di Serie A.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il terreno di gioco dell'A.C. Chievo Verona è lo Stadio Marc'Antonio Bentegodi, in cui ha giocato in Serie A.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'A.C Chievo Verona gioca nel campionato di Serie A e il suo campo di gioco è lo Stadio Marcantonio Bentegodi.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Il terreno di gioco dell'A.C. Chievo Verona è lo Stadio Marcantonio Bentegodi e la squadra milita nel campionato di Serie A.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Il terreno di gioco dell'A.C. Chievo Verona è lo Stadio Marcantonio Bentegodi, in cui ha giocato in Serie A.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id3" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>A.C._Lumezzane | ground | Italy</otriple>
+        <otriple>Italy | leader | Pietro_Grasso</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Lumezzane | ground | Italy</mtriple>
+        <mtriple>Italy | leader | Pietro_Grasso</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">A.C. Lumezzane's ground is in Italy where the leader is Pietro Grasso.</lex>
+      <lex comment="good" lid="Id2" lang="en">A.C. Lumezzane play in italy where the leader is Pietro Grasso.</lex>
+      <lex comment="good" lid="Id3" lang="en">A.C. Lumezzane play in Italy, where the leader is Pietro Grasso.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il terreno dell'A.C. Lumezzane è in Italia, dove il leader è Pietro Grasso.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'A.C. Lumezzane gioca in Italia dove il leader è Pietro Grasso.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'A.C. Lumezzane gioca in Italia, dove il leader è Pietro Grasso.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il terreno dell'A.C. Lumezzane è in Italia, dove il leader è Pietro Grasso.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'A.C. Lumezzane gioca in Italia dove il leader è Pietro Grasso.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">L'A.C. Lumezzane gioca in Italia, dove il leader è Pietro Grasso.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id4" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez</otriple>
+        <otriple>Jorge_Humberto_Rodríguez | team | C.D._FAS</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.D._Isidro_Metapán | manager | Jorge_Humberto_Rodríguez</mtriple>
+        <mtriple>Jorge_Humberto_Rodríguez | club | C.D._FAS</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Jorge Humberto Rodríguez manages the A.D. Isidro Metapan, he played for the C.D. FAS.</lex>
+      <lex comment="good" lid="Id2" lang="en">Jorge Humberto Rodriguez manages A.D. Isidro Metapan. He is in the C.D. FAS.</lex>
+      <lex comment="good" lid="Id3" lang="en">Jorge Humberto Rodríguez manages the A.D. Isidro Metapan and plays for C.D. FAS.</lex>
+      <lex comment="good" lid="Id1" lang="it">Jorge Humberto Rodríguez gestisce l'A.D. Isidro Metapan, ha giocato nel C.D. FAS.</lex>
+      <lex comment="good" lid="Id2" lang="it">Jorge Humberto Rodriguez gestisce l'A.D. Isidro Metapan. È nel C.D. FAS.</lex>
+      <lex comment="good" lid="Id3" lang="it">Jorge Humberto Rodríguez gestisce l'A.D. Isidro Metapan e gioca per il C.D. FAS.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Jorge Humberto Rodríguez allena l'A.D. Isidro Metapán, ha giocato nel C.D. FAS.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Jorge Humberto Rodriguez allena l'A.D. Isidro Metapán. È nel C.D. FAS.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Jorge Humberto Rodríguez allena l'A.D. Isidro Metapán e gioca per il C.D. FAS.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id5" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | capacity | &quot;1500&quot;^^xsd:nonNegativeInteger</otriple>
+        <otriple>A.E_Dimitra_Efxeinoupolis | league | A_EPSTH_2nd_GROUP</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | capacity | 1500</otriple>
+        <otriple>A.E_Dimitra_Efxeinoupolis | league | A_EPSTH_2nd_GROUP</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | numberOfMembers | 1500</mtriple>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | league | A_EPSTH_2nd_GROUP</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">A.E. Dimitra Efxeinoupolis has 1500 members and is in the EPSTH 2nd GROUP league.</lex>
+      <lex comment="good" lid="Id2" lang="en">With 1500 members, A.E Dimitra Efxeinoupolis, play in the A EPSTH 2nd GROUP.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'A.E. Dimitra Efxeinoupolis ha 1500 membri e milita nel campionato EPSTH 2nd GROUP.</lex>
+      <lex comment="good" lid="Id2" lang="it">Con 1500 membri, l'A.E Dimitra Efxeinoupolis gioca nel 2° gruppo A EPSTH.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'A.E. Dimitra Efxeinoupolis ha 1500 membri e milita nel campionato EPSTH 2nd GROUP.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Con 1500 membri, l'A.E Dimitra Efxeinoupolis gioca nel 2° gruppo A EPSTH.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id6" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</otriple>
+        <otriple>Stuart_Parker_(footballer) | team | Runcorn_F.C._Halton</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</mtriple>
+        <mtriple>Stuart_Parker_(footballer) | club | Runcorn_F.C._Halton</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The manager of A.F.C. Blackpool is Stuart Parker (footballer) who plays for Runcorn F.C. Halton.</lex>
+      <lex comment="good" lid="Id2" lang="en">AFC Blackpool have had Stuart Parker as their manager who was a football player for Runcorn FC Halton.</lex>
+      <lex comment="good" lid="Id3" lang="en">The manager of A.F.C. Blackpool is Stuart Parker (footballer), he played for Runcorn FC Halton.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il manager dell'A.F.C. Blackpool è Stuart Parker (calciatore) che gioca nel Runcorn F.C. Halton.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'AFC Blackpool ha avuto come manager Stuart Parker, che è stato un calciatore del Runcorn FC Halton.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il manager dell'A.F.C. Blackpool è Stuart Parker (calciatore), ha giocato nel Runcorn FC Halton.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'allenatore dell'A.F.C. Blackpool è Stuart Parker (calciatore) che gioca nel Runcorn F.C. Halton.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">L'AFC Blackpool ha avuto come allenatore Stuart Parker, che è stato un calciatore del Runcorn FC Halton.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">L'allenatore dell'A.F.C. Blackpool è Stuart Parker (calciatore), ha giocato nel Runcorn FC Halton.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id7" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</otriple>
+        <otriple>Stuart_Parker_(footballer) | team | Sparta_Rotterdam</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Blackpool | manager | Stuart_Parker_(footballer)</mtriple>
+        <mtriple>Stuart_Parker_(footballer) | club | Sparta_Rotterdam</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The manager of A.F.C. Blackpool is Stuart Parker (footballer), who plays at the Sparta Rotterdam club.</lex>
+      <lex comment="good" lid="Id2" lang="en">Stuart Parker, who plays at the Sparta Rotterdam Club, has also managed AFC Blackpool.</lex>
+      <lex comment="good" lid="Id3" lang="en">AFC Blackpool have had the manager Stuart Parker who currently plays for Sparta Rotterdam.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il manager dell'A.F.C. Blackpool è Stuart Parker (calciatore), che gioca nello Sparta Rotterdam.</lex>
+      <lex comment="good" lid="Id2" lang="it">Stuart Parker, che gioca nel club Sparta Rotterdam, ha diretto anche l'AFC Blackpool.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'AFC Blackpool ha avuto come manager Stuart Parker, che attualmente gioca per lo Sparta Rotterdam.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'allenatore dell'A.F.C. Blackpool è Stuart Parker (calciatore), che gioca nello Sparta Rotterdam.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Stuart Parker, che gioca nel club Sparta Rotterdam, ha diretto anche l'AFC Blackpool.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">L'AFC Blackpool ha avuto come allenatore Stuart Parker, che attualmente gioca per lo Sparta Rotterdam.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id8" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>A.F.C._Fylde | ground | The_Fylde</otriple>
+        <otriple>A.F.C._Fylde | capacity | &quot;3180&quot;^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Fylde | ground | The_Fylde</mtriple>
+        <mtriple>A.F.C._Fylde | numberOfMembers | 3180</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">AFC Fylde has the home ground called The Fylde and has 3180 members.</lex>
+      <lex comment="good" lid="Id2" lang="en">AFC Fylde has the home ground called The Fylde, which holds 3180 fans.</lex>
+      <lex comment="good" lid="Id3" lang="en">The Fylde, (capacity 3180) is the home ground of AFC Fylde.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'AFC Fylde ha il campo di casa chiamato The Fylde e conta 3180 membri.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'AFC Fylde ha un campo di casa chiamato The Fylde, che ospita 3180 tifosi.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il Fylde, (capienza 3180) è il campo di casa dell'AFC Fylde.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'AFC Fylde ha il campo di casa chiamato The Fylde e conta 3180 membri.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'AFC Fylde ha un campo di casa chiamato The Fylde, che ospita 3180 tifosi.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il Fylde, (capienza 3180) è il campo di casa dell'AFC Fylde.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id9" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>A.F.C._Fylde | capacity | &quot;3180&quot;^^xsd:nonNegativeInteger</otriple>
+        <otriple>A.F.C._Fylde | ground | &quot;Bryning Lane&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Fylde | numberOfMembers | 3180</mtriple>
+        <mtriple>A.F.C._Fylde | ground | &quot;Bryning Lane&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">A.F.C. Fylde has 3180 members and are based at Bryning Lane.</lex>
+      <lex comment="good" lid="Id2" lang="en">AFC Fylde has 3180 members and are based at Bryning Lane.</lex>
+      <lex comment="good" lid="Id3" lang="en">A.F.C. Fylde are based at Bryning Lane and they have 3180 members.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'A.F.C. Fylde conta 3180 membri e ha sede a Bryning Lane.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'AFC Fylde conta 3180 membri e ha sede a Bryning Lane.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'A.F.C. Fylde ha sede a Bryning Lane e conta 3180 soci.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'A.F.C. Fylde conta 3180 membri e ha sede a Bryning Lane.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'AFC Fylde conta 3180 membri e ha sede a Bryning Lane.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">L'A.F.C. Fylde ha sede a Bryning Lane e conta 3180 soci.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id10" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>A.S._Livorno_Calcio | manager | Christian_Panucci</otriple>
+        <otriple>Christian_Panucci | team | Italy_national_football_team</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Livorno_Calcio | manager | Christian_Panucci</mtriple>
+        <mtriple>Christian_Panucci | club | Italy_national_football_team</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">A.S. Livorno Calcio is managed by Christian Panucci who plays for the Italy national football team.</lex>
+      <lex comment="good" lid="Id2" lang="en">A.S. Livorno Calcio are managed by Christian Panucci who played for the Italy national football team.</lex>
+      <lex comment="good" lid="Id3" lang="en">A.S. Livorno Calcio is managed by Christian Panucci who previously played for the Italian national football team.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'A.S. Livorno Calcio è gestito da Christian Panucci, che gioca nella Nazionale italiana di calcio.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'A.S. Livorno Calcio è diretto da Christian Panucci, che ha giocato nella Nazionale italiana di calcio.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'A.S. Livorno Calcio è diretto da Christian Panucci, che in passato ha giocato nella Nazionale italiana di calcio.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'A.S. Livorno Calcio è gestito da Christian Panucci, che gioca nella Nazionale italiana di calcio.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'A.S. Livorno Calcio è diretto da Christian Panucci, che ha giocato nella Nazionale italiana di calcio.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">L'A.S. Livorno Calcio è diretto da Christian Panucci, che in passato ha giocato nella Nazionale italiana di calcio.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id11" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>A.S._Roma | ground | &quot;Rome, Italy&quot;@en</otriple>
+        <otriple>A.S._Roma | league | Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Roma | ground | &quot;Rome, Italy&quot;</mtriple>
+        <mtriple>A.S._Roma | league | Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Grounds being in Rome, Italy, A.S. Roma to play in Serie A.</lex>
+      <lex comment="good" lid="Id2" lang="en">A.S. Roma play in the Serie A league and their ground is in Rome, Italy.</lex>
+      <lex comment="good" lid="Id3" lang="en">A.S. Roma's ground is in Rome, Italy and they play in Serie A.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il terreno di gioco è a Roma, in Italia, l'A.S. Roma gioca in Serie A.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'A.S. Roma gioca nel campionato di Serie A e la sua sede è a Roma, in Italia.</lex>
+      <lex comment="good" lid="Id3" lang="it">La sede dell'A.S. Roma si trova a Roma, in Italia, e gioca in Serie A.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il terreno di gioco è a Roma, in Italia, l'A.S. Roma gioca in Serie A.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'A.S. Roma gioca nel campionato di Serie A e la sua sede è a Roma, in Italia.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">La sede dell'A.S. Roma si trova a Roma, in Italia, e gioca in Serie A.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id12" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>ACF_Fiorentina | league | Serie_A</otriple>
+        <otriple>Serie_A | country | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ACF_Fiorentina | league | Serie_A</mtriple>
+        <mtriple>Serie_A | country | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">ACF Fiorentina play in Serie A which is based in Italy.</lex>
+      <lex comment="good" lid="Id2" lang="en">ACF Fiorentina play in Serie A based in Italy.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'ACF Fiorentina gioca in Serie A, con sede in Italia.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'ACF Fiorentina gioca in Serie A con sede in Italia.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'ACF Fiorentina gioca in Serie A, con sede in Italia.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'ACF Fiorentina gioca in Serie A con sede in Italia.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id13" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>AFC_Ajax | manager | Frank_de_Boer</otriple>
+        <otriple>Frank_de_Boer | team | Ajax_Youth_Academy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax | manager | Frank_de_Boer</mtriple>
+        <mtriple>Frank_de_Boer | club | Ajax_Youth_Academy</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The manager of AFC Ajax is Frank de Boer who is in the Ajax Youth Academy.</lex>
+      <lex comment="good" lid="Id2" lang="en">AFC Ajax's manager is Frank de Boer, who played for the Ajax Youth Academy.</lex>
+      <lex comment="good" lid="Id3" lang="en">Frank de Boer is in the Ajax Youth Academy and manages AFC Ajax.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il manager dell'AFC Ajax è Frank de Boer, che fa parte dell'Accademia giovanile dell'Ajax.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il manager dell'AFC Ajax è Frank de Boer, che ha giocato nelle giovanili dell'Ajax.</lex>
+      <lex comment="good" lid="Id3" lang="it">Frank de Boer fa parte dell'Accademia giovanile dell'Ajax e gestisce l'AFC Ajax.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'allenatore dell'AFC Ajax è Frank de Boer, che fa parte dell'Accademia giovanile dell'Ajax.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">L'allenatore dell'AFC Ajax è Frank de Boer, che ha giocato nelle giovanili dell'Ajax.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Frank de Boer fa parte dell'Accademia giovanile dell'Ajax e gestisce l'AFC Ajax.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id14" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>AFC_Ajax | owner | &quot;AFC Ajax NV&quot;@en</otriple>
+        <otriple>AFC_Ajax | capacity | &quot;53502&quot;^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AFC_Ajax | owner | AFC_Ajax_N.V.</otriple>
+        <otriple>AFC_Ajax | capacity | 53502</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AFC_Ajax | owner | AFC_Ajax_N.V.</otriple>
+        <otriple>AFC_Ajax | capacity | &quot;53502&quot;^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax | owner | AFC_Ajax_N.V.</mtriple>
+        <mtriple>AFC_Ajax | numberOfMembers | 53502</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">AFC Ajax has 53502 members and is the owner of AFC Ajax NV.</lex>
+      <lex comment="good" lid="Id2" lang="en">AFC Ajax has 53502 members and is owned by AFC Ajax NV.</lex>
+      <lex comment="good" lid="Id3" lang="en">AFC Ajax has 53502 members and is owned by AFC Ajax N.V.</lex>
+      <lex comment="good" lid="Id1" lang="it">AFC Ajax ha 53502 membri ed è il proprietario di AFC Ajax NV.</lex>
+      <lex comment="good" lid="Id2" lang="it">AFC Ajax ha 53502 membri ed è di proprietà di AFC Ajax NV.</lex>
+      <lex comment="good" lid="Id3" lang="it">AFC Ajax ha 53502 membri ed è di proprietà di AFC Ajax N.V.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">AFC Ajax ha 53502 membri ed è il proprietario di AFC Ajax NV.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">AFC Ajax ha 53502 membri ed è di proprietà di AFC Ajax NV.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">AFC Ajax ha 53502 membri ed è di proprietà di AFC Ajax N.V.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id15" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | ground | Amsterdam</otriple>
+        <otriple>Amsterdam | leaderName | Eberhard_van_der_Laan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax_(amateurs) | ground | Amsterdam</mtriple>
+        <mtriple>Amsterdam | leader | Eberhard_van_der_Laan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">AFC Ajax is based in Amsterdam where the leader is Eberhard van der Laan.</lex>
+      <lex comment="good" lid="Id2" lang="en">The ground of AFC Ajax (amateurs) can be found in Amsterdam where Eberhard van der Laan is a leader.</lex>
+      <lex comment="good" lid="Id3" lang="en">AFC Ajax is based in Amsterdam where Eberhard van der Laan is a leader.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'AFC Ajax ha sede ad Amsterdam e il leader è Eberhard van der Laan.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il terreno dell'AFC Ajax (dilettanti) si trova ad Amsterdam, dove Eberhard van der Laan è un dirigente.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'AFC Ajax ha sede ad Amsterdam, dove Eberhard van der Laan è un dirigente.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'AFC Ajax ha sede ad Amsterdam e il leader è Eberhard van der Laan.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il terreno dell'AFC Ajax (dilettanti) si trova ad Amsterdam, dove Eberhard van der Laan è un dirigente.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">L'AFC Ajax ha sede ad Amsterdam, dove Eberhard van der Laan è un dirigente.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id16" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | capacity | &quot;5000&quot;^^xsd:nonNegativeInteger</otriple>
+        <otriple>AFC_Ajax_(amateurs) | season | 2014–15_Topklasse</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | season | 2014–15_Topklasse</otriple>
+        <otriple>AFC_Ajax_(amateurs) | capacity | 5000</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax_(amateurs) | season | 2014–15_Topklasse</mtriple>
+        <mtriple>AFC_Ajax_(amateurs) | numberOfMembers | 5000</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">AFC Ajax (amateurs), who have 5000 members, played in the Topklasse in the 2014-2015 season.</lex>
+      <lex comment="good" lid="Id2" lang="en">AFC Ajax (amateurs) have 5000 members and played in the Topklasse in the 2014-2015 season.</lex>
+      <lex comment="good" lid="Id3" lang="en">AFC Ajax (amateurs) played in the 2014-15 Topklasse season and their home ground has a capacity for 5000 fans.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'AFC Ajax (dilettanti), che conta 5000 membri, ha giocato nella Topklasse nella stagione 2014-2015.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'AFC Ajax (dilettanti) ha 5000 membri e ha giocato nella Topklasse nella stagione 2014-2015.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'AFC Ajax (dilettanti) ha giocato nella stagione 2014-15 in Topklasse e il suo campo di casa ha una capacità di 5000 tifosi.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'AFC Ajax (dilettanti), che conta 5000 membri, ha giocato nella Topklasse nella stagione 2014-2015.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'AFC Ajax (dilettanti) ha 5000 membri e ha giocato nella Topklasse nella stagione 2014-2015.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">L'AFC Ajax (dilettanti) ha giocato nella stagione 2014-15 in Topklasse e il suo campo di casa ha una capacità di 5000 tifosi.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id17" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>AZAL_Arena | location | Shuvalan</otriple>
+        <otriple>AZAL_PFK | ground | AZAL_Arena</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AZAL_Arena | location | Shuvalan</mtriple>
+        <mtriple>AZAL_PFK | ground | AZAL_Arena</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">AZAL PFK play their home matches at the AZAL Arena in Shuvalan.</lex>
+      <lex comment="good" lid="Id2" lang="en">The AZAL Arena is located in Shuvalan and is the ground of AZAL PFK.</lex>
+      <lex comment="good" lid="Id3" lang="en">The AZAL Arena in Shuvalan is the ground of AZAL PFK.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'AZAL PFK gioca le sue partite casalinghe all'AZAL Arena di Shuvalan.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'AZAL Arena si trova a Shuvalan ed è il campo dell'AZAL PFK.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'AZAL Arena di Shuvalan è il campo dell'AZAL PFK.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'AZAL PFK gioca le sue partite casalinghe all'AZAL Arena di Shuvalan.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'AZAL Arena si trova a Shuvalan ed è il campo dell'AZAL PFK.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">L'AZAL Arena di Shuvalan è il campo dell'AZAL PFK.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id18" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>AZ_Alkmaar | fullname | &quot;Alkmaar Zaanstreek&quot;@en</otriple>
+        <otriple>AZ_Alkmaar | capacity | &quot;17023&quot;^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AZ_Alkmaar | fullname | &quot;Alkmaar Zaanstreek&quot;@en</otriple>
+        <otriple>AZ_Alkmaar | capacity | 17023</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AZ_Alkmaar | fullName | &quot;Alkmaar Zaanstreek&quot;</mtriple>
+        <mtriple>AZ_Alkmaar | numberOfMembers | 17023</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">AZ Alkmaar's full name is Alkmaar Zaanstreek, it has 17023 members.</lex>
+      <lex comment="good" lid="Id2" lang="en">AZ Alkmaar has 17023 member and their full name is &quot;Alkmaar Zaanstreek&quot;.</lex>
+      <lex comment="good" lid="Id3" lang="en">Alkmaar Zaanstreek is the full name of AZ Alkmaar which has 17023 members.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il nome completo dell'AZ Alkmaar è Alkmaar Zaanstreek e conta 17023 membri.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'AZ Alkmaar ha 17023 membri e il loro nome completo è &quot;Alkmaar Zaanstreek&quot;.</lex>
+      <lex comment="good" lid="Id3" lang="it">Alkmaar Zaanstreek è il nome completo di AZ Alkmaar, che conta 17023 membri.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il nome completo dell'AZ Alkmaar è Alkmaar Zaanstreek e conta 17023 membri.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'AZ Alkmaar ha 17023 membri e il loro nome completo è &quot;Alkmaar Zaanstreek&quot;.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Alkmaar Zaanstreek è il nome completo di AZ Alkmaar, che conta 17023 membri.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id19" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca</otriple>
+        <otriple>Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Brazil</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agremiação_Sportiva_Arapiraquense | ground | Estádio_Municipal_Coaracy_da_Mata_Fonseca</mtriple>
+        <mtriple>Estádio_Municipal_Coaracy_da_Mata_Fonseca | location | Brazil</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Agremiacao Sportiva Arapiraquense's ground is the Estadio Municipal Coaracy da Mata Fonseca, its located in Brazil.</lex>
+      <lex comment="good" lid="Id2" lang="en">Estádio Municipal Coaracy da Mata Fonseca is located in Brazil and is the ground of Agremiação Sportiva Arapiraquense.</lex>
+      <lex comment="good" lid="Id3" lang="en">Estádio Municipal Coaracy da Mata Fonseca is the name of the ground of Agremiação Sportiva Arapiraquense which is in Brazil.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il campo di gioco dell'Agremiacao Sportiva Arapiraquense è l'Estadio Municipal Coaracy da Mata Fonseca, situato in Brasile.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Estádio Municipal Coaracy da Mata Fonseca si trova in Brasile ed è il campo dell'Agremiação Sportiva Arapiraquense.</lex>
+      <lex comment="good" lid="Id3" lang="it">Estádio Municipal Coaracy da Mata Fonseca è il nome del campo dell'Agremiação Sportiva Arapiraquense che si trova in Brasile.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il campo di gioco dell'Agremiacao Sportiva Arapiraquense è l'Estadio Municipal Coaracy da Mata Fonseca, situato in Brasile.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'Estádio Municipal Coaracy da Mata Fonseca si trova in Brasile ed è il campo dell'Agremiação Sportiva Arapiraquense.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Estádio Municipal Coaracy da Mata Fonseca è il nome del campo dell'Agremiação Sportiva Arapiraquense che si trova in Brasile.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id20" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Agremiação_Sportiva_Arapiraquense | capacity | &quot;17000&quot;^^xsd:nonNegativeInteger</otriple>
+        <otriple>Agremiação_Sportiva_Arapiraquense | fullname | &quot;Agremiação Sportiva Arapiraquense&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Agremiação_Sportiva_Arapiraquense | capacity | 17000</otriple>
+        <otriple>Agremiação_Sportiva_Arapiraquense | fullname | &quot;Agremiação Sportiva Arapiraquense&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agremiação_Sportiva_Arapiraquense | numberOfMembers | 17000</mtriple>
+        <mtriple>Agremiação_Sportiva_Arapiraquense | fullName | &quot;Agremiação Sportiva Arapiraquense&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Agremiação Sportiva Arapiraquense (which is his full name) has a club with 17000 members.</lex>
+      <lex comment="good" lid="Id2" lang="en">Agremiação Sportiva Arapiraquense's full name is &quot;Agremiação Sportiva Arapiraquense&quot; and they have 17000 members.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Agremiação Sportiva Arapiraquense (che è il suo nome completo) ha un club con 17000 soci.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il nome completo dell'Agremiação Sportiva Arapiraquense è &quot;Agremiação Sportiva Arapiraquense&quot; e conta 17000 membri.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'Agremiação Sportiva Arapiraquense (che è il suo nome completo) ha un club con 17000 soci.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il nome completo dell'Agremiação Sportiva Arapiraquense è &quot;Agremiação Sportiva Arapiraquense&quot; e conta 17000 membri.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id21" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | ground | Akron,_Ohio</otriple>
+        <otriple>Akron,_Ohio | country | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | ground | Akron,_Ohio</mtriple>
+        <mtriple>Akron,_Ohio | country | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The team Akron Summit Assault are based in Akron, Ohio, USA.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Akron Summit Assault team is based in Akron, Ohio which is in the U.S.</lex>
+      <lex comment="good" lid="Id3" lang="en">The Akron Summit Assault team is based in Akron, Ohio in the U.S.</lex>
+      <lex comment="good" lid="Id1" lang="it">La squadra Akron Summit Assault ha sede ad Akron, Ohio, USA.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il team Akron Summit Assault ha sede ad Akron, Ohio, negli Stati Uniti.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il team Akron Summit Assault ha sede ad Akron, Ohio, negli Stati Uniti.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La squadra Akron Summit Assault ha sede ad Akron, Ohio, USA.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il team Akron Summit Assault ha sede ad Akron, Ohio, negli Stati Uniti.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il team Akron Summit Assault ha sede ad Akron, Ohio, negli Stati Uniti.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id22" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Massimo_Drago | team | S.S._Chieti_Calcio</otriple>
+        <otriple>A.C._Cesena | manager | Massimo_Drago</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | S.S._Chieti_Calcio</mtriple>
+        <mtriple>A.C._Cesena | manager | Massimo_Drago</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Massimo Drago's club is the S.S. Chieti Calcio and he manages A.C. Cesena.</lex>
+      <lex comment="good" lid="Id2" lang="en">Massimo Drago manages A.C. Cesena and plays for S.S. Chieti Calcio.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il club di Massimo Drago è la S.S. Chieti Calcio e lui gestisce l'A.C. Cesena.</lex>
+      <lex comment="good" lid="Id2" lang="it">Massimo Drago dirige l'A.C. Cesena e gioca nella S.S. Chieti Calcio.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">La squadra di Massimo Drago è la S.S. Chieti Calcio e lui allena l'A.C. Cesena.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Massimo Drago dirige l'A.C. Cesena e gioca nella S.S. Chieti Calcio.</lex>
+    </entry>
+  </entries>
+</benchmark>

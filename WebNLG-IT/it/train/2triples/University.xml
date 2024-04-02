@@ -1,0 +1,621 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="University" eid="Id1" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+        <otriple>Romania | anthem | Deșteaptă-te,_române!</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
+        <mtriple>Romania | anthem | Deșteaptă-te,_române!</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">1 Decembrie 1918 University is located in Romania where the anthem is Deșteaptă-te, române!</lex>
+      <lex comment="good" lid="Id2" lang="en">The 1 Decembrie 1918 University is in Romania whose national anthem is Deșteaptă-te, române!</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Università 1 Decembrie 1918 si trova in Romania, dove l'inno è Deșteaptă-te, române!</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Università 1 dicembre 1918 si trova in Romania, il cui inno nazionale è Deșteaptă-te, române!</lex>
+    </entry>
+    <entry category="University" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | latinName | &quot;Universitas Apulensis&quot;@en</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1_Decembrie_1918_University | latinName | &quot;Universitas Apulensis&quot;</mtriple>
+        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The 1 Decembrie 1918 University of Romania has the latin name Universitas Apulensis.</lex>
+      <lex comment="good" lid="Id2" lang="en">1 Decembrie 1918 University 's latin name is Universitas Apulensis and is located in Romania.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Università della Romania del 1° dicembre 1918 ha il nome latino di Universitas Apulensis.</lex>
+      <lex comment="good" lid="Id2" lang="it">1 dicembre 1918 Il nome latino dell'Università è Universitas Apulensis e si trova in Romania.</lex>
+    </entry>
+    <entry category="University" eid="Id3" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | rector | &quot;Breaz Valer Daniel&quot;@en</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | city | Alba_Iulia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1_Decembrie_1918_University | rector | &quot;Breaz Valer Daniel&quot;</mtriple>
+        <mtriple>1_Decembrie_1918_University | city | Alba_Iulia</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Breaz Valer Daniel is the rector of the 1 Decembrie 1918 University in the city of Alba Iulia.</lex>
+      <lex comment="good" lid="Id2" lang="en">The 1 Decembrie 1918 University is situated in the city of Alba Iulia and the rector is Breaz Valer Daniel.</lex>
+      <lex comment="good" lid="Id1" lang="it">Breaz Valer Daniel è il rettore dell'Università 1 Decembrie 1918 nella città di Alba Iulia.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Università 1 Decembrie 1918 si trova nella città di Alba Iulia e il rettore è Breaz Valer Daniel.</lex>
+    </entry>
+    <entry category="University" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | state | Alba</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1_Decembrie_1918_University | state | Alba</mtriple>
+        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The 1 Decembrie 1918 University is situated in the state of Alba, Romania.</lex>
+      <lex comment="good" lid="Id2" lang="en">1 Decembrie 1918 University is in the state of Alba, Romania.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Università 1 Decembrie 1918 si trova nello stato di Alba, in Romania.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Università 1 Decembrie 1918 si trova nello stato di Alba, in Romania.</lex>
+    </entry>
+    <entry category="University" eid="Id5" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>AWH_Engineering_College | facultySize | &quot;250&quot;^^xsd:nonNegativeInteger</otriple>
+        <otriple>AWH_Engineering_College | city | &quot;Kuttikkattoor&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AWH_Engineering_College | academicStaffSize | 250</mtriple>
+        <mtriple>AWH_Engineering_College | city | &quot;Kuttikkattoor&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">There are 250 academic staff at the AWH Engineering College in the city of Kuttikkattoor.</lex>
+      <lex comment="good" lid="Id2" lang="en">AWH Engineering College in Kuttikkattoor has an academic staff size of 250 people.</lex>
+      <lex comment="good" lid="Id3" lang="en">AWH Engineering College has a staff size of 250 and is in the city of Kuttikkattoor.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il personale accademico dell'AWH Engineering College, nella città di Kuttikkattoor, è composto da 250 persone.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'AWH Engineering College di Kuttikkattoor ha uno staff accademico di 250 persone.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'AWH Engineering College ha un organico di 250 persone e si trova nella città di Kuttikkattoor.</lex>
+    </entry>
+    <entry category="University" eid="Id6" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>AWH_Engineering_College | country | India</otriple>
+        <otriple>AWH_Engineering_College | state | Kerala</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AWH_Engineering_College | country | India</mtriple>
+        <mtriple>AWH_Engineering_College | state | Kerala</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The AWH Engineering College is located in the state of Kerala, India.</lex>
+      <lex comment="good" lid="Id2" lang="en">AWH Engineering College is in the State of Kerala in India.</lex>
+      <lex comment="good" lid="Id3" lang="en">AWH Engineering College is situated in the state of Kerala, India.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'AWH Engineering College si trova nello stato del Kerala, in India.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'AWH Engineering College si trova nello Stato del Kerala, in India.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'AWH Engineering College si trova nello stato del Kerala, in India.</lex>
+    </entry>
+    <entry category="University" eid="Id7" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>AWH_Engineering_College | country | India</otriple>
+        <otriple>India | river | Ganges</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AWH_Engineering_College | country | India</mtriple>
+        <mtriple>India | river | Ganges</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">AWH Engineering College is located in India where the Ganges river flows.</lex>
+      <lex comment="good" lid="Id2" lang="en">AWH Engineering College is in India where the Ganges River can be found.</lex>
+      <lex comment="good" lid="Id3" lang="en">The biggest river of India is the Ganges. The AWH Engineering College is also located in India.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'AWH Engineering College si trova in India, dove scorre il fiume Gange.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'AWH Engineering College si trova in India, dove si trova il fiume Gange.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il fiume più grande dell'India è il Gange. Anche l'AWH Engineering College si trova in India.</lex>
+    </entry>
+    <entry category="University" eid="Id8" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>AWH_Engineering_College | established | 2001</otriple>
+        <otriple>AWH_Engineering_College | city | &quot;Kuttikkattoor&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AWH_Engineering_College | established | 2001</mtriple>
+        <mtriple>AWH_Engineering_College | city | &quot;Kuttikkattoor&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">In 2001 the AWH Engineering College was established in the city of Kuttikkattoor.</lex>
+      <lex comment="good" lid="Id2" lang="en">AWH Engineering College in Kuttikkattoor was established in 2001.</lex>
+      <lex comment="good" lid="Id3" lang="en">AWH Engineering College of the city Kuttikkattoor was established in 2001.</lex>
+      <lex comment="good" lid="Id1" lang="it">Nel 2001 è stato fondato l'AWH Engineering College nella città di Kuttikkattoor.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'AWH Engineering College di Kuttikkattoor è stato fondato nel 2001.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'AWH Engineering College della città di Kuttikkattoor è stato fondato nel 2001.</lex>
+    </entry>
+    <entry category="University" eid="Id9" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Accademia di Architettura di Mendrisio is located in the city of Mendrisio in Switzerland.</lex>
+      <lex comment="good" lid="Id2" lang="en">Accademia di Architettura di Mendrisio is in Mendrisio, Switzerland.</lex>
+      <lex comment="good" lid="Id3" lang="en">The Accademia di Architettura di Mendrisio is located in the city of Mendrisio, Switzerland.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Accademia di Architettura di Mendrisio si trova nella città di Mendrisio, in Svizzera.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Accademia di Architettura di Mendrisio è a Mendrisio, in Svizzera.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'Accademia di Architettura di Mendrisio si trova nella città di Mendrisio, in Svizzera.</lex>
+    </entry>
+    <entry category="University" eid="Id10" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</otriple>
+        <otriple>Switzerland | leaderName | Johann_Schneider-Ammann</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | country | Switzerland</mtriple>
+        <mtriple>Switzerland | leader | Johann_Schneider-Ammann</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Accademia di Architettura di Mendrisio is located in Switzerland where the leader of the country is Johann Schneider-Ammann.</lex>
+      <lex comment="good" lid="Id2" lang="en">Switzerland, which is home to Accademia di Architettura di Mendrisio, is led by Johann Schneider-Ammann.</lex>
+      <lex comment="good" lid="Id3" lang="en">Accademia di Architettura di Mendrisio is located in Switzerland and the leader is Johann Schneider-Ammann.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Accademia di Architettura di Mendrisio si trova in Svizzera, dove il leader del Paese è Johann Schneider-Ammann.</lex>
+      <lex comment="good" lid="Id2" lang="it">La Svizzera, che ospita l'Accademia di Architettura di Mendrisio, è guidata da Johann Schneider-Ammann.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'Accademia di Architettura di Mendrisio si trova in Svizzera e il suo direttore è Johann Schneider-Ammann.</lex>
+    </entry>
+    <entry category="University" eid="Id11" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | faculty | 100</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Mario Botta is dean of the Accademia di Architettura di Mendrisio where there is an academic staff of 100.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Dean of Accademia di Architettura di Mendrisio is Mario Botta and the school has an academic staff size of 100 people.</lex>
+      <lex comment="good" lid="Id3" lang="en">The Accademia di Architettura di Mendrisio has an academic staff of 100 and the dean is called Mario Botta.</lex>
+      <lex comment="good" lid="Id1" lang="it">Mario Botta è rettore dell'Accademia di Architettura di Mendrisio, dove il personale accademico conta 100 persone.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il preside dell'Accademia di Architettura di Mendrisio è Mario Botta e lo staff accademico della scuola è composto da 100 persone.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'Accademia di Architettura di Mendrisio ha un corpo accademico di 100 persone e il rettore si chiama Mario Botta.</lex>
+    </entry>
+    <entry category="University" eid="Id12" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Accademia di Architettura di Mendrisio was established in 1996 and the dean is Mario Botta.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Dean of Accademia di Architettura di Mendrisio, which was created in 1996, is Mario Botta.</lex>
+      <lex comment="good" lid="Id3" lang="en">Mario Botta is Dean of the Accademia di Architettura di Mendrisio which was established in 1996.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Accademia di Architettura di Mendrisio è stata fondata nel 1996 e il preside è Mario Botta.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il decano dell'Accademia di Architettura di Mendrisio, creata nel 1996, è Mario Botta.</lex>
+      <lex comment="good" lid="Id3" lang="it">Mario Botta è decano dell'Accademia di Architettura di Mendrisio, istituita nel 1996.</lex>
+    </entry>
+    <entry category="University" eid="Id13" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | students | 600</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | established | 1996</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The number of students at the Accademia di Architettura di Mendrisio which was established in 1996, is 600.</lex>
+      <lex comment="good" lid="Id2" lang="en">Accademia di Architettura di Mendrisio, which has 600 students, was established in 1996.</lex>
+      <lex comment="good" lid="Id3" lang="en">Accademia di Architettura di Mendrisio was established in 1996 and has 600 students.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il numero di studenti dell'Accademia di Architettura di Mendrisio, istituita nel 1996, è di 600 unità.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Accademia di Architettura di Mendrisio, che conta 600 studenti, è stata fondata nel 1996.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'Accademia di Architettura di Mendrisio è stata fondata nel 1996 e conta 600 studenti.</lex>
+    </entry>
+    <entry category="University" eid="Id14" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | academicStaff | &quot;~500&quot;@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | motto | &quot;Nurturing Excellence&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | academicStaffSize | &quot;~500&quot;</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | motto | &quot;Nurturing Excellence&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The motto of the Acharya Institute of Technology is &quot;Nurturing Excellence&quot; and there is an academic staff of 500.</lex>
+      <lex comment="good" lid="Id2" lang="en">The motto of Acharya Institute of Technology, which has about 500 employees, is Nurturing Excellence.</lex>
+      <lex comment="good" lid="Id3" lang="en">Acharya Institute of Technology has an academic staff size of 500 and their motto is Nurturing Excellence.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il motto dell'Acharya Institute of Technology è &quot;Nutrire l'eccellenza&quot; e il personale accademico è composto da 500 persone.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il motto dell'Acharya Institute of Technology, che conta circa 500 dipendenti, è &quot;coltivare l'eccellenza&quot;.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'Acharya Institute of Technology ha uno staff accademico di 500 persone e il suo motto è Nurturing Excellence.</lex>
+    </entry>
+    <entry category="University" eid="Id15" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</otriple>
+        <otriple>Acharya_Institute_of_Technology | state | Karnataka</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | state | Karnataka</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Located in the state of Karnataka, Acharya Institute of Technology is an affiliate of Visvesvaraya Technological University.</lex>
+      <lex comment="good" lid="Id2" lang="en">Acharya Institute of Technology in Karnataka is affiliated with Visvesvaraya Technological University.</lex>
+      <lex comment="good" lid="Id1" lang="it">Situato nello stato del Karnataka, l'Acharya Institute of Technology è un'affiliata della Visvesvaraya Technological University.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Acharya Institute of Technology di Karnataka è affiliato alla Visvesvaraya Technological University.</lex>
+    </entry>
+    <entry category="University" eid="Id16" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | city | Bangalore</otriple>
+        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | city | Bangalore</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Acharya Institute of Technology in Bangalore is affiliated with Visvesvaraya Technological University.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Acharya Institute of Technology, in the city of Bangalore, is affiliated with Visvesvaraya Technological University.</lex>
+      <lex comment="good" lid="Id3" lang="en">Acharya Institute of Technology in Bangalore is affiliated with Visvesvaraya Technological University.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Acharya Institute of Technology di Bangalore è affiliato alla Visvesvaraya Technological University.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Acharya Institute of Technology, nella città di Bangalore, è affiliato alla Visvesvaraya Technological University.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'Acharya Institute of Technology di Bangalore è affiliato alla Visvesvaraya Technological University.</lex>
+    </entry>
+    <entry category="University" eid="Id17" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | country | &quot;India&quot;@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | affiliations | Visvesvaraya_Technological_University</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | country | &quot;India&quot;</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | affiliation | Visvesvaraya_Technological_University</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Acharya Institute of Technology in India is affiliated with the Visvesvaraya Technological University.</lex>
+      <lex comment="good" lid="Id2" lang="en">Acharya Institute of Technology in India is affiliated with Visvesvaraya Technological University.</lex>
+      <lex comment="good" lid="Id3" lang="en">Acharya Institute of Technology is affiliated with Visvesvaraya Technological University in India.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Acharya Institute of Technology in India è affiliato alla Visvesvaraya Technological University.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Acharya Institute of Technology in India è affiliato alla Visvesvaraya Technological University.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'Acharya Institute of Technology è affiliato alla Visvesvaraya Technological University in India.</lex>
+    </entry>
+    <entry category="University" eid="Id18" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | established | 2000</otriple>
+        <otriple>Acharya_Institute_of_Technology | country | &quot;India&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | established | 2000</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | country | &quot;India&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Acharya Institute of Technology was established in India in 2000.</lex>
+      <lex comment="good" lid="Id2" lang="en">Acharya Institute of Technology in India was created in 2000.</lex>
+      <lex comment="good" lid="Id3" lang="en">Acharya Institute of Technology of India was established in the year 2000.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Acharya Institute of Technology è stato fondato in India nel 2000.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Acharya Institute of Technology in India è stato creato nel 2000.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'Acharya Institute of Technology of India è stato fondato nel 2000.</lex>
+    </entry>
+    <entry category="University" eid="Id19" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | undergrad | &quot;~10000&quot;@en</otriple>
+        <otriple>Acharya_Institute_of_Technology | country | &quot;India&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | numberOfUndergraduateStudents | 10000</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | country | &quot;India&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Acharya Institute of Technology of India has 10000 Undergraduate students.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Acharya Institute of Technology in India has 10000 undergraduate students.</lex>
+      <lex comment="good" lid="Id3" lang="en">Acharya Institute of Technology in India has 10000 Undergraduate students.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Acharya Institute of Technology of India ha 10000 studenti universitari.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Acharya Institute of Technology in India ha 10000 studenti universitari.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'Acharya Institute of Technology in India ha 10000 studenti universitari.</lex>
+    </entry>
+    <entry category="University" eid="Id20" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Acharya_Institute_of_Technology | outlook | 63</otriple>
+        <otriple>Acharya_Institute_of_Technology | colours | &quot;Blue, White and Orange&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Acharya_Institute_of_Technology | outlookRanking | 63</mtriple>
+        <mtriple>Acharya_Institute_of_Technology | officialSchoolColour | &quot;Blue, White and Orange&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Acharya Institute of Technology has the official school colours of blue, white and orange and has the Outlook Ranking of 63.</lex>
+      <lex comment="good" lid="Id2" lang="en">Acharya Institute of Technology's ranking is 63 and its school colors are Blue, White and Orange.</lex>
+      <lex comment="good" lid="Id3" lang="en">The outlook ranking of the Acharya Institute of Technology is 63, and the official school colours are blue, white and orange.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Acharya Institute of Technology ha i colori ufficiali della scuola: blu, bianco e arancione e ha un Outlook Ranking pari a 63.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il ranking dell'Acharya Institute of Technology è 63 e i colori della scuola sono blu, bianco e arancione.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'Acharya Institute of Technology ha un punteggio di 63 e i colori ufficiali della scuola sono il blu, il bianco e l'arancione.</lex>
+    </entry>
+    <entry category="University" eid="Id21" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Alba_Iulia | country | Romania</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | city | Alba_Iulia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alba_Iulia | country | Romania</mtriple>
+        <mtriple>1_Decembrie_1918_University | city | Alba_Iulia</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Alba Iulia in Romania is the location of the 1 Decembrie 1918 University.</lex>
+      <lex comment="good" lid="Id2" lang="en">1 Decembrie 1918 University is located in Alba Iulia in Romania.</lex>
+      <lex comment="good" lid="Id1" lang="it">Alba Iulia, in Romania, è la sede dell'Università 1 Decembrie 1918.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Università 1 Decembrie 1918 si trova ad Alba Iulia, in Romania.</lex>
+    </entry>
+    <entry category="University" eid="Id22" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Alba_Iulia | isPartOf | Alba_County</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | city | Alba_Iulia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alba_Iulia | isPartOf | Alba_County</mtriple>
+        <mtriple>1_Decembrie_1918_University | city | Alba_Iulia</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Alba Iulia is a part of Alba County and is the location of the 1 Decembrie 1918 University.</lex>
+      <lex comment="good" lid="Id2" lang="en">1 Decembrie 1918 University is located in Alba Iulia which is part of Alba County.</lex>
+      <lex comment="good" lid="Id1" lang="it">Alba Iulia fa parte della Contea di Alba ed è sede dell'Università 1 Decembrie 1918.</lex>
+      <lex comment="good" lid="Id2" lang="it">1 Decembrie 1918 L'Università si trova ad Alba Iulia, che fa parte della Contea di Alba.</lex>
+    </entry>
+    <entry category="University" eid="Id23" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Denmark | leaderName | Lars_Løkke_Rasmussen</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Denmark | leader | Lars_Løkke_Rasmussen</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Denmark | leader | Lars_Løkke_Rasmussen</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The leader of Denmark is Lars Lokke Rasmussen. Denmark is the home of the School of Business Studies and Social Sciences at the Aarhus University.</lex>
+      <lex comment="good" lid="Id2" lang="en">Denmark, which is home to the School of Business and Social Sciences at the Aarhus University, is led by Lars Løkke Rasmussen.</lex>
+      <lex comment="good" lid="Id3" lang="en">The School of Business and Social Sciences at the Aarhus University is located in the country of Denmark whose leader is Lars Løkke Rasmussen.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il leader della Danimarca è Lars Lokke Rasmussen. La Danimarca è la sede della Scuola di Studi Aziendali e Scienze Sociali dell'Università di Aarhus.</lex>
+      <lex comment="good" lid="Id2" lang="it">La Danimarca, che ospita la School of Business and Social Sciences dell'Università di Aarhus, è guidata da Lars Løkke Rasmussen.</lex>
+      <lex comment="good" lid="Id3" lang="it">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus si trova in Danimarca ed è guidata da Lars Løkke Rasmussen.</lex>
+    </entry>
+    <entry category="University" eid="Id24" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Mendrisio | neighboringMunicipalities | Meride</otriple>
+        <otriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Mendrisio | neighboringMunicipality | Meride</mtriple>
+        <mtriple>Accademia_di_Architettura_di_Mendrisio | city | Mendrisio</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Accademia di Architettura di Mendrisio is located in the city of Mendrisio; the neighboring municipality of Mendrisio is Meride.</lex>
+      <lex comment="good" lid="Id2" lang="en">Accademia di Architettura di Mendrisio in Mendrisio is bordered by the Municipality of Meride.</lex>
+      <lex comment="good" lid="Id3" lang="en">Accademia di Architettura di Mendrisio is located in Meride in Mendrisio.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Accademia di Architettura di Mendrisio si trova nella città di Mendrisio; il comune limitrofo di Mendrisio è Meride.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Accademia di Architettura di Mendrisio confina con il Comune di Meride.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'Accademia di Architettura di Mendrisio si trova a Meride a Mendrisio.</lex>
+    </entry>
+    <entry category="University" eid="Id25" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Romania | capital | Bucharest</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Romania | capital | Bucharest</mtriple>
+        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The 1 Decembrie 1918 University is located in Romania where the capital is Bucharest.</lex>
+      <lex comment="good" lid="Id2" lang="en">The 1 Decembrie 1918 University is located in the country of Romania, whose capital is Bucharest.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Università 1 Decembrie 1918 si trova in Romania, nella capitale Bucarest.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Università 1 Decembrie 1918 si trova in Romania, la cui capitale è Bucarest.</lex>
+    </entry>
+    <entry category="University" eid="Id26" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Romania | ethnicGroups | Germans_of_Romania</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Romania | ethnicGroup | Germans_of_Romania</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Romania | ethnicGroup | Germans_of_Romania</mtriple>
+        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The 1 Decembrie 1918 University is in Romania, which has an ethnic group called Germans of Romania.</lex>
+      <lex comment="good" lid="Id2" lang="en">The 1 Decembrie 1918 University is situated in Romania. It has a native ethnic group, Germans of Romania.</lex>
+      <lex comment="good" lid="Id3" lang="en">1 Decembrie 1918 University is located in Romania, where one of the ethnic groups is the Germans.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Università 1 Decembrie 1918 si trova in Romania, dove esiste un gruppo etnico chiamato Tedeschi di Romania.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Università 1 Decembrie 1918 si trova in Romania. Ha un gruppo etnico nativo, i tedeschi di Romania.</lex>
+      <lex comment="good" lid="Id3" lang="it">1 dicembre 1918 L'Università si trova in Romania, dove uno dei gruppi etnici è quello dei tedeschi.</lex>
+    </entry>
+    <entry category="University" eid="Id27" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Romania | leader | Klaus_Iohannis</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Romania | leaderName | Klaus_Iohannis</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Romania | leader | Klaus_Iohannis</mtriple>
+        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">1 Decembrie 1918 University is located in Romania whose leader is Klaus Iohannis.</lex>
+      <lex comment="good" lid="Id1" lang="it">1 dicembre 1918 L'Università si trova in Romania, il cui leader è Klaus Iohannis.</lex>
+    </entry>
+    <entry category="University" eid="Id28" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Romania | patronSaint | Andrew_the_Apostle</otriple>
+        <otriple>1_Decembrie_1918_University,_Alba_Iulia | country | Romania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Romania | patronSaint | Andrew_the_Apostle</mtriple>
+        <mtriple>1_Decembrie_1918_University | country | Romania</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The 1 Decembrie 1918 University is in the country of Romania who has the patron saint Andrew the Apostle.</lex>
+      <lex comment="good" lid="Id2" lang="en">The 1 Decembrie 1918 University is located in Romania. The country's patron saint is Andrew the Apostle.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Università 1 dicembre 1918 si trova in Romania, paese che ha come patrono l'apostolo Andrea.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Università 1 Decembrie 1918 si trova in Romania. Il santo patrono del Paese è l'apostolo Andrea.</lex>
+    </entry>
+    <entry category="University" eid="Id29" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Denmark's School of Business and Social Sciences at the Aarhus University has an academic staff size of 737 people.</lex>
+      <lex comment="good" lid="Id2" lang="en">School of Business and Social Sciences at the Aarhus University has a staff size of 737 and is located in Denmark.</lex>
+      <lex comment="good" lid="Id1" lang="it">La Scuola danese di Scienze economiche e sociali dell'Università di Aarhus ha uno staff accademico di 737 persone.</lex>
+      <lex comment="good" lid="Id2" lang="it">La School of Business and Social Sciences dell'Università di Aarhus ha un organico di 737 persone e si trova in Danimarca.</lex>
+    </entry>
+    <entry category="University" eid="Id30" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | faculty | 737</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The School of Business and Social Sciences at the Aarhus University was established in 1928 and has an academic staff of 737.</lex>
+      <lex comment="good" lid="Id2" lang="en">The School of Business and Social Sciences at Aarhus University was created in 1928 and has an academic staff size of 737 people.</lex>
+      <lex comment="good" lid="Id3" lang="en">School of Business and Social Sciences at the Aarhus University was established in 1928 with a staff size of 737.</lex>
+      <lex comment="good" lid="Id1" lang="it">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus è stata fondata nel 1928 e ha uno staff accademico di 737 persone.</lex>
+      <lex comment="good" lid="Id2" lang="it">La Scuola di Business e Scienze Sociali dell'Università di Aarhus è stata creata nel 1928 e ha uno staff accademico di 737 persone.</lex>
+      <lex comment="good" lid="Id3" lang="it">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus è stata fondata nel 1928 con un organico di 737 persone.</lex>
+    </entry>
+    <entry category="University" eid="Id31" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliation | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | established | 1928</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | established | 1928</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The School of Business and Social Sciences at the Aarhus University, which was established in 1928, is affiliated with the European University Association.</lex>
+      <lex comment="good" lid="Id2" lang="en">The School of Business and Social Sciences at the Aarhus University, which was created in 1928, is affiliated with the European University Association.</lex>
+      <lex comment="good" lid="Id3" lang="en">School of Business and Social Sciences at the Aarhus University was established in 1928 and is affiliated with the European University Association.</lex>
+      <lex comment="good" lid="Id1" lang="it">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus, fondata nel 1928, è affiliata alla European University Association.</lex>
+      <lex comment="good" lid="Id2" lang="it">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus, creata nel 1928, è affiliata all'Associazione delle Università Europee.</lex>
+      <lex comment="good" lid="Id3" lang="it">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus è stata fondata nel 1928 ed è affiliata all'Associazione delle Università Europee.</lex>
+    </entry>
+    <entry category="University" eid="Id32" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus | governmentType | Magistrate</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
+        <mtriple>Aarhus | governmentType | Magistrate</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The type of government in Aarhus is that of magistrate. The city of Aarhus is where the School of Business and Social Sciences at the Aarhus University is located.</lex>
+      <lex comment="good" lid="Id2" lang="en">The School of Business and Social Sciences at Aarhus University in Aarhus has a Magistrate as its government.</lex>
+      <lex comment="good" lid="Id3" lang="en">The School of Business and Social Sciences at the Aarhus University is found in the city of Aarhus which has Magistrate as its government type.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il tipo di governo di Aarhus è quello del magistrato. Nella città di Aarhus ha sede la Scuola di Economia e Scienze Sociali dell'Università di Aarhus.</lex>
+      <lex comment="good" lid="Id2" lang="it">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus ha un magistrato come governo.</lex>
+      <lex comment="good" lid="Id3" lang="it">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus si trova nella città di Aarhus, che ha come tipo di governo il Magistrato.</lex>
+    </entry>
+    <entry category="University" eid="Id33" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus | northeast | Mols</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
+        <mtriple>Aarhus | hasToItsNortheast | Mols</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Mols is situated to the northeast of Aarhus where the School of Business and Social Sciences at Aarhus University is located.</lex>
+      <lex comment="good" lid="Id2" lang="en">The School of Business and Social Sciences at Aarhus University is in the city of Aarhus which has Mols to its northeast.</lex>
+      <lex comment="good" lid="Id3" lang="en">The School of Business and Social Sciences at the Aarhus University is located in the city of Aarhus, which has Mols to its northeast.</lex>
+      <lex comment="good" lid="Id1" lang="it">Mols si trova a nord-est di Aarhus, dove ha sede la Scuola di Economia e Scienze Sociali dell'Università di Aarhus.</lex>
+      <lex comment="good" lid="Id2" lang="it">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus si trova nella città di Aarhus, che ha Mols a nord-est.</lex>
+      <lex comment="good" lid="Id3" lang="it">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus si trova nella città di Aarhus, che ha Mols a nord-est.</lex>
+    </entry>
+    <entry category="University" eid="Id34" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | city | Aarhus</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | city | Aarhus</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The School of Business and Social Sciences at Aaarhus University is located in Aarhus, Denmark.</lex>
+      <lex comment="good" lid="Id2" lang="en">School of Business and Social Sciences at the Aarhus University is in Aarhus, Denmark.</lex>
+      <lex comment="good" lid="Id3" lang="en">The School of Business and Social Sciences at the Aarhus University is located in the city of Aarhus in Denmark.</lex>
+      <lex comment="good" lid="Id1" lang="it">La Scuola di Economia e Scienze Sociali dell'Università di Aaarhus si trova ad Aarhus, in Danimarca.</lex>
+      <lex comment="good" lid="Id2" lang="it">La Scuola di Business e Scienze Sociali dell'Università di Aarhus si trova ad Aarhus, in Danimarca.</lex>
+      <lex comment="good" lid="Id3" lang="it">La Scuola di Business e Scienze Sociali dell'Università di Aarhus si trova nella città di Aarhus, in Danimarca.</lex>
+    </entry>
+    <entry category="University" eid="Id35" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+        <otriple>Denmark | religion | Church_of_Denmark</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+        <mtriple>Denmark | religion | Church_of_Denmark</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The School of Business and Social Sciences at the Aarhus University is located in the country of Denmark which has the religion The Church of Denmark.</lex>
+      <lex comment="good" lid="Id2" lang="en">The School of Business and Social Sciences at the Aarhus University in Denmark is also where the Church of Denmark is located.</lex>
+      <lex comment="good" lid="Id3" lang="en">School of Business and Social Sciences at the Aarhus University is in Denmark as well as the Church of Denmark.</lex>
+      <lex comment="good" lid="Id1" lang="it">La Scuola di Scienze Aziendali e Sociali dell'Università di Aarhus si trova nel Paese della Danimarca, la cui religione è la Chiesa di Danimarca.</lex>
+      <lex comment="good" lid="Id2" lang="it">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus, in Danimarca, è anche la sede della Chiesa di Danimarca.</lex>
+      <lex comment="good" lid="Id3" lang="it">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus si trova in Danimarca, così come la Chiesa di Danimarca.</lex>
+    </entry>
+    <entry category="University" eid="Id36" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | dean | &quot;Thomas Pallesen&quot;@en</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | facultySize | &quot;737&quot;^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | dean | &quot;Thomas Pallesen&quot;</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Thomas Pallesen is dean of the School of Business and Social Sciences at the Aarhus University where there is an academic staff of 737.</lex>
+      <lex comment="good" lid="Id2" lang="en">The School of Business and Social Sciences at Aarhus University, which has an academic staff size of 737, has Thomas Pallesen as its Dean.</lex>
+      <lex comment="good" lid="Id3" lang="en">School of Business and Social Sciences at the Aarhus University has an academic staff size of 737 and the dean is Thomas Pallesen.</lex>
+      <lex comment="good" lid="Id1" lang="it">Thomas Pallesen è preside della School of Business and Social Sciences dell'Università di Aarhus, dove il personale accademico è composto da 737 persone.</lex>
+      <lex comment="good" lid="Id2" lang="it">La Scuola di Business e Scienze Sociali dell'Università di Aarhus, che ha uno staff accademico di 737 persone, ha come decano Thomas Pallesen.</lex>
+      <lex comment="good" lid="Id3" lang="it">La School of Business and Social Sciences dell'Università di Aarhus ha uno staff accademico di 737 persone e il rettore è Thomas Pallesen.</lex>
+    </entry>
+    <entry category="University" eid="Id37" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | latinName | &quot;Universitas Aarhusiensis&quot;@en</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliation | European_University_Association</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | latinName | &quot;Universitas Aarhusiensis&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | latinName | &quot;Universitas Aarhusiensis&quot;</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Universitas Aarhusiensis is the latin name of the School of Business and Social Sciences at the Aarhus University which is affiliated to the European University Association.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Latin name for the School of Business and Social Sciences at Aarhus University, which is affiliated with the European University Association, is &quot;Universitas Aarhusiensis&quot;.</lex>
+      <lex comment="good" lid="Id3" lang="en">School of Business and Social Sciences at the Aarhus University is affiliated with the European University Association and its called Universitas Aarhusiensis in latin.</lex>
+      <lex comment="good" lid="Id1" lang="it">Universitas Aarhusiensis è il nome latino della Scuola di Economia e Scienze Sociali dell'Università di Aarhus, affiliata alla European University Association.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il nome latino della Scuola di Economia e Scienze Sociali dell'Università di Aarhus, affiliata all'Associazione delle Università Europee, è &quot;Universitas Aarhusiensis&quot;.</lex>
+      <lex comment="good" lid="Id3" lang="it">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus è affiliata all'Associazione delle Università Europee e si chiama Universitas Aarhusiensis in latino.</lex>
+    </entry>
+    <entry category="University" eid="Id38" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | affiliations | European_University_Association</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The School of Business and Social Sciences at Aarhus University takes 16000 students and is affiliated to the European University Association.</lex>
+      <lex comment="good" lid="Id2" lang="en">The School of Business and Social Sciences at Aarhus University has 16,000 students and is affiliated with the European University Association.</lex>
+      <lex comment="good" lid="Id3" lang="en">The School of Business and Social Sciences at the Aarhus University has 16000 students and is affiliated with the European University Association.</lex>
+      <lex comment="good" lid="Id1" lang="it">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus accoglie 16.000 studenti ed è affiliata all'Associazione delle Università Europee.</lex>
+      <lex comment="good" lid="Id2" lang="it">La School of Business and Social Sciences dell'Università di Aarhus conta 16.000 studenti ed è affiliata all'European University Association.</lex>
+      <lex comment="good" lid="Id3" lang="it">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus conta 16.000 studenti ed è affiliata all'Associazione delle Università Europee.</lex>
+    </entry>
+    <entry category="University" eid="Id39" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | students | 16000</otriple>
+        <otriple>Aarhus_University,_School_of_Business_and_Social_Sciences | country | Denmark</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000</mtriple>
+        <mtriple>School of Business and Social Sciences at the Aarhus University | country | Denmark</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The School of Business and Social Sciences at the Aarhus University has 16000 students and is located in Denmark.</lex>
+      <lex comment="good" lid="Id2" lang="en">The School of Business and Social Sciences at Aarhus University in Denmark has 16,000 students.</lex>
+      <lex comment="good" lid="Id3" lang="en">The School of Business and Social Sciences at the Aarhus University in Denmark has 16000 students.</lex>
+      <lex comment="good" lid="Id1" lang="it">La Scuola di Business e Scienze Sociali dell'Università di Aarhus ha 16.000 studenti e si trova in Danimarca.</lex>
+      <lex comment="good" lid="Id2" lang="it">La School of Business and Social Sciences dell'Università di Aarhus, in Danimarca, conta 16.000 studenti.</lex>
+      <lex comment="good" lid="Id3" lang="it">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus, in Danimarca, conta 16.000 studenti.</lex>
+    </entry>
+  </entries>
+</benchmark>

@@ -1,0 +1,580 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Airport" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aarhus | leaderName | Jacob_Bundsgaard</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aarhus | leader | Jacob_Bundsgaard</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The leader of Aarhus is Jacob Bundsgaard.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il leader di Aarhus è Jacob Bundsgaard.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il leader di Aarhus è Jacob Bundsgaard.</lex>
+    </entry>
+    <entry category="Airport" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aarhus_Airport | runwayLength | &quot;2702.0&quot;^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aarhus_Airport | runwayLength | 2702.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Aarhus Airport's runway length is 2702.0.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Aarhus Airport has a runway length of 2702.0.</lex>
+      <lex comment="good" lid="Id1" lang="it">La lunghezza della pista dell'aeroporto di Aarhus è di 2702,0 metri.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'aeroporto di Aarhus ha una pista lunga 2702,0 metri.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La lunghezza della pista dell'aeroporto di Aarhus è di 2702,0 metri.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'aeroporto di Aarhus ha una pista lunga 2702,0 metri.</lex>
+    </entry>
+    <entry category="Airport" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adirondack_Regional_Airport | elevationM | 507</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adirondack_Regional_Airport | elevation | &quot;507.0&quot;^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adirondack_Regional_Airport | elevationAboveTheSeaLevel | 507</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Adirondack Regional Airport is 507 metres above sea level.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'aeroporto regionale di Adirondack si trova a 507 metri sul livello del mare.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'aeroporto regionale di Adirondack si trova a 507 metri sul livello del mare.</lex>
+    </entry>
+    <entry category="Airport" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adirondack_Regional_Airport | location | Harrietstown,_New_York</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adirondack_Regional_Airport | location | Harrietstown,_New_York</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Adirondack Regional airport is located at Harrietstown, New York.</lex>
+      <lex comment="good" lid="Id2" lang="en">Adirondack Regional Airport is located in Harrietstown, New York.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'aeroporto regionale dell'Adirondack si trova a Harrietstown, New York.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'aeroporto regionale dell'Adirondack si trova a Harrietstown, New York.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'aeroporto regionale dell'Adirondack si trova a Harrietstown, New York.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'aeroporto regionale dell'Adirondack si trova a Harrietstown, New York.</lex>
+    </entry>
+    <entry category="Airport" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | location | San_Sebastián_de_los_Reyes</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Adolfo Suárez Madrid–Barajas Airport is found in San Sebastián de los Reyes.</lex>
+      <lex comment="good" lid="Id2" lang="en">Adolfo Suarez Madrid-Barajas airport is located at San Sebastian de los Reyes.</lex>
+      <lex comment="good" lid="Id3" lang="en">The Adolfo Suárez Madrid–Barajas Airport is in San Sebastián de los Reyes.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'aeroporto Adolfo Suárez Madrid-Barajas si trova a San Sebastián de los Reyes.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'aeroporto Adolfo Suarez Madrid-Barajas si trova a San Sebastian de los Reyes.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'Aeroporto Adolfo Suárez Madrid-Barajas si trova a San Sebastián de los Reyes.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'aeroporto Adolfo Suárez Madrid-Barajas si trova a San Sebastián de los Reyes.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'aeroporto Adolfo Suarez Madrid-Barajas si trova a San Sebastian de los Reyes.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">L'Aeroporto Adolfo Suárez Madrid-Barajas si trova a San Sebastián de los Reyes.</lex>
+    </entry>
+    <entry category="Airport" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayDesignation | &quot;14L/32R&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayName | &quot;14L/32R&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Adolfo Suárez Madrid-Barajas Airport runway name is 14L/32R.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Adolfo Suárez Madrid–Barajas Airport runway name is 14L/32R.</lex>
+      <lex comment="good" lid="Id3" lang="en">14L/32R is the runway name of Adolfo Suárez Madrid-Barajas Airport.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il nome della pista dell'Aeroporto Adolfo Suárez Madrid-Barajas è 14L/32R.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il nome della pista dell'Aeroporto Adolfo Suárez Madrid-Barajas è 14L/32R.</lex>
+      <lex comment="good" lid="Id3" lang="it">14L/32R è il nome della pista dell'Aeroporto Adolfo Suárez Madrid-Barajas.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il nome della pista dell'Aeroporto Adolfo Suárez Madrid-Barajas è 14L/32R.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il nome della pista dell'Aeroporto Adolfo Suárez Madrid-Barajas è 14L/32R.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">14L/32R è il nome della pista dell'Aeroporto Adolfo Suárez Madrid-Barajas.</lex>
+    </entry>
+    <entry category="Airport" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayDesignation | &quot;14R/32L&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adolfo_Suárez_Madrid–Barajas_Airport | runwayName | &quot;14R/32L&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">14R/32L is the name of the runway for Adolfo Suárez Madrid–Barajas Airport.</lex>
+      <lex comment="good" lid="Id2" lang="en">14R/32L is the runway name of Adolfo Suárez Madrid-Barajas Airport.</lex>
+      <lex comment="good" lid="Id1" lang="it">14R/32L è il nome della pista dell'aeroporto Adolfo Suárez di Madrid-Barajas.</lex>
+      <lex comment="good" lid="Id2" lang="it">14R/32L è il nome della pista dell'Aeroporto Adolfo Suárez Madrid-Barajas.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">14R/32L è il nome della pista dell'aeroporto Adolfo Suárez di Madrid-Barajas.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">14R/32L è il nome della pista dell'Aeroporto Adolfo Suárez Madrid-Barajas.</lex>
+    </entry>
+    <entry category="Airport" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Afonso_Pena_International_Airport | operator | Infraero</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Afonso_Pena_International_Airport | operatingOrganisation | Infraero</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The operating organization for Afonso Pena International Airport is Infraero.</lex>
+      <lex comment="good" lid="Id2" lang="en">Afonso Pena International Airport is operated by Infraero.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'organizzazione operativa dell'Aeroporto Internazionale Afonso Pena è Infraero.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'aeroporto internazionale Afonso Pena è gestito da Infraero.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'organizzazione operativa dell'Aeroporto Internazionale Afonso Pena è Infraero.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'aeroporto internazionale Afonso Pena è gestito da Infraero.</lex>
+    </entry>
+    <entry category="Airport" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Agra_Airport | location | Agra</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agra_Airport | location | Agra</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Agra Airport is in Agra.</lex>
+      <lex comment="good" lid="Id2" lang="en">Agra airport is located in Agra.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'aeroporto di Agra si trova ad Agra.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'aeroporto di Agra si trova ad Agra.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'aeroporto di Agra si trova ad Agra.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'aeroporto di Agra si trova ad Agra.</lex>
+    </entry>
+    <entry category="Airport" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Al-Taqaddum_Air_Base | elevation | &quot;83.82&quot;^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Al-Taqaddum_Air_Base | elevationAboveTheSeaLevel | 84.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Al-Taqaddum Air Base is 84 metres above sea level.</lex>
+      <lex comment="good" lid="Id2" lang="en">Al Taqaddum Air Base is 84 metres above sea level.</lex>
+      <lex comment="good" lid="Id3" lang="en">The elevation above the sea level (in metres) of Al-Taqaddum Air Base is 84.0.</lex>
+      <lex comment="good" lid="Id1" lang="it">La base aerea di Al-Taqaddum si trova a 84 metri sul livello del mare.</lex>
+      <lex comment="good" lid="Id2" lang="it">La base aerea di Al Taqaddum si trova a 84 metri sul livello del mare.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'altitudine sul livello del mare (in metri) della base aerea di Al-Taqaddum è di 84,0.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La base aerea di Al-Taqaddum si trova a 84 metri sul livello del mare.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">La base aerea di Al Taqaddum si trova a 84 metri sul livello del mare.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">L'altitudine sul livello del mare (in metri) della base aerea di Al-Taqaddum è di 84,0.</lex>
+    </entry>
+    <entry category="Airport" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alderney_Airport | city | Alderney</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alderney_Airport | cityServed | Alderney</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alderney_Airport | cityServed | Alderney</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Alderney Airport serves Alderney.</lex>
+      <lex comment="good" lid="Id2" lang="en">Alderney Airport serves the city of Alderney.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'aeroporto di Alderney serve Alderney.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'aeroporto di Alderney serve la città di Alderney.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'aeroporto di Alderney serve Alderney.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'aeroporto di Alderney serve la città di Alderney.</lex>
+    </entry>
+    <entry category="Airport" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Allama_Iqbal_International_Airport | runwayDesignation | &quot;18R/36L&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Allama_Iqbal_International_Airport | runwayName | &quot;18R/36L&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">18R/36L is the runway name at Allama Iqbal International airport.</lex>
+      <lex comment="good" lid="Id2" lang="en">Allama Iqbal International Airport has a runway named 18R/36L.</lex>
+      <lex comment="good" lid="Id3" lang="en">Allama Iqbal International Airport's runway name is &quot;18R/36L&quot;.</lex>
+      <lex comment="good" lid="Id1" lang="it">18R/36L è il nome della pista dell'aeroporto internazionale Allama Iqbal.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'aeroporto internazionale Allama Iqbal ha una pista denominata 18R/36L.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il nome della pista dell'Aeroporto Internazionale Allama Iqbal è &quot;18R/36L&quot;.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">18R/36L è il nome della pista dell'aeroporto internazionale Allama Iqbal.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'aeroporto internazionale Allama Iqbal ha una pista denominata 18R/36L.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il nome della pista dell'Aeroporto Internazionale Allama Iqbal è &quot;18R/36L&quot;.</lex>
+    </entry>
+    <entry category="Airport" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | runwayLength | &quot;1532.53&quot;^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpena_County_Regional_Airport | runwayLength | 1533.0</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The runway length of Alpena County Regional Airport is 1,533.</lex>
+      <lex comment="good" lid="Id2" lang="en">The runway length of Alpena County Regional airport is 1533.0.</lex>
+      <lex comment="good" lid="Id1" lang="it">La lunghezza della pista dell'aeroporto regionale di Alpena County è di 1.533 metri.</lex>
+      <lex comment="good" lid="Id2" lang="it">La lunghezza della pista dell'aeroporto Alpena County Regional è di 1533,0.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La lunghezza della pista dell'aeroporto regionale di Alpena County è di 1.533 metri.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">La lunghezza della pista dell'aeroporto Alpena County Regional è di 1533,0.</lex>
+    </entry>
+    <entry category="Airport" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alpena_County_Regional_Airport | runwayDesignation | &quot;1/19&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alpena_County_Regional_Airport | runwayName | &quot;1/19&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Alpena County Regional Airport runway name is 1/19.</lex>
+      <lex comment="good" lid="Id2" lang="en">1/19 is the runway name of Alpena County Regional Airport.</lex>
+      <lex comment="good" lid="Id3" lang="en">The runway name of Alpena County Regional Airport is 1/19.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il nome della pista dell'aeroporto regionale della contea di Alpena è 1/19.</lex>
+      <lex comment="good" lid="Id2" lang="it">1/19 è il nome della pista dell'aeroporto regionale di Alpena County.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il nome della pista dell'Aeroporto Regionale di Alpena County è 1/19.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il nome della pista dell'aeroporto regionale della contea di Alpena è 1/19.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">1/19 è il nome della pista dell'aeroporto regionale di Alpena County.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il nome della pista dell'Aeroporto Regionale di Alpena County è 1/19.</lex>
+    </entry>
+    <entry category="Airport" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | city | Amsterdam</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Amsterdam_Airport_Schiphol | cityServed | Amsterdam</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam_Airport_Schiphol | cityServed | Amsterdam</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Amsterdam Airport Schiphol serves the city of Amsterdam.</lex>
+      <lex comment="good" lid="Id2" lang="en">Amsterdam airport, Schiphol serves the city of Amsterdam.</lex>
+      <lex comment="good" lid="Id3" lang="en">Amsterdam Airport Schiphol serves Amsterdam.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'aeroporto di Amsterdam Schiphol serve la città di Amsterdam.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'aeroporto di Amsterdam, Schiphol, serve la città di Amsterdam.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'aeroporto di Amsterdam Schiphol serve Amsterdam.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'aeroporto di Amsterdam Schiphol serve la città di Amsterdam.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'aeroporto di Amsterdam, Schiphol, serve la città di Amsterdam.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">L'aeroporto di Amsterdam Schiphol serve Amsterdam.</lex>
+    </entry>
+    <entry category="Airport" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Andrews_County,_Texas | countySeat | Andrews,_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andrews_County,_Texas | countySeat | Andrews,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Andrews County, Texas is country seat to Andrews, Texas.</lex>
+      <lex comment="good" lid="Id2" lang="en">Andrews, Texas is the country seat of Andrews County, Texas.</lex>
+      <lex comment="good" lid="Id3" lang="en">Andrews County, Texas has its county seat in Andrews, Texas.</lex>
+      <lex comment="good" lid="Id1" lang="it">La contea di Andrews, Texas, è sede di Andrews, Texas.</lex>
+      <lex comment="good" lid="Id2" lang="it">Andrews, Texas, è la sede della contea di Andrews, Texas.</lex>
+      <lex comment="good" lid="Id3" lang="it">La contea di Andrews, Texas, ha sede ad Andrews, Texas.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La contea di Andrews, Texas, è sede di Andrews, Texas.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Andrews, Texas, è la sede della contea di Andrews, Texas.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">La contea di Andrews, Texas, ha sede ad Andrews, Texas.</lex>
+    </entry>
+    <entry category="Airport" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Andrews_County_Airport | city | Andrews,_Texas</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andrews_County_Airport | cityServed | Andrews,_Texas</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Andrews, Texas is served by Andrews County Airport.</lex>
+      <lex comment="good" lid="Id2" lang="en">Andrews County Airport serves Andrews, Texas.</lex>
+      <lex comment="good" lid="Id3" lang="en">Andrews County Airport serves the city of Andrews in Texas.</lex>
+      <lex comment="good" lid="Id1" lang="it">Andrews, Texas, è servita dall'aeroporto di Andrews County.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'aeroporto di Andrews County serve Andrews, Texas.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'aeroporto della contea di Andrews serve la città di Andrews in Texas.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Andrews, Texas, è servita dall'aeroporto di Andrews County.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'aeroporto di Andrews County serve Andrews, Texas.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">L'aeroporto della contea di Andrews serve la città di Andrews in Texas.</lex>
+    </entry>
+    <entry category="Airport" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Andrews_County_Airport | runwayDesignation | &quot;11/29&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andrews_County_Airport | runwayName | &quot;11/29&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Andrews County Airport runway name is 11/29.</lex>
+      <lex comment="good" lid="Id2" lang="en">11/29 is the runway name of Andrews County Airport.</lex>
+      <lex comment="good" lid="Id3" lang="en">The runway name of Andrews County Airport is 11/29.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il nome della pista dell'aeroporto di Andrews County è 11/29.</lex>
+      <lex comment="good" lid="Id2" lang="it">11/29 è il nome della pista dell'aeroporto di Andrews County.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il nome della pista dell'Aeroporto della Contea di Andrews è 11/29.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il nome della pista dell'aeroporto di Andrews County è 11/29.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">11/29 è il nome della pista dell'aeroporto di Andrews County.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il nome della pista dell'Aeroporto della Contea di Andrews è 11/29.</lex>
+    </entry>
+    <entry category="Airport" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Andrews_County_Airport | runwayDesignation | &quot;Helipad&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Andrews_County_Airport | runwayName | &quot;Helipad&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The name of the runway at Andrews County Airport is Helipad.</lex>
+      <lex comment="good" lid="Id2" lang="en">Helipad is the runway name of Andrews County Airport.</lex>
+      <lex comment="good" lid="Id3" lang="en">The runway at Andrews County Airport is called Helipad.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il nome della pista dell'aeroporto di Andrews County è Helipad.</lex>
+      <lex comment="good" lid="Id2" lang="it">Helipad è il nome della pista dell'aeroporto di Andrews County.</lex>
+      <lex comment="good" lid="Id3" lang="it">La pista dell'aeroporto della contea di Andrews si chiama Helipad.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il nome della pista dell'aeroporto di Andrews County è Helipad.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Helipad è il nome della pista dell'aeroporto di Andrews County.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">La pista dell'aeroporto della contea di Andrews si chiama Helipad.</lex>
+    </entry>
+    <entry category="Airport" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Angola_International_Airport | city | Luanda</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Angola_International_Airport | cityServed | Luanda</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Angola_International_Airport | cityServed | Luanda</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Angola International Airport city served is Luanda.</lex>
+      <lex comment="good" lid="Id2" lang="en">Angola International Airport serves the city of Luanda.</lex>
+      <lex comment="good" lid="Id3" lang="en">Angola International Airport serves Luanda.</lex>
+      <lex comment="good" lid="Id1" lang="it">La città servita dall'aeroporto internazionale dell'Angola è Luanda.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'aeroporto internazionale dell'Angola serve la città di Luanda.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'aeroporto internazionale dell'Angola serve Luanda.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La città servita dall'aeroporto internazionale dell'Angola è Luanda.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'aeroporto internazionale dell'Angola serve la città di Luanda.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">L'aeroporto internazionale dell'Angola serve Luanda.</lex>
+    </entry>
+    <entry category="Airport" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ardmore_Airport_(New_Zealand) | location | Auckland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ardmore_Airport_(New_Zealand) | location | Auckland</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Ardmore Airport, New Zealand is in Auckland.</lex>
+      <lex comment="good" lid="Id2" lang="en">Ardmore Airport is located in Auckland, New Zealand.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'aeroporto di Ardmore, Nuova Zelanda, si trova ad Auckland.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'aeroporto di Ardmore si trova ad Auckland, in Nuova Zelanda.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'aeroporto di Ardmore, Nuova Zelanda, si trova ad Auckland.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'aeroporto di Ardmore si trova ad Auckland, in Nuova Zelanda.</lex>
+    </entry>
+    <entry category="Airport" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Athens | mayor | Giorgos_Kaminis</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Athens | mayor | Giorgos_Kaminis</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Athens mayor is Giorgos Kaminis.</lex>
+      <lex comment="good" lid="Id2" lang="en">Giorgos Kaminis is the mayor of Athens.</lex>
+      <lex comment="good" lid="Id3" lang="en">The mayor of Athens is Giorgos Kaminis.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il sindaco di Atene è Giorgos Kaminis.</lex>
+      <lex comment="good" lid="Id2" lang="it">Giorgos Kaminis è il sindaco di Atene.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il sindaco di Atene è Giorgos Kaminis.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il sindaco di Atene è Giorgos Kaminis.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Giorgos Kaminis è il sindaco di Atene.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il sindaco di Atene è Giorgos Kaminis.</lex>
+    </entry>
+    <entry category="Airport" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Athens_International_Airport | location | Spata</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Athens_International_Airport | location | Spata</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Athens International Airport is in Spata.</lex>
+      <lex comment="good" lid="Id2" lang="en">Athens International Airport is located in Spata.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'aeroporto internazionale di Atene si trova a Spata.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'aeroporto internazionale di Atene si trova a Spata.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'aeroporto internazionale di Atene si trova a Spata.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'aeroporto internazionale di Atene si trova a Spata.</lex>
+    </entry>
+    <entry category="Airport" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Belgium | language | German_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Belgium | language | German_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Belgium language is German language.</lex>
+      <lex comment="good" lid="Id2" lang="en">German is the language of Belgium.</lex>
+      <lex comment="good" lid="Id3" lang="en">The language spoken is Belgium is German.</lex>
+      <lex comment="good" lid="Id1" lang="it">La lingua del Belgio è il tedesco.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il tedesco è la lingua del Belgio.</lex>
+      <lex comment="good" lid="Id3" lang="it">La lingua parlata in Belgio è il tedesco.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La lingua del Belgio è il tedesco.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il tedesco è la lingua del Belgio.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">La lingua parlata in Belgio è il tedesco.</lex>
+    </entry>
+    <entry category="Airport" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Belgium | leaderName | Philippe_of_Belgium</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Belgium | leader | Philippe_of_Belgium</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Belgium | leader | Philippe_of_Belgium</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Philippe of Belgium is the leader of Belgium.</lex>
+      <lex comment="good" lid="Id2" lang="en">The leader of Belgium is Philippe of Belgium.</lex>
+      <lex comment="good" lid="Id1" lang="it">Philippe del Belgio è il leader del Belgio.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il leader del Belgio è Filippo del Belgio.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Philippe del Belgio è il leader del Belgio.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il leader del Belgio è Filippo del Belgio.</lex>
+    </entry>
+    <entry category="Airport" eid="Id26" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Denmark | capital | Copenhagen</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Denmark | capital | Copenhagen</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The capital of Denmark is Copenhagen.</lex>
+      <lex comment="good" lid="Id2" lang="en">Copenhagen is the capital of Denmark.</lex>
+      <lex comment="good" lid="Id1" lang="it">La capitale della Danimarca è Copenaghen.</lex>
+      <lex comment="good" lid="Id2" lang="it">Copenaghen è la capitale della Danimarca.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La capitale della Danimarca è Copenaghen.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Copenaghen è la capitale della Danimarca.</lex>
+    </entry>
+    <entry category="Airport" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Denmark | leader | Lars_Løkke_Rasmussen</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Denmark | leaderName | Lars_Løkke_Rasmussen</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Denmark | leader | Lars_Løkke_Rasmussen</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Denmark's leader name is Lars Løkke Rasmussen.</lex>
+      <lex comment="good" lid="Id2" lang="en">Lars Løkke Rasmussen leads Denmark.</lex>
+      <lex comment="good" lid="Id3" lang="en">Lars Løkke Rasmussen is the leader of Denmark.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il leader della Danimarca si chiama Lars Løkke Rasmussen.</lex>
+      <lex comment="good" lid="Id2" lang="it">Lars Løkke Rasmussen guida la Danimarca.</lex>
+      <lex comment="good" lid="Id3" lang="it">Lars Løkke Rasmussen è il leader della Danimarca.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il leader della Danimarca si chiama Lars Løkke Rasmussen.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Lars Løkke Rasmussen guida la Danimarca.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Lars Løkke Rasmussen è il leader della Danimarca.</lex>
+    </entry>
+    <entry category="Airport" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Flemish_Region | leaderName | Flemish_Government</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Flemish_Region | leader | Flemish_Government</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Flemish region is led by the Flemish government.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Flemish Government leads the Flemish Region.</lex>
+      <lex comment="good" lid="Id1" lang="it">La regione fiamminga è guidata dal governo fiammingo.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il Governo fiammingo guida la Regione fiamminga.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La regione fiamminga è guidata dal governo fiammingo.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il Governo fiammingo guida la Regione fiamminga.</lex>
+    </entry>
+    <entry category="Airport" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Greece | language | Greek_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Greece | language | Greek_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Greek is the language spoken in Greece.</lex>
+      <lex comment="good" lid="Id2" lang="en">The language spoken in Greece is Greek.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il greco è la lingua parlata in Grecia.</lex>
+      <lex comment="good" lid="Id2" lang="it">La lingua parlata in Grecia è il greco.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il greco è la lingua parlata in Grecia.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">La lingua parlata in Grecia è il greco.</lex>
+    </entry>
+    <entry category="Airport" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Greece | leader | Nikos_Voutsis</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Greece | leaderName | Nikos_Voutsis</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Greece | leader | Nikos_Voutsis</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The leader of Greece is Nikos Voutsis.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il leader della Grecia è Nikos Voutsis.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il leader della Grecia è Nikos Voutsis.</lex>
+    </entry>
+    <entry category="Airport" eid="Id31" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Harrietstown,_New_York | subdivisionName | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Harrietstown,_New_York | isPartOf | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Harrietstown, New York is part of the United States.</lex>
+      <lex comment="good" lid="Id2" lang="en">Harrietstown, N.Y. is part of the U.S.</lex>
+      <lex comment="good" lid="Id1" lang="it">Harrietstown, New York, fa parte degli Stati Uniti.</lex>
+      <lex comment="good" lid="Id2" lang="it">Harrietstown, N.Y., fa parte degli Stati Uniti.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Harrietstown, New York, fa parte degli Stati Uniti.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Harrietstown, N.Y., fa parte degli Stati Uniti.</lex>
+    </entry>
+    <entry category="Airport" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Pakistan | leader | Anwar_Zaheer_Jamali</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Pakistan | leaderName | Anwar_Zaheer_Jamali</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Pakistan | leader | Anwar_Zaheer_Jamali</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The leader of Pakistan is Anwar Zaheer Jamali.</lex>
+      <lex comment="good" lid="Id2" lang="en">Pakistan has a leader called Anwar Zaheer Jamali.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il leader del Pakistan è Anwar Zaheer Jamali.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il Pakistan ha un leader chiamato Anwar Zaheer Jamali.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il leader del Pakistan è Anwar Zaheer Jamali.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il Pakistan ha un leader chiamato Anwar Zaheer Jamali.</lex>
+    </entry>
+    <entry category="Airport" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Paracuellos_de_Jarama | isPartOf | Community_of_Madrid</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Paracuellos_de_Jarama | isPartOf | Community_of_Madrid</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Paracuellos de Jarama is part of the community of Madrid.</lex>
+      <lex comment="good" lid="Id1" lang="it">Paracuellos de Jarama fa parte della comunità di Madrid.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Paracuellos de Jarama fa parte della comunità di Madrid.</lex>
+    </entry>
+    <entry category="Airport" eid="Id34" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Port_Authority_of_New_York_and_New_Jersey | headquarter | Four_World_Trade_Center</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Port_Authority_of_New_York_and_New_Jersey | headquarter | Four_World_Trade_Center</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Port Authority of New York and New Jersey headquarter is Four World Trade Center.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Four World Trade Center is the headquarters of the Port Authority of New York and New Jersey.</lex>
+      <lex comment="good" lid="Id1" lang="it">La sede della Port Authority of New York and New Jersey è il Four World Trade Center.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il Four World Trade Center è la sede dell'Autorità Portuale di New York e New Jersey.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La sede della Port Authority of New York and New Jersey è il Four World Trade Center.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il Four World Trade Center è la sede dell'Autorità Portuale di New York e New Jersey.</lex>
+    </entry>
+    <entry category="Airport" eid="Id35" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>San_Sebastián_de_los_Reyes | country | Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>San_Sebastián_de_los_Reyes | country | Spain</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">San Sebastián de los Reyes is in Spain.</lex>
+      <lex comment="good" lid="Id2" lang="en">San Sebastian de los Reyes is located in Spain.</lex>
+      <lex comment="good" lid="Id1" lang="it">San Sebastián de los Reyes si trova in Spagna.</lex>
+      <lex comment="good" lid="Id2" lang="it">San Sebastian de los Reyes si trova in Spagna.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">San Sebastián de los Reyes si trova in Spagna.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">San Sebastian de los Reyes si trova in Spagna.</lex>
+    </entry>
+    <entry category="Airport" eid="Id36" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Saranac_Lake,_New_York | subdivisionName | United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Saranac_Lake,_New_York | isPartOf | United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Saranac Lake, New York is part of the United States.</lex>
+      <lex comment="good" lid="Id2" lang="en">Saranac Lake, New York, is part of the United States.</lex>
+      <lex comment="good" lid="Id1" lang="it">Saranac Lake, New York, fa parte degli Stati Uniti.</lex>
+      <lex comment="good" lid="Id2" lang="it">Saranac Lake, New York, fa parte degli Stati Uniti.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Saranac Lake, New York, fa parte degli Stati Uniti.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Saranac Lake, New York, fa parte degli Stati Uniti.</lex>
+    </entry>
+    <entry category="Airport" eid="Id37" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>South_Jersey_Transportation_Authority | chief1Name | Stephen_Dilts</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>South_Jersey_Transportation_Authority | chief | Stephen_Dilts</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">South Jersey Transportation Authority chief is Stephen Dilts.</lex>
+      <lex comment="good" lid="Id2" lang="en">Stephen Dilts is the chief of the South Jersey Transportation Authority.</lex>
+      <lex comment="good" lid="Id3" lang="en">Stephen Dilts is the chief of South Jersey Transportation Authority.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il capo della South Jersey Transportation Authority è Stephen Dilts.</lex>
+      <lex comment="good" lid="Id2" lang="it">Stephen Dilts è il capo dell'Autorità dei trasporti del South Jersey.</lex>
+      <lex comment="good" lid="Id3" lang="it">Stephen Dilts è il capo della South Jersey Transportation Authority.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il capo della South Jersey Transportation Authority è Stephen Dilts.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Stephen Dilts è il capo dell'Autorità dei trasporti del South Jersey.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Stephen Dilts è il capo della South Jersey Transportation Authority.</lex>
+    </entry>
+  </entries>
+</benchmark>

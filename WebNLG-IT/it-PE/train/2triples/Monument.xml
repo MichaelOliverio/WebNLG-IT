@@ -1,0 +1,628 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Monument" eid="Id1" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The 11th Mississippi Infantry Monument is in the municipality of Gettysburg, Pennsylvania and is categorised as a contributing property.</lex>
+      <lex comment="good" lid="Id2" lang="en">The 11th Mississippi Infantry Monument is categorised as a contributing property and can be found in Gettysburg, Pennsylvania.</lex>
+      <lex comment="good" lid="Id3" lang="en">The 11th Mississippi Infantry Monument falls under the category of Contributing property and is placed in the municipality of Gettysburg in Pennsylvania.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il Monumento all'11° Fanteria del Mississippi si trova nel comune di Gettysburg, in Pennsylvania, ed è classificato come proprietà contribuente.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il Monumento all'11° Fanteria del Mississippi è classificato come proprietà contribuente e si trova a Gettysburg, Pennsylvania.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il Monumento dell'11° Fanteria del Mississippi rientra nella categoria delle proprietà contribuenti ed è situato nel comune di Gettysburg, in Pennsylvania.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il Monumento all'11° Fanteria del Mississippi si trova nel comune di Gettysburg, in Pennsylvania, ed è classificato come proprietà contribuente.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il Monumento all'11° Fanteria del Mississippi è classificato come proprietà contribuente e si trova a Gettysburg, Pennsylvania.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il Monumento dell'11° Fanteria del Mississippi rientra nella categoria delle proprietà contribuenti ed è situato nel comune di Gettysburg, in Pennsylvania.</lex>
+    </entry>
+    <entry category="Monument" eid="Id2" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | country | &quot;United States&quot;@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | country | &quot;United States&quot;</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The 11th Mississippi Infantry Monument is in the United States and falls under the category of Contributing property.</lex>
+      <lex comment="good" lid="Id2" lang="en">The 11th Mississippi Infantry Monument falls under the category of Contributing property and is in the United States.</lex>
+      <lex comment="good" lid="Id3" lang="en">The 11th Mississippi Infantry Monument, located in the United States, falls under the category of Contributing property.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il Monumento all'11° Fanteria del Mississippi si trova negli Stati Uniti e rientra nella categoria Proprietà contribuente.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il Monumento dell'11° Fanteria del Mississippi rientra nella categoria delle proprietà contribuenti e si trova negli Stati Uniti.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il Monumento dell'11° Fanteria del Mississippi, situato negli Stati Uniti, rientra nella categoria delle proprietà contribuenti.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il Monumento all'11° Fanteria del Mississippi si trova negli Stati Uniti e rientra nella categoria Proprietà contribuente.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il Monumento dell'11° Fanteria del Mississippi rientra nella categoria delle proprietà contribuenti e si trova negli Stati Uniti.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il Monumento dell'11° Fanteria del Mississippi, situato negli Stati Uniti, rientra nella categoria delle proprietà contribuenti.</lex>
+    </entry>
+    <entry category="Monument" eid="Id3" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The 11th Mississippi Infantry Monument, established in 2000, is in the municipality of Gettysburg, Pennsylvania.</lex>
+      <lex comment="good" lid="Id2" lang="en">The 11th Mississippi Infantry Monument is placed in the municipality of Gettysburg in Pennsylvania and erected in 2000.</lex>
+      <lex comment="good" lid="Id3" lang="en">The 11th Mississippi Infantry Monument is in the municipality of Gettysburg Pennsylvania and was erected in 2000.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il monumento all'11° Fanteria del Mississippi, istituito nel 2000, si trova nel comune di Gettysburg, in Pennsylvania.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il monumento dell'11° Fanteria del Mississippi si trova nel comune di Gettysburg, in Pennsylvania, ed è stato eretto nel 2000.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il monumento all'11° Fanteria del Mississippi si trova nel comune di Gettysburg, in Pennsylvania, ed è stato eretto nel 2000.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il monumento all'11° Fanteria del Mississippi, istituito nel 2000, si trova nel comune di Gettysburg, in Pennsylvania.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il monumento dell'11° Fanteria del Mississippi si trova nel comune di Gettysburg, in Pennsylvania, ed è stato eretto nel 2000.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il monumento all'11° Fanteria del Mississippi si trova nel comune di Gettysburg, in Pennsylvania, ed è stato eretto nel 2000.</lex>
+    </entry>
+    <entry category="Monument" eid="Id4" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The 11th Mississippi Infantry Monument, situated in Adams County, Pennsylvania, is categorised as a contributing property.</lex>
+      <lex comment="good" lid="Id2" lang="en">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania falls under the category of Contributing property.</lex>
+      <lex comment="good" lid="Id3" lang="en">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania and is categorised as a contributing property.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il Monumento all'11° Fanteria del Mississippi, situato nella Contea di Adams, in Pennsylvania, è classificato come proprietà contribuente.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il Monumento dell'11° Fanteria del Mississippi si trova nella Contea di Adams, in Pennsylvania, e rientra nella categoria delle proprietà che contribuiscono.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il Monumento all'11° Fanteria del Mississippi si trova nella Contea di Adams, in Pennsylvania, ed è classificato come proprietà contribuente.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il Monumento all'11° Fanteria del Mississippi, situato nella Contea di Adams, in Pennsylvania, è classificato come proprietà contribuente.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il Monumento dell'11° Fanteria del Mississippi si trova nella Contea di Adams, in Pennsylvania, e rientra nella categoria delle proprietà che contribuiscono.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il Monumento all'11° Fanteria del Mississippi si trova nella Contea di Adams, in Pennsylvania, ed è classificato come proprietà contribuente.</lex>
+    </entry>
+    <entry category="Monument" eid="Id5" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The 11th Mississippi Infantry Monument was established in 2000 and is located in Adams County, Pennsylvania.</lex>
+      <lex comment="good" lid="Id2" lang="en">11th Mississippi Infantry Monument's location is Adams County, Pennsylvania and was established in 2000.</lex>
+      <lex comment="good" lid="Id3" lang="en">The 11th Mississippi Infantry Monument is in Adams County, PA and was founded in 2000.</lex>
+      <lex comment="good" lid="Id4" lang="en">11th Mississippi Infantry Monument was established in 2000 in Adams County, Pennsylvania.</lex>
+      <lex comment="good" lid="Id5" lang="en">The 11th Mississippi Infantry Monument in Adams County, Pennsylvania was established in 2000.</lex>
+      <lex comment="good" lid="Id6" lang="en">The 11th Mississippi Infantry Monument established in 2000 is found in Adams County, Pennsylvania.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il monumento all'11° Fanteria del Mississippi è stato istituito nel 2000 e si trova nella Contea di Adams, in Pennsylvania.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il Monumento all'11° Fanteria del Mississippi si trova nella Contea di Adams, in Pennsylvania, ed è stato istituito nel 2000.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il Monumento dell'11° Fanteria del Mississippi si trova nella Contea di Adams, PA, ed è stato fondato nel 2000.</lex>
+      <lex comment="good" lid="Id4" lang="it">Il monumento all'11° Fanteria del Mississippi è stato istituito nel 2000 nella Contea di Adams, in Pennsylvania.</lex>
+      <lex comment="good" lid="Id5" lang="it">Il monumento all'11° Fanteria del Mississippi nella Contea di Adams, in Pennsylvania, è stato istituito nel 2000.</lex>
+      <lex comment="good" lid="Id6" lang="it">Il monumento all'11° Fanteria del Mississippi, istituito nel 2000, si trova nella Contea di Adams, in Pennsylvania.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il monumento all'11° Fanteria del Mississippi è stato istituito nel 2000 e si trova nella Contea di Adams, in Pennsylvania.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il Monumento all'11° Fanteria del Mississippi si trova nella Contea di Adams, in Pennsylvania, ed è stato istituito nel 2000.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il Monumento dell'11° Fanteria del Mississippi si trova nella Contea di Adams, PA, ed è stato fondato nel 2000.</lex>
+      <lex comment="good" lid="Id4" lang="it-PE" isPE="False">Il monumento all'11° Fanteria del Mississippi è stato istituito nel 2000 nella Contea di Adams, in Pennsylvania.</lex>
+      <lex comment="good" lid="Id5" lang="it-PE" isPE="False">Il monumento all'11° Fanteria del Mississippi nella Contea di Adams, in Pennsylvania, è stato istituito nel 2000.</lex>
+      <lex comment="good" lid="Id6" lang="it-PE" isPE="False">Il monumento all'11° Fanteria del Mississippi, istituito nel 2000, si trova nella Contea di Adams, in Pennsylvania.</lex>
+    </entry>
+    <entry category="Monument" eid="Id6" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The 11th Mississippi Infantry Monument is in the municipality of Gettysburg, PA in Adams County.</lex>
+      <lex comment="good" lid="Id2" lang="en">The 11th Mississippi Infantry Monument is in the municipality of Gettysburg, Adams County, in Pennsylvania.</lex>
+      <lex comment="good" lid="Id3" lang="en">The municipality for the 11th Mississippi Infantry Monument is Gettysburg, Adams County, Pennsylvania.</lex>
+      <lex comment="good" lid="Id4" lang="en">The 11th Mississippi Infantry Monument is found in Adams County, Gettysburg, Pennsylvania.</lex>
+      <lex comment="good" lid="Id5" lang="en">The 11th Mississippi Infantry Monument is located in Adams County, in Gettysburg, Pennsylvania.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il monumento all'11° Fanteria del Mississippi si trova nel comune di Gettysburg, PA, nella contea di Adams.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il monumento all'11° Fanteria del Mississippi si trova nel comune di Gettysburg, nella Contea di Adams, in Pennsylvania.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il comune del monumento all'11° Fanteria del Mississippi è Gettysburg, Contea di Adams, Pennsylvania.</lex>
+      <lex comment="good" lid="Id4" lang="it">Il monumento all'11° Fanteria del Mississippi si trova nella Contea di Adams, a Gettysburg, in Pennsylvania.</lex>
+      <lex comment="good" lid="Id5" lang="it">Il monumento all'11° Fanteria del Mississippi si trova nella Contea di Adams, a Gettysburg, in Pennsylvania.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il monumento all'11° Fanteria del Mississippi si trova nel comune di Gettysburg, PA, nella contea di Adams.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il monumento all'11° Fanteria del Mississippi si trova nel comune di Gettysburg, nella Contea di Adams, in Pennsylvania.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il comune del monumento all'11° Fanteria del Mississippi è Gettysburg, Contea di Adams, Pennsylvania.</lex>
+      <lex comment="good" lid="Id4" lang="it-PE" isPE="False">Il monumento all'11° Fanteria del Mississippi si trova nella Contea di Adams, a Gettysburg, in Pennsylvania.</lex>
+      <lex comment="good" lid="Id5" lang="it-PE" isPE="False">Il monumento all'11° Fanteria del Mississippi si trova nella Contea di Adams, a Gettysburg, in Pennsylvania.</lex>
+    </entry>
+    <entry category="Monument" eid="Id7" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The 11th Mississippi Infantry Monument falls under the category of Contributing property and is in Pennsylvania.</lex>
+      <lex comment="good" lid="Id2" lang="en">The 11th Mississippi Infantry Monument, which falls under the category of Contributing property, is in Pennsylvania.</lex>
+      <lex comment="good" lid="Id3" lang="en">The 11th Mississippi Infantry Monument, in Pennsylvania, falls under the category of Contributing property.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il Monumento dell'11° Fanteria del Mississippi rientra nella categoria delle proprietà contribuenti e si trova in Pennsylvania.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il Monumento dell'11° Fanteria del Mississippi, che rientra nella categoria delle proprietà contribuenti, si trova in Pennsylvania.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il Monumento dell'11° Fanteria del Mississippi, in Pennsylvania, rientra nella categoria delle proprietà contribuenti.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il Monumento dell'11° Fanteria del Mississippi rientra nella categoria delle proprietà contribuenti e si trova in Pennsylvania.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il Monumento dell'11° Fanteria del Mississippi, che rientra nella categoria delle proprietà contribuenti, si trova in Pennsylvania.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il Monumento dell'11° Fanteria del Mississippi, in Pennsylvania, rientra nella categoria delle proprietà contribuenti.</lex>
+    </entry>
+    <entry category="Monument" eid="Id8" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | established | 2000</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | established | 2000</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The 11th Mississippi Infantry Monument is found in Pennsylvania and was established in 2000.</lex>
+      <lex comment="good" lid="Id2" lang="en">11th Mississippi Infantry Monument, established in 2000 is in Pennsylvania.</lex>
+      <lex comment="good" lid="Id3" lang="en">The 11th Mississippi Infantry Monument stands in the state of Pennsylvania and was established in 2000.</lex>
+      <lex comment="good" lid="Id4" lang="en">11th Mississippi Infantry Monument was established in 2000 in Pennsylvania.</lex>
+      <lex comment="good" lid="Id5" lang="en">The 11th Mississippi Infantry Monument was established in Pennsylvania in the year 2000.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il monumento all'11° Fanteria del Mississippi si trova in Pennsylvania ed è stato istituito nel 2000.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il Monumento all'11° Fanteria del Mississippi, istituito nel 2000, si trova in Pennsylvania.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il Monumento all'11° Fanteria del Mississippi si trova nello Stato della Pennsylvania ed è stato istituito nel 2000.</lex>
+      <lex comment="good" lid="Id4" lang="it">Il monumento all'11° Fanteria del Mississippi è stato istituito nel 2000 in Pennsylvania.</lex>
+      <lex comment="good" lid="Id5" lang="it">Il monumento all'11° Fanteria del Mississippi è stato istituito in Pennsylvania nel 2000.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il monumento all'11° Fanteria del Mississippi si trova in Pennsylvania ed è stato istituito nel 2000.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il Monumento all'11° Fanteria del Mississippi, istituito nel 2000, si trova in Pennsylvania.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il Monumento all'11° Fanteria del Mississippi si trova nello Stato della Pennsylvania ed è stato istituito nel 2000.</lex>
+      <lex comment="good" lid="Id4" lang="it-PE" isPE="False">Il monumento all'11° Fanteria del Mississippi è stato istituito nel 2000 in Pennsylvania.</lex>
+      <lex comment="good" lid="Id5" lang="it-PE" isPE="False">Il monumento all'11° Fanteria del Mississippi è stato istituito in Pennsylvania nel 2000.</lex>
+    </entry>
+    <entry category="Monument" eid="Id9" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;@en</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>11th_Mississippi_Infantry_Monument | state | &quot;Pennsylvania&quot;</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The 11th Mississippi Infantry Monument is found in Gettysburg, Pennsylvania.</lex>
+      <lex comment="good" lid="Id2" lang="en">The 11th Mississippi Infantry Monument is in Pennsylvania, in the municipality of Gettysburg.</lex>
+      <lex comment="good" lid="Id3" lang="en">11th Mississippi Infantry Monument can be found in Gettysburg, Pennsylvania.</lex>
+      <lex comment="good" lid="Id4" lang="en">The 11th Mississippi Infantry Monument is located in Gettysburg, Pennsylvania.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il monumento dell'11° Fanteria del Mississippi si trova a Gettysburg, in Pennsylvania.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il monumento all'11° Fanteria del Mississippi si trova in Pennsylvania, nel comune di Gettysburg.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il monumento dell'11° Fanteria del Mississippi si trova a Gettysburg, in Pennsylvania.</lex>
+      <lex comment="good" lid="Id4" lang="it">Il monumento all'11° Fanteria del Mississippi si trova a Gettysburg, in Pennsylvania.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il monumento dell'11° Fanteria del Mississippi si trova a Gettysburg, in Pennsylvania.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il monumento all'11° Fanteria del Mississippi si trova in Pennsylvania, nel comune di Gettysburg.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il monumento dell'11° Fanteria del Mississippi si trova a Gettysburg, in Pennsylvania.</lex>
+      <lex comment="good" lid="Id4" lang="it-PE" isPE="False">Il monumento all'11° Fanteria del Mississippi si trova a Gettysburg, in Pennsylvania.</lex>
+    </entry>
+    <entry category="Monument" eid="Id10" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The 14th New Jersey Volunteer Infantry Monument, found in the Monocacy National Battlefield, is categorised as a historic district in the United States.</lex>
+      <lex comment="good" lid="Id2" lang="en">The 14th New Jersey Volunteer Infantry Monument belongs to the category of Historic districts in the United States and is found in the Monocacy National Battlefield.</lex>
+      <lex comment="good" lid="Id3" lang="en">The 14th New Jersey Volunteer Infantry Monument is categorised as a historic district in the United States and is located in the Monocacy National Battlefield.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il 14th New Jersey Volunteer Infantry Monument, situato nel Monocacy National Battlefield, è classificato come distretto storico negli Stati Uniti.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il 14th New Jersey Volunteer Infantry Monument appartiene alla categoria dei distretti storici degli Stati Uniti e si trova nel Monocacy National Battlefield.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il 14th New Jersey Volunteer Infantry Monument è classificato come distretto storico negli Stati Uniti e si trova nel Monocacy National Battlefield.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il 14th New Jersey Volunteer Infantry Monument, situato nel Monocacy National Battlefield, è classificato come distretto storico negli Stati Uniti.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il 14th New Jersey Volunteer Infantry Monument appartiene alla categoria dei distretti storici degli Stati Uniti e si trova nel Monocacy National Battlefield.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il 14th New Jersey Volunteer Infantry Monument è classificato come distretto storico negli Stati Uniti e si trova nel Monocacy National Battlefield.</lex>
+    </entry>
+    <entry category="Monument" eid="Id11" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | &quot;1907-07-11&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | &quot;1907-07-11&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The 14th New Jersey Volunteer Infantry Monument, which was established on July 11th 1907, belongs to the category of Historic districts in the United States.</lex>
+      <lex comment="good" lid="Id2" lang="en">The 14th New Jersey Volunteer Infantry Monument was founded on July 11, 1907 and belongs to the Historic districts of the U.S.</lex>
+      <lex comment="good" lid="Id3" lang="en">The 14th New Jersey Volunteer Infantry Monument is categorised as a historic district in the United States and was established in 1907-07-11.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il 14th New Jersey Volunteer Infantry Monument, istituito l'11 luglio 1907, appartiene alla categoria dei distretti storici degli Stati Uniti.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il 14th New Jersey Volunteer Infantry Monument è stato fondato l'11 luglio 1907 e appartiene ai distretti storici degli Stati Uniti.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il 14th New Jersey Volunteer Infantry Monument è classificato come un distretto storico degli Stati Uniti ed è stato fondato nel 1907-07-11.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il 14th New Jersey Volunteer Infantry Monument, istituito l'11 luglio 1907, appartiene alla categoria dei distretti storici degli Stati Uniti.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il 14th New Jersey Volunteer Infantry Monument è stato fondato l'11 luglio 1907 e appartiene ai distretti storici degli Stati Uniti.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il 14th New Jersey Volunteer Infantry Monument è classificato come un distretto storico degli Stati Uniti ed è stato fondato nel 1907-07-11.</lex>
+    </entry>
+    <entry category="Monument" eid="Id12" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | &quot;United States&quot;@en</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | &quot;United States&quot;</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The 14th New Jersey Volunteer Infantry Monument belongs to the category of Historic districts and is found in the United States.</lex>
+      <lex comment="good" lid="Id2" lang="en">The 14th New Jersey Volunteer Infantry Monument is located in the United States of America and is labelled as a historic district.</lex>
+      <lex comment="good" lid="Id3" lang="en">The 14th New Jersey Volunteer Infantry Monument belongs to the category of Historic districts and is located in United States.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il 14th New Jersey Volunteer Infantry Monument appartiene alla categoria dei quartieri storici e si trova nel territorio degli Stati Uniti.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il 14th New Jersey Volunteer Infantry Monument si trova negli Stati Uniti d'America ed è classificato come quartiere storico.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il 14th New Jersey Volunteer Infantry Monument appartiene alla categoria Distretti storici e si trova nel comune di United States.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il 14th New Jersey Volunteer Infantry Monument appartiene alla categoria dei quartieri storici e si trova nel territorio degli Stati Uniti.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il 14th New Jersey Volunteer Infantry Monument si trova negli Stati Uniti d'America ed è classificato come quartiere storico.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il 14th New Jersey Volunteer Infantry Monument appartiene alla categoria Distretti storici e si trova nel comune di United States.</lex>
+    </entry>
+    <entry category="Monument" eid="Id13" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | &quot;United States&quot;@en</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | &quot;United States&quot;</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The 14th New Jersey Volunteer Infantry Monument is located in the United States at the Monocacy National Battlefield.</lex>
+      <lex comment="good" lid="Id2" lang="en">The 14th New Jersey Volunteer Infantry Monument is located in the district of the Monocacy National Battlefield in the United States.</lex>
+      <lex comment="good" lid="Id3" lang="en">The 14th New Jersey Volunteer Infantry Monument is located in the Monocacy National Battlefield in the United States.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il monumento al 14° Fanteria Volontaria del New Jersey si trova negli Stati Uniti presso il Monocacy National Battlefield.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il 14th New Jersey Volunteer Infantry Monument si trova nel distretto del Monocacy National Battlefield, negli Stati Uniti.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il 14th New Jersey Volunteer Infantry Monument si trova nel Monocacy National Battlefield, negli Stati Uniti.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il monumento al 14° Fanteria Volontaria del New Jersey si trova negli Stati Uniti presso il Monocacy National Battlefield.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il 14th New Jersey Volunteer Infantry Monument si trova nel distretto del Monocacy National Battlefield, negli Stati Uniti.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il 14th New Jersey Volunteer Infantry Monument si trova nel Monocacy National Battlefield, negli Stati Uniti.</lex>
+    </entry>
+    <entry category="Monument" eid="Id14" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | &quot;United States&quot;@en</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | &quot;1907-07-11&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | country | &quot;United States&quot;</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | &quot;1907-07-11&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The 14th New Jersey Volunteer Infantry Monument was made on July 11, 1907 and is located in the U.S.</lex>
+      <lex comment="good" lid="Id2" lang="en">The 14th New Jersey Volunteer Infantry Monument was established on July 11th, 1907 and is in the United States.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il monumento al 14° Fanteria Volontaria del New Jersey è stato realizzato l'11 luglio 1907 e si trova negli Stati Uniti.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il monumento al 14° Fanteria Volontaria del New Jersey è stato istituito l'11 luglio 1907 e si trova negli Stati Uniti.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il monumento al 14° Fanteria Volontaria del New Jersey è stato realizzato l'11 luglio 1907 e si trova negli Stati Uniti.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il monumento al 14° Fanteria Volontaria del New Jersey è stato istituito l'11 luglio 1907 e si trova negli Stati Uniti.</lex>
+    </entry>
+    <entry category="Monument" eid="Id15" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | &quot;1907-07-11&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | established | &quot;1907-07-11&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The 14th New Jersey Volunteer Infantry Monument is in the Monocacy National Battlefield and was founded July 11, 1907.</lex>
+      <lex comment="good" lid="Id2" lang="en">The 14th New Jersey Volunteer Infantry Monument is located on the Monocacy National Battlefield and was established on 11th July 1907.</lex>
+      <lex comment="good" lid="Id3" lang="en">The 14th New Jersey Volunteer Infantry Monument is in the Monocacy National Battlefield and was established July 11, 1907.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il 14th New Jersey Volunteer Infantry Monument si trova nel Monocacy National Battlefield ed è stato fondato l'11 luglio 1907.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il monumento al 14° Fanteria Volontaria del New Jersey si trova sul campo di battaglia nazionale di Monocacy ed è stato istituito l'11 luglio 1907.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il monumento al 14° Fanteria Volontaria del New Jersey si trova nel campo di battaglia nazionale di Monocacy ed è stato istituito l'11 luglio 1907.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il 14th New Jersey Volunteer Infantry Monument si trova nel Monocacy National Battlefield ed è stato fondato l'11 luglio 1907.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il monumento al 14° Fanteria Volontaria del New Jersey si trova sul campo di battaglia nazionale di Monocacy ed è stato istituito l'11 luglio 1907.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il monumento al 14° Fanteria Volontaria del New Jersey si trova nel campo di battaglia nazionale di Monocacy ed è stato istituito l'11 luglio 1907.</lex>
+    </entry>
+    <entry category="Monument" eid="Id16" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | owner | National_Park_Service</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | state | &quot;Maryland&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | owner | National_Park_Service</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | state | &quot;Maryland&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The 14th New Jersey Volunteer Infantry Monuments are in Maryland and are owned by the National Park Service.</lex>
+      <lex comment="good" lid="Id2" lang="en">The National Park Service is the owner of the 14th New Jersey Volunteer Infantry Monument and located in the state of Maryland.</lex>
+      <lex comment="good" lid="Id3" lang="en">The 14th New Jersey Volunteer Infantry Monument is owned by the National Park Service and is in the state of Maryland.</lex>
+      <lex comment="good" lid="Id1" lang="it">I monumenti del 14° Fanteria Volontaria del New Jersey si trovano nel Maryland e sono di proprietà del National Park Service.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il National Park Service è il proprietario del monumento del 14° New Jersey Volunteer Infantry, situato nello Stato del Maryland.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il 14th New Jersey Volunteer Infantry Monument è di proprietà del National Park Service e si trova nello Stato del Maryland.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">I monumenti del 14° Fanteria Volontaria del New Jersey si trovano nel Maryland e sono di proprietà del National Park Service.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il National Park Service è il proprietario del monumento del 14° New Jersey Volunteer Infantry, situato nello Stato del Maryland.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il 14th New Jersey Volunteer Infantry Monument è di proprietà del National Park Service e si trova nello Stato del Maryland.</lex>
+    </entry>
+    <entry category="Monument" eid="Id17" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Carroll County Maryland is southeast of Adams County Pennsylvania, where the 11th Mississippi Infantry Monument is located.</lex>
+      <lex comment="good" lid="Id2" lang="en">To the southeast of Adams County, Pennsylvania where 11th Mississippi Infantry Monument is found lies Carroll County, Maryland.</lex>
+      <lex comment="good" lid="Id3" lang="en">To the southeast of Adams County, Pennsylvania, where 11th Mississippi Infantry Monument is located, lies Carroll County, Maryland.</lex>
+      <lex comment="good" lid="Id4" lang="en">11th Mississippi Infantry Monument is located in Adams County, Pennsylvania which has Carroll County, Maryland to its southeast.</lex>
+      <lex comment="good" lid="Id5" lang="en">The 11th Mississippi Infantry Monument is located in Adams County, Pennsylvania, which is northwest of Carroll County, Maryland.</lex>
+      <lex comment="good" lid="Id1" lang="it">La contea di Carroll, nel Maryland, è a sud-est della contea di Adams, in Pennsylvania, dove si trova il monumento dell'11° Fanteria del Mississippi.</lex>
+      <lex comment="good" lid="Id2" lang="it">A sud-est della Contea di Adams, in Pennsylvania, dove si trova il Monumento dell'11° Fanteria del Mississippi, si trova la Contea di Carroll, nel Maryland.</lex>
+      <lex comment="good" lid="Id3" lang="it">A sud-est della Contea di Adams, in Pennsylvania, dove si trova il Monumento all'11° Fanteria del Mississippi, si trova la Contea di Carroll, nel Maryland.</lex>
+      <lex comment="good" lid="Id4" lang="it">Il monumento all'11° Fanteria del Mississippi si trova nella Contea di Adams, Pennsylvania, a sud-est della quale si trova la Contea di Carroll, Maryland.</lex>
+      <lex comment="good" lid="Id5" lang="it">Il monumento all'11° Fanteria del Mississippi si trova nella Contea di Adams, Pennsylvania, a nord-ovest della Contea di Carroll, Maryland.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La contea di Carroll, nel Maryland, è a sud-est della contea di Adams, in Pennsylvania, dove si trova il monumento dell'11° Fanteria del Mississippi.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">A sud-est della Contea di Adams, in Pennsylvania, dove si trova il Monumento dell'11° Fanteria del Mississippi, si trova la Contea di Carroll, nel Maryland.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">A sud-est della Contea di Adams, in Pennsylvania, dove si trova il Monumento all'11° Fanteria del Mississippi, si trova la Contea di Carroll, nel Maryland.</lex>
+      <lex comment="good" lid="Id4" lang="it-PE" isPE="False">Il monumento all'11° Fanteria del Mississippi si trova nella Contea di Adams, Pennsylvania, a sud-est della quale si trova la Contea di Carroll, Maryland.</lex>
+      <lex comment="good" lid="Id5" lang="it-PE" isPE="False">Il monumento all'11° Fanteria del Mississippi si trova nella Contea di Adams, Pennsylvania, a nord-ovest della Contea di Carroll, Maryland.</lex>
+    </entry>
+    <entry category="Monument" eid="Id18" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Atatürk_Monument_(İzmir) | open | &quot;1932-07-27&quot;^^xsd:date</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atatürk_Monument_(İzmir) | inaugurationDate | &quot;1932-07-27&quot;</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The inauguration date for the Atatürk Monument (İzmir), made of bronze, is 1932-07-27.</lex>
+      <lex comment="good" lid="Id2" lang="en">The inauguration date of the Atatürk Monument, made of bronze, in Izmir is the 27th of July, 1932.</lex>
+      <lex comment="good" lid="Id3" lang="en">Ataturk Monument (Izmir) was bronze and was inaugurated on 1932-07-27.</lex>
+      <lex comment="good" lid="Id4" lang="en">The Atatürk Monument (made of bronze) in Izmir was inaugurated on 1932-07-27.</lex>
+      <lex comment="good" lid="Id5" lang="en">The inauguration date of the bronze Ataturk Monument was July 27th, 1932.</lex>
+      <lex comment="good" lid="Id1" lang="it">La data di inaugurazione del monumento ad Atatürk (İzmir), realizzato in bronzo, è il 1932-07-27.</lex>
+      <lex comment="good" lid="Id2" lang="it">La data di inaugurazione del Monumento ad Atatürk, realizzato in bronzo, a Smirne è il 27 luglio 1932.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il Monumento di Ataturk (Smirne) è in bronzo e fu inaugurato il 1932-07-27.</lex>
+      <lex comment="good" lid="Id4" lang="it">Il monumento ad Atatürk (in bronzo) a Smirne fu inaugurato il 1932-07-27.</lex>
+      <lex comment="good" lid="Id5" lang="it">La data di inaugurazione del monumento di Ataturk in bronzo è stata il 27 luglio 1932.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">La data d'inaugurazione del monumento ad Atatürk (İzmir), realizzato in bronzo, è il 1932-07-27.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">La data d'inaugurazione del Monumento ad Atatürk, realizzato in bronzo, a Smirne è il 27 luglio 1932.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Il Monumento di Atatürk (Smirne) è in bronzo e fu inaugurato il 1932-07-27.</lex>
+      <lex comment="good" lid="Id4" lang="it-PE" isPE="False">Il monumento ad Atatürk (in bronzo) a Smirne fu inaugurato il 1932-07-27.</lex>
+      <lex comment="good" lid="Id5" lang="it-PE" isPE="True">La data d'inaugurazione del monumento di Atatürk in bronzo è stata il 27 luglio 1932.</lex>
+    </entry>
+    <entry category="Monument" eid="Id19" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;@en</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atatürk_Monument_(İzmir) | material | &quot;Bronze&quot;</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | designer | Pietro_Canonica</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Pietro Canonica is the designer of the Ataturk Monument in Izmir, which is made of bronze.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Atatürk Monument in Izmir, made of bronze, was designed by Pietro Canonica.</lex>
+      <lex comment="good" lid="Id3" lang="en">The Ataturk Monument designed by Pietro Canonica is made of Bronze.</lex>
+      <lex comment="good" lid="Id1" lang="it">Pietro Canonica è il progettista del Monumento ad Ataturk a Smirne, realizzato in bronzo.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il monumento ad Atatürk a Smirne, realizzato in bronzo, è stato progettato da Pietro Canonica.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il Monumento ad Ataturk, progettato da Pietro Canonica, è realizzato in bronzo.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Pietro Canonica è il progettista del Monumento ad Atatürk a Smirne, realizzato in bronzo.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il monumento ad Atatürk a Smirne, realizzato in bronzo, è stato progettato da Pietro Canonica.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Il Monumento ad Atatürk, progettato da Pietro Canonica, è realizzato in bronzo.</lex>
+    </entry>
+    <entry category="Monument" eid="Id20" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Turkish Martyrs' Memorial is located in Baku, the capital of Azerbaijan.</lex>
+      <lex comment="good" lid="Id2" lang="en">Baku Turkish Martyrs' Memorial is in Azerbaijan. The capital is Baku.</lex>
+      <lex comment="good" lid="Id3" lang="en">The Turkish martyrs memorial is located in Baku, the capital of Azerbaijan.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il Memoriale dei martiri turchi si trova a Baku, la capitale dell'Azerbaigian.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il Memoriale dei martiri turchi di Baku si trova in Azerbaigian. La capitale è Baku.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il memoriale dei martiri turchi si trova a Baku, la capitale dell'Azerbaigian.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il Memoriale dei martiri turchi si trova a Baku, la capitale dell'Azerbaigian.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il Memoriale dei martiri turchi di Baku si trova in Azerbaigian. La capitale è Baku.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il memoriale dei martiri turchi si trova a Baku, la capitale dell'Azerbaigian.</lex>
+    </entry>
+    <entry category="Monument" eid="Id21" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The leader of Azerbaijan is called the Prime Minister. The Baku Turkish Martyrs' Memorial is in Azerbaijan.</lex>
+      <lex comment="good" lid="Id2" lang="en">Baku Turkish Martyrs' Memorial is located in Azerbaijan and the leader is The Prime Minister of Azerbaijan.</lex>
+      <lex comment="good" lid="Id3" lang="en">Azerbaijan's leader is the Prime Minister. The Baku Turkish Martyrs' Memorial is in Azerbaijan.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il leader dell'Azerbaigian si chiama Primo Ministro. Il Memoriale dei martiri turchi di Baku si trova in Azerbaigian.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il Memoriale dei Martiri Turchi di Baku si trova in Azerbaigian e il leader è il Primo Ministro dell'Azerbaigian.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il leader dell'Azerbaigian è il Primo Ministro. Il Memoriale dei martiri turchi di Baku si trova in Azerbaigian.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il leader dell'Azerbaigian si chiama Primo Ministro. Il Memoriale dei martiri turchi di Baku si trova in Azerbaigian.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il Memoriale dei Martiri Turchi di Baku si trova in Azerbaigian e il leader è il Primo Ministro dell'Azerbaigian.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il leader dell'Azerbaigian è il Primo Ministro. Il Memoriale dei martiri turchi di Baku si trova in Azerbaigian.</lex>
+    </entry>
+    <entry category="Monument" eid="Id22" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | material | &quot;Red granite and white marble&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | &quot;Red granite and white marble&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Huseyin Butuner and Hilmi Guner created the Baku Turkish Martyrs' Memorial. It is made of red granite and white marble.</lex>
+      <lex comment="good" lid="Id2" lang="en">The designers of the Red granite and white marble Baku Turkish Martyrs' Memorial are Hüseyin Bütüner and Hilmi Güner.</lex>
+      <lex comment="good" lid="Id3" lang="en">The Baku Turkish Martyrs' Memorial is designed by Huseyin Butuner and Hilmi Guner and is made with red granite and white marble.</lex>
+      <lex comment="good" lid="Id4" lang="en">The Baku Turkish Martyrs' Memorial, designed by Hüseyin Bütüner and Hilmi Güner, is made out of red granite and white marble.</lex>
+      <lex comment="good" lid="Id5" lang="en">Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs' Monument which is made of red granite and white marble.</lex>
+      <lex comment="good" lid="Id1" lang="it">Huseyin Butuner e Hilmi Guner hanno realizzato il Memoriale dei martiri turchi di Baku. È realizzato in granito rosso e marmo bianco.</lex>
+      <lex comment="good" lid="Id2" lang="it">I progettisti del Memoriale dei martiri turchi di Baku in granito rosso e marmo bianco sono Hüseyin Bütüner e Hilmi Güner.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il Memoriale dei martiri turchi di Baku è stato progettato da Huseyin Butuner e Hilmi Guner ed è realizzato in granito rosso e marmo bianco.</lex>
+      <lex comment="good" lid="Id4" lang="it">Il Memoriale dei martiri turchi di Baku, progettato da Hüseyin Bütüner e Hilmi Güner, è realizzato in granito rosso e marmo bianco.</lex>
+      <lex comment="good" lid="Id5" lang="it">Huseyin Butuner e Hilmi Guner hanno progettato il Monumento ai Martiri Turchi di Baku, realizzato in granito rosso e marmo bianco.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Huseyin Butuner e Hilmi Guner hanno realizzato il Memoriale dei martiri turchi di Baku. È realizzato in granito rosso e marmo bianco.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">I progettisti del Memoriale dei martiri turchi di Baku in granito rosso e marmo bianco sono Hüseyin Bütüner e Hilmi Güner.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il Memoriale dei martiri turchi di Baku è stato progettato da Huseyin Butuner e Hilmi Guner ed è realizzato in granito rosso e marmo bianco.</lex>
+      <lex comment="good" lid="Id4" lang="it-PE" isPE="False">Il Memoriale dei martiri turchi di Baku, progettato da Hüseyin Bütüner e Hilmi Güner, è realizzato in granito rosso e marmo bianco.</lex>
+      <lex comment="good" lid="Id5" lang="it-PE" isPE="False">Huseyin Butuner e Hilmi Guner hanno progettato il Monumento ai Martiri Turchi di Baku, realizzato in granito rosso e marmo bianco.</lex>
+    </entry>
+    <entry category="Monument" eid="Id23" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The National Assembly dictates the legislature of Azerbaijan, where the Baku Turkish Martyrs' Memorial is found.</lex>
+      <lex comment="good" lid="Id2" lang="en">The National Assembly (Azerbaijan) is the source of legislature in Azerbaijan, where the Baku Turkish Martyrs' Memorial is located.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Assemblea nazionale detta la legislatura dell'Azerbaigian, dove si trova il Memoriale dei martiri turchi di Baku.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Assemblea nazionale (Azerbaigian) è la fonte legislativa dell'Azerbaigian, dove si trova il Memoriale dei martiri turchi di Baku.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'Assemblea nazionale detta la legislatura dell'Azerbaigian, dove si trova il Memoriale dei martiri turchi di Baku.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'Assemblea nazionale (Azerbaigian) è la fonte legislativa dell'Azerbaigian, dove si trova il Memoriale dei martiri turchi di Baku.</lex>
+    </entry>
+    <entry category="Monument" eid="Id24" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | material | &quot;Red granite and white marble&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | &quot;Red granite and white marble&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Baku Turkish Martyrs' Memorial made of red granite and white marble can be found in Azerbaijan.</lex>
+      <lex comment="good" lid="Id2" lang="en">Baku Turkish Martyrs' Memorial is located in Azerbaijan and made of red granite and white marble.</lex>
+      <lex comment="good" lid="Id1" lang="it">In Azerbaigian si trova il Memoriale dei martiri turchi di Baku, realizzato in granito rosso e marmo bianco.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il Memoriale dei martiri turchi di Baku si trova in Azerbaigian ed è realizzato in granito rosso e marmo bianco.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">In Azerbaigian si trova il Memoriale dei martiri turchi di Baku, realizzato in granito rosso e marmo bianco.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il Memoriale dei martiri turchi di Baku si trova in Azerbaigian ed è realizzato in granito rosso e marmo bianco.</lex>
+    </entry>
+    <entry category="Monument" eid="Id25" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | nativeName | &quot;Türk Şehitleri Anıtı&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | nativeName | &quot;Türk Şehitleri Anıtı&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The native name for the Baku Turkish Martyrs' Memorial, designed by Hüseyin Bütüner and Hilmi Güner is Türk Şehitleri Anıtı.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Baku Turkish Martyrs'Memorial which is know locally as Turk Sehitleri Aniti was designed by Huseyin Butuner and Hilmi Guner.</lex>
+      <lex comment="good" lid="Id3" lang="en">The Baku Turkish Martyrs' Memorial is known in Turkish as Turk Sehitleri Aniti and the designers are Hüseyin Bütüner and Hilmi Güner.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il nome nativo del Memoriale dei Martiri Turchi di Baku, progettato da Hüseyin Bütüner e Hilmi Güner, è Memoriale dei Martiri Turchi.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il Memoriale dei Martiri Turchi di Baku, noto localmente come Turk Sehitleri Aniti, è stato progettato da Huseyin Butuner e Hilmi Guner.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il Memoriale dei martiri turchi di Baku è noto in turco come Turk Sehitleri Aniti e i progettisti sono Hüseyin Bütüner e Hilmi Güner.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il nome nativo del Memoriale dei Martiri Turchi di Baku, progettato da Hüseyin Bütüner e Hilmi Güner, è Memoriale dei Martiri Turchi.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il Memoriale dei Martiri Turchi di Baku, noto localmente come Turk Sehitleri Aniti, è stato progettato da Huseyin Butuner e Hilmi Guner.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il Memoriale dei martiri turchi di Baku è noto in turco come Turk Sehitleri Aniti e i progettisti sono Hüseyin Bütüner e Hilmi Güner.</lex>
+    </entry>
+    <entry category="Monument" eid="Id26" shape="(X (X) (X))" shape_type="sibling" size="2">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>Dead_Man's_Plack | material | Rock_(geology)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>Dead_Man's_Plack | material | Rock_(geology)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Dead Man's Plack is made from rock and is in ENgland.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il Dead Man's Plack è fatto di roccia e si trova in Inghilterra.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il Dead Man's Plack è fatto di roccia e si trova in Inghilterra.</lex>
+    </entry>
+    <entry category="Monument" eid="Id27" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | capital | London</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | capital | London</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Dead Man's Plack is located in England, the capital of which is London.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Dead Man's Plack is in London, England.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il Dead Man's Plack si trova in Inghilterra, la cui capitale è Londra.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il Dead Man's Plack si trova a Londra, in Inghilterra.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il Dead Man's Plack si trova in Inghilterra, la cui capitale è Londra.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il Dead Man's Plack si trova a Londra, in Inghilterra.</lex>
+    </entry>
+    <entry category="Monument" eid="Id28" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Dead_Man's_Plack | location | England</otriple>
+        <otriple>England | ethnicGroups | British_Arabs</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Dead_Man's_Plack | location | England</mtriple>
+        <mtriple>England | ethnicGroup | British_Arabs</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Dead Man's Plack is in England and one of the ethnic groups found in England is the British Arabs.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Dead Man's Plack is in England honoring the British Arab ethnic group.</lex>
+      <lex comment="good" lid="Id3" lang="en">The Dead Man's Plack is located in England, where one of the ethnic groups is the British Arabs.</lex>
+      <lex comment="good" lid="Id1" lang="it">Dead Man's Plack si trova in Inghilterra e uno dei gruppi etnici presenti in Inghilterra è quello degli arabi britannici.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il Dead Man's Plack si trova in Inghilterra e onora l'etnia araba britannica.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il Dead Man's Plack si trova in Inghilterra, dove uno dei gruppi etnici è quello degli arabi britannici.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Dead Man's Plack si trova in Inghilterra e uno dei gruppi etnici presenti in Inghilterra è quello degli arabi britannici.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il Dead Man's Plack si trova in Inghilterra e onora l'etnia araba britannica.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il Dead Man's Plack si trova in Inghilterra, dove uno dei gruppi etnici è quello degli arabi britannici.</lex>
+    </entry>
+    <entry category="Monument" eid="Id29" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</otriple>
+        <otriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Monocacy_National_Battlefield | location | Frederick_County,_Maryland</mtriple>
+        <mtriple>14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The 14th New Jersey Volunteer Infantry Monument is found in the Monocacy National Battlefield which is located in Frederick County, Maryland.</lex>
+      <lex comment="good" lid="Id2" lang="en">The 14th New Jersey Volunteer Infantry Monument is located in the district of the Monocacy National Battlefield which is located Frederick County, Maryland.</lex>
+      <lex comment="good" lid="Id3" lang="en">The 14th New Jersey Volunteer Infantry Monument is in the Monocacy National Battlefield in Frederick County, Maryland.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il monumento al 14° Fanteria Volontaria del New Jersey si trova nel campo di battaglia nazionale di Monocacy, situato nella contea di Frederick, nel Maryland.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il monumento al 14° Fanteria Volontaria del New Jersey si trova nel distretto del Monocacy National Battlefield, nella contea di Frederick, Maryland.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il monumento al 14° Fanteria Volontaria del New Jersey si trova nel campo di battaglia nazionale di Monocacy, nella contea di Frederick, Maryland.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il monumento al 14° Fanteria Volontaria del New Jersey si trova nel campo di battaglia nazionale di Monocacy, situato nella contea di Frederick, nel Maryland.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il monumento al 14° Fanteria Volontaria del New Jersey si trova nel distretto del Monocacy National Battlefield, nella contea di Frederick, Maryland.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il monumento al 14° Fanteria Volontaria del New Jersey si trova nel campo di battaglia nazionale di Monocacy, nella contea di Frederick, Maryland.</lex>
+    </entry>
+    <entry category="Monument" eid="Id30" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Turkey | capital | Ankara</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | capital | Ankara</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Atatürk Monument is located in Izmir, Turkey, where the capital is Ankara.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Atatürk Monument is located in İzmir, Turkey which capital is Ankara.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il monumento ad Atatürk si trova a Smirne, in Turchia, dove la capitale è Ankara.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il Monumento a Atatürk si trova a İzmir, in Turchia, la cui capitale è Ankara.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il monumento ad Atatürk si trova a Smirne, in Turchia, dove la capitale è Ankara.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Il Monumento ad Atatürk si trova a İzmir, in Turchia, la cui capitale è Ankara.</lex>
+    </entry>
+    <entry category="Monument" eid="Id31" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Turkey | currency | Turkish_lira</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | currency | Turkish_lira</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Atatürk Monument (İzmir) is found in Turkey where the currency is the Turkish Lira.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Atatürk Monument is in Turkey, where the currency is the lira.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il Monumento di Atatürk (İzmir) si trova in Turchia, dove la valuta è la Lira turca.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il monumento ad Atatürk si trova in Turchia, dove la moneta è la lira.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il Monumento di Atatürk (İzmir) si trova in Turchia, dove la valuta è la Lira turca.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il monumento ad Atatürk si trova in Turchia, dove la moneta è la lira.</lex>
+    </entry>
+    <entry category="Monument" eid="Id32" shape="(X (X (X)))" shape_type="chain" size="2">
+      <originaltripleset>
+        <otriple>Turkey | largestCity | Istanbul</otriple>
+        <otriple>Atatürk_Monument_(İzmir) | location | Turkey</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Turkey | largestCity | Istanbul</mtriple>
+        <mtriple>Atatürk_Monument_(İzmir) | location | Turkey</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Atatürk Monument is in Turkey which largest city is Istanbul.</lex>
+      <lex comment="good" lid="Id2" lang="en">Istanbul is the largest city in Turkey, where the Atatürk Monument is located.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il monumento ad Atatürk si trova in Turchia, nella città più grande, Istanbul.</lex>
+      <lex comment="good" lid="Id2" lang="it">Istanbul è la città più grande della Turchia, dove si trova il monumento ad Atatürk.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il monumento ad Atatürk si trova in Turchia, nella città più grande, Istanbul.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Istanbul è la città più grande della Turchia, dove si trova il monumento ad Atatürk.</lex>
+    </entry>
+  </entries>
+</benchmark>

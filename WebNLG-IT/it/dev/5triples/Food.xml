@@ -1,0 +1,667 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Food" eid="Id1" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Ajoblanco | country | Spain</otriple>
+        <otriple>Ajoblanco | mainIngredient | &quot;Bread, almonds, garlic, water, olive oil&quot;@en</otriple>
+        <otriple>Ajoblanco | region | Andalusia</otriple>
+        <otriple>Ajoblanco | alias | &quot;Ajo blanco&quot;@en</otriple>
+        <otriple>Ajoblanco | ingredient | Bread</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+        <mtriple>Ajoblanco | mainIngredient | &quot;Bread, almonds, garlic, water, olive oil&quot;</mtriple>
+        <mtriple>Ajoblanco | region | Andalusia</mtriple>
+        <mtriple>Ajoblanco | alternativeName | &quot;Ajo blanco&quot;</mtriple>
+        <mtriple>Ajoblanco | ingredient | Bread</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">From Andalusia, Spain, Ajoblanco is made with bread, almonds, garlic, water and olive oil. Ajo blanco is an alternative name to Ajoblanco.</lex>
+      <lex comment="good" lid="Id2" lang="en">Ajoblanco, also known as Ajo blanco is a dish from the Andalusian region of Spain and includes the main ingredients of bread, almonds, garlic, water and olive oil.</lex>
+      <lex comment="good" lid="Id3" lang="en">A dish found in the Andalusian region of Spain is called Ajoblanco (or Ajo blanco). It contains bread, almonds, garlic, water and olive oil.</lex>
+      <lex comment="good" lid="Id1" lang="it">Originario dell'Andalusia, in Spagna, l'Ajoblanco si prepara con pane, mandorle, aglio, acqua e olio d'oliva. Ajo blanco è un nome alternativo di Ajoblanco.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'ajoblanco, noto anche come ajo blanco, è un piatto della regione andalusa della Spagna e comprende gli ingredienti principali: pane, mandorle, aglio, acqua e olio d'oliva.</lex>
+      <lex comment="good" lid="Id3" lang="it">Un piatto diffuso nella regione andalusa della Spagna si chiama Ajoblanco (o Ajo blanco). Contiene pane, mandorle, aglio, acqua e olio d'oliva.</lex>
+    </entry>
+    <entry category="Food" eid="Id2" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Amatriciana_sauce | region | Lazio</otriple>
+        <otriple>Amatriciana_sauce | country | Italy</otriple>
+        <otriple>Amatriciana_sauce | ingredient | Guanciale</otriple>
+        <otriple>Amatriciana_sauce | course | Italian_meal_structure</otriple>
+        <otriple>Amatriciana_sauce | mainIngredient | &quot;Tomatoes, guanciale, cheese , olive oil&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amatriciana_sauce | region | Lazio</mtriple>
+        <mtriple>Amatriciana_sauce | country | Italy</mtriple>
+        <mtriple>Amatriciana_sauce | ingredient | Guanciale</mtriple>
+        <mtriple>Amatriciana_sauce | course | Italian_meal_structure</mtriple>
+        <mtriple>Amatriciana_sauce | mainIngredient | &quot;Tomatoes, guanciale, cheese, olive oil&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Tomatoes, guanciale, cheese, and olive oil are main ingredients in the traditional Amatriciana sauce, which comes from the region of Lazio and can be found in an Italian meal.</lex>
+      <lex comment="good" lid="Id2" lang="en">Amatriciana is a traditional sauce from Lazio, Italy. It includes cheese along with tomatoes, guanciale and olive oil.</lex>
+      <lex comment="good" lid="Id3" lang="en">Amatriciana sauce can be found in Italian food and comes from the country's Lazio region. The main ingredients of the sauce are guanciale, tomatoes, cheese, and olive oil.</lex>
+      <lex comment="good" lid="Id1" lang="it">Pomodori, guanciale, formaggio e olio d'oliva sono gli ingredienti principali del tradizionale sugo all'amatriciana, originario della regione Lazio e presente in tutti i pasti italiani.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'amatriciana è una salsa tradizionale del Lazio. Include formaggio, pomodori, guanciale e olio d'oliva.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il sugo all'amatriciana è presente nella cucina italiana e proviene dalla regione Lazio. Gli ingredienti principali della salsa sono il guanciale, i pomodori, il formaggio e l'olio d'oliva.</lex>
+    </entry>
+    <entry category="Food" eid="Id3" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Arem-arem | country | Indonesia</otriple>
+        <otriple>Arem-arem | region | Javanese_cuisine</otriple>
+        <otriple>Indonesia | leaderName | Joko_Widodo</otriple>
+        <otriple>Indonesia | currency | Indonesian_rupiah</otriple>
+        <otriple>Indonesia | language | Indonesian_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arem-arem | country | Indonesia</mtriple>
+        <mtriple>Arem-arem | region | Javanese_cuisine</mtriple>
+        <mtriple>Indonesia | leader | Joko_Widodo</mtriple>
+        <mtriple>Indonesia | currency | Indonesian_rupiah</mtriple>
+        <mtriple>Indonesia | language | Indonesian_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Arem-arem, a Javanese dish, is commonly served in Indonesia where the leader is Joko Widodo. It is also where the currency is the Indonesian rupiah and where Indonesian language is the language spoken.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Arem-arem, un piatto giavanese, è comunemente servito in Indonesia, dove il leader è Joko Widodo. È anche il Paese in cui la valuta è la rupiah indonesiana e la lingua parlata è l'indonesiano.</lex>
+    </entry>
+    <entry category="Food" eid="Id4" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Arrabbiata_sauce | country | Italy</otriple>
+        <otriple>Italy | demonym | Italians</otriple>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Italy | language | Italian_language</otriple>
+        <otriple>Italy | leader | Sergio_Mattarella</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arrabbiata_sauce | country | Italy</mtriple>
+        <mtriple>Italy | demonym | Italians</mtriple>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>Italy | language | Italian_language</mtriple>
+        <mtriple>Italy | leader | Sergio_Mattarella</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Sergio Mattarella is a leader in Italy, a country where Rome is the capital, and both the people and the language spoken are Italian. Arrabbiata sauce can be found in Italy.</lex>
+      <lex comment="good" lid="Id2" lang="en">Arrabbiata sauce is from Italy where the capital is Rome, Italian is the language spoken and Sergio Mattarella is a leader. People there are called Italians.</lex>
+      <lex comment="good" lid="Id1" lang="it">Sergio Mattarella è un leader dell'Italia, un Paese in cui Roma è la capitale e sia la popolazione che la lingua parlata sono italiane. La salsa Arrabbiata si trova in Italia.</lex>
+      <lex comment="good" lid="Id2" lang="it">La salsa arrabbiata viene dall'Italia, dove la capitale è Roma, la lingua parlata è l'italiano e il leader è Sergio Mattarella. Gli abitanti del luogo si chiamano italiani.</lex>
+    </entry>
+    <entry category="Food" eid="Id5" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Arròs_negre | region | Valencian_Community</otriple>
+        <otriple>Valencian_Community | leaderName | Ximo_Puig</otriple>
+        <otriple>Arròs_negre | country | Spain</otriple>
+        <otriple>Spain | demonym | Spaniards</otriple>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Arròs_negre | region | Valencian_Community</mtriple>
+        <mtriple>Valencian_Community | leader | Ximo_Puig</mtriple>
+        <mtriple>Arròs_negre | country | Spain</mtriple>
+        <mtriple>Spain | demonym | Spaniards</mtriple>
+        <mtriple>Spain | leader | Felipe_VI_of_Spain</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Ximo Puig is a leader of the Valencian Community which is where Arros negre comes from. It is a traditional dish from Spain, where the people are called Spaniards and the leader is Felipe VI of Spain.</lex>
+      <lex comment="good" lid="Id2" lang="en">Arros negre is from the Valencian Community of Spain, home to the Spaniards, led by Felipe VI and Ximo Puig.</lex>
+      <lex comment="good" lid="Id1" lang="it">Ximo Puig è un leader della Comunità Valenciana, da cui proviene l'Arros negre. Si tratta di un piatto tradizionale della Spagna, dove gli abitanti sono chiamati spagnoli e il leader è Felipe VI di Spagna.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Arros negre proviene dalla Comunità Valenciana della Spagna, patria degli spagnoli, guidati da Felipe VI e Ximo Puig.</lex>
+    </entry>
+    <entry category="Food" eid="Id6" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Asam_pedas | country | Malaysia</otriple>
+        <otriple>Malaysia | ethnicGroup | Malaysian_Chinese</otriple>
+        <otriple>Malaysia | capital | Kuala_Lumpur</otriple>
+        <otriple>Malaysia | ethnicGroups | Malaysian_Indian</otriple>
+        <otriple>Asam_pedas | region | Malay_Peninsula</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asam_pedas | country | Malaysia</mtriple>
+        <mtriple>Malaysia | ethnicGroup | Malaysian_Chinese</mtriple>
+        <mtriple>Malaysia | capital | Kuala_Lumpur</mtriple>
+        <mtriple>Malaysia | ethnicGroup | Malaysian_Indian</mtriple>
+        <mtriple>Asam_pedas | region | Malay_Peninsula</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Asam pedas is a food found in the Malay Peninsula of Malaysia, whose capital is Kuala Lumpur, and includes the Malaysian Chinese and Malaysian Indians.</lex>
+      <lex comment="good" lid="Id2" lang="en">Asam pedas is a food found in the Malay Peninsula in Malaysia, whose capital is Kuala Lumpur, where Malaysian Indians and Malaysian Chinese are ethnic groups.</lex>
+      <lex comment="good" lid="Id3" lang="en">Malaysia and the Malay Peninsula are home to the dish Asam pedas. The capital of Malaysian Chinese and Indian inhabited Malaysia is Kuala Lumpur.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'asam pedas è un alimento diffuso nella penisola malese della Malesia, la cui capitale è Kuala Lumpur, e comprende i cinesi e gli indiani della Malesia.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'asam pedas è un alimento diffuso nella penisola malese, in Malesia, la cui capitale è Kuala Lumpur, dove gli indiani malesi e i cinesi malesi sono gruppi etnici.</lex>
+      <lex comment="good" lid="Id3" lang="it">La Malesia e la penisola malese sono la patria del piatto Asam pedas. La capitale della Malesia abitata da cinesi e indiani è Kuala Lumpur.</lex>
+    </entry>
+    <entry category="Food" eid="Id7" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Asam_pedas | country | Malaysia</otriple>
+        <otriple>Malaysia | ethnicGroups | Malaysian_Chinese</otriple>
+        <otriple>Malaysia | leader | Arifin_Zakaria</otriple>
+        <otriple>Malaysia | ethnicGroup | Malaysian_Indian</otriple>
+        <otriple>Asam_pedas | region | Malay_Peninsula</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Asam_pedas | country | Malaysia</otriple>
+        <otriple>Malaysia | ethnicGroup | Malaysian_Chinese</otriple>
+        <otriple>Malaysia | leader | Arifin_Zakaria</otriple>
+        <otriple>Malaysia | ethnicGroups | Malaysian_Indian</otriple>
+        <otriple>Asam_pedas | region | Malay_Peninsula</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Asam_pedas | country | Malaysia</mtriple>
+        <mtriple>Malaysia | ethnicGroup | Malaysian_Chinese</mtriple>
+        <mtriple>Malaysia | leader | Arifin_Zakaria</mtriple>
+        <mtriple>Malaysia | ethnicGroup | Malaysian_Indian</mtriple>
+        <mtriple>Asam_pedas | region | Malay_Peninsula</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Malaysian Indian and Malaysian chinese are two of the ethnic groups in Malaysia where Arifin Zakaria is the leader. Asam pedas is found in Malaysia and is from the Malay Peninsula region.</lex>
+      <lex comment="good" lid="Id2" lang="en">Asam pedas is a food found in the Malay Peninsula region, Malaysia, where ethnic groups include Malaysian Indian and Chinese. Arifin Zakaria is the country's leader.</lex>
+      <lex comment="good" lid="Id3" lang="en">Malaysia, led by Arifin Zakaria, is home to the Malaysian Indian and Chinese, as well as the asam pedas of the Malay Peninsula region.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'indiano malese e il cinese malese sono due dei gruppi etnici della Malesia di cui Arifin Zakaria è il leader. L'Asam pedas si trova in Malesia e proviene dalla regione della penisola malese.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'asam pedas è un alimento diffuso nella regione della penisola malese, in Malesia, dove i gruppi etnici comprendono indiani e cinesi. Arifin Zakaria è il leader del Paese.</lex>
+      <lex comment="good" lid="Id3" lang="it">La Malesia, guidata da Arifin Zakaria, è la patria degli indiani e dei cinesi malesi, nonché degli asam pedas della regione della penisola malese.</lex>
+    </entry>
+    <entry category="Food" eid="Id8" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Ayam_penyet | region | &quot;Nationwide, also can be found in Malaysia and Singapore&quot;@en</otriple>
+        <otriple>Ayam_penyet | country | Java</otriple>
+        <otriple>Ayam_penyet | ingredient | Fried_chicken</otriple>
+        <otriple>Ayam_penyet | ingredientName | &quot;\&quot;Squeezed\&quot; or \&quot;smashed\&quot;fried chickenserved withsambal&quot;</otriple>
+        <otriple>Ayam_penyet | servingTemperature | &quot;Hot&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ayam_penyet | region | &quot;Nationwide, also can be found in Malaysia and Singapore&quot;</mtriple>
+        <mtriple>Ayam_penyet | country | Java</mtriple>
+        <mtriple>Ayam_penyet | ingredient | Fried_chicken</mtriple>
+        <mtriple>Ayam_penyet | mainIngredient | &quot;Squeezed&quot; or &quot;smashed&quot; fried chicken served with sambal</mtriple>
+        <mtriple>Ayam_penyet | servingTemperature | &quot;Hot&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Ayam penyet is a Javanese dish made nationwide, and can also be found in Malaysia and Singapore. It should be served hot and contains the main ingredients of squeezed or smashed fried chicken served with sambal.</lex>
+      <lex comment="good" lid="Id2" lang="en">Ayam penyet is a hot food dish found in Java, Malaysia and Singapore and consists of fried chicken and sambal sauce.</lex>
+      <lex comment="good" lid="Id3" lang="en">Ayam penyet is a food made in Java regions of Malaysia and Singapore. It contains fried chicken that is smashed and served hot with sambal.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'ayam penyet è un piatto giavanese diffuso in tutta la nazione e si trova anche in Malesia e a Singapore. Va servito caldo e contiene come ingredienti principali pollo fritto strizzato o schiacciato, servito con sambal.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'ayam penyet è un piatto caldo diffuso a Giava, in Malesia e a Singapore e consiste in pollo fritto e salsa sambal.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'ayam penyet è un cibo prodotto nelle regioni di Giava della Malesia e di Singapore. Contiene pollo fritto schiacciato e servito caldo con sambal.</lex>
+    </entry>
+    <entry category="Food" eid="Id9" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Ayam_penyet | region | Malaysia</otriple>
+        <otriple>Malaysia | ethnicGroup | Malaysian_Chinese</otriple>
+        <otriple>Ayam_penyet | ingredient | Fried_chicken</otriple>
+        <otriple>Ayam_penyet | country | Indonesia</otriple>
+        <otriple>Ayam_penyet | mainIngredient | &quot;\&quot;Squeezed\&quot; or \&quot;smashed\&quot; fried chicken served with sambal&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ayam_penyet | region | Malaysia</mtriple>
+        <mtriple>Malaysia | ethnicGroup | Malaysian_Chinese</mtriple>
+        <mtriple>Ayam_penyet | ingredient | Fried_chicken</mtriple>
+        <mtriple>Ayam_penyet | country | Indonesia</mtriple>
+        <mtriple>Ayam_penyet | mainIngredient | &quot;Squeezed&quot; or &quot;smashed&quot; fried chicken served with sambal</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Malaysian Chinese is an ethnic group from Malaysia and Ayam Penyet is from there. Ayam Penyet is also from Indonesia and it contains fried chicken as well as &quot;squeezed&quot; or &quot;smashed&quot; chicken served with sambal.</lex>
+      <lex comment="good" lid="Id2" lang="en">Ayam penyet is a dish comprising &quot;squeezed&quot; or &quot;smashed&quot; fried chicken served with sambal. It can be found in Indonesia and in Malaysia, where there is an ethnic group called Malaysian Chinese.</lex>
+      <lex comment="good" lid="Id3" lang="en">Ayam penyet (origins: Indonesia) contains squeezed/smashed fried chicken with sambal and is popular in Malaysia. Malasysia is home to the Malaysian chinese.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il cinese malese è un gruppo etnico della Malesia, da cui proviene l'Ayam Penyet. L'Ayam Penyet proviene anche dall'Indonesia e contiene pollo fritto, ma anche pollo &quot;schiacciato&quot; o &quot;fracassato&quot; servito con sambal.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'ayam penyet è un piatto che comprende pollo fritto &quot;spremuto&quot; o &quot;schiacciato&quot; servito con sambal. Si trova in Indonesia e in Malesia, dove esiste un gruppo etnico chiamato cinese malese.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'ayam penyet (origini: Indonesia) contiene pollo fritto schiacciato/schiacciato con sambal ed è popolare in Malesia. La Malesia è la patria dei cinesi malesi.</lex>
+    </entry>
+    <entry category="Food" eid="Id10" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Ayam_penyet | region | Malaysia</otriple>
+        <otriple>Malaysia | ethnicGroup | Malaysian_Chinese</otriple>
+        <otriple>Ayam_penyet | ingredient | Fried_chicken</otriple>
+        <otriple>Fried_chicken | mainIngredient | Chicken</otriple>
+        <otriple>Ayam_penyet | country | Indonesia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ayam_penyet | region | Malaysia</mtriple>
+        <mtriple>Malaysia | ethnicGroup | Malaysian_Chinese</mtriple>
+        <mtriple>Ayam_penyet | ingredient | Fried_chicken</mtriple>
+        <mtriple>Fried_chicken | mainIngredient | Chicken</mtriple>
+        <mtriple>Ayam_penyet | country | Indonesia</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Malaysian chinese are an ethnic group from Malaysia which is where Ayam Penyet is from. Ayam Penyet can also be found in Indonesia and it contains fried chicken.</lex>
+      <lex comment="good" lid="Id2" lang="en">Ayam penyet a dish made with fried chicken, is popular in Malaysia. It originates from Indonesia. The Malaysian chinese are an ethnic group in Malaysia.</lex>
+      <lex comment="good" lid="Id3" lang="en">The fried chicken dish Ayam penyet comes from the region of Indonesia and also Malaysia where Malaysian Chinese are an ethnic group.</lex>
+      <lex comment="good" lid="Id1" lang="it">I cinesi malesi sono un gruppo etnico della Malesia, da cui proviene l'Ayam Penyet. L'Ayam Penyet si trova anche in Indonesia e contiene pollo fritto.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'ayam penyet, un piatto a base di pollo fritto, è popolare in Malesia. È originario dell'Indonesia. I cinesi malesi sono un gruppo etnico della Malesia.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il piatto di pollo fritto Ayam penyet proviene dalla regione dell'Indonesia e anche dalla Malesia, dove i cinesi malesi sono un gruppo etnico.</lex>
+    </entry>
+    <entry category="Food" eid="Id11" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Bacon_Explosion | country | United_States</otriple>
+        <otriple>United_States | leader | Barack_Obama</otriple>
+        <otriple>United_States | ethnicGroup | White_Americans</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | language | English_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bacon_Explosion | country | United_States</mtriple>
+        <mtriple>United_States | leader | Barack_Obama</mtriple>
+        <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Bacon Explosion comes from the United States. The US president is Barack Obama, and the capital is in Washington, D.C. English is the language of the US, and white Americans are a major ethnic group.</lex>
+      <lex comment="good" lid="Id1" lang="it">La Bacon Explosion proviene dagli Stati Uniti. Il presidente degli Stati Uniti è Barack Obama e la capitale è Washington, D.C. L'inglese è la lingua degli Stati Uniti e i bianchi americani sono il gruppo etnico principale.</lex>
+    </entry>
+    <entry category="Food" eid="Id12" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Bacon_Explosion | country | United_States</otriple>
+        <otriple>United_States | leader | Joe_Biden</otriple>
+        <otriple>United_States | ethnicGroup | Asian_Americans</otriple>
+        <otriple>United_States | capital | Washington,_D.C.</otriple>
+        <otriple>United_States | language | English_language</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bacon_Explosion | country | United_States</mtriple>
+        <mtriple>United_States | leader | Joe_Biden</mtriple>
+        <mtriple>United_States | ethnicGroup | Asian_Americans</mtriple>
+        <mtriple>United_States | capital | Washington,_D.C.</mtriple>
+        <mtriple>United_States | language | English_language</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Bacon Explosion is a dish from the United States, where Joe Biden is leader and the capital is Washington DC. English is the language spoken in the US and Asian Americans are an ethnic group there.</lex>
+      <lex comment="good" lid="Id2" lang="en">Bacon Explosion originates from the United States where Asian Americans are one of the ethnic groups. The country's capital city is Washington D.C and Joe Biden is a politician there. In the U.S., they speak English.</lex>
+      <lex comment="good" lid="Id1" lang="it">La Bacon Explosion è un piatto degli Stati Uniti, dove il leader è Joe Biden e la capitale è Washington DC. L'inglese è la lingua parlata negli Stati Uniti e gli asiatici americani sono un gruppo etnico.</lex>
+      <lex comment="good" lid="Id2" lang="it">Bacon Explosion proviene dagli Stati Uniti, dove gli asiatici americani sono uno dei gruppi etnici. La capitale del Paese è Washington D.C. e Joe Biden è un politico. Negli Stati Uniti si parla inglese.</lex>
+    </entry>
+    <entry category="Food" eid="Id13" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Baked_Alaska | country | France</otriple>
+        <otriple>Hong_Kong | leader | Carrie_Lam_(politician)</otriple>
+        <otriple>France | leaderName | Gérard_Larcher</otriple>
+        <otriple>France | language | French_language</otriple>
+        <otriple>Baked_Alaska | region | Hong_Kong</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baked_Alaska | country | France</otriple>
+        <otriple>Hong_Kong | leaderName | Carrie_Lam_(politician)</otriple>
+        <otriple>France | leader | Gérard_Larcher</otriple>
+        <otriple>France | language | French_language</otriple>
+        <otriple>Baked_Alaska | region | Hong_Kong</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baked_Alaska | country | France</mtriple>
+        <mtriple>Hong_Kong | leader | Carrie_Lam_(politician)</mtriple>
+        <mtriple>France | leader | Gérard_Larcher</mtriple>
+        <mtriple>France | language | French_language</mtriple>
+        <mtriple>Baked_Alaska | region | Hong_Kong</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Baked Alaska originates from France where the national language is French and one of the leader is Gerard Larcher. The dessert is served in Hong Kong as well where the leader is Carrie Lam.</lex>
+      <lex comment="good" lid="Id2" lang="en">Baked Alaska comes from France where the spoken language is French, and the country's leader is Gerard Larcher. This dessert is also served in Hong Kong where one of the political leaders is Carrie Lam.</lex>
+      <lex comment="good" lid="Id3" lang="en">Baked Alaska, served in Hong Kong, whose political leader is Carrie Lam, but is actually from France where the national language is French and the leader is Gerard Larcher.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Alaska al forno è originaria della Francia, dove la lingua nazionale è il francese e uno dei leader è Gerard Larcher. Il dessert viene servito anche a Hong Kong, dove il leader è Carrie Lam.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Alaska al forno proviene dalla Francia, dove la lingua parlata è il francese e il leader del Paese è Gerard Larcher. Questo dessert viene servito anche a Hong Kong, dove uno dei leader politici è Carrie Lam.</lex>
+      <lex comment="good" lid="Id3" lang="it">Alaska al forno, servita a Hong Kong, il cui leader politico è Carrie Lam, ma che in realtà proviene dalla Francia, dove la lingua nazionale è il francese e il leader è Gerard Larcher.</lex>
+    </entry>
+    <entry category="Food" eid="Id14" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Bandeja_paisa | ingredient | Lemon</otriple>
+        <otriple>Lemon | order | Rosids</otriple>
+        <otriple>Lemon | family | Rutaceae</otriple>
+        <otriple>Bandeja_paisa | country | Colombian_cuisine</otriple>
+        <otriple>Bandeja_paisa | region | Paisa_Region</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bandeja_paisa | ingredient | Lemon</mtriple>
+        <mtriple>Lemon | order | Rosids</mtriple>
+        <mtriple>Lemon | family | Rutaceae</mtriple>
+        <mtriple>Bandeja_paisa | country | Colombian_cuisine</mtriple>
+        <mtriple>Bandeja_paisa | region | Paisa_Region</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Bandeja paisa is typical Colombian cuisine that originates from the Paisa region and contains lemon. The lemon belongs to the rutaceae family and the order of Rosids.</lex>
+      <lex comment="good" lid="Id1" lang="it">La bandeja paisa è un piatto tipico della cucina colombiana, originario della regione di Paisa e contenente limone. Il limone appartiene alla famiglia delle rutacee e all'ordine delle rosacee.</lex>
+    </entry>
+    <entry category="Food" eid="Id15" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Barny_Cakes | country | France</otriple>
+        <otriple>France | leader | Gérard_Larcher</otriple>
+        <otriple>France | language | French_language</otriple>
+        <otriple>France | leaderName | Claude_Bartolone</otriple>
+        <otriple>Barny_Cakes | ingredient | Sponge_cake</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Barny_Cakes | country | France</otriple>
+        <otriple>France | language | French_language</otriple>
+        <otriple>France | leaderName | Gérard_Larcher</otriple>
+        <otriple>France | leader | Claude_Bartolone</otriple>
+        <otriple>Barny_Cakes | ingredient | Sponge_cake</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Barny_Cakes | country | France</mtriple>
+        <mtriple>France | language | French_language</mtriple>
+        <mtriple>France | leader | Gérard_Larcher</mtriple>
+        <mtriple>France | leader | Claude_Bartolone</mtriple>
+        <mtriple>Barny_Cakes | ingredient | Sponge_cake</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Barny Cakes, which are made from sponge cake, are from France, where Gerard Larcher and Claude Bartolone are leaders and French is the language spoken.</lex>
+      <lex comment="good" lid="Id2" lang="en">Barny cakes, made with sponge cake, are found in France, where French is spoken and whose leaders are Claude Bartolone and Gerard Larcher.</lex>
+      <lex comment="good" lid="Id1" lang="it">Le Barny Cakes, a base di pan di Spagna, provengono dalla Francia, dove Gerard Larcher e Claude Bartolone sono i leader e si parla francese.</lex>
+      <lex comment="good" lid="Id2" lang="it">Le torte Barny, fatte con il pan di Spagna, si trovano in Francia, dove si parla francese e i cui leader sono Claude Bartolone e Gerard Larcher.</lex>
+    </entry>
+    <entry category="Food" eid="Id16" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Barny_Cakes | country | France</otriple>
+        <otriple>France | leader | Gérard_Larcher</otriple>
+        <otriple>France | language | French_language</otriple>
+        <otriple>Mondelez_International | foundationPlace | Chicago</otriple>
+        <otriple>Barny_Cakes | creator | Mondelez_International</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Barny_Cakes | country | France</mtriple>
+        <mtriple>France | leader | Gérard_Larcher</mtriple>
+        <mtriple>France | language | French_language</mtriple>
+        <mtriple>Mondelez_International | foundationPlace | Chicago</mtriple>
+        <mtriple>Barny_Cakes | creator | Mondelez_International</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Created by Mondelez International (founded in Chicago), Barny Cakes come from France where Gerard Larcher is leader and they speak French.</lex>
+      <lex comment="good" lid="Id2" lang="en">Barny cakes is created by Mondelez International, which was founded in Chicago. It comes from France, which leader is Gérard Larcher and the language is French.</lex>
+      <lex comment="good" lid="Id1" lang="it">Creati da Mondelez International (fondata a Chicago), i Barny Cakes provengono dalla Francia, dove Gerard Larcher è il leader e si parla francese.</lex>
+      <lex comment="good" lid="Id2" lang="it">Le torte Barny sono create da Mondelez International, fondata a Chicago. Viene dalla Francia, il cui leader è Gérard Larcher e la lingua è il francese.</lex>
+    </entry>
+    <entry category="Food" eid="Id17" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Bhajji | country | India</otriple>
+        <otriple>India | demonym | Indian_people</otriple>
+        <otriple>India | leader | T._S._Thakur</otriple>
+        <otriple>India | leaderName | Sumitra_Mahajan</otriple>
+        <otriple>Bhajji | region | Karnataka</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bhajji | country | India</otriple>
+        <otriple>India | demonym | Indian_people</otriple>
+        <otriple>India | leaderName | T._S._Thakur</otriple>
+        <otriple>India | leader | Sumitra_Mahajan</otriple>
+        <otriple>Bhajji | region | Karnataka</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bhajji | country | India</mtriple>
+        <mtriple>India | demonym | Indian_people</mtriple>
+        <mtriple>India | leader | T._S._Thakur</mtriple>
+        <mtriple>India | leader | Sumitra_Mahajan</mtriple>
+        <mtriple>Bhajji | region | Karnataka</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Indian people enjoy the dish bhajji, which originates from the Karnataka region of India. This nation is led by T.S. Thakur and Sumitra Mahajan.</lex>
+      <lex comment="good" lid="Id1" lang="it">Gli indiani apprezzano il piatto bhajji, originario della regione indiana del Karnataka. Questa nazione è guidata da T.S. Thakur e Sumitra Mahajan.</lex>
+    </entry>
+    <entry category="Food" eid="Id18" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
+      <originaltripleset>
+        <otriple>Binignit | mainIngredient | Sweet_potato</otriple>
+        <otriple>Binignit | region | Visayas</otriple>
+        <otriple>Binignit | course | Dessert</otriple>
+        <otriple>Binignit | country | Philippines</otriple>
+        <otriple>Binignit | ingredient | Banana</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Binignit | mainIngredient | Sweet_potato</mtriple>
+        <mtriple>Binignit | region | Visayas</mtriple>
+        <mtriple>Binignit | course | Dessert</mtriple>
+        <mtriple>Binignit | country | Philippines</mtriple>
+        <mtriple>Binignit | ingredient | Banana</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Binignit is a dessert from the Visayas region of the Philippines. It contains sweet potato and banana.</lex>
+      <lex comment="good" lid="Id2" lang="en">Binignit comes from the Philippines from the region of Visayas. Its a type of dessert featuring banana and sweet potatoes.</lex>
+      <lex comment="good" lid="Id3" lang="en">The dessert Binignit includes sweet potato and banana. It is from the Visayas region of the Philippines.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il Binignit è un dolce della regione delle Visayas, nelle Filippine. Contiene patate dolci e banane.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il Binignit proviene dalle Filippine, dalla regione di Visayas. È un tipo di dessert a base di banane e patate dolci.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il dessert Binignit comprende patate dolci e banane. È originario della regione di Visayas, nelle Filippine.</lex>
+    </entry>
+    <entry category="Food" eid="Id19" shape="(X (X) (X) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Bionico | country | Mexico</otriple>
+        <otriple>Mexico | language | Spanish_language</otriple>
+        <otriple>Mexico | leader | Enrique_Peña_Nieto</otriple>
+        <otriple>Bionico | hasVariant | Honey</otriple>
+        <otriple>Bionico | course | Dessert</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bionico | country | Mexico</mtriple>
+        <mtriple>Mexico | language | Spanish_language</mtriple>
+        <mtriple>Mexico | leader | Enrique_Peña_Nieto</mtriple>
+        <mtriple>Bionico | dishVariation | Honey</mtriple>
+        <mtriple>Bionico | course | Dessert</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Enrique Pena Nieto is the leader of Mexico which is where they speak Spanish and eat bionico, flavoured with honey, for dessert.</lex>
+      <lex comment="good" lid="Id1" lang="it">Enrique Pena Nieto è il leader del Messico, dove si parla spagnolo e si mangia il bionico, aromatizzato al miele, come dessert.</lex>
+    </entry>
+    <entry category="Food" eid="Id20" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Bionico | country | Mexico</otriple>
+        <otriple>Mexico | language | Spanish_language</otriple>
+        <otriple>Mexico | leader | Silvano_Aureoles_Conejo</otriple>
+        <otriple>Bionico | course | Dessert</otriple>
+        <otriple>Dessert | hasVariant | Cookie</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bionico | country | Mexico</mtriple>
+        <mtriple>Mexico | language | Spanish_language</mtriple>
+        <mtriple>Mexico | leader | Silvano_Aureoles_Conejo</mtriple>
+        <mtriple>Bionico | course | Dessert</mtriple>
+        <mtriple>Dessert | dishVariation | Cookie</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Bionico is a dish found in Mexico, where Spanish is spoken and the leader is Silvano Aureoles Conejo. Bionico is a dish served for dessert and a cookie can be served as a dessert too.</lex>
+      <lex comment="good" lid="Id2" lang="en">Mexico is a spanish speaking country and is led by Silvano Aureoles Conejo. A type of food is Bionico, which is a type of cookie served for dessert.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il bionico è un piatto che si trova in Messico, dove si parla spagnolo e il leader è Silvano Aureoles Conejo. Il bionico è un piatto servito come dessert e anche un biscotto può essere servito come dessert.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il Messico è un Paese di lingua spagnola ed è guidato da Silvano Aureoles Conejo. Un tipo di cibo è il Bionico, un tipo di biscotto servito come dessert.</lex>
+    </entry>
+    <entry category="Food" eid="Id21" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Bionico | country | Mexico</otriple>
+        <otriple>Mexico | leaderName | Silvano_Aureoles_Conejo</otriple>
+        <otriple>Bionico | hasVariant | Honey</otriple>
+        <otriple>Bionico | course | Dessert</otriple>
+        <otriple>Bionico | region | Guadalajara</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bionico | country | Mexico</mtriple>
+        <mtriple>Mexico | leader | Silvano_Aureoles_Conejo</mtriple>
+        <mtriple>Bionico | dishVariation | Honey</mtriple>
+        <mtriple>Bionico | course | Dessert</mtriple>
+        <mtriple>Bionico | region | Guadalajara</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Honey can be used as a variation in the dish Bionico which is served for dessert. It is found in Guadalajara, Mexico where Silvano Aureoles Conejo is the leader.</lex>
+      <lex comment="good" lid="Id2" lang="en">The name of the leader in Mexico is Silvano Aureoles Conejo and bionico can be found in the Guadalajara region. It's served as a dessert course and honey can be added to it.</lex>
+      <lex comment="good" lid="Id3" lang="en">The dessert Bionico is found in Guadalajara and Silvano Aureoles Conejo led Mexico and may contain honey.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il miele può essere utilizzato come variante nel piatto Bionico, servito come dessert. Si trova a Guadalajara, in Messico, dove Silvano Aureoles Conejo è il leader.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il nome del leader in Messico è Silvano Aureoles Conejo e il bionico si trova nella regione di Guadalajara. Viene servito come dessert e vi si può aggiungere del miele.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il dessert Bionico si trova a Guadalajara e Silvano Aureoles Conejo, in Messico, e può contenere miele.</lex>
+    </entry>
+    <entry category="Food" eid="Id22" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Indonesia | capital | Jakarta</otriple>
+        <otriple>Indonesia | language | Indonesian_language</otriple>
+        <otriple>Bakso | region | &quot;Nationwide in Indonesia, also popular in neighboring Southeast Asian countries&quot;@en</otriple>
+        <otriple>Bakso | country | Indonesia</otriple>
+        <otriple>Indonesia | leaderName | Joko_Widodo</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Indonesia | capital | Jakarta</mtriple>
+        <mtriple>Indonesia | language | Indonesian_language</mtriple>
+        <mtriple>Bakso | region | &quot;Nationwide in Indonesia, also popular in neighboring Southeast Asian countries&quot;</mtriple>
+        <mtriple>Bakso | country | Indonesia</mtriple>
+        <mtriple>Indonesia | leader | Joko_Widodo</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Joko Widodo is the leader of Indonesia whose capital is Jakarta and its language is Indonesian. Bakso comes from Indonesia and is popular in Southeastern Asian countries.</lex>
+      <lex comment="good" lid="Id2" lang="en">Joko Widodo is the leader of Indonesia, a country where Indonesian is the language spoken and Jakarta is the capital city. Bakso is a traditional food throughout Indonesia and is also popular in neighbouring Southeast Asian countries.</lex>
+      <lex comment="good" lid="Id3" lang="en">Bakso originates from Indonesia and also popular in neighbouring Southeast Asian countries. The country's capital city is Jakarta, its main language is Indonesian and led by president Joko Widodo.</lex>
+      <lex comment="good" lid="Id1" lang="it">Joko Widodo è il leader dell'Indonesia, la cui capitale è Giacarta e la cui lingua è l'indonesiano. Il bakso proviene dall'Indonesia ed è popolare nei Paesi del sud-est asiatico.</lex>
+      <lex comment="good" lid="Id2" lang="it">Joko Widodo è il leader dell'Indonesia, un Paese in cui la lingua parlata è l'indonesiano e la capitale è Giacarta. Il bakso è un cibo tradizionale in tutta l'Indonesia ed è popolare anche nei Paesi vicini del Sud-Est asiatico.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il bakso è originario dell'Indonesia ed è popolare anche nei Paesi limitrofi del Sud-Est asiatico. La capitale del Paese è Giacarta, la lingua principale è l'indonesiano ed è guidata dal presidente Joko Widodo.</lex>
+    </entry>
+    <entry category="Food" eid="Id23" shape="(X (X (X) (X) (X)) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Indonesia | capital | Jakarta</otriple>
+        <otriple>Indonesia | leader | Jusuf_Kalla</otriple>
+        <otriple>Bakso | region | Indonesia</otriple>
+        <otriple>Bakso | country | &quot;Indonesia, derived from Chinese meat ball&quot;@en</otriple>
+        <otriple>Indonesia | leaderName | Joko_Widodo</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Indonesia | capital | Jakarta</mtriple>
+        <mtriple>Indonesia | leader | Jusuf_Kalla</mtriple>
+        <mtriple>Bakso | region | Indonesia</mtriple>
+        <mtriple>Bakso | country | Indonesia</mtriple>
+        <mtriple>Indonesia | leader | Joko_Widodo</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Bakso is a food found in Indonesia where the capital is Jakarta and the leaders are Jusuf Kalla and Joko Widodo.</lex>
+      <lex comment="good" lid="Id2" lang="en">Bakso is dish from Indonesia (capital Jakarta). Jusuf Kalla and Joko Widodo are political leaders in the country.</lex>
+      <lex comment="good" lid="Id3" lang="en">Bakso is a dish from Indonesia. The country's capital city is Jakarta and it is led by president Joko Widodo and vice president Jusuf Kalla.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il bakso è un alimento diffuso in Indonesia, dove la capitale è Giacarta e i leader sono Jusuf Kalla e Joko Widodo.</lex>
+      <lex comment="good" lid="Id2" lang="it">Bakso è un piatto dell'Indonesia (capitale Jakarta). Jusuf Kalla e Joko Widodo sono leader politici del Paese.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il bakso è un piatto indonesiano. La capitale del Paese è Giacarta ed è guidata dal presidente Joko Widodo e dal vicepresidente Jusuf Kalla.</lex>
+    </entry>
+    <entry category="Food" eid="Id24" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Italy | demonym | Italians</otriple>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Amatriciana_sauce | country | Italy</otriple>
+        <otriple>Italy | leaderName | Laura_Boldrini</otriple>
+        <otriple>Italy | leader | Pietro_Grasso</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Italy | leaderName | Pietro_Grasso</otriple>
+        <otriple>Italy | demonym | Italians</otriple>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Amatriciana_sauce | country | Italy</otriple>
+        <otriple>Italy | leader | Laura_Boldrini</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Italy | demonym | Italians</mtriple>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>Amatriciana_sauce | country | Italy</mtriple>
+        <mtriple>Italy | leader | Laura_Boldrini</mtriple>
+        <mtriple>Italy | leader | Pietro_Grasso</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The capital of Italy is Rome and is where Italians are from and Amatriciana is a traditional sauce. The leaders are Laura Boldrini and Pietro Grasso.</lex>
+      <lex comment="good" lid="Id2" lang="en">Amatriciana sauce is a traditional dish from Italy, where the capital is Rome and the leaders include Pietro Grasso and Laura Boldrini. Italians is the name given to people from Italy.</lex>
+      <lex comment="good" lid="Id3" lang="en">The capital city of Italy is Rome and its inhabitants are the Italians. The country is the home of the Amatriciana sauce and its led by Pietro Grasso and Laura Boldrini.</lex>
+      <lex comment="good" lid="Id1" lang="it">La capitale d'Italia è Roma, da cui provengono gli italiani, e l'amatriciana è una salsa tradizionale. I leader sono Laura Boldrini e Pietro Grasso.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il sugo all'amatriciana è un piatto tradizionale dell'Italia, dove la capitale è Roma e i leader sono Pietro Grasso e Laura Boldrini. Italiani è il nome dato alle persone provenienti dall'Italia.</lex>
+      <lex comment="good" lid="Id3" lang="it">La capitale dell'Italia è Roma e i suoi abitanti sono gli italiani. Il Paese è la patria della salsa amatriciana ed è guidato da Pietro Grasso e Laura Boldrini.</lex>
+    </entry>
+    <entry category="Food" eid="Id25" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Java | ethnicGroup | Banyumasan_people</otriple>
+        <otriple>Singapore | language | English_language</otriple>
+        <otriple>Singapore | leaderName | Halimah_Yacob</otriple>
+        <otriple>Ayam_penyet | region | Singapore</otriple>
+        <otriple>Ayam_penyet | country | Java</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Java | ethnicGroup | Banyumasan_people</mtriple>
+        <mtriple>Singapore | language | English_language</mtriple>
+        <mtriple>Singapore | leader | Halimah_Yacob</mtriple>
+        <mtriple>Ayam_penyet | region | Singapore</mtriple>
+        <mtriple>Ayam_penyet | country | Java</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">English is spoken in Singapore where the leader is Halimah Yacob. Ayam penyet is from the Singapore region of Java where the Banyumasan people are an ethnic group.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Banyumasan people are an ethnic group from Java, where you can find a traditional dish called Ayam penyet. The dish comes from Singapore, where the leader is Halimah Yacob and English is one of the languages spoken.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'inglese è parlato a Singapore, dove il leader è Halimah Yacob. L'Ayam penyet proviene dalla regione di Singapore, a Giava, dove il popolo Banyumasan è un gruppo etnico.</lex>
+      <lex comment="good" lid="Id2" lang="it">I Banyumasan sono un gruppo etnico di Giava, dove si trova un piatto tradizionale chiamato Ayam penyet. Il piatto proviene da Singapore, dove il leader è Halimah Yacob e l'inglese è una delle lingue parlate.</lex>
+    </entry>
+    <entry category="Food" eid="Id26" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Java | ethnicGroup | Banyumasan_people</otriple>
+        <otriple>Singapore | leaderName | Halimah_Yacob</otriple>
+        <otriple>Ayam_penyet | region | Singapore</otriple>
+        <otriple>Singapore | language | Standard_Chinese</otriple>
+        <otriple>Ayam_penyet | country | Java</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Java | ethnicGroup | Banyumasan_people</mtriple>
+        <mtriple>Singapore | leader | Halimah_Yacob</mtriple>
+        <mtriple>Ayam_penyet | region | Singapore</mtriple>
+        <mtriple>Singapore | language | Standard_Chinese</mtriple>
+        <mtriple>Ayam_penyet | country | Java</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Halimah Yacob leads Singapore, where Standard Chinese is spoken and where Ayam penyet is from. This dish is a food found in Java; one of the ethnic groups there are the Banyumasan people.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Banyumasan people are an ethnic group in Java, the country of Ayam penyet, which is also from the Singapore region. Standard Chinese is spoken in Singapore and Halimah Yacob is the leader.</lex>
+      <lex comment="good" lid="Id3" lang="en">Ayam penyet is a dish from the region of Java and Singapore where Standard Chinese is spoken. Halimah Yacob is the leader of Singapore and the Banyumasan people are an ethnic group from Java.</lex>
+      <lex comment="good" lid="Id1" lang="it">Halimah Yacob è alla guida di Singapore, dove si parla il cinese standard e da dove proviene l'Ayam penyet. Questo piatto è un alimento che si trova a Giava, dove uno dei gruppi etnici è quello dei Banyumasan.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il popolo Banyumasan è un gruppo etnico di Giava, il Paese dell'Ayam penyet, che proviene anche dalla regione di Singapore. A Singapore si parla il cinese standard e il leader è Halimah Yacob.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'ayam penyet è un piatto della regione di Giava e di Singapore, dove si parla il cinese standard. Halimah Yacob è il leader di Singapore e i Banyumasan sono un gruppo etnico di Giava.</lex>
+    </entry>
+    <entry category="Food" eid="Id27" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Philippines | ethnicGroups | Ilocano_people</otriple>
+        <otriple>Philippines | language | Arabic</otriple>
+        <otriple>Philippines | officialLanguage | Philippine_English</otriple>
+        <otriple>Batchoy | country | Philippines</otriple>
+        <otriple>Philippines | ethnicGroup | Igorot_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | ethnicGroup | Ilocano_people</mtriple>
+        <mtriple>Philippines | language | Arabic</mtriple>
+        <mtriple>Philippines | officialLanguage | Philippine_English</mtriple>
+        <mtriple>Batchoy | country | Philippines</mtriple>
+        <mtriple>Philippines | ethnicGroup | Igorot_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Philippines is the country the dish Batchoy comes from. The Ilocano and Igorot peoples are ethnic groups from the Philippines, where languages spoken include Arabic and Phillippine English.</lex>
+      <lex comment="good" lid="Id2" lang="en">Batchoy is eaten in the Philippines, languages spoken there include English (official language) and also Arabic. Ethnic groups there include the Ilocano and Igorot peoples.</lex>
+      <lex comment="good" lid="Id1" lang="it">Le Filippine sono il Paese da cui proviene il piatto Batchoy. I popoli Ilocano e Igorot sono gruppi etnici delle Filippine, dove le lingue parlate includono l'arabo e l'inglese filippino.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il batchoy viene consumato nelle Filippine, dove si parla l'inglese (lingua ufficiale) e anche l'arabo. Tra i gruppi etnici vi sono i popoli Ilocano e Igorot.</lex>
+    </entry>
+    <entry category="Food" eid="Id28" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Singapore | language | English_language</otriple>
+        <otriple>Beef_kway_teow | country | Singapore</otriple>
+        <otriple>Beef_kway_teow | region | &quot;Nationwide in Singapore and Indonesia&quot;@en</otriple>
+        <otriple>Singapore | leaderName | Tony_Tan</otriple>
+        <otriple>Singapore | leader | Halimah_Yacob</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Singapore | leader | Tony_Tan</otriple>
+        <otriple>Singapore | language | English_language</otriple>
+        <otriple>Beef_kway_teow | country | Singapore</otriple>
+        <otriple>Beef_kway_teow | region | &quot;Nationwide in Singapore and Indonesia&quot;@en</otriple>
+        <otriple>Singapore | leaderName | Halimah_Yacob</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Singapore | language | English_language</mtriple>
+        <mtriple>Beef_kway_teow | country | Singapore</mtriple>
+        <mtriple>Beef_kway_teow | region | &quot;Nationwide in Singapore and Indonesia&quot;</mtriple>
+        <mtriple>Singapore | leader | Tony_Tan</mtriple>
+        <mtriple>Singapore | leader | Halimah_Yacob</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Available nationwide in Indonesia and Singapore, Beef kway teow is a dish which comes from Singapore, where English is spoken. It is also where two of the leaders are Halimah Yacob and Tony Tan.</lex>
+      <lex comment="good" lid="Id2" lang="en">Just like in Indonesia, Beef kway teow is popular nationwide is Singapore (where it comes from). In this country, English is spoken and two of the leaders are Halimah Yacob and Tony Tan.</lex>
+      <lex comment="good" lid="Id3" lang="en">Beef kway teow is a popular dish in Singapore and Indonesia. Tony Tan and Halimah Yacob are leaders in Singapore where English is spoken.</lex>
+      <lex comment="good" lid="Id1" lang="it">Disponibile a livello nazionale in Indonesia e a Singapore, il Beef kway teow è un piatto originario di Singapore, dove si parla inglese. È anche il luogo in cui due dei leader sono Halimah Yacob e Tony Tan.</lex>
+      <lex comment="good" lid="Id2" lang="it">Come in Indonesia, anche a Singapore (da dove proviene) il Beef kway teow è molto popolare. In questo Paese si parla inglese e due dei leader sono Halimah Yacob e Tony Tan.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il beef kway teow è un piatto popolare a Singapore e in Indonesia. Tony Tan e Halimah Yacob sono leader a Singapore dove si parla inglese.</lex>
+    </entry>
+    <entry category="Food" eid="Id29" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+        <otriple>Ajoblanco | region | Andalusia</otriple>
+        <otriple>Andalusia | leaderName | Susana_Díaz</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+        <otriple>Spain | demonym | Spaniards</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leader | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Ajoblanco | region | Andalusia</mtriple>
+        <mtriple>Andalusia | leader | Susana_Díaz</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+        <mtriple>Spain | demonym | Spaniards</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Ajoblanco is a Spanish dish that originates Andalusia, where the leader is Susana Diaz. Felipe VI is the leader of Spain, where the people that live there are called Spaniards.</lex>
+      <lex comment="good" lid="Id2" lang="en">Some famous Spaniards from Spain include Felipe VI (leader of Spain) and Susana Diaz who is the leader of Andalusia where ajoblanco comes from.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'ajoblanco è un piatto spagnolo originario dell'Andalusia, dove il leader è Susana Diaz. Felipe VI è il leader della Spagna, dove gli abitanti sono chiamati spagnoli.</lex>
+      <lex comment="good" lid="Id2" lang="it">Tra gli spagnoli famosi ci sono Felipe VI (leader della Spagna) e Susana Diaz, leader dell'Andalusia, da cui proviene l'ajoblanco.</lex>
+    </entry>
+    <entry category="Food" eid="Id30" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">
+      <originaltripleset>
+        <otriple>Spain | leader | Felipe_VI_of_Spain</otriple>
+        <otriple>Spain | language | Spanish_language</otriple>
+        <otriple>Spain | currency | Euro</otriple>
+        <otriple>Ajoblanco | country | Spain</otriple>
+        <otriple>Spain | demonym | Spaniards</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Spain | leader | Felipe_VI_of_Spain</mtriple>
+        <mtriple>Spain | language | Spanish_language</mtriple>
+        <mtriple>Spain | currency | Euro</mtriple>
+        <mtriple>Ajoblanco | country | Spain</mtriple>
+        <mtriple>Spain | demonym | Spaniards</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Ajoblanco is a dish from Spain, where the currency is the euro, the leader is Felipe VI, the language spoken is Spanish and the people that live there are called Spaniards.</lex>
+      <lex comment="good" lid="Id2" lang="en">Ajoblanco is a food found in Spanish speaking and Felipe VI led Spain. It is also home to the Spaniards and can be purchased with the Euro.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'ajoblanco è un piatto della Spagna, dove la moneta è l'euro, il leader è Felipe VI, la lingua parlata è lo spagnolo e gli abitanti sono chiamati spagnoli.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'ajoblanco è un alimento che si trova nella Spagna di lingua spagnola e nella Spagna guidata da Filippo VI. È anche la patria degli spagnoli e può essere acquistato con l'euro.</lex>
+    </entry>
+  </entries>
+</benchmark>

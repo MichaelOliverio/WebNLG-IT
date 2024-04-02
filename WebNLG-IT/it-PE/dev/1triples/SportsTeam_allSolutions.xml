@@ -1,0 +1,471 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="SportsTeam" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>1._FC_Köln | manager | Peter_Stöger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1._FC_Köln | manager | Peter_Stöger</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Peter Stoger is the manager of FC Koln.</lex>
+      <lex comment="good" lid="Id2" lang="en">Peter Stöger is manager of 1. FC Köln.</lex>
+      <lex comment="good" lid="Id3" lang="en">The manager of 1. FC Koln is Peter Stoger.</lex>
+      <lex comment="good" lid="Id1" lang="it">Peter Stoger è l'allenatore dell'FC Koln.</lex>
+      <lex comment="good" lid="Id2" lang="it">Peter Stöger è il manager del 1. FC Köln.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'allenatore del 1. FC Koln è Peter Stoger.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Peter Stöger è l'allenatore dell'FC Colonia.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Peter Stöger è l'allenatore del 1. FC Köln.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">L'allenatore del 1. FC Colonia è Peter Stöger.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>1._FC_Magdeburg | season | 2014</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1._FC_Magdeburg | season | 2014</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">1 FC Magdeburg played in the 2014 season.</lex>
+      <lex comment="good" lid="Id1" lang="it">1 FC Magdeburg ha giocato nella stagione 2014.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">1 FC Magdeburg ha giocato nella stagione 2014.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A.C._Lumezzane | season | 2014–15_Lega_Pro</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Lumezzane | season | 2014–15_Lega_Pro</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">A C Lumezzane played the 2014-2015 season in Lega Pro.</lex>
+      <lex comment="good" lid="Id2" lang="en">Lumezzane played in the Lega Pro during the 2014-15 season.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'A C Lumezzane ha disputato la stagione 2014-2015 in Lega Pro.</lex>
+      <lex comment="good" lid="Id2" lang="it">Nella stagione 2014-15 il Lumezzane ha giocato in Lega Pro.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'A C Lumezzane ha disputato la stagione 2014-2015 in Lega Pro.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Nella stagione 2014-15 il Lumezzane ha giocato in Lega Pro.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A.D._Isidro_Metapán | fullname | &quot;Asociación Deportiva&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.D._Isidro_Metapán | fullName | &quot;Asociación Deportiva&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">A.D. Isidro Metapan's full name is &quot;Asociación Deportiva&quot;.</lex>
+      <lex comment="good" lid="Id2" lang="en">A.D. Isidro Metapán's full name is Asociación Deportiva.</lex>
+      <lex comment="good" lid="Id3" lang="en">The full name of A.D. Isidro Metapan is Asociacion Deportiva.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il nome completo dell'A.D. Isidro Metapan è &quot;Asociación Deportiva&quot;.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il nome completo dell'A.D. Isidro Metapán è Asociación Deportiva.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il nome completo dell'A.D. Isidro Metapan è Asociacion Deportiva.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Il nome completo dell'A.D. Isidro Metapán è &quot;Asociación Deportiva&quot;.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il nome completo dell'A.D. Isidro Metapán è Asociación Deportiva.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Il nome completo dell'A.D. Isidro Metapán è Asociacion Deportiva.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | fullname | &quot;A.E Dimitra Efxeinoupolis&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | fullName | &quot;A.E Dimitra Efxeinoupolis&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">A.E Dimitra Efxeinoupolis's full name is A.E Dimitra Efxeinoupolis.</lex>
+      <lex comment="good" lid="Id2" lang="en">&quot;A.E Dimitra Efxeinoupolis&quot; is the full name of A.E Dimitra Efxeinoupolis.</lex>
+      <lex comment="good" lid="Id3" lang="en">A.E Dimitra Efxeinoupolis has the full name A.E Dimitra Efxeinoupolis.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il nome completo di A.E Dimitra Efxeinoupolis è A.E Dimitra Efxeinoupolis.</lex>
+      <lex comment="good" lid="Id2" lang="it">&quot;A.E Dimitra Efxeinoupolis&quot; è il nome completo di A.E Dimitra Efxeinoupolis.</lex>
+      <lex comment="good" lid="Id3" lang="it">A.E Dimitra Efxeinoupolis ha il nome completo di A.E Dimitra Efxeinoupolis.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il nome completo di A.E Dimitra Efxeinoupolis è A.E Dimitra Efxeinoupolis.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">&quot;A.E Dimitra Efxeinoupolis&quot; è il nome completo di A.E Dimitra Efxeinoupolis.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">A.E Dimitra Efxeinoupolis ha il nome completo di A.E Dimitra Efxeinoupolis.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | season | 2014</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | season | 2014</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">A.E Dimitra Efxeinoupolis played in the 2014 season.</lex>
+      <lex comment="good" lid="Id2" lang="en">A.E Dimitra Efxeinoupolis were in the 2014 season.</lex>
+      <lex comment="good" lid="Id3" lang="en">A.E Dimitra Efxeinoupolis played in season 2014.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'A.E Dimitra Efxeinoupolis ha giocato nella stagione 2014.</lex>
+      <lex comment="good" lid="Id2" lang="it">A.E Dimitra Efxeinoupolis nella stagione 2014.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'A.E Dimitra Efxeinoupolis ha giocato nella stagione 2014.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'A.E Dimitra Efxeinoupolis ha giocato nella stagione 2014.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">A.E Dimitra Efxeinoupolis nella stagione 2014.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">L'A.E Dimitra Efxeinoupolis ha giocato nella stagione 2014.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A.E_Dimitra_Efxeinoupolis | season | 2014–15_A_EPSTH,_Greece</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.E_Dimitra_Efxeinoupolis | season | 2014–15_A_EPSTH,_Greece</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">A.E Dimitra Efxeinoupolis were in the 2014–15 A EPSTH. Greece season.</lex>
+      <lex comment="good" lid="Id2" lang="en">A.E Dimitra Efxeinoupolis were in the 2014-15 A EPSTH, Greece.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'A.E Dimitra Efxeinoupolis ha partecipato alla stagione 2014-15 dell'A EPSTH. Grecia.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'A.E Dimitra Efxeinoupolis era nella A EPSTH 2014-15, in Grecia.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'A.E Dimitra Efxeinoupolis ha partecipato alla stagione 2014-15 dell'A EPSTH. Grecia.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'A.E Dimitra Efxeinoupolis era nella A EPSTH 2014-15, in Grecia.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A.F.C._Blackpool | capacity | &quot;1500&quot;^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Blackpool | numberOfMembers | 1500</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">A.F.C. Blackpool has 1500 members.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'A.F.C. Blackpool conta 1500 membri.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'A.F.C. Blackpool conta 1500 membri.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A.F.C._Fylde | ground | The_Fylde</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.F.C._Fylde | ground | The_Fylde</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Fylde is the home ground of AFC Fylde.</lex>
+      <lex comment="good" lid="Id2" lang="en">AFC Fylde has the home ground called The Fylde.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il Fylde è il campo di casa dell'AFC Fylde.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'AFC Fylde ha un campo di casa chiamato The Fylde.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il Fylde è il campo di casa dell'AFC Fylde.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'AFC Fylde ha un campo di casa chiamato The Fylde.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A.S._Gubbio_1910 | ground | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Gubbio_1910 | ground | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The ground of A.S. Gubbio 1910 is located in Italy.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il terreno dell'A.S. Gubbio 1910 si trova in Italia.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il terreno dell'A.S. Gubbio 1910 si trova in Italia.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A.S._Livorno_Calcio | capacity | 19238</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Livorno_Calcio | numberOfMembers | 19238</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">A.S. Livorno Calcio has 19238 members.</lex>
+      <lex comment="good" lid="Id2" lang="en">The AS Livorno Calcio has 19238 members.</lex>
+      <lex comment="good" lid="Id3" lang="en">The A.S. Livorno Calcio has 19238 members.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'A.S. Livorno Calcio ha 19238 soci.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'AS Livorno Calcio ha 19238 soci.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'A.S. Livorno Calcio conta 19238 soci.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'A.S. Livorno Calcio ha 19238 soci.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">L'A.S. Livorno Calcio ha 19238 soci.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">L'A.S. Livorno Calcio conta 19238 soci.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A.S._Roma | season | 2014–15_Serie_A</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.S._Roma | season | 2014–15_Serie_A</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">A.S. Roma were in Serie A in 2014-15.</lex>
+      <lex comment="good" lid="Id1" lang="it">Nel 2014-15 l'A.S. Roma era in Serie A.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Nel 2014-15 l'A.S. Roma era in Serie A.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AFC_Ajax | manager | Frank_de_Boer</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax | manager | Frank_de_Boer</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Frank de Boer manages the AFC Ajax team.</lex>
+      <lex comment="good" lid="Id2" lang="en">AFC Ajax's manager is Frank de Boer.</lex>
+      <lex comment="good" lid="Id3" lang="en">The manager of AFC Ajax is Frank de Boer.</lex>
+      <lex comment="good" lid="Id1" lang="it">Frank de Boer dirige la squadra AFC Ajax.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'allenatore dell'AFC Ajax è Frank de Boer.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il manager dell'AFC Ajax è Frank de Boer.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Frank de Boer dirige la squadra AFC Ajax.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'allenatore dell'AFC Ajax è Frank de Boer.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">L'allenatore dell'AFC Ajax è Frank de Boer.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | nickname | &quot;Joden , Godenzonen&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax_(amateurs) | nickname | &quot;Joden , Godenzonen&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">AFC Ajax (amateurs) have the nickname &quot;Joden, Godenzonen&quot;.</lex>
+      <lex comment="good" lid="Id2" lang="en">The AFC Ajax team's nickname is Joden, Godenzonen.</lex>
+      <lex comment="good" lid="Id3" lang="en">AFC Ajax (amateurs) nickname is Joden, Godenzonen.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'AFC Ajax (dilettanti) ha il soprannome di &quot;Joden, Godenzonen&quot;.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il soprannome della squadra AFC Ajax è Joden, Godenzonen.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il soprannome dell'AFC Ajax (dilettanti) è Ebrei, Figli degli Dei.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'AFC Ajax (dilettanti) ha il soprannome di &quot;Joden, Godenzonen&quot;.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il soprannome della squadra AFC Ajax è Joden, Godenzonen.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il soprannome dell'AFC Ajax (dilettanti) è Ebrei, Figli degli Dei.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AFC_Ajax_(amateurs) | capacity | &quot;5000&quot;^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AFC_Ajax_(amateurs) | numberOfMembers | 5000</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">AFC Ajax has 5000 Members.</lex>
+      <lex comment="good" lid="Id2" lang="en">AFC Ajax (amateurs) has 5000 members.</lex>
+      <lex comment="good" lid="Id1" lang="it">AFC Ajax ha 5000 membri.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'AFC Ajax (dilettanti) ha 5000 membri.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">AFC Ajax ha 5000 membri.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'AFC Ajax (dilettanti) ha 5000 membri.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AZAL_PFK | location | &quot;Shuvalan, Baku, Azerbaijan&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AZAL_PFK | location | &quot;Shuvalan, Baku, Azerbaijan&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">AZAL PFK is located at Shuvalan, Baku, Azerbaijan.</lex>
+      <lex comment="good" lid="Id2" lang="en">AZAL PFK is located in Shuvalan, Baku, Azerbaijan.</lex>
+      <lex comment="good" lid="Id1" lang="it">AZAL PFK ha sede a Shuvalan, Baku, Azerbaigian.</lex>
+      <lex comment="good" lid="Id2" lang="it">AZAL PFK ha sede a Shuvalan, Baku, Azerbaigian.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">AZAL PFK ha sede a Shuvalan, Baku, Azerbaigian.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">AZAL PFK ha sede a Shuvalan, Baku, Azerbaigian.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>AZ_Alkmaar | capacity | &quot;17023&quot;^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AZ_Alkmaar | numberOfMembers | 17023</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">AZ Alkmaar has 17023 members.</lex>
+      <lex comment="good" lid="Id1" lang="it">AZ Alkmaar ha 17023 membri.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">AZ Alkmaar ha 17023 membri.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Agremiação_Sportiva_Arapiraquense | manager | Vica</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agremiação_Sportiva_Arapiraquense | manager | Vica</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Agremiacao Sportiva Arapiraquense are managed by Vica.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Agremiacao Sportiva Arapiraquense è gestita da Vica.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'Agremiacao Sportiva Arapiraquense è gestita da Vica.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Agremiação_Sportiva_Arapiraquense | season | 2015_Campeonato_Brasileiro_Série_C</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Agremiação_Sportiva_Arapiraquense | season | 2015_Campeonato_Brasileiro_Série_C</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Agremiação Sportiva Arapiraquense competed in the 2015 Campeonato Brasileiro Série C.</lex>
+      <lex comment="good" lid="Id2" lang="en">Agremiacao Sportiva Arapiraquense were in Campeonato Brasileiro Serie C in 2015.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Agremiação Sportiva Arapiraquense ha partecipato al Campeonato Brasileiro Série C nel 2015.</lex>
+      <lex comment="good" lid="Id2" lang="it">Agremiacao Sportiva Arapiraquense era nel Campeonato Brasileiro Serie C nel 2015.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'Agremiação Sportiva Arapiraquense ha partecipato al Campeonato Brasileiro Série C nel 2015.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Agremiacao Sportiva Arapiraquense era nel Campeonato Brasileiro Serie C nel 2015.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | ground | St._Vincent–St._Mary_High_School</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Akron Summit Assault's ground is St. Vincent-St. Mary High School.</lex>
+      <lex comment="good" lid="Id2" lang="en">St Vincent-St Mary High School is the ground of Akron Summit Assault.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il terreno di Akron Summit Assault è la St. Vincent-St. Mary High School.</lex>
+      <lex comment="good" lid="Id2" lang="it">La St Vincent-St Mary High School è il terreno dell'Akron Summit Assault.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il terreno di Akron Summit Assault è la St. Vincent-St. Mary High School.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">La St Vincent-St Mary High School è il terreno dell'Akron Summit Assault.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Akron_Summit_Assault | capacity | &quot;3000&quot;^^xsd:nonNegativeInteger</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akron_Summit_Assault | numberOfMembers | 3000</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Akron Summit Assault has 3000 members.</lex>
+      <lex comment="good" lid="Id2" lang="en">Akron Summit Assault has got 3000 members.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Akron Summit Assault conta 3000 membri.</lex>
+      <lex comment="good" lid="Id2" lang="it">Akron Summit Assault ha 3000 membri.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'Akron Summit Assault conta 3000 membri.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Akron Summit Assault ha 3000 membri.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Amsterdam | part | Amsterdam-Centrum</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Amsterdam | p | Amsterdam-Centrum</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Amsterdam | part | Amsterdam-Centrum</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Amsterdam-Centrum is part of Amsterdam.</lex>
+      <lex comment="good" lid="Id1" lang="it">Amsterdam-Centrum fa parte di Amsterdam.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Amsterdam-Centrum fa parte di Amsterdam.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Greece | leaderName | Nikos_Voutsis</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Greece | leader | Nikos_Voutsis</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Greece | leader | Nikos_Voutsis</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The leader of Greece is Nikos Voutsis.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il leader della Grecia è Nikos Voutsis.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il leader della Grecia è Nikos Voutsis.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Gus_Poyet | team | AEK_Athens_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Gus_Poyet | club | AEK_Athens_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Gus Poyet is in AEK Athens F.C.</lex>
+      <lex comment="good" lid="Id2" lang="en">Gus Poyet plays for AEK Athens F.C.</lex>
+      <lex comment="good" lid="Id1" lang="it">Gus Poyet è all'AEK Atene F.C.</lex>
+      <lex comment="good" lid="Id2" lang="it">Gus Poyet gioca per l'AEK Atene F.C.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Gus Poyet è all'AEK Atene F.C.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Gus Poyet gioca per l'AEK Atene F.C.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Jens_Härtel | managerClub | SV_Germania_Schöneiche</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Jens_Härtel | clubs | SV_Germania_Schöneiche</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jens_Härtel | club | SV_Germania_Schöneiche</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Jens Hartel plays for SV Germania Schoneiche.</lex>
+      <lex comment="good" lid="Id1" lang="it">Jens Hartel gioca per la SV Germania Schoneiche.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Jens Hartel gioca per la SV Germania Schoneiche.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id26" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>John_van_den_Brom | team | AZ_Alkmaar</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>John_van_den_Brom | managerClub | AZ_Alkmaar</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>John_van_den_Brom | club | AZ_Alkmaar</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">John van den Brom plays at the AZ Alkmaar club.</lex>
+      <lex comment="good" lid="Id2" lang="en">John van den Brom plays for AZ Alkmaar.</lex>
+      <lex comment="good" lid="Id1" lang="it">John van den Brom gioca nel club AZ Alkmaar.</lex>
+      <lex comment="good" lid="Id2" lang="it">John van den Brom gioca nell'AZ Alkmaar.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">John van den Brom gioca nel club AZ Alkmaar.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">John van den Brom gioca nell'AZ Alkmaar.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Jorge_Humberto_Rodríguez | team | A.D._Isidro_Metapán</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Jorge_Humberto_Rodríguez | managerClub | A.D._Isidro_Metapán</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Jorge_Humberto_Rodríguez | clubs | A.D._Isidro_Metapán</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Jorge_Humberto_Rodríguez | club | A.D._Isidro_Metapán</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Jorge Humberto Rodriguez's club is A.D. Isidro Metapan.</lex>
+      <lex comment="good" lid="Id2" lang="en">Jorge Humberto Rodríguez is with the A.D. Isidro Metapán club.</lex>
+      <lex comment="good" lid="Id3" lang="en">Jorge Humberto Rodríguez was a member of the club A.D. Isidro Metapán.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il club di Jorge Humberto Rodriguez è l'A.D. Isidro Metapan.</lex>
+      <lex comment="good" lid="Id2" lang="it">Jorge Humberto Rodríguez fa parte del club A.D. Isidro Metapán.</lex>
+      <lex comment="good" lid="Id3" lang="it">Jorge Humberto Rodríguez era un membro del club A.D. Isidro Metapán.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">La squadra di Jorge Humberto Rodriguez è l'A.D. Isidro Metapán.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Jorge Humberto Rodríguez fa parte del club A.D. Isidro Metapán.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Jorge Humberto Rodríguez era un membro del club A.D. Isidro Metapán.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Massimo_Drago | team | Delfino_Pescara_1936</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | Delfino_Pescara_1936</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Massimo Drago is attached to the club Delfino Pescara 1936.</lex>
+      <lex comment="good" lid="Id1" lang="it">Massimo Drago è legato al club Delfino Pescara 1936.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Massimo Drago è legato al club Delfino Pescara 1936.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Massimo_Drago | clubs | S.S._Chieti_Calcio</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Massimo_Drago | team | S.S._Chieti_Calcio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Massimo_Drago | club | S.S._Chieti_Calcio</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Massimo Drago plays for S.S.Chieti Calcio.</lex>
+      <lex comment="good" lid="Id2" lang="en">Massimo Drago's club is the S.S. Chieti Calcio.</lex>
+      <lex comment="good" lid="Id3" lang="en">Massimo Drago plays for S.S. Chieti Calcio.</lex>
+      <lex comment="good" lid="Id1" lang="it">Massimo Drago ha giocato per l'S.S.Chieti Calcio.</lex>
+      <lex comment="good" lid="Id2" lang="it">La società di Massimo Drago è la S.S. Chieti Calcio.</lex>
+      <lex comment="good" lid="Id3" lang="it">Massimo Drago ha giocato per l'S.S. Chieti Calcio.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Massimo Drago ha giocato per l'S.S.Chieti Calcio.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">La società di Massimo Drago è la S.S. Chieti Calcio.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Massimo Drago ha giocato per l'S.S. Chieti Calcio.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Olympic_Stadium_(Athens) | location | Marousi</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Olympic_Stadium_(Athens) | location | Marousi</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Olympic Stadium (Athens) is located at Marousi.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Olympic Stadium (Athens) is located in Marousi.</lex>
+      <lex comment="good" lid="Id1" lang="it">Lo Stadio Olimpico (Atene) si trova a Marousi.</lex>
+      <lex comment="good" lid="Id2" lang="it">Lo Stadio Olimpico (Atene) si trova a Marousi.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Lo Stadio Olimpico (Atene) si trova a Marousi.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Lo Stadio Olimpico (Atene) si trova a Marousi.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id31" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Premier_Development_League | champions | K-W_United_FC</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Premier_Development_League | champions | K-W_United_FC</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">K-W United FC have been champions of the Premier Development League.</lex>
+      <lex comment="good" lid="Id2" lang="en">K-W United FC were champions at the Premier Development League.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il K-W United FC si è laureato campione della Premier Development League.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il K-W United FC si è laureato campione della Premier Development League.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il K-W United FC si è laureato campione della Premier Development League.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il K-W United FC si è laureato campione della Premier Development League.</lex>
+    </entry>
+    <entry category="SportsTeam" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Stuart_Parker_(footballer) | team | Bury_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Stuart_Parker_(footballer) | club | Bury_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Stuart Parker played football for Bury FC.</lex>
+      <lex comment="good" lid="Id2" lang="en">The footballer Stuart Parker plays for the Bury FC.</lex>
+      <lex comment="good" lid="Id1" lang="it">Stuart Parker ha giocato a calcio per il Bury FC.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il calciatore Stuart Parker gioca per il Bury FC.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Stuart Parker ha giocato a calcio per il Bury FC.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il calciatore Stuart Parker gioca per il Bury FC.</lex>
+    </entry>
+  </entries>
+</benchmark>

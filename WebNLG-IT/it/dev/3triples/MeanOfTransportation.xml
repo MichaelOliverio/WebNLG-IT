@@ -1,0 +1,553 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="MeanOfTransportation" eid="Id1" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1955_Dodge | engine | 1955_Dodge__3</otriple>
+        <otriple>1955_Dodge | aka | &quot;Dodge Coronet&quot;@en</otriple>
+        <otriple>1955_Dodge | bodyStyle | Hardtop</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1955_Dodge | engine | V8_engine</mtriple>
+        <mtriple>1955_Dodge | alternativeName | &quot;Dodge Coronet&quot;</mtriple>
+        <mtriple>1955_Dodge | bodyStyle | Hardtop</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The 1955 Dodge, also called the Dodge Coronet, has a hardtop and a V8 engine.</lex>
+      <lex comment="good" lid="Id2" lang="en">The 1955 Dodge, or Dodge Coronet, is a hardtop with a V8 engine.</lex>
+      <lex comment="good" lid="Id3" lang="en">The 1955 Dodge, also known as the Dodge Coronet, has a hardtop and a V8 engine.</lex>
+      <lex comment="good" lid="Id1" lang="it">La Dodge del 1955, chiamata anche Dodge Coronet, ha un tetto rigido e un motore V8.</lex>
+      <lex comment="good" lid="Id2" lang="it">La Dodge del 1955, o Dodge Coronet, è una hardtop con motore V8.</lex>
+      <lex comment="good" lid="Id3" lang="it">La Dodge del 1955, nota anche come Dodge Coronet, ha un tetto rigido e un motore V8.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id2" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>1955_Dodge | engine | 1955_Dodge__2</otriple>
+        <otriple>1955_Dodge | transmission | &quot;3-speed automatic&quot;</otriple>
+        <otriple>1955_Dodge | aka | &quot;Dodge Coronet&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1955_Dodge | engine | 1955_Dodge__5</otriple>
+        <otriple>1955_Dodge | transmission | &quot;3-speed automatic&quot;</otriple>
+        <otriple>1955_Dodge | aka | &quot;Dodge Coronet&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>1955_Dodge | engine | 1955_Dodge__4</otriple>
+        <otriple>1955_Dodge | transmission | &quot;3-speed automatic&quot;</otriple>
+        <otriple>1955_Dodge | aka | &quot;Dodge Coronet&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>1955_Dodge | engine | V8_engine</mtriple>
+        <mtriple>1955_Dodge | transmission | &quot;3-speed automatic&quot;</mtriple>
+        <mtriple>1955_Dodge | alternativeName | &quot;Dodge Coronet&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The 1955 Dodge, with an alternative name of Dodge coronet, has a V8 engine and 3-speed automatic transmission.</lex>
+      <lex comment="good" lid="Id2" lang="en">The 1955 Dodge, also named the Dodge Coronet, has a 3-speed automatic transmission and a V8 engine.</lex>
+      <lex comment="good" lid="Id3" lang="en">The 1955 Dodge, which has the alternative name of Dodge Coronet, has a V8 engine and uses a 3-speed automatic transmission.</lex>
+      <lex comment="good" lid="Id1" lang="it">La Dodge del 1955, con il nome alternativo di Dodge coronet, ha un motore V8 e un cambio automatico a 3 velocità.</lex>
+      <lex comment="good" lid="Id2" lang="it">La Dodge del 1955, chiamata anche Dodge Coronet, ha un cambio automatico a 3 velocità e un motore V8.</lex>
+      <lex comment="good" lid="Id3" lang="it">La Dodge del 1955, che ha il nome alternativo di Dodge Coronet, ha un motore V8 e utilizza un cambio automatico a 3 velocità.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id3" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>A-Rosa_Luna | shipClass | Cruise_ship</otriple>
+        <otriple>A-Rosa_Luna | MeanOfTransportation/length | &quot;125800.0&quot;^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        <otriple>A-Rosa_Luna | orderDate | &quot;2004-01-22&quot;^^xsd:date</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A-Rosa_Luna | shipClass | Cruise_ship</mtriple>
+        <mtriple>A-Rosa_Luna | length | 125800.0 (millimetres)</mtriple>
+        <mtriple>A-Rosa_Luna | shipOrdered | 2004-01-22</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Ordered on January 22nd, 2004, the A-Rosa Luna, is classed as a Cruise ship and has a length of 125.8 metres.</lex>
+      <lex comment="good" lid="Id2" lang="en">A-Rosa Luna, a cruise ship 125800.0 millimetres in length, was ordered on January 22, 2004.</lex>
+      <lex comment="good" lid="Id1" lang="it">Ordinata il 22 gennaio 2004, la A-Rosa Luna è classificata come nave da crociera e ha una lunghezza di 125,8 metri.</lex>
+      <lex comment="good" lid="Id2" lang="it">A-Rosa Luna, una nave da crociera di 125800,0 millimetri di lunghezza, è stata ordinata il 22 gennaio 2004.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id4" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>AIDA_Cruises | location | Germany</otriple>
+        <otriple>AIDAstella | shipOperator | AIDA_Cruises</otriple>
+        <otriple>AIDAstella | owner | Costa_Crociere</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>AIDA_Cruises | location | Germany</otriple>
+        <otriple>AIDAstella | shipOperator | AIDA_Cruises</otriple>
+        <otriple>AIDAstella | shipOwner | Costa_Crociere</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AIDA_Cruises | location | Germany</mtriple>
+        <mtriple>AIDAstella | operator | AIDA_Cruises</mtriple>
+        <mtriple>AIDAstella | owner | Costa_Crociere</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The operator of AIDAstella is German-based AIDA Cruises. The AIDAstella is owned by Costa Crociere.</lex>
+      <lex comment="good" lid="Id2" lang="en">The AIDAstella is owned by Costa Crociere and its operator is German-based AIDA Cruises.</lex>
+      <lex comment="good" lid="Id3" lang="en">AIDA Cruises are based in Germany and owned by Costa Crociere. They operate the AIDAstella.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'operatore di AIDAstella è la tedesca AIDA Cruises. L'AIDAstella è di proprietà di Costa Crociere.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'AIDAstella è di proprietà di Costa Crociere e il suo operatore è la tedesca AIDA Cruises.</lex>
+      <lex comment="good" lid="Id3" lang="it">AIDA Cruises ha sede in Germania ed è di proprietà di Costa Crociere. Gestisce la nave AIDAstella.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id5" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>ALCO_RS-3 | cylindercount | 12</otriple>
+        <otriple>ALCO_RS-3 | builder | Montreal_Locomotive_Works</otriple>
+        <otriple>ALCO_RS-3 | MeanOfTransportation/length | &quot;17068.8&quot;^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ALCO_RS-3 | cylinderCount | 12</mtriple>
+        <mtriple>ALCO_RS-3 | builder | Montreal_Locomotive_Works</mtriple>
+        <mtriple>ALCO_RS-3 | length | 17068.8 (millimetres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The ALCO RS-3 was built by the Montreal Locomotive Works, has 12 cylinders and is 17068.8 mms long.</lex>
+      <lex comment="good" lid="Id2" lang="en">The ALCO RS-3 was built by the Montreal Locomotive Works, has a cylinder count of 12 and is 17068.8 mms in length.</lex>
+      <lex comment="good" lid="Id3" lang="en">Built by the Montreal Locomotive Works, the ALCO RS-3 has 12 cylinders and is 17068.8 (millimetres) in length.</lex>
+      <lex comment="good" lid="Id1" lang="it">La ALCO RS-3 è stata costruita dalla Montreal Locomotive Works, ha 12 cilindri ed è lunga 17068,8 mm.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'ALCO RS-3 è stata costruita dalla Montreal Locomotive Works, ha un numero di cilindri pari a 12 ed è lunga 17068,8 mm.</lex>
+      <lex comment="good" lid="Id3" lang="it">Costruita dalla Montreal Locomotive Works, la ALCO RS-3 ha 12 cilindri ed è lunga 17068,8 (millimetri).</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id6" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>ALV_X-1 | countryOrigin | United_States</otriple>
+        <otriple>United_States | ethnicGroup | African_Americans</otriple>
+        <otriple>United_States | demonym | Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>ALV_X-1 | countryOrigin | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | African_Americans</mtriple>
+        <mtriple>United_States | demonym | Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Originating in the United States and by Americans, some of African decent is the ALV X-1.</lex>
+      <lex comment="good" lid="Id2" lang="en">ALV X-1 comes from the US where Americans live and African Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id3" lang="en">The country of origin of the ALV X-1 is the United States, home to Americans and where African Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id1" lang="it">Originario degli Stati Uniti e realizzato da americani, alcuni dei quali di origine africana, è l'ALV X-1.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'ALV X-1 proviene dagli Stati Uniti, dove vivono gli americani e gli afroamericani sono un gruppo etnico.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il paese di origine dell'ALV X-1 sono gli Stati Uniti, patria degli americani e dove gli afroamericani sono un gruppo etnico.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id7" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>AMC_Matador | assembly | Kenosha,_Wisconsin</otriple>
+        <otriple>AMC_Matador | modelYears | 1974</otriple>
+        <otriple>AMC_Matador | related | AMC_Ambassador</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AMC_Matador | assembly | Kenosha,_Wisconsin</mtriple>
+        <mtriple>AMC_Matador | modelYears | 1974</mtriple>
+        <mtriple>AMC_Matador | relatedMeanOfTransportation | AMC_Ambassador</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The AMC Matador was assembled in Kenosha, Wisconsin, is available in a 1974 model, and is a relative means of transportation to the AMC Ambassador.</lex>
+      <lex comment="good" lid="Id1" lang="it">La AMC Matador è stata assemblata a Kenosha, Wisconsin, è disponibile nel modello 1974 ed è un mezzo di trasporto parente della AMC Ambassador.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id8" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>AMC_Matador | assembly | Port_Melbourne,_Victoria</otriple>
+        <otriple>AMC_Matador | modelYears | 1971</otriple>
+        <otriple>AMC_Matador | related | AMC_Ambassador</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>AMC_Matador | assembly | Port_Melbourne,_Victoria</mtriple>
+        <mtriple>AMC_Matador | modelYears | 1971</mtriple>
+        <mtriple>AMC_Matador | relatedMeanOfTransportation | AMC_Ambassador</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The AMC Matador, including the 1971 model, and the Ambassador are related. The assembly line is in Port Melbourne, Victoria.</lex>
+      <lex comment="good" lid="Id2" lang="en">The AMC Matador is assembled in Port Melbourne, Victoria. One of the model years include 1971. It is elated to the AMC Ambassador.</lex>
+      <lex comment="good" lid="Id3" lang="en">The AMC Matador, related to the AMC Ambassador, is produced in Port Melbourne, Victoria, including in the year 1971.</lex>
+      <lex comment="good" lid="Id1" lang="it">La AMC Matador, compreso il modello del 1971, e la Ambassador sono imparentate. La catena di montaggio si trova a Port Melbourne, Victoria.</lex>
+      <lex comment="good" lid="Id2" lang="it">La AMC Matador viene assemblata a Port Melbourne, Victoria. Uno degli anni di produzione è il 1971. Viene affiancata alla AMC Ambassador.</lex>
+      <lex comment="good" lid="Id3" lang="it">La AMC Matador, parente della AMC Ambassador, viene prodotta a Port Melbourne, Victoria, anche nel 1971.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id9" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Abarth_1000_GT_Coupé | designCompany | Gruppo_Bertone</otriple>
+        <otriple>Gruppo_Bertone | foundationPlace | Turin</otriple>
+        <otriple>Gruppo_Bertone | locationCountry | Italy</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abarth_1000_GT_Coupé | designCompany | Gruppo_Bertone</mtriple>
+        <mtriple>Gruppo_Bertone | foundationPlace | Turin</mtriple>
+        <mtriple>Gruppo_Bertone | country | Italy</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Gruppo Bertone, of Turin Italy, designed the Abarth 1000 GT Coupe.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Abarth 1000 GT Coupe was designed by Gruppo Bertone (Italy). The Gruppo Bertone originates from Turin.</lex>
+      <lex comment="good" lid="Id3" lang="en">Gruppo Bertone, founded in Turin, Italy, was the designer of the Abarth 1000 GT Coupé.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il Gruppo Bertone di Torino ha progettato l'Abarth 1000 GT Coupé.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Abarth 1000 GT Coupé è stata progettata dal Gruppo Bertone (Italia). Il Gruppo Bertone è originario di Torino.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il Gruppo Bertone, fondato a Torino, Italia, ha progettato l'Abarth 1000 GT Coupé.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id10" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Aleksey_Chirikov_(icebreaker) | shipBuilder | Finland</otriple>
+        <otriple>Finland | demonym | Finns</otriple>
+        <otriple>Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Finland | demonym | Finns</otriple>
+        <otriple>Aleksey_Chirikov_(icebreaker) | builder | Finland</otriple>
+        <otriple>Aleksey_Chirikov_(icebreaker) | shipBuilder | Arctech_Helsinki_Shipyard</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Finland</mtriple>
+        <mtriple>Finland | demonym | Finns</mtriple>
+        <mtriple>Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Finland is home to the Finns and the icebreaker Aleksey Chirikov, built at the Arctech Helsinki Shipyard.</lex>
+      <lex comment="good" lid="Id2" lang="en">The icebreaker ship Aleksey Chirikov was built in Finland where the natives are known as Finns by Arctech Helsinki Shipyard.</lex>
+      <lex comment="good" lid="Id1" lang="it">La Finlandia è la patria dei finlandesi e del rompighiaccio Aleksey Chirikov, costruito presso il cantiere Arctech di Helsinki.</lex>
+      <lex comment="good" lid="Id2" lang="it">La nave rompighiaccio Aleksey Chirikov è stata costruita in Finlandia, dove i nativi sono conosciuti come finlandesi, dal cantiere Arctech Helsinki Shipyard.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id11" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Alfa_Romeo_164 | assembly | Italy</otriple>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Alfa_Romeo_164 | related | Lancia_Thema</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alfa_Romeo_164 | assembly | Italy</otriple>
+        <otriple>Italy | capital | Rome</otriple>
+        <otriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfa_Romeo_164 | assembly | Italy</mtriple>
+        <mtriple>Italy | capital | Rome</mtriple>
+        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Alfa Romeo 164, which was assembled in Italy, and the Lancia Thema are related types of transportation. The capital of Italy is Rome.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Lancia Thema and the Alfa Romeo 164 are related. The latter is built in Italy where the capital is Rome.</lex>
+      <lex comment="good" lid="Id3" lang="en">The Alfa Romeo 164 was made in Italy and is related to the Lancia Thema vehicle. Rome is the capital of Italy.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Alfa Romeo 164, assemblata in Italia, e la Lancia Thema sono mezzi di trasporto affini. La capitale dell'Italia è Roma.</lex>
+      <lex comment="good" lid="Id2" lang="it">La Lancia Thema e l'Alfa Romeo 164 sono imparentate. Quest'ultima è costruita in Italia, dove la capitale è Roma.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'Alfa Romeo 164 è stata prodotta in Italia ed è imparentata con la Lancia Thema. Roma è la capitale d'Italia.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id12" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma</otriple>
+        <otriple>Alfa_Romeo_164 | assembly | Arese</otriple>
+        <otriple>Alfa_Romeo_164 | related | Lancia_Thema</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alfa_Romeo_164 | related | Fiat_Croma</otriple>
+        <otriple>Alfa_Romeo_164 | assembly | Arese</otriple>
+        <otriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma</mtriple>
+        <mtriple>Alfa_Romeo_164 | assembly | Arese</mtriple>
+        <mtriple>Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Alfa Romeo 164 was assembled in Arese and is a similar means of transport to the Fiat Croma and also related to the Lancia Thema.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Arese assembled, Alfa Romeo 164 and the Fiat Croma as well as the Lancia Thema, are related types of transportation.</lex>
+      <lex comment="good" lid="Id3" lang="en">The Arese assembled Alfa Romeo 164, the Fiat Croma and the Lancia Thema are all related.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Alfa Romeo 164 è stata assemblata ad Arese ed è un mezzo di trasporto simile alla Fiat Croma e imparentato anche con la Lancia Thema.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Arese assemblata, l'Alfa Romeo 164 e la Fiat Croma, nonché la Lancia Thema, sono tipi di trasporto correlati.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'Alfa Romeo 164 assemblata ad Arese, la Fiat Croma e la Lancia Thema sono tutte parenti.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id13" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Alhambra_(1855) | shipBeam | &quot;8.3 m&quot;@en</otriple>
+        <otriple>Alhambra_(1855) | MeanOfTransportation/length | &quot;63800.0&quot;^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        <otriple>Alhambra_(1855) | status | &quot;Wrecked&quot;</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alhambra_(1855) | MeanOfTransportation/length | &quot;63800.0&quot;^^&lt;http://dbpedia.org/datatype/millimetre&gt;</otriple>
+        <otriple>Alhambra_(1855) | shipBeam | &quot;8.3&quot;^^xsd:double</otriple>
+        <otriple>Alhambra_(1855) | status | &quot;Wrecked&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alhambra | shipBeam | 8.3 m</mtriple>
+        <mtriple>Alhambra | length | 63800.0 (millimetres)</mtriple>
+        <mtriple>Alhambra | status | &quot;Wrecked&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Alhambra, which was wrecked, had an 8.3 m ship beam and was 63800.0 mms in length.</lex>
+      <lex comment="good" lid="Id2" lang="en">Before it was wrecked the Alhambra had a length of 63800.0 millimetres and a beam of 8.3m.</lex>
+      <lex comment="good" lid="Id3" lang="en">The Alhambra had wrecked, it had a ship beam of 8.3m and was 63800.0 millimetres long.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Alhambra, naufragata, aveva un baglio di 8,3 m e una lunghezza di 63800,0 mm.</lex>
+      <lex comment="good" lid="Id2" lang="it">Prima del naufragio, l'Alhambra aveva una lunghezza di 63800,0 millimetri e una larghezza di 8,3 metri.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'Alhambra era naufragata, aveva un baglio di 8,3 metri ed era lunga 63800,0 millimetri.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id14" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Alvis_Speed_25 | manufacturer | Alvis_Car_and_Engineering_Company</otriple>
+        <otriple>Alvis_Car_and_Engineering_Company | foundationPlace | Coventry</otriple>
+        <otriple>Alvis_Car_and_Engineering_Company | successor | Rover_Company</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alvis_Speed_25 | manufacturer | Alvis_Car_and_Engineering_Company</mtriple>
+        <mtriple>Alvis_Car_and_Engineering_Company | foundationPlace | Coventry</mtriple>
+        <mtriple>Alvis_Car_and_Engineering_Company | successor | Rover_Company</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Alvis Car and Engineering Company, founded in Coventry and succeeded by the Rover Company, manufactured the Alvis Speed 25.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Alvis Speed 25 was built by Coventry's Alvis Car and Engineering Company, which was succeeded by the Rover Co.</lex>
+      <lex comment="good" lid="Id3" lang="en">The Alvis Speed 25 was made by Coventry based Alvis Car and Engineering Company which was succeeded by The Rover Co.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Alvis Car and Engineering Company, fondata a Coventry e succeduta alla Rover Company, produceva l'Alvis Speed 25.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Alvis Speed 25 è stata costruita dalla Alvis Car and Engineering Company di Coventry, a cui è succeduta la Rover Co.</lex>
+      <lex comment="good" lid="Id3" lang="it">La Alvis Speed 25 è stata prodotta dalla Alvis Car and Engineering Company di Coventry, a cui è succeduta la Rover Co.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id15" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>American_Motors | successor | Eagle_(automobile)</otriple>
+        <otriple>AMC_Matador | manufacturer | American_Motors</otriple>
+        <otriple>American_Motors | keyPerson | Roy_D._Chapin,_Jr.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>American_Motors | successor | Eagle_(automobile)</otriple>
+        <otriple>AMC_Matador | manufacturer | American_Motors</otriple>
+        <otriple>American_Motors | keyPeople | Roy_D._Chapin,_Jr.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>American_Motors | successor | Eagle_(automobile)</mtriple>
+        <mtriple>AMC_Matador | manufacturer | American_Motors</mtriple>
+        <mtriple>American_Motors | keyPerson | Roy_D._Chapin,_Jr.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Eagle is the successor of American Motors who manufactured the AMC Matador and had Roy D Chapin Jr among their key personnel.</lex>
+      <lex comment="good" lid="Id2" lang="en">AMC Matador is manufactured by American Motors, a key person of which, is Roy D. Chapin Jr. American Motors successor is Eagle.</lex>
+      <lex comment="good" lid="Id3" lang="en">Eagle succeeded American Motors who made the AMC Matador in conjunction with Roy D Chapin Jr.</lex>
+      <lex comment="good" lid="Id1" lang="it">Eagle è il successore di American Motors, che produceva la AMC Matador e aveva tra i suoi collaboratori principali Roy D Chapin Jr.</lex>
+      <lex comment="good" lid="Id2" lang="it">La AMC Matador è prodotta da American Motors, la cui persona chiave è Roy D. Chapin Jr. Il successore di American Motors è Eagle.</lex>
+      <lex comment="good" lid="Id3" lang="it">Eagle è succeduta ad American Motors, che ha prodotto la AMC Matador in collaborazione con Roy D Chapin Jr.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id16" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Antares_(rocket) | manufacturer | Yuzhnoye_Design_Office</otriple>
+        <otriple>Antares_(rocket) | sites | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0</otriple>
+        <otriple>Antares_(rocket) | first | &quot;--04-21&quot;^^xsd:gMonthDay</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Antares_(rocket) | manufacturer | Yuzhnoye_Design_Office</mtriple>
+        <mtriple>Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0</mtriple>
+        <mtriple>Antares_(rocket) | maidenFlight | 2013-04-21</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Antares rocket, is manufactured by the Yuzhnoye Design Office, its maiden flight was on April 21st, 2013, launched from the Mid-Atlantic Regional Spaceport Launch Pad 0.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il razzo Antares, prodotto dall'Ufficio di progettazione di Yuzhnoye, ha effettuato il suo volo inaugurale il 21 aprile 2013, lanciato dalla piattaforma di lancio 0 del Mid-Atlantic Regional Spaceport.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id17" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Argentina | capital | Buenos_Aires</otriple>
+        <otriple>Argentina | leader | Mauricio_Macri</otriple>
+        <otriple>ARA_Veinticinco_de_Mayo_(V-2) | country | Argentina</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Argentina | capital | Buenos_Aires</mtriple>
+        <mtriple>Argentina | leader | Mauricio_Macri</mtriple>
+        <mtriple>ARA_Veinticinco_de_Mayo_(V-2) | country | Argentina</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The ARA Veinticinco De mayo (V-2) comes from the country of Argentina which is led by Mauricio Macri and has the capital city of Buenos Aires.</lex>
+      <lex comment="good" lid="Id2" lang="en">The ARA Veinticinco de Mayo (V-2) comes from Argentina. Argentina's capital is Buenos Aires and its leader is Mauricio Macri.</lex>
+      <lex comment="good" lid="Id3" lang="en">ARA Veinticinco de Mayo (V-2) comes from Argentina, where the capital is Buenos Aires and Mauricio Macri is the leader.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'ARA Veinticinco De mayo (V-2) proviene dal Paese dell'Argentina, guidato da Mauricio Macri e con capitale Buenos Aires.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'ARA Veinticinco de Mayo (V-2) proviene dall'Argentina. La capitale dell'Argentina è Buenos Aires e il suo leader è Mauricio Macri.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'ARA Veinticinco de Mayo (V-2) proviene dall'Argentina, dove la capitale è Buenos Aires e il leader è Mauricio Macri.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id18" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Aston_Martin_V8 | engine | Aston_Martin_V8__1</otriple>
+        <otriple>Aston_Martin_V8 | assembly | &quot;Newport Pagnell, Buckinghamshire, England, United Kingdom&quot;@en</otriple>
+        <otriple>Aston_Martin_V8 | related | Aston_Martin_RHAM/1</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aston_Martin_V8 | assembly | &quot;Newport Pagnell, Buckinghamshire, England, United Kingdom&quot;@en</otriple>
+        <otriple>Aston_Martin_V8 | engine | &quot;5.3&quot;^^xsd:double</otriple>
+        <otriple>Aston_Martin_V8 | related | Aston_Martin_RHAM/1</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aston_Martin_V8 | assembly | &quot;Newport Pagnell, Buckinghamshire, England, United Kingdom&quot;</mtriple>
+        <mtriple>Aston_Martin_V8 | engine | 5.3 (litres)</mtriple>
+        <mtriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_RHAM/1</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Aston Martin V8, related to the Aston Martin RHAM/1, is assembled in Newport Pagnell, Buckinghamshire, England, United Kingdom and has a 5.3 litre engine.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Aston Martin V8, (related to the Aston Martin RHAM/1), assembled in Newport Pagnell, Buckinghamshire, England, United Kingdom, has a 5.3 liter engine.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Aston Martin V8, imparentata con l'Aston Martin RHAM/1, è assemblata a Newport Pagnell, Buckinghamshire, Inghilterra, Regno Unito e ha un motore da 5,3 litri.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Aston Martin V8 (parente dell'Aston Martin RHAM/1), assemblata a Newport Pagnell, Buckinghamshire, Inghilterra, Regno Unito, ha un motore da 5,3 litri.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id19" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Aston_Martin_V8 | related | Aston_Martin_DBS</otriple>
+        <otriple>Aston_Martin_V8 | engine | Aston_Martin_V8__1</otriple>
+        <otriple>Aston_Martin_V8 | assembly | &quot;Newport Pagnell, Buckinghamshire, England, United Kingdom&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aston_Martin_V8 | related | Aston_Martin_DBS</otriple>
+        <otriple>Aston_Martin_V8 | assembly | &quot;Newport Pagnell, Buckinghamshire, England, United Kingdom&quot;@en</otriple>
+        <otriple>Aston_Martin_V8 | engine | &quot;5.3&quot;^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_DBS</mtriple>
+        <mtriple>Aston_Martin_V8 | assembly | &quot;Newport Pagnell, Buckinghamshire, England, United Kingdom&quot;</mtriple>
+        <mtriple>Aston_Martin_V8 | engine | 5.3 (litres)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Aston Martin V8 is similar to the DBS and has a 5.3 litre engine. It is made in Newport Pagnell, Buckinghamshire, England, UK.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Aston Martin V8 assembly took place in Newport Pagnell, Buckinghamshire, England, United Kingdom. The Aston Martin V8(has a engine volume of 5.3 litres) and the Aston Martin DBS are related means of transport.</lex>
+      <lex comment="good" lid="Id3" lang="en">The Aston Martin V8 has a 5.3 litre engine and its assembly took place in Newport Pagnell, Buckinghamshire, England, United Kingdom. The Aston Martin V8 and the Aston Martin DBS are related means of transport.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Aston Martin V8 è simile alla DBS e ha un motore da 5,3 litri. Viene prodotta a Newport Pagnell, Buckinghamshire, Inghilterra, Regno Unito.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'assemblaggio della Aston Martin V8 è avvenuto a Newport Pagnell, Buckinghamshire, Inghilterra, Regno Unito. L'Aston Martin V8 (con un volume del motore di 5,3 litri) e l'Aston Martin DBS sono mezzi di trasporto correlati.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'Aston Martin V8 ha un motore da 5,3 litri e il suo assemblaggio è avvenuto a Newport Pagnell, Buckinghamshire, Inghilterra, Regno Unito. L'Aston Martin V8 e l'Aston Martin DBS sono mezzi di trasporto correlati.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id20" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Aston_Martin_V8 | related | Aston_Martin_RHAM/1</otriple>
+        <otriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</otriple>
+        <otriple>Aston_Martin_Virage | manufacturer | Aston_Martin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_RHAM/1</mtriple>
+        <mtriple>Aston_Martin_V8 | successor | Aston_Martin_Virage</mtriple>
+        <mtriple>Aston_Martin_Virage | manufacturer | Aston_Martin</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Aston Martin Virage is made by the company Aston Martin, and it was preceded by the Aston Martin V8, which is a related means of transportation to the Aston Martin RHAM/1.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Aston Martin Virage was manufactured by Aston Martin. It was the successor to the Aston Martin V8 which was related to the Aston Martin RHAM/1.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Aston Martin Virage è prodotta dall'azienda Aston Martin, ed è stata preceduta dall'Aston Martin V8, che è un mezzo di trasporto imparentato con l'Aston Martin RHAM/1.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Aston Martin Virage è stata prodotta da Aston Martin. Era il successore dell'Aston Martin V8, che era imparentata con l'Aston Martin RHAM/1.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id21" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Atlas_II | countryOrigin | United_States</otriple>
+        <otriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</otriple>
+        <otriple>United_States | leaderTitle | President_of_the_United_States</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Atlas_II | countryOrigin | United_States</mtriple>
+        <mtriple>United_States | ethnicGroup | Native_Americans_in_the_United_States</mtriple>
+        <mtriple>United_States | leaderTitle | President_of_the_United_States</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Atlas II comes from the US where Native Americans are an ethnic group and the leader is the President.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Atlas II originated from the United States, where Native Americans are an ethnic group. The leader of the United States has the title President of the United States.</lex>
+      <lex comment="good" lid="Id3" lang="en">The Atlas II originated from the U.S. where the President is the leader and Native Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Atlas II viene dagli Stati Uniti, dove i nativi americani sono un gruppo etnico e il leader è il Presidente.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Atlas II è originario degli Stati Uniti, dove i nativi americani sono un gruppo etnico. Il leader degli Stati Uniti ha il titolo di Presidente degli Stati Uniti.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'Atlas II è nato negli Stati Uniti, dove il presidente è il leader e i nativi americani sono un gruppo etnico.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id22" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Audi_A1 | engine | Audi_A1__3</otriple>
+        <otriple>Audi_A1 | assembly | Audi_Brussels</otriple>
+        <otriple>Audi_A1 | bodyStyle | Hatchback</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Audi_A1 | engine | Audi_A1__4</otriple>
+        <otriple>Audi_A1 | assembly | Audi_Brussels</otriple>
+        <otriple>Audi_A1 | bodyStyle | Hatchback</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | engine | 1.2 (litres)</mtriple>
+        <mtriple>Audi_A1 | assembly | Audi_Brussels</mtriple>
+        <mtriple>Audi_A1 | bodyStyle | Hatchback</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Audi A1 is a hatchback assembled by Audi Brussels and has a 1.2 litre engine.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Audi A1, a hatchback, has a 1.2 liter engine and is assembled by Audi Brussels.</lex>
+      <lex comment="good" lid="Id3" lang="en">The Audi A1 is built at Audi Brussels. It is a hatchback with a 1.2 litre engine.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Audi A1 è un'utilitaria assemblata da Audi Bruxelles e ha un motore da 1,2 litri.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Audi A1, un'utilitaria, ha un motore da 1,2 litri ed è assemblata da Audi Bruxelles.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'Audi A1 è costruita presso l'Audi di Bruxelles. È una due volumi con un motore da 1,2 litri.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id23" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Audi_A1 | manufacturer | Audi</otriple>
+        <otriple>Audi_A1 | relatedMeanOfTransportation | SEAT_Ibiza</otriple>
+        <otriple>Audi_A1 | related | &quot;Volkswagen Polo Mk5&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Audi_A1 | manufacturer | Audi</mtriple>
+        <mtriple>Audi_A1 | relatedMeanOfTransportation | SEAT_Ibiza</mtriple>
+        <mtriple>Audi_A1 | relatedMeanOfTransportation | Volkswagen_Polo</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Audi A1 is manufactured by Audi. It is a similar means of transport as the Seat Ibiza and Volkswagen Polo since they are all cars.</lex>
+      <lex comment="good" lid="Id2" lang="en">Audi's A1 is similar to the Seat Ibiza and the VW Polo.</lex>
+      <lex comment="good" lid="Id3" lang="en">Audi is the manufacturer of the Audi A1. It, the Seat Ibiza and VW Polo are all cars and therefore related modes of transportation.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Audi A1 è prodotta da Audi. È un mezzo di trasporto simile alla Seat Ibiza e alla Volkswagen Polo, poiché sono tutte autovetture.</lex>
+      <lex comment="good" lid="Id2" lang="it">La A1 di Audi è simile alla Seat Ibiza e alla VW Polo.</lex>
+      <lex comment="good" lid="Id3" lang="it">Audi è il produttore dell'Audi A1. Essa, la Seat Ibiza e la VW Polo sono tutte automobili e quindi mezzi di trasporto affini.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id24" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Caterpillar_Inc. | foundation | California</otriple>
+        <otriple>Caterpillar_Inc. | location | Peoria,_Illinois</otriple>
+        <otriple>AIDAluna | powerType | Caterpillar_Inc.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Caterpillar_Inc. | foundationPlace | California</mtriple>
+        <mtriple>Caterpillar_Inc. | location | Peoria,_Illinois</mtriple>
+        <mtriple>AIDAluna | powerType | Caterpillar_Inc.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">AIDAluna is powered by Caterpillar Inc. which was founded in California and is located in Peoria, Illinois.</lex>
+      <lex comment="good" lid="Id2" lang="en">Caterpillar Inc., founded in California and located in Peoria, Illinois, powers the AIDAluna.</lex>
+      <lex comment="good" lid="Id3" lang="en">The AIDAluna is powered by a Caterpillar Inc. engine. Caterpillar Inc was founded in California and is now located in Peoria, Illinois.</lex>
+      <lex comment="good" lid="Id1" lang="it">AIDAluna è alimentata dalla Caterpillar Inc. fondata in California e con sede a Peoria, Illinois.</lex>
+      <lex comment="good" lid="Id2" lang="it">La Caterpillar Inc. fondata in California e con sede a Peoria, Illinois, alimenta l'AIDAluna.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'AIDAluna è alimentato da un motore Caterpillar Inc. La Caterpillar Inc. è stata fondata in California e ora ha sede a Peoria, nell'Illinois.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id25" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Caterpillar_Inc. | keyPerson | Douglas_R._Oberhelman</otriple>
+        <otriple>Caterpillar_Inc. | location | United_States</otriple>
+        <otriple>AIDAluna | powerType | Caterpillar_Inc.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Caterpillar_Inc. | keyPerson | Douglas_R._Oberhelman</mtriple>
+        <mtriple>Caterpillar_Inc. | location | United_States</mtriple>
+        <mtriple>AIDAluna | powerType | Caterpillar_Inc.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">AIDAluna is powered by U.S. based Caterpillar Inc. Douglas R Oberhelman is a key person at Caterpillar Inc.</lex>
+      <lex comment="good" lid="Id2" lang="en">AIDAluna is powered by Caterpillar Inc, located in the United States. The key person of Caterpillar Inc. is Douglas R. Oberhelman.</lex>
+      <lex comment="good" lid="Id3" lang="en">The power type of the AIDAluna is the Caterpillar Inc. engine where Douglas R Oberhelman is a key person located in the United States.</lex>
+      <lex comment="good" lid="Id1" lang="it">AIDAluna è alimentata dalla Caterpillar Inc. con sede negli Stati Uniti. Douglas R Oberhelman è una persona chiave della Caterpillar Inc.</lex>
+      <lex comment="good" lid="Id2" lang="it">AIDAluna è alimentata dalla Caterpillar Inc. con sede negli Stati Uniti. La persona chiave della Caterpillar Inc. è Douglas R. Oberhelman.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il motore dell'AIDAluna è quello della Caterpillar Inc. di cui Douglas R Oberhelman è una persona chiave con sede negli Stati Uniti.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id26" shape="(X (X (X (X))))" shape_type="chain" size="3">
+      <originaltripleset>
+        <otriple>Guiana_Space_Centre | headquarter | Kourou,_French_Guiana</otriple>
+        <otriple>ELA-3 | site | Guiana_Space_Centre</otriple>
+        <otriple>Ariane_5 | sites | ELA-3</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Guiana_Space_Centre | headquarters | Kourou,_French_Guiana</otriple>
+        <otriple>ELA-3 | site | Guiana_Space_Centre</otriple>
+        <otriple>Ariane_5 | sites | ELA-3</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Guiana_Space_Centre | headquarter | Kourou,_French_Guiana</mtriple>
+        <mtriple>ELA-3 | site | Guiana_Space_Centre</mtriple>
+        <mtriple>Ariane_5 | launchSite | ELA-3</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Ariane 5 was launched at ELA-3 which is located at the Guiana Space Centre whose headquarters are at Kourou in French Guiana.</lex>
+      <lex comment="good" lid="Id2" lang="en">The launch site of the Ariane 5 was ELA-3 launchpad was is at Guiana Space Centre in Kourou in French Guiana.</lex>
+      <lex comment="good" lid="Id3" lang="en">The Ariane 5 was launched at ELA-3 at the Guiana Space Centre which has its headquarters at Kourou in French Guiana.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Ariane 5 è stato lanciato dall'ELA-3 che si trova presso il Centro spaziale della Guyana, la cui sede si trova a Kourou, nella Guyana francese.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il sito di lancio dell'Ariane 5 era la rampa di lancio ELA-3 del Centro spaziale della Guyana a Kourou, nella Guyana francese.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'Ariane 5 è stato lanciato presso l'ELA-3 del Centro spaziale della Guyana, con sede a Kourou, nella Guyana francese.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id27" shape="(X (X (X (X))))" shape_type="chain" size="3">
+      <originaltripleset>
+        <otriple>Guiana_Space_Centre | location | French_Guiana</otriple>
+        <otriple>ELA-3 | site | Guiana_Space_Centre</otriple>
+        <otriple>Ariane_5 | sites | ELA-3</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Guiana_Space_Centre | location | French_Guiana</mtriple>
+        <mtriple>ELA-3 | site | Guiana_Space_Centre</mtriple>
+        <mtriple>Ariane_5 | launchSite | ELA-3</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Located in French Guiana, the Guiana Space Centre is the site of the ELA-3 which was where the Ariane 5 was launched.</lex>
+      <lex comment="good" lid="Id2" lang="en">ELA-3, located at the Guiana Space Centre in French Guiana, launched the Ariane 5.</lex>
+      <lex comment="good" lid="Id3" lang="en">French Guiana is the location of the Guiana Space Centre where the site of ELA-3 is located which was the launch site of the Ariane 5.</lex>
+      <lex comment="good" lid="Id1" lang="it">Situato nella Guyana francese, il Centro Spaziale della Guyana è il sito dell'ELA-3, da cui è stato lanciato l'Ariane 5.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'ELA-3, situato presso il Centro spaziale della Guyana, nella Guyana francese, ha lanciato l'Ariane 5.</lex>
+      <lex comment="good" lid="Id3" lang="it">La Guyana francese è la sede del Centro spaziale della Guyana, dove si trova il sito dell'ELA-3, che è stato il sito di lancio dell'Ariane 5.</lex>
+    </entry>
+    <entry category="MeanOfTransportation" eid="Id28" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>United_States | ethnicGroup | White_Americans</otriple>
+        <otriple>ALV_X-1 | countryOrigin | United_States</otriple>
+        <otriple>United_States | demonym | Americans</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | ethnicGroup | White_Americans</mtriple>
+        <mtriple>ALV_X-1 | countryOrigin | United_States</mtriple>
+        <mtriple>United_States | demonym | Americans</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The ALV X-1 originated in the United States where the people are called Americans and include the ethnic group of White Americans.</lex>
+      <lex comment="good" lid="Id2" lang="en">The ALV X-1 is from the Us where Americans live and where White Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id3" lang="en">The country of origin of the ALV X-1 is the United States where the people are called Americans and White Americans are an ethnic group.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'ALV X-1 ha avuto origine negli Stati Uniti, dove la popolazione è chiamata Americana e comprende il gruppo etnico degli Americani Bianchi.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'ALV X-1 proviene dagli Stati Uniti, dove gli americani vivono e dove i bianchi americani sono un gruppo etnico.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il paese di origine dell'ALV X-1 sono gli Stati Uniti, dove gli abitanti sono chiamati americani e i bianchi americani sono un gruppo etnico.</lex>
+    </entry>
+  </entries>
+</benchmark>

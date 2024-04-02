@@ -1,0 +1,570 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Athlete" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>A.C._Milan | chairman | Silvio_Berlusconi</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>A.C._Milan | chairman | Silvio_Berlusconi</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Chairman of A C Milan is Silvio Berlusconi.</lex>
+      <lex comment="good" lid="Id2" lang="en">Silvio Berlusconi is the chairman of A.C. Milan.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il presidente del Milan è Silvio Berlusconi.</lex>
+      <lex comment="good" lid="Id2" lang="it">Silvio Berlusconi è il presidente dell'A.C. Milan.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il presidente del Milan è Silvio Berlusconi.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Silvio Berlusconi è il presidente dell'A.C. Milan.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aaron_Boogaard | birthPlace | Canada</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aaron_Boogaard | placeOfBirth | Canada</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aaron_Boogaard | birthPlace | Canada</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Aaron Boogaard's birthplace is Canada.</lex>
+      <lex comment="good" lid="Id2" lang="en">Aaron Boogaard was born in Canada.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il luogo di nascita di Aaron Boogaard è il Canada.</lex>
+      <lex comment="good" lid="Id2" lang="it">Aaron Boogaard è nato in Canada.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il luogo di nascita di Aaron Boogaard è il Canada.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Aaron Boogaard è nato in Canada.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abel_Hernández | team | Uruguay_Olympic_football_team</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abel_Hernández | club | Uruguay_Olympic_football_team</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Abel Hernandez is in the Uruguay Olympic football team.</lex>
+      <lex comment="good" lid="Id2" lang="en">Abel Hernandez played for the Uruguay Olympic football team.</lex>
+      <lex comment="good" lid="Id3" lang="en">Abel Hernández plays for the Uruguay Olympic football team.</lex>
+      <lex comment="good" lid="Id1" lang="it">Abel Hernandez fa parte della squadra di calcio olimpica dell'Uruguay.</lex>
+      <lex comment="good" lid="Id2" lang="it">Abel Hernandez ha giocato nella squadra di calcio olimpica dell'Uruguay.</lex>
+      <lex comment="good" lid="Id3" lang="it">Abel Hernández gioca nella squadra di calcio olimpica dell'Uruguay.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Abel Hernandez fa parte della squadra di calcio olimpica dell'Uruguay.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Abel Hernandez ha giocato nella squadra di calcio olimpica dell'Uruguay.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Abel Hernández gioca nella squadra di calcio olimpica dell'Uruguay.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abel_Hernández | team | Uruguay_national_football_team</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abel_Hernández | club | Uruguay_national_football_team</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Abel Hernandez's club is the Uruguay National football team.</lex>
+      <lex comment="good" lid="Id2" lang="en">Abel Hernandez plays for the Uruguay national football team.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il club di Abel Hernandez è la Nazionale di calcio dell'Uruguay.</lex>
+      <lex comment="good" lid="Id2" lang="it">Abel Hernandez gioca nella nazionale di calcio dell'Uruguay.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">La squadra di Abel Hernandez è la Nazionale di calcio dell'Uruguay.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Abel Hernandez gioca nella nazionale di calcio dell'Uruguay.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Abner_(footballer) | team | C.D._FAS</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Abner_(footballer) | club | C.D._FAS</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The footballer Abner belongs to the club C.D. FAS.</lex>
+      <lex comment="good" lid="Id2" lang="en">The footballer Abner plays for C.D. FAS.</lex>
+      <lex comment="good" lid="Id3" lang="en">Abner is a footballer for the CD FAS club.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il calciatore Abner appartiene al club C.D. FAS.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il calciatore Abner gioca per il C.D. FAS.</lex>
+      <lex comment="good" lid="Id3" lang="it">Abner è un calciatore del club CD FAS.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il calciatore Abner appartiene al club C.D. FAS.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il calciatore Abner gioca per il C.D. FAS.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Abner è un calciatore del club CD FAS.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adam_Maher | birthPlace | &quot;Ait Ikkou, Morocco&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Maher | birthPlace | &quot;Ait Ikkou, Morocco&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Adam Maher was born in Ait Ikkou, Morocco.</lex>
+      <lex comment="good" lid="Id2" lang="en">Ait Ikkou, Morocco is the birth place of Adam Maher.</lex>
+      <lex comment="good" lid="Id1" lang="it">Adam Maher è nato ad Ait Ikkou, in Marocco.</lex>
+      <lex comment="good" lid="Id2" lang="it">Ait Ikkou, in Marocco, è il luogo di nascita di Adam Maher.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Adam Maher è nato ad Ait Ikkou, in Marocco.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Ait Ikkou, in Marocco, è il luogo di nascita di Adam Maher.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adam_Maher | birthPlace | Diemen</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adam_Maher | placeOfBirth | Diemen</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_Maher | birthPlace | Diemen</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Adam Maher's birthplace is Diemen.</lex>
+      <lex comment="good" lid="Id2" lang="en">Diemen is the birth place of Adam Maher.</lex>
+      <lex comment="good" lid="Id3" lang="en">Adam Maher was born in Diemen.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il luogo di nascita di Adam Maher è Diemen.</lex>
+      <lex comment="good" lid="Id2" lang="it">Diemen è il luogo di nascita di Adam Maher.</lex>
+      <lex comment="good" lid="Id3" lang="it">Adam Maher è nato a Diemen.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il luogo di nascita di Adam Maher è Diemen.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Diemen è il luogo di nascita di Adam Maher.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Adam Maher è nato a Diemen.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Adam_McQuaid | birthPlace | Charlottetown</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Adam_McQuaid | placeOfBirth | Charlottetown</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adam_McQuaid | birthPlace | Charlottetown</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Adam McQuaid was born in Charlottetown.</lex>
+      <lex comment="good" lid="Id2" lang="en">Charlottetown was the birthplace of Adam McQuaid.</lex>
+      <lex comment="good" lid="Id1" lang="it">Adam McQuaid è nato a Charlottetown.</lex>
+      <lex comment="good" lid="Id2" lang="it">Charlottetown è la città natale di Adam McQuaid.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Adam McQuaid è nato a Charlottetown.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Charlottetown è la città natale di Adam McQuaid.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | birthPlace | Iraq</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ahmad_Kadhim_Assad | birthPlace | Iraq</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Ahmad Kadhim Assad's birthplace is Iraq.</lex>
+      <lex comment="good" lid="Id2" lang="en">Ahmad Kadhim Assad was born in Iraq.</lex>
+      <lex comment="good" lid="Id3" lang="en">Ahmad Kadhim Assad's place of birth is Iraq.</lex>
+      <lex comment="good" lid="Id1" lang="it">Ahmad Kadhim Assad è nato in Iraq.</lex>
+      <lex comment="good" lid="Id2" lang="it">Ahmad Kadhim Assad è nato in Iraq.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il luogo di nascita di Ahmad Kadhim Assad è l'Iraq.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Ahmad Kadhim Assad è nato in Iraq.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Ahmad Kadhim Assad è nato in Iraq.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il luogo di nascita di Ahmad Kadhim Assad è l'Iraq.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | team | PAS_Tehran_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Ahmad_Kadhim_Assad | clubs | PAS_Tehran_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Ahmad_Kadhim_Assad | club | PAS_Tehran_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Ahmad Kadhim Assad played for the club PAS Tehran F.C.</lex>
+      <lex comment="good" lid="Id2" lang="en">Ahmad Kadhim Assad plays for PAS Tehran FC.</lex>
+      <lex comment="good" lid="Id3" lang="en">Ahmad Kadhim Assad plays for PAS Tehran F.C.</lex>
+      <lex comment="good" lid="Id1" lang="it">Ahmad Kadhim Assad ha giocato per il club PAS Tehran F.C.</lex>
+      <lex comment="good" lid="Id2" lang="it">Ahmad Kadhim Assad gioca nel PAS Tehran FC.</lex>
+      <lex comment="good" lid="Id3" lang="it">Ahmad Kadhim Assad gioca nel PAS Tehran F.C.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Ahmad Kadhim Assad ha giocato per la squadra PAS Tehran F.C.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Ahmad Kadhim Assad gioca nel PAS Tehran FC.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Ahmad Kadhim Assad gioca nel PAS Tehran F.C.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Akeem_Ayers | position | Linebacker</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Ayers | position | Linebacker</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Akeem Ayers plays as a linebacker.</lex>
+      <lex comment="good" lid="Id2" lang="en">Akeem Ayers' position is linebacker.</lex>
+      <lex comment="good" lid="Id1" lang="it">Akeem Ayers gioca come linebacker.</lex>
+      <lex comment="good" lid="Id2" lang="it">La posizione di Akeem Ayers è quella di linebacker.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Akeem Ayers gioca come linebacker.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">La posizione di Akeem Ayers è quella di linebacker.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Akeem_Priestley | team | FK_Mughan</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Akeem_Priestley | clubs | &quot;→ FK Mughan&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Priestley | club | FK_Mughan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Akeem Priestley plays for FK Mughan.</lex>
+      <lex comment="good" lid="Id2" lang="en">Akeem Priestley played for FK Mughan.</lex>
+      <lex comment="good" lid="Id1" lang="it">Akeem Priestley gioca per FK Mughan.</lex>
+      <lex comment="good" lid="Id2" lang="it">Akeem Priestley ha giocato per FK Mughan.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Akeem Priestley gioca per FK Mughan.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Akeem Priestley ha giocato per FK Mughan.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id13" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Akeem_Priestley | youthclubs | Jacksonville_Dolphins</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Akeem_Priestley | youthclub | Jacksonville_Dolphins</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Akeem Priestley played for the Jacksonville Dolphins youth team.</lex>
+      <lex comment="good" lid="Id2" lang="en">Akeem Priestley is in the Jacksonville Dolphins youth club.</lex>
+      <lex comment="good" lid="Id3" lang="en">Akeem Priestley's youth club is the Jacksonville Dolphins.</lex>
+      <lex comment="good" lid="Id1" lang="it">Akeem Priestley ha giocato nelle giovanili dei Jacksonville Dolphins.</lex>
+      <lex comment="good" lid="Id2" lang="it">Akeem Priestley fa parte del club giovanile dei Jacksonville Dolphins.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il club giovanile di Akeem Priestley è quello dei Jacksonville Dolphins.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Akeem Priestley ha giocato nelle giovanili dei Jacksonville Dolphins.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Akeem Priestley fa parte del club giovanile dei Jacksonville Dolphins.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">La squadra giovanile di Akeem Priestley è quello dei Jacksonville Dolphins.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id14" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Al-Khor_Sports_Club | league | Qatar_Stars_League</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Al-Khor_Sports_Club | league | Qatar_Stars_League</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Al-Khor Sports Club is in the Qatar Stars League.</lex>
+      <lex comment="good" lid="Id2" lang="en">Al-Khor Sports Club play in the Qatar Stars League.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Al-Khor Sports Club partecipa alla Qatar Stars League.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Al-Khor Sports Club gioca nella Qatar Stars League.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'Al-Khor Sports Club partecipa alla Qatar Stars League.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'Al-Khor Sports Club gioca nella Qatar Stars League.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id15" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alaa_Abdul-Zahra | birthPlace | Baghdad</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alaa_Abdul-Zahra | birthPlace | Baghdad</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Alaa Abdul-Zahra was born in Baghdad.</lex>
+      <lex comment="good" lid="Id2" lang="en">Baghdad is the birth place of Alaa Abdul-Zahra.</lex>
+      <lex comment="good" lid="Id3" lang="en">Alaa Abdul Zahra was born in Baghdad.</lex>
+      <lex comment="good" lid="Id1" lang="it">Alaa Abdul-Zahra è nato a Baghdad.</lex>
+      <lex comment="good" lid="Id2" lang="it">Baghdad è il luogo di nascita di Alaa Abdul-Zahra.</lex>
+      <lex comment="good" lid="Id3" lang="it">Alaa Abdul Zahra è nato a Baghdad.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Alaa Abdul-Zahra è nato a Baghdad.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Baghdad è il luogo di nascita di Alaa Abdul-Zahra.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Alaa Abdul Zahra è nato a Baghdad.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id16" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Martin_(footballer,_born_1989) | team | Accrington_Stanley_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alan_Martin_(footballer,_born_1989) | clubs | &quot;→ Accrington Stanley&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Martin_(footballer) | club | Accrington_Stanley_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Alan Martin played football for Accrington Stanley F.C.</lex>
+      <lex comment="good" lid="Id2" lang="en">Footballer, Alan Martin plays for the club, Accrington Stanley F.C.</lex>
+      <lex comment="good" lid="Id3" lang="en">Alan Martin played for Accrington Stanley F.C.</lex>
+      <lex comment="good" lid="Id1" lang="it">Alan Martin ha giocato a calcio per l'Accrington Stanley F.C.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il calciatore Alan Martin gioca per il club Accrington Stanley F.C.</lex>
+      <lex comment="good" lid="Id3" lang="it">Alan Martin ha giocato con l'Accrington Stanley F.C.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Alan Martin ha giocato a calcio per l'Accrington Stanley F.C.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Il calciatore Alan Martin gioca per la squadra Accrington Stanley F.C.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Alan Martin ha giocato con l'Accrington Stanley F.C.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id17" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alan_Martin_(footballer,_born_1989) | clubs | Crewe_Alexandra_F.C.</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alan_Martin_(footballer,_born_1989) | team | Crewe_Alexandra_F.C.</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alan_Martin_(footballer) | club | Crewe_Alexandra_F.C.</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Footballer, Alan Martin, plays for the club Crewe Alexandra F.C.</lex>
+      <lex comment="good" lid="Id2" lang="en">The footballer Alan Martin plays for Crewe Alexandra F.C.</lex>
+      <lex comment="good" lid="Id3" lang="en">Alan Martin is a footballer for the Crewe Alexandra FC.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il calciatore Alan Martin gioca per il club Crewe Alexandra F.C.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il calciatore Alan Martin gioca nel Crewe Alexandra F.C.</lex>
+      <lex comment="good" lid="Id3" lang="it">Alan Martin è un calciatore del Crewe Alexandra FC.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Il calciatore Alan Martin gioca per la squadra Crewe Alexandra F.C.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il calciatore Alan Martin gioca nel Crewe Alexandra F.C.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Alan Martin è un calciatore del Crewe Alexandra FC.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id18" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | birthPlace | Finland</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | birthPlace | Finland</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Aleksander Barkov Jr was born in Finland.</lex>
+      <lex comment="good" lid="Id2" lang="en">Aleksander Barkov Jr. was born in Finland.</lex>
+      <lex comment="good" lid="Id3" lang="en">Aleksander Barkov, Jr's birth place is Finland.</lex>
+      <lex comment="good" lid="Id1" lang="it">Aleksander Barkov Jr è nato in Finlandia.</lex>
+      <lex comment="good" lid="Id2" lang="it">Aleksander Barkov Jr. è nato in Finlandia.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il luogo di nascita di Aleksander Barkov Jr è la Finlandia.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Aleksander Barkov Jr è nato in Finlandia.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Aleksander Barkov Jr. è nato in Finlandia.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il luogo di nascita di Aleksander Barkov Jr è la Finlandia.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id19" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | team | Florida_Panthers</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | club | Florida_Panthers</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Aleksander Barkov Jr has played for the Florida Panthers.</lex>
+      <lex comment="good" lid="Id2" lang="en">Aleksander Barkov, Jr's club is the Florida Panthers.</lex>
+      <lex comment="good" lid="Id3" lang="en">Aleksander Barkov Jr. plays for the Florida Panthers.</lex>
+      <lex comment="good" lid="Id1" lang="it">Aleksander Barkov Jr ha giocato per i Florida Panthers.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il club di Aleksander Barkov Jr è quello dei Florida Panthers.</lex>
+      <lex comment="good" lid="Id3" lang="it">Aleksander Barkov Jr. gioca nei Florida Panthers.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Aleksander Barkov Jr ha giocato per i Florida Panthers.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">La squadra di Aleksander Barkov Jr è quella dei Florida Panthers.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Aleksander Barkov Jr. gioca nei Florida Panthers.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id20" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aleksander_Barkov,_Jr. | league | National_Hockey_League</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksander_Barkov,_Jr. | league | National_Hockey_League</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Aleksander Barkov Jr played in the National Hockey League.</lex>
+      <lex comment="good" lid="Id2" lang="en">Aleksander Barkov Jr. plays in the National Hockey League.</lex>
+      <lex comment="good" lid="Id1" lang="it">Aleksander Barkov Jr ha giocato nella National Hockey League.</lex>
+      <lex comment="good" lid="Id2" lang="it">Aleksander Barkov Jr. gioca nella National Hockey League.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Aleksander Barkov Jr ha giocato nella National Hockey League.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Aleksander Barkov Jr. gioca nella National Hockey League.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id21" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Aleksandre_Guruli | clubs | FC_Samtredia</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Aleksandre_Guruli | team | FC_Samtredia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Aleksandre_Guruli | club | FC_Samtredia</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Aleksandre Guruli plays for FC Samtredia.</lex>
+      <lex comment="good" lid="Id2" lang="en">Aleksandre Guruli's club is FC Samtredia.</lex>
+      <lex comment="good" lid="Id1" lang="it">Aleksandre Guruli gioca per l'FC Samtredia.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il club di Aleksandre Guruli è l'FC Samtredia.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Aleksandre Guruli gioca per l'FC Samtredia.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">La squadra di Aleksandre Guruli è l'FC Samtredia.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id22" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alex_Plante | placeOfBirth | Manitoba</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Alex_Plante | birthPlace | Manitoba</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alex_Plante | birthPlace | Manitoba</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Alex Plante was born in Manitoba.</lex>
+      <lex comment="good" lid="Id2" lang="en">Alex Plante's birthplace is Manitoba.</lex>
+      <lex comment="good" lid="Id1" lang="it">Alex Plante è nato a Manitoba.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il luogo di nascita di Alex Plante è il Manitoba.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Alex Plante è nato a Manitoba.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il luogo di nascita di Alex Plante è il Manitoba.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id23" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Alex_Plante | height | &quot;1.9304&quot;^^xsd:double</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Alex_Plante | height | 1.9304</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Alex Plante is 1.9304m tall.</lex>
+      <lex comment="good" lid="Id2" lang="en">Alex Plante is 1.9304 m tall.</lex>
+      <lex comment="good" lid="Id3" lang="en">Alex Plante is 1.9304 metres tall.</lex>
+      <lex comment="good" lid="Id1" lang="it">Alex Plante è alto 1,9304 m.</lex>
+      <lex comment="good" lid="Id2" lang="it">Alex Plante è alto 1,9304 metri.</lex>
+      <lex comment="good" lid="Id3" lang="it">Alex Plante è alto 1,9304 metri.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Alex Plante è alto 1,9304 m.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Alex Plante è alto 1,9304 metri.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Alex Plante è alto 1,9304 metri.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id24" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Brandon,_Manitoba | leaderName | Drew_Caldwell</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Brandon,_Manitoba | leader | Drew_Caldwell</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The leader of Brandon, Manitoba is Drew Caldwell.</lex>
+      <lex comment="good" lid="Id2" lang="en">Drew Caldwell is leader of Brandon, Manitoba.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il leader di Brandon, Manitoba, è Drew Caldwell.</lex>
+      <lex comment="good" lid="Id2" lang="it">Drew Caldwell è il leader di Brandon, Manitoba.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il leader di Brandon, Manitoba, è Drew Caldwell.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Drew Caldwell è il leader di Brandon, Manitoba.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id25" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Budapest | country | Hungary</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Budapest | country | Hungary</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Budapest is a city in Hungary.</lex>
+      <lex comment="good" lid="Id1" lang="it">Budapest è una città dell'Ungheria.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Budapest è una città dell'Ungheria.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id26" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Canada | language | Inuktitut</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Canada | language | Inuktitut</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Inuktitut is a language spoken in Canada.</lex>
+      <lex comment="good" lid="Id2" lang="en">Inuktitut is a spoken language in Canada.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'inuktitut è una lingua parlata in Canada.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'inuktitut è una lingua parlata in Canada.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'inuktitut è una lingua parlata in Canada.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'inuktitut è una lingua parlata in Canada.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id27" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Columbus_Blue_Jackets | city | Columbus,_Ohio</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Columbus_Blue_Jackets | locationCity | Columbus,_Ohio</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Columbus_Blue_Jackets | city | Columbus,_Ohio</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Columbus Blue Jackets' city is Columbus, Ohio.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Columbus Blue Jackets are based in the city of Columbus, Ohio.</lex>
+      <lex comment="good" lid="Id1" lang="it">La città dei Columbus Blue Jackets è Columbus, Ohio.</lex>
+      <lex comment="good" lid="Id2" lang="it">I Columbus Blue Jackets hanno sede nella città di Columbus, Ohio.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La città dei Columbus Blue Jackets è Columbus, Ohio.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">I Columbus Blue Jackets hanno sede nella città di Columbus, Ohio.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id28" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>FC_Terek_Grozny | ground | Grozny</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>FC_Terek_Grozny | ground | Grozny</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">FC Terek Grozny's ground is based at Grozny.</lex>
+      <lex comment="good" lid="Id2" lang="en">FC Terek Grozny's ground is located in Grozny.</lex>
+      <lex comment="good" lid="Id1" lang="it">La sede dell'FC Terek Grozny è a Grozny.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il campo dell'FC Terek Grozny si trova a Grozny.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La sede dell'FC Terek Grozny è a Grozny.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il campo dell'FC Terek Grozny si trova a Grozny.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id29" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>FC_Tom_Tomsk | league | Russian_Football_National_League</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>FC_Tom_Tomsk | league | Russian_Football_National_League</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The league FC Tom Tomsk plays in the Russian Football National League.</lex>
+      <lex comment="good" lid="Id2" lang="en">FC Tom Tomsk play in the Russian National Football League.</lex>
+      <lex comment="good" lid="Id3" lang="en">FC Tom Tomsk play in the Russian Football National League.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il campionato FC Tom Tomsk gioca nella Russian Football National League.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'FC Tom Tomsk gioca nel campionato nazionale di calcio russo.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'FC Tom Tomsk gioca nel campionato nazionale di calcio russo.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il campionato FC Tom Tomsk gioca nella Russian Football National League.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'FC Tom Tomsk gioca nel campionato nazionale di calcio russo.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">L'FC Tom Tomsk gioca nel campionato nazionale di calcio russo.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id30" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>FC_Torpedo_Moscow | manager | Valery_Petrakov</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Valery Petrakov is the manager of FC Torpedo Moscow.</lex>
+      <lex comment="good" lid="Id1" lang="it">Valery Petrakov è il manager del FC Torpedo Moscow.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Valery Petrakov è l'allenatore del FC Torpedo Moscow.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id31" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Florida_Panthers | generalManager | Dale_Tallon</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Florida_Panthers | generalManager | Dale_Tallon</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The general manager of Florida Panthers is Dale Tallon.</lex>
+      <lex comment="good" lid="Id2" lang="en">Florida Panthers' general manager is Dale Tallon.</lex>
+      <lex comment="good" lid="Id3" lang="en">Dale Tallon is the general manager of the Florida Panthers.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il direttore generale dei Florida Panthers è Dale Tallon.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il direttore generale dei Florida Panthers è Dale Tallon.</lex>
+      <lex comment="good" lid="Id3" lang="it">Dale Tallon è il direttore generale dei Florida Panthers.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il direttore generale dei Florida Panthers è Dale Tallon.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il direttore generale dei Florida Panthers è Dale Tallon.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Dale Tallon è il direttore generale dei Florida Panthers.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id32" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Maccabi_Tel_Aviv_B.C. | coach | Žan_Tabak</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Maccabi_Tel_Aviv_B.C. | coach | Žan_Tabak</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Maccabi Tel Aviv B.C.'s coach is Zan Tabak.</lex>
+      <lex comment="good" lid="Id2" lang="en">Zan Tabak is the coach for the Maccabi Tel Aviv B.C. team.</lex>
+      <lex comment="good" lid="Id3" lang="en">The coach of Maccabi Tel Aviv B.C. is Zan Tabak.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'allenatore del Maccabi Tel Aviv B.C. è Zan Tabak.</lex>
+      <lex comment="good" lid="Id2" lang="it">Zan Tabak è l'allenatore della squadra B.C. del Maccabi Tel Aviv.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'allenatore del Maccabi Tel Aviv B.C. è Zan Tabak.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'allenatore del Maccabi Tel Aviv B.C. è Žan Tabak.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Žan Tabak è l'allenatore della squadra B.C. del Maccabi Tel Aviv.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">L'allenatore del Maccabi Tel Aviv B.C. è Žan Tabak.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id33" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Olympique_Lyonnais | ground | Parc_Olympique_Lyonnais</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Olympique_Lyonnais | ground | Parc_Olympique_Lyonnais</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Olympique Lyonnais play their home games at the Parc Olympique Lyonnais.</lex>
+      <lex comment="good" lid="Id2" lang="en">Olympique Lyonnais' home ground is the Parc Olympique Lyonnais stadium.</lex>
+      <lex comment="good" lid="Id1" lang="it">L'Olympique Lyonnais gioca le sue partite in casa al Parc Olympique Lyonnais.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il campo di casa dell'Olympique Lyonnais è lo stadio Parc Olympique Lyonnais.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'Olympique Lione gioca le sue partite in casa al Parc Olympique Lione.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Il campo di casa dell'Olympique Lione è lo stadio Parc Olympique Lione.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id34" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Peñarol | manager | Jorge_Orosmán_da_Silva</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Peñarol | manager | Jorge_Orosmán_da_Silva</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Peñarol's manager is Jorge Orosmán da Silva.</lex>
+      <lex comment="good" lid="Id2" lang="en">The manager of Peñarol is Jorge Orosmán da Silva.</lex>
+      <lex comment="good" lid="Id3" lang="en">Jorge Orosmán da Silva is the manager of Peñarol.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il manager del Peñarol è Jorge Orosmán da Silva.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il direttore del Peñarol è Jorge Orosmán da Silva.</lex>
+      <lex comment="good" lid="Id3" lang="it">Jorge Orosmán da Silva è il manager del Peñarol.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'allenatore del Peñarol è Jorge Orosmán da Silva.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il direttore del Peñarol è Jorge Orosmán da Silva.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Jorge Orosmán da Silva è l'allenatore del Peñarol.</lex>
+    </entry>
+    <entry category="Athlete" eid="Id35" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Point_Fortin | country | Trinidad</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Point_Fortin | country | Trinidad</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Point Fortin is in Trinidad.</lex>
+      <lex comment="good" lid="Id2" lang="en">Point Fortin is located in Trinidad.</lex>
+      <lex comment="good" lid="Id3" lang="en">Point Fortin is located in the country of Trinidad.</lex>
+      <lex comment="good" lid="Id1" lang="it">Point Fortin si trova a Trinidad.</lex>
+      <lex comment="good" lid="Id2" lang="it">Point Fortin si trova a Trinidad.</lex>
+      <lex comment="good" lid="Id3" lang="it">Point Fortin si trova nel paese di Trinidad.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Point Fortin si trova a Trinidad.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Point Fortin si trova a Trinidad.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Point Fortin si trova nel paese di Trinidad.</lex>
+    </entry>
+  </entries>
+</benchmark>

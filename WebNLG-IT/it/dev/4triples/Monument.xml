@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Monument" eid="Id1" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>Adams_County,_Pennsylvania | north | Cumberland_County,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsNorth | Cumberland_County,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | municipality | Gettysburg,_Pennsylvania</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Adams County, Pennsylvania has Carroll County, Maryland to its southeast and Pennsylvania's Cumberland County is to the north of the Adams County. The 11th Mississippi Infantry Monument is in Adams County of the municipality of Gettysburg Pennsylvania.</lex>
+      <lex comment="good" lid="Id2" lang="en">The 11th Mississippi Infantry Monument is located at Gettysburg, Adams County, Pennsylvania, which has Cumberland County, Pennsylvania to its north and Carroll County, Maryland to its southeast.</lex>
+      <lex comment="good" lid="Id3" lang="en">The municipality of Gettysburg, Adams County, Pennsylvania is the location of the 11th Mississippi Infantry monument. Adams County is south of Cumberland County and to the northwest of Carroll County, Maryland.</lex>
+      <lex comment="good" lid="Id1" lang="it">La Contea di Adams, Pennsylvania, ha la Contea di Carroll, Maryland, a sud-est e la Contea di Cumberland, Pennsylvania, a nord della Contea di Adams. Il monumento all'11° Fanteria del Mississippi si trova nella Contea di Adams, nel comune di Gettysburg, in Pennsylvania.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il monumento all'11° Fanteria del Mississippi si trova a Gettysburg, nella Contea di Adams, Pennsylvania, con la Contea di Cumberland, Pennsylvania, a nord e la Contea di Carroll, Maryland, a sud-est.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il comune di Gettysburg, nella Contea di Adams, in Pennsylvania, ospita il monumento dell'11° Fanteria del Mississippi. La Contea di Adams si trova a sud della Contea di Cumberland e a nord-ovest della Contea di Carroll, Maryland.</lex>
+    </entry>
+    <entry category="Monument" eid="Id2" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Adams_County,_Pennsylvania | west | Franklin_County,_Pennsylvania</otriple>
+        <otriple>Adams_County,_Pennsylvania | southeast | Carroll_County,_Maryland</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</otriple>
+        <otriple>11th_Mississippi_Infantry_Monument | region | Adams_County,_Pennsylvania</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsWest | Franklin_County,_Pennsylvania</mtriple>
+        <mtriple>Adams_County,_Pennsylvania | hasToItsSoutheast | Carroll_County,_Maryland</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | category | Contributing_property</mtriple>
+        <mtriple>11th_Mississippi_Infantry_Monument | location | Adams_County,_Pennsylvania</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The 11th Mississippi Infantry Monument is a Contributing Property located in Adams County, Pennsylvania, with Franklin County to its west and Carroll County, Maryland to its southeast.</lex>
+      <lex comment="good" lid="Id2" lang="en">Pennsylvania's Franklin County is found to the west of Adams County while Carroll County Maryland is southeast of Adams County Pennsylvania. The location of the 11th Mississippi Infantry Monument is Adams County, Pennsylvania and falls under the category of Contributing property.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il Monumento dell'11° Fanteria del Mississippi è una proprietà contribuente situata nella Contea di Adams, Pennsylvania, con la Contea di Franklin a ovest e la Contea di Carroll, Maryland, a sud-est.</lex>
+      <lex comment="good" lid="Id2" lang="it">La contea di Franklin, in Pennsylvania, si trova a ovest della contea di Adams, mentre la contea di Carroll, in Maryland, si trova a sud-est della contea di Adams, in Pennsylvania. Il monumento all'11° Fanteria del Mississippi si trova nella Contea di Adams, in Pennsylvania, e rientra nella categoria delle proprietà contribuenti.</lex>
+    </entry>
+    <entry category="Monument" eid="Id3" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | designer | &quot;Hüseyin Bütüner and Hilmi Güner&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Baku, the capital of Azerbaijan is the location of the Turkish Martyrs memorial dedicated to the soldiers of the Ottoman army killed in the Battle of Baku. The memorial was designed by Huseyin Butuner and Hilmi Guner.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Baku Turkish Martyrs Memorial has been dedicated to Ottoman Army soldiers killed in the Battle of Baku and is located in Azerbaijan's capital Baku. The Memorial was designed by Hüseyin Bütüner and Hilmi Güner.</lex>
+      <lex comment="good" lid="Id3" lang="en">Baku is the capital of Azerbaijan and the location of the Turkish Martyrs memorial dedicated to the soldiers of the Ottoman army who died in the battle of Baku. The memorial was designed by Huseyin Butuner and Hilmi Guner.</lex>
+      <lex comment="good" lid="Id1" lang="it">A Baku, capitale dell'Azerbaigian, si trova il Memoriale dei Martiri Turchi, dedicato ai soldati dell'esercito ottomano uccisi nella battaglia di Baku. Il monumento è stato progettato da Huseyin Butuner e Hilmi Guner.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il Memoriale dei Martiri Turchi di Baku è stato dedicato ai soldati dell'esercito ottomano uccisi nella battaglia di Baku e si trova nella capitale dell'Azerbaigian, Baku. Il monumento è stato progettato da Hüseyin Bütüner e Hilmi Güner.</lex>
+      <lex comment="good" lid="Id3" lang="it">Baku è la capitale dell'Azerbaigian e la sede del Memoriale dei Martiri Turchi, dedicato ai soldati dell'esercito ottomano morti nella battaglia di Baku. Il monumento è stato progettato da Huseyin Butuner e Hilmi Guner.</lex>
+    </entry>
+    <entry category="Monument" eid="Id4" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Azerbaijan | leader | Artur_Rasizade</otriple>
+        <otriple>Azerbaijan | capital | Baku</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | leader | Artur_Rasizade</mtriple>
+        <mtriple>Azerbaijan | capital | Baku</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Azerbaijan | legislature | National_Assembly_(Azerbaijan)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Baku is the capital of Azerbaijan and the leader of the legislature (the National Assembly) is Artur Rasizade. Azerbaijan is the location of the Baku Turkish Martyrs memorial.</lex>
+      <lex comment="good" lid="Id2" lang="en">The National Assembly is the legislative branch of government in Azerbaijan where the leader is Artur Rasizade. The Turkish martyrs memorial is located in the capital, Baku.</lex>
+      <lex comment="good" lid="Id3" lang="en">The Baku Turkish Martyrs' Memorial is located in Baku, the capital of Azerbaijan, where leader is Artur Rasizade and the legislature is known as the National Assembly.</lex>
+      <lex comment="good" lid="Id1" lang="it">Baku è la capitale dell'Azerbaigian e il capo dell'organo legislativo (l'Assemblea nazionale) è Artur Rasizade. In Azerbaigian si trova il memoriale dei Martiri turchi di Baku.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'Assemblea nazionale è il ramo legislativo del governo dell'Azerbaigian, il cui leader è Artur Rasizade. Il memoriale dei martiri turchi si trova nella capitale, Baku.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il Memoriale dei Martiri Turchi di Baku si trova a Baku, la capitale dell'Azerbaigian, dove il leader è Artur Rasizade e l'organo legislativo è noto come Assemblea Nazionale.</lex>
+    </entry>
+    <entry category="Monument" eid="Id5" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Azerbaijan | leader | Artur_Rasizade</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | material | &quot;Red granite and white marble&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | leader | Artur_Rasizade</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | material | &quot;Red granite and white marble&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The red granite and white marble Baku Turkish Martyrs' Memorial is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku, and is located in Baku, Azerbaijan, where the leader is Artur Rasizade.</lex>
+      <lex comment="good" lid="Id2" lang="en">Artur Rasizade was an Azerbaijan leader. Baku Turkish Martyrs' Memorial is made of red granite and white marble, is dedicated to the Ottoman Army soldiers killed in the Battle of Baku and located in Azerbaijan.</lex>
+      <lex comment="good" lid="Id3" lang="en">Artur Rasizade is an Azerbaijan leader. The Baku Turkish Martyrs' Memorial located in Baku, Azerbaijan is made with red granite and white marble and has been dedicated to Ottoman Army soldiers killed in the Battle of Baku.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il Memoriale dei martiri turchi di Baku, in granito rosso e marmo bianco, è dedicato ai soldati dell'esercito ottomano uccisi nella battaglia di Baku e si trova a Baku, in Azerbaigian, dove il capo è Artur Rasizade.</lex>
+      <lex comment="good" lid="Id2" lang="it">Artur Rasizade è stato un leader azero. Il Memoriale dei martiri turchi di Baku, realizzato in granito rosso e marmo bianco, è dedicato ai soldati dell'esercito ottomano uccisi nella battaglia di Baku e si trova in Azerbaigian.</lex>
+      <lex comment="good" lid="Id3" lang="it">Artur Rasizade è un leader azero. Il Memoriale dei martiri turchi di Baku, situato a Baku, in Azerbaigian, è realizzato in granito rosso e marmo bianco ed è stato dedicato ai soldati dell'esercito ottomano uccisi nella battaglia di Baku.</lex>
+    </entry>
+    <entry category="Monument" eid="Id6" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
+      <originaltripleset>
+        <otriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;@en</otriple>
+        <otriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</otriple>
+        <otriple>Azerbaijan | leaderName | Artur_Rasizade</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | dedicatedTo | &quot;Ottoman Army soldiers killed in the Battle of Baku&quot;</mtriple>
+        <mtriple>Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan</mtriple>
+        <mtriple>Azerbaijan | leader | Artur_Rasizade</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The Baku Turkish Martyrs' Memorial, which is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku, is located in Azerbaijan, where the official leader (Prime Minister of Azerbaijan) is called Artur Rasizade.</lex>
+      <lex comment="good" lid="Id2" lang="en">The Baku Turkish Martyrs' Memorial is dedicated to the Ottoman Army soldiers killed in the Battle of Baku, and is located in Azerbaijan, which is led by the Prime Minister of Azerbaijan, Artur Rasizade.</lex>
+      <lex comment="good" lid="Id3" lang="en">Artur Rasizade is the Prime Minister of Azerbaijan. Azerbaijan is the location of the Baku Turkish Martyrs memorial which is dedicated to the soldiers of the Ottoman army killed in the Battle of Baku.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il Memoriale dei Martiri Turchi di Baku, dedicato ai soldati dell'esercito ottomano uccisi nella battaglia di Baku, si trova in Azerbaigian, dove il leader ufficiale (Primo Ministro dell'Azerbaigian) si chiama Artur Rasizade.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il Memoriale dei martiri turchi di Baku è dedicato ai soldati dell'esercito ottomano uccisi nella battaglia di Baku e si trova in Azerbaigian, sotto la guida del Primo Ministro dell'Azerbaigian, Artur Rasizade.</lex>
+      <lex comment="good" lid="Id3" lang="it">Artur Rasizade è il primo ministro dell'Azerbaigian. In Azerbaigian si trova il memoriale dei Martiri turchi di Baku, dedicato ai soldati dell'esercito ottomano uccisi nella battaglia di Baku.</lex>
+    </entry>
+  </entries>
+</benchmark>

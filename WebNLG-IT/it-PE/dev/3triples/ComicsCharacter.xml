@@ -1,0 +1,183 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="ComicsCharacter" eid="Id1" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>Karl_Kesel | nationality | Americans</otriple>
+        <otriple>Auron_(comics) | creators | Karl_Kesel</otriple>
+        <otriple>Auron_(comics) | creator | Walt_Simonson</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Auron_(comics) | creator | Karl_Kesel</otriple>
+        <otriple>Karl_Kesel | nationality | Americans</otriple>
+        <otriple>Auron_(comics) | creators | Walt_Simonson</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Auron_(comicsCharacter) | creator | Karl_Kesel</mtriple>
+        <mtriple>Karl_Kesel | nationality | Americans</mtriple>
+        <mtriple>Auron_(comicsCharacter) | creator | Walt_Simonson</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The comic character Auron was created by Walt Simonson and the American, Karl Kesel.</lex>
+      <lex comment="good" lid="Id2" lang="en">Karl Kesel, an American along with Walt Simonson created the comic book character Auron.</lex>
+      <lex comment="good" lid="Id3" lang="en">The comic character, Auron, was created by Walt Simonson and the American Karl Kesel.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il personaggio dei fumetti Auron è stato creato da Walt Simonson e dall'americano Karl Kesel.</lex>
+      <lex comment="good" lid="Id2" lang="it">Karl Kesel, americano, insieme a Walt Simonson, ha creato il personaggio del fumetto Auron.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il personaggio dei fumetti, Auron, è stato creato da Walt Simonson e dall'americano Karl Kesel.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il personaggio dei fumetti Auron è stato creato da Walt Simonson e dall'americano Karl Kesel.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Karl Kesel, americano, insieme a Walt Simonson, ha creato il personaggio del fumetto Auron.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il personaggio dei fumetti, Auron, è stato creato da Walt Simonson e dall'americano Karl Kesel.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id2" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
+      <originaltripleset>
+        <otriple>BBC | keyPeople | Tony_Hall,_Baron_Hall_of_Birkenhead</otriple>
+        <otriple>Bananaman | network | BBC</otriple>
+        <otriple>BBC | locationCity | London</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>BBC | keyPerson | Tony_Hall,_Baron_Hall_of_Birkenhead</mtriple>
+        <mtriple>Bananaman | broadcastedBy | BBC</mtriple>
+        <mtriple>BBC | city | London</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Tony Hall, Baron Hall of Birkenhead, is a key person at the BBC which is located in London and broadcast Bananaman.</lex>
+      <lex comment="good" lid="Id2" lang="en">A key person at the BBC, which is located in London and broadcast Bananaman, is Baron Hall of Birkenhead, Tony Hall.</lex>
+      <lex comment="good" lid="Id1" lang="it">Tony Hall, barone Hall di Birkenhead, è una persona chiave della BBC, che ha sede a Londra e trasmette Bananaman.</lex>
+      <lex comment="good" lid="Id2" lang="it">Una persona chiave della BBC, che ha sede a Londra e trasmette Bananaman, è il barone Hall di Birkenhead, Tony Hall.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Tony Hall, barone Hall di Birkenhead, è una persona chiave della BBC, che ha sede a Londra e trasmette Bananaman.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Una persona chiave della BBC, che ha sede a Londra e trasmette Bananaman, è il barone Hall di Birkenhead, Tony Hall.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id3" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bananaman | starring | Bill_Oddie</otriple>
+        <otriple>Bananaman | firstAired | &quot;1983-10-03&quot;^^xsd:date</otriple>
+        <otriple>Bananaman | network | &quot;STV&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bananaman | starring | Bill_Oddie</mtriple>
+        <mtriple>Bananaman | firstAired | &quot;1983-10-03&quot;</mtriple>
+        <mtriple>Bananaman | broadcastedBy | &quot;STV&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Bill Oddie starred in Bananaman which first aired on 3 October 1983 and was broadcast by STV.</lex>
+      <lex comment="good" lid="Id2" lang="en">Bill Oddie starred in Bananaman which was first aired on 3 October 1983 and broadcast by STV.</lex>
+      <lex comment="good" lid="Id3" lang="en">Bananaman which first aired on October 3rd, 1983 stars Billie Oddie and is broadcasted by STV.</lex>
+      <lex comment="good" lid="Id1" lang="it">Bill Oddie ha recitato in Bananaman, andato in onda per la prima volta il 3 ottobre 1983 e trasmesso da STV.</lex>
+      <lex comment="good" lid="Id2" lang="it">Bill Oddie ha recitato in Bananaman, andato in onda per la prima volta il 3 ottobre 1983 e trasmesso da STV.</lex>
+      <lex comment="good" lid="Id3" lang="it">Bananaman, andato in onda per la prima volta il 3 ottobre 1983, ha come protagonista Billie Oddie ed è trasmesso da STV.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Bill Oddie ha recitato in Bananaman, andato in onda per la prima volta il 3 ottobre 1983 e trasmesso da STV.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Bill Oddie ha recitato in Bananaman, andato in onda per la prima volta il 3 ottobre 1983 e trasmesso da STV.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Bananaman, andato in onda per la prima volta il 3 ottobre 1983, ha come protagonista Billie Oddie ed è trasmesso da STV.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id4" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | firstAppearance | &quot;Big Hero 6(2014)&quot;</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Baymax | firstAppearance | &quot;Big Hero 6(2014)&quot;</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | first | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | creator | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creators | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Baymax | first | Big_Hero_6_(film)</otriple>
+        <otriple>Baymax | creators | Duncan_Rouleau</otriple>
+        <otriple>Baymax | creator | Steven_T._Seagle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Baymax | firstAppearanceInFilm | Big_Hero_6_(film)</mtriple>
+        <mtriple>Baymax | creator | Duncan_Rouleau</mtriple>
+        <mtriple>Baymax | creator | Steven_T._Seagle</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Baymax first appeared in Big Hero 6 and was created by Duncan Rouleau and Steven T. Seagle.</lex>
+      <lex comment="good" lid="Id2" lang="en">Baymax's first film appearance was in Big Hero 6. He was created by Duncan Rouleau and Steven T Seagle.</lex>
+      <lex comment="good" lid="Id3" lang="en">Duncan Rouleau and Steven T. Seagle created Baymax who had his first movie appearance in Big Hero 6.</lex>
+      <lex comment="good" lid="Id1" lang="it">Baymax è apparso per la prima volta in Big Hero 6 ed è stato creato da Duncan Rouleau e Steven T. Seagle.</lex>
+      <lex comment="good" lid="Id2" lang="it">La prima apparizione cinematografica di Baymax è stata in Big Hero 6. È stato creato da Duncan Rouleau e Steven T Seagle.</lex>
+      <lex comment="good" lid="Id3" lang="it">Duncan Rouleau e Steven T. Seagle hanno creato Baymax, che ha fatto la sua prima apparizione cinematografica in Big Hero 6.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Baymax è apparso per la prima volta in Big Hero 6 ed è stato creato da Duncan Rouleau e Steven T. Seagle.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">La prima apparizione cinematografica di Baymax è stata in Big Hero 6. È stato creato da Duncan Rouleau e Steven T Seagle.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Duncan Rouleau e Steven T. Seagle hanno creato Baymax, che ha fatto la sua prima apparizione cinematografica in Big Hero 6.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id5" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bibbo_Bibbowski | creator | Jerry_Ordway</otriple>
+        <otriple>Bibbo_Bibbowski | creators | Marv_Wolfman</otriple>
+        <otriple>Bibbo_Bibbowski | fullName | &quot;Bo Bibbowski&quot;@en</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>Bibbo_Bibbowski | creators | Jerry_Ordway</otriple>
+        <otriple>Bibbo_Bibbowski | creator | Marv_Wolfman</otriple>
+        <otriple>Bibbo_Bibbowski | fullName | &quot;Bo Bibbowski&quot;@en</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bibbo_Bibbowski | creator | Jerry_Ordway</mtriple>
+        <mtriple>Bibbo_Bibbowski | creator | Marv_Wolfman</mtriple>
+        <mtriple>Bibbo_Bibbowski | fullName | &quot;Bo Bibbowski&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The creator of Bibbo Bibbowski, who is often called Bibbo, are Jerry Ordway and Marv Wolfman.</lex>
+      <lex comment="good" lid="Id1" lang="it">I creatori di Bibbo Bibbowski, spesso chiamato Bibbo, sono Jerry Ordway e Marv Wolfman.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">I creatori di Bibbo Bibbowski, spesso chiamato Bibbo, sono Jerry Ordway e Marv Wolfman.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id6" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Blockbuster_(DC_Comics) | creator | Roger_Stern</otriple>
+        <otriple>Blockbuster_(DC_Comics) | alterEgo | &quot;Roland Desmond&quot;@en</otriple>
+        <otriple>Blockbuster_(DC_Comics) | creators | Tom_Lyle</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Roger_Stern</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | alternativeName | &quot;Roland Desmond&quot;</mtriple>
+        <mtriple>Blockbuster_(comicsCharacter) | creator | Tom_Lyle</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The comic character Blockbuster, also known as Roland Desmond, was created by Roger Stern and Tom Lyle.</lex>
+      <lex comment="good" lid="Id2" lang="en">The comic book character Blockbuster's alter ego is Roland Desmond and he was created by Roger Stern and Tom Lyle.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il personaggio dei fumetti Blockbuster, noto anche come Roland Desmond, è stato creato da Roger Stern e Tom Lyle.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'alter ego del personaggio dei fumetti Blockbuster è Roland Desmond, creato da Roger Stern e Tom Lyle.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il personaggio dei fumetti Blockbuster, noto anche come Roland Desmond, è stato creato da Roger Stern e Tom Lyle.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'alter ego del personaggio dei fumetti Blockbuster è Roland Desmond, creato da Roger Stern e Tom Lyle.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id7" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Ernie_Colón</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | &quot;Larry Bolatinsky&quot;@en</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Dan_Mishkin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Ernie_Colón</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | alternativeName | &quot;Larry Bolatinsky&quot;</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Dan_Mishkin</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The comic character Bolt has the alternative name of Larry Bolatinsky and was created by Ernie Colon and Dan Mishkin.</lex>
+      <lex comment="good" lid="Id2" lang="en">Bolt, a comic character AKA Larry Bolatinsky was created by Dan Mishkin and Ernie Colón.</lex>
+      <lex comment="good" lid="Id3" lang="en">The comic character Bolt whose alternative name is Larry Bolatinsky was created by Ernie Colon and Dan Mishkin.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il personaggio dei fumetti Bolt ha il nome alternativo di Larry Bolatinsky ed è stato creato da Ernie Colon e Dan Mishkin.</lex>
+      <lex comment="good" lid="Id2" lang="it">Bolt, personaggio dei fumetti alias Larry Bolatinsky, è stato creato da Dan Mishkin ed Ernie Colón.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il personaggio dei fumetti Bolt, il cui nome alternativo è Larry Bolatinsky, è stato creato da Ernie Colon e Dan Mishkin.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il personaggio dei fumetti Bolt ha il nome alternativo di Larry Bolatinsky ed è stato creato da Ernie Colon e Dan Mishkin.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Bolt, personaggio dei fumetti alias Larry Bolatinsky, è stato creato da Dan Mishkin ed Ernie Colón.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il personaggio dei fumetti Bolt, il cui nome alternativo è Larry Bolatinsky, è stato creato da Ernie Colon e Dan Mishkin.</lex>
+    </entry>
+    <entry category="ComicsCharacter" eid="Id8" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
+      <originaltripleset>
+        <otriple>Bolt_(DC_Comics) | creators | Paris_Cullins</otriple>
+        <otriple>Bolt_(DC_Comics) | alterEgo | &quot;Larry Bolatinsky&quot;@en</otriple>
+        <otriple>Bolt_(DC_Comics) | creator | Dan_Mishkin</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Bolt_(comicsCharacter) | creator | Paris_Cullins</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | alternativeName | &quot;Larry Bolatinsky&quot;</mtriple>
+        <mtriple>Bolt_(comicsCharacter) | creator | Dan_Mishkin</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">An alternative name for the comic character Bolt is Larry Bolatinsky and he was created by Paris Cullins and Dan Mishkin.</lex>
+      <lex comment="good" lid="Id2" lang="en">The comic character Bolt, aka Larry Bolatinsky, was created by Paris Cullins and Dan Mishkin.</lex>
+      <lex comment="good" lid="Id1" lang="it">Un nome alternativo per il personaggio dei fumetti Bolt è Larry Bolatinsky ed è stato creato da Paris Cullins e Dan Mishkin.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il personaggio dei fumetti Bolt, alias Larry Bolatinsky, è stato creato da Paris Cullins e Dan Mishkin.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Un nome alternativo per il personaggio dei fumetti Bolt è Larry Bolatinsky ed è stato creato da Paris Cullins e Dan Mishkin.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il personaggio dei fumetti Bolt, alias Larry Bolatinsky, è stato creato da Paris Cullins e Dan Mishkin.</lex>
+    </entry>
+  </entries>
+</benchmark>

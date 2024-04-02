@@ -1,0 +1,227 @@
+<?xml version="1.0" ?>
+<benchmark>
+  <entries>
+    <entry category="Company" eid="Id1" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Brazil | leader | Cármen_Lúcia</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Brazil | leader | Cármen_Lúcia</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Cármen Lúcia is the leader of Brazil.</lex>
+      <lex comment="good" lid="Id2" lang="en">The leader of Brazil is Cármen Lúcia.</lex>
+      <lex comment="good" lid="Id3" lang="en">The name of the leader of Brazil is Cármen Lúcia.</lex>
+      <lex comment="good" lid="Id1" lang="it">Cármen Lúcia è il leader del Brasile.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il leader del Brasile è Cármen Lúcia.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il nome del leader del Brasile è Cármen Lúcia.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Cármen Lúcia è il leader del Brasile.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il leader del Brasile è Cármen Lúcia.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il nome del leader del Brasile è Cármen Lúcia.</lex>
+    </entry>
+    <entry category="Company" eid="Id2" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Chinabank | netIncome | 1.51E10</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Chinabank | netIncome | 15100000000</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Chinabank has a net income of 15,100,000,000.</lex>
+      <lex comment="good" lid="Id2" lang="en">Chinabank’s net income has been 15100000000 currently.</lex>
+      <lex comment="good" lid="Id3" lang="en">The net income of Chinabank is 15,100,000,000.</lex>
+      <lex comment="good" lid="Id1" lang="it">Chinabank ha un utile netto di 15.100.000.000.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'utile netto di Chinabank è attualmente di 15100000000.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'utile netto di Chinabank è di 15.100.000.000.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Chinabank ha un utile netto di 15.100.000.000.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'utile netto di Chinabank è attualmente di 15100000000.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">L'utile netto di Chinabank è di 15.100.000.000.</lex>
+    </entry>
+    <entry category="Company" eid="Id3" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>GMA_New_Media | keyPerson | Felipe_Gozon</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>GMA_New_Media | keyPerson | Felipe_Gozon</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Felipe Gozon is the key person of GMA New Media.</lex>
+      <lex comment="good" lid="Id2" lang="en">Felipe Gozon is a key person in GMA New Media.</lex>
+      <lex comment="good" lid="Id3" lang="en">The key person on GMA New Media is Felipe Gozon.</lex>
+      <lex comment="good" lid="Id1" lang="it">Felipe Gozon è la persona chiave di GMA New Media.</lex>
+      <lex comment="good" lid="Id2" lang="it">Felipe Gozon è una persona chiave di GMA New Media.</lex>
+      <lex comment="good" lid="Id3" lang="it">La persona chiave di GMA New Media è Felipe Gozon.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Felipe Gozon è la persona chiave di GMA New Media.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Felipe Gozon è una persona chiave di GMA New Media.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">La persona chiave di GMA New Media è Felipe Gozon.</lex>
+    </entry>
+    <entry category="Company" eid="Id4" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>GMA_New_Media | product | World_Wide_Web</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>GMA_New_Media | product | World_Wide_Web</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">GMA New Media produces web services.</lex>
+      <lex comment="good" lid="Id2" lang="en">GMA New Media offers services concerning the World Wide Web.</lex>
+      <lex comment="good" lid="Id3" lang="en">GMA New Media makes web sites.</lex>
+      <lex comment="good" lid="Id4" lang="en">GMA New Media is a company that offers products related to the World Wide Web.</lex>
+      <lex comment="good" lid="Id5" lang="en">GMA New Media produces websites.</lex>
+      <lex comment="good" lid="Id1" lang="it">GMA New Media produce servizi web.</lex>
+      <lex comment="good" lid="Id2" lang="it">GMA New Media offre servizi relativi al World Wide Web.</lex>
+      <lex comment="good" lid="Id3" lang="it">GMA New Media realizza siti web.</lex>
+      <lex comment="good" lid="Id4" lang="it">GMA New Media è un'azienda che offre prodotti legati al World Wide Web.</lex>
+      <lex comment="good" lid="Id5" lang="it">GMA New Media produce siti web.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">GMA New Media produce servizi web.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">GMA New Media offre servizi relativi al World Wide Web.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">GMA New Media realizza siti web.</lex>
+      <lex comment="good" lid="Id4" lang="it-PE" isPE="False">GMA New Media è un'azienda che offre prodotti legati al World Wide Web.</lex>
+      <lex comment="good" lid="Id5" lang="it-PE" isPE="False">GMA New Media produce siti web.</lex>
+    </entry>
+    <entry category="Company" eid="Id5" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>GMA_New_Media | type | Media_company</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>GMA_New_Media | type | Media_company</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">GMA New Media, Inc. is a media company.</lex>
+      <lex comment="good" lid="Id2" lang="en">GMA New Media is a media company.</lex>
+      <lex comment="good" lid="Id1" lang="it">GMA New Media, Inc. è una società di media.</lex>
+      <lex comment="good" lid="Id2" lang="it">GMA New Media è una società di media.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">GMA New Media, Inc. è una società di media.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">GMA New Media è una società di media.</lex>
+    </entry>
+    <entry category="Company" eid="Id6" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>La_Crosse,_Wisconsin | areaTotal | 58.37833200697344</otriple>
+      </originaltripleset>
+      <originaltripleset>
+        <otriple>La_Crosse,_Wisconsin | areaTotal | 58.38</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>La_Crosse,_Wisconsin | areaTotal | 58.38</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">La Crosse is a city in the U.S. state of Wisconsin, and the city has a total area of 58.38.</lex>
+      <lex comment="good" lid="Id2" lang="en">The total area of La Crosse Wisconsin is 58.38 square kilometers.</lex>
+      <lex comment="good" lid="Id3" lang="en">The total area of LaCrosse Wisconsin is 58.38.</lex>
+      <lex comment="good" lid="Id4" lang="en">La Crosse, Wisconsin has a total area of 58.38.</lex>
+      <lex comment="good" lid="Id1" lang="it">La Crosse è una città dello Stato americano del Wisconsin, con una superficie totale di 58,38 km.</lex>
+      <lex comment="good" lid="Id2" lang="it">L'area totale di La Crosse Wisconsin è di 58,38 chilometri quadrati.</lex>
+      <lex comment="good" lid="Id3" lang="it">L'area totale di LaCrosse Wisconsin è di 58,38 km.</lex>
+      <lex comment="good" lid="Id4" lang="it">La Crosse, Wisconsin, ha una superficie totale di 58,38.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La Crosse è una città dello Stato americano del Wisconsin, con una superficie totale di 58,38 km.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'area totale di La Crosse Wisconsin è di 58,38 chilometri quadrati.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">L'area totale di LaCrosse Wisconsin è di 58,38 km.</lex>
+      <lex comment="good" lid="Id4" lang="it-PE" isPE="False">La Crosse, Wisconsin, ha una superficie totale di 58,38.</lex>
+    </entry>
+    <entry category="Company" eid="Id7" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Philippine_Entertainment_Portal | parentCompany | GMA_New_Media</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippine_Entertainment_Portal | parentCompany | GMA_New_Media</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">GMA New Media is the parent company of Philippine Entertainment Portal.</lex>
+      <lex comment="good" lid="Id2" lang="en">Philippine Entertainment Portal is a branch of GMA New Media.</lex>
+      <lex comment="good" lid="Id3" lang="en">Philippine Entertainment Portal's parent company is GMA New Media.</lex>
+      <lex comment="good" lid="Id1" lang="it">GMA New Media è la società madre di Philippine Entertainment Portal.</lex>
+      <lex comment="good" lid="Id2" lang="it">Philippine Entertainment Portal è una filiale di GMA New Media.</lex>
+      <lex comment="good" lid="Id3" lang="it">La società madre di Philippine Entertainment Portal è GMA New Media.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">GMA New Media è la società madre di Philippine Entertainment Portal.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Philippine Entertainment Portal è una filiale di GMA New Media.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">La società madre di Philippine Entertainment Portal è GMA New Media.</lex>
+    </entry>
+    <entry category="Company" eid="Id8" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Philippines | ethnicGroup | Pangasinense_people</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | ethnicGroup | Pangasinense_people</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Pangasinense people are the ethnic group of the Philippines.</lex>
+      <lex comment="good" lid="Id2" lang="en">The ethnic group in the Philippines is called the Pangasinense people.</lex>
+      <lex comment="good" lid="Id3" lang="en">The ethnic group of the Philippines is Pangasinense.</lex>
+      <lex comment="good" lid="Id4" lang="en">The Pangasinense people are an ethnic group native to the Philippines.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il popolo pangasinense è il gruppo etnico delle Filippine.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il gruppo etnico delle Filippine si chiama Pangasinense.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il gruppo etnico delle Filippine è il Pangasinense.</lex>
+      <lex comment="good" lid="Id4" lang="it">Il popolo pangasinense è un gruppo etnico originario delle Filippine.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il popolo pangasinense è il gruppo etnico delle Filippine.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il gruppo etnico delle Filippine si chiama Pangasinense.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il gruppo etnico delle Filippine è il Pangasinense.</lex>
+      <lex comment="good" lid="Id4" lang="it-PE" isPE="False">Il popolo pangasinense è un gruppo etnico originario delle Filippine.</lex>
+    </entry>
+    <entry category="Company" eid="Id9" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Philippines | leader | Rodrigo_Duterte</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Philippines | leader | Rodrigo_Duterte</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Rodrigo Duterte is the leader's name of the Philippines.</lex>
+      <lex comment="good" lid="Id2" lang="en">Rodrigo Duterte is the leader of the Philippines.</lex>
+      <lex comment="good" lid="Id3" lang="en">Rodrigo Duterte is the leader of the Philippines .</lex>
+      <lex comment="good" lid="Id4" lang="en">The leader of the Philippines is named Rodrigo Duterte.</lex>
+      <lex comment="good" lid="Id1" lang="it">Rodrigo Duterte è il nome del leader delle Filippine.</lex>
+      <lex comment="good" lid="Id2" lang="it">Rodrigo Duterte è il leader delle Filippine.</lex>
+      <lex comment="good" lid="Id3" lang="it">Rodrigo Duterte è il leader delle Filippine.</lex>
+      <lex comment="good" lid="Id4" lang="it">Il leader delle Filippine si chiama Rodrigo Duterte.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Rodrigo Duterte è il nome del leader delle Filippine.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Rodrigo Duterte è il leader delle Filippine.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Rodrigo Duterte è il leader delle Filippine.</lex>
+      <lex comment="good" lid="Id4" lang="it-PE" isPE="False">Il leader delle Filippine si chiama Rodrigo Duterte.</lex>
+    </entry>
+    <entry category="Company" eid="Id10" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Swords,_Dublin | isPartOf | Dublin_(European_Parliament_constituency)</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Swords,_Dublin | isPartOf | Dublin_(European_Parliament_constituency)</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">Swords, Dublin is part of the Dublin European Parliament constituency.</lex>
+      <lex comment="good" lid="Id2" lang="en">Swords belongs to the Dublin constituency of the European Parliament.</lex>
+      <lex comment="good" lid="Id3" lang="en">Swords is a part of the Dublin European Parliamentary constituency.</lex>
+      <lex comment="good" lid="Id1" lang="it">Swords, Dublino fa parte del collegio elettorale del Parlamento europeo di Dublino.</lex>
+      <lex comment="good" lid="Id2" lang="it">Swords appartiene alla circoscrizione di Dublino del Parlamento europeo.</lex>
+      <lex comment="good" lid="Id3" lang="it">Swords fa parte del collegio elettorale del Parlamento europeo di Dublino.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Swords, Dublino fa parte del collegio elettorale del Parlamento europeo di Dublino.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Swords appartiene alla circoscrizione di Dublino del Parlamento europeo.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Swords fa parte del collegio elettorale del Parlamento europeo di Dublino.</lex>
+    </entry>
+    <entry category="Company" eid="Id11" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>Swords,_Dublin | leaderTitle | &quot;County Manager&quot;</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>Swords,_Dublin | leaderTitle | &quot;County Manager&quot;</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The title of the leader of Swords, Dublin is County Manager.</lex>
+      <lex comment="good" lid="Id2" lang="en">The County Manager is the leader of Swords, Dublin.</lex>
+      <lex comment="good" lid="Id3" lang="en">The leader title of Swords, Dublin is County Manager.</lex>
+      <lex comment="good" lid="Id4" lang="en">Swords, Dublin is led by a county manager.</lex>
+      <lex comment="good" lid="Id1" lang="it">Il titolo del leader di Swords, Dublino, è County Manager.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il County Manager è il leader di Swords, Dublino.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il titolo di leader di Swords, Dublino è County Manager.</lex>
+      <lex comment="good" lid="Id4" lang="it">Swords, Dublino è guidata da un manager di contea.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il titolo del leader di Swords, Dublino, è County Manager.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il County Manager è il leader di Swords, Dublino.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il titolo di leader di Swords, Dublino è County Manager.</lex>
+      <lex comment="good" lid="Id4" lang="it-PE" isPE="True">Swords, Dublino è guidata da un amministratore di contea.</lex>
+    </entry>
+    <entry category="Company" eid="Id12" shape="(X (X))" shape_type="NA" size="1">
+      <originaltripleset>
+        <otriple>United_States | longName | United States of America</otriple>
+      </originaltripleset>
+      <modifiedtripleset>
+        <mtriple>United_States | longName | United States of America</mtriple>
+      </modifiedtripleset>
+      <lex comment="good" lid="Id1" lang="en">The full name of the United States is the United States of America.</lex>
+      <lex comment="good" lid="Id2" lang="en">The long name of the United States is the United States of America.</lex>
+      <lex comment="good" lid="Id3" lang="en">The long name of the United States is the United States of America .</lex>
+      <lex comment="good" lid="Id1" lang="it">Il nome completo degli Stati Uniti è Stati Uniti d'America.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il nome lungo degli Stati Uniti è Stati Uniti d'America.</lex>
+      <lex comment="good" lid="Id3" lang="it">Il nome lungo degli Stati Uniti è Stati Uniti d'America.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il nome completo degli Stati Uniti è Stati Uniti d'America.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il nome lungo degli Stati Uniti è Stati Uniti d'America.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il nome lungo degli Stati Uniti è Stati Uniti d'America.</lex>
+    </entry>
+  </entries>
+</benchmark>
