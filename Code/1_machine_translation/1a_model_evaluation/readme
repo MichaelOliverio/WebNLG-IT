@@ -1,0 +1,1 @@
+- The candidate sentences generated in the "2_machine_translation.ipynb" file were compared with the 400 manual translations present in the "sentences_it_manual.csv" file using the Mateo platform (https://mateo.ivdnt.org/).

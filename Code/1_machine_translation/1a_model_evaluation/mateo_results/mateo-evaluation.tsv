@@ -1,0 +1,5 @@
+system	bertscore	bleurt	BLEU	chrF2	TER
+Baseline: opus	91.51	82.25	58.31	78.0	32.76
+m2m100	90.14	78.26	50.26	70.93	40.34
+nllb200	89.66	78.77	49.36	67.47	43.9
+deepl	92.64	87.38	66.86	83.87	25.44
