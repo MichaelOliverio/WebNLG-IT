@@ -852,18 +852,6 @@
 		<level2>Verb agreement</level2>
 	</peaEntry>
 	<peaEntry>
-		<error>i campioni della Serie A sono la Juventus F.C.</error>
-		<pea>il campione della serie A è la Juventus F.C.</pea>
-		<level1>NP</level1>
-		<level2>Noun number change</level2>
-	</peaEntry>
-	<peaEntry>
-		<error>i campioni in carica sono la Juventus</error>
-		<pea>la campionessa in carica è la Juventus</pea>
-		<level1>NP</level1>
-		<level2>Noun number change</level2>
-	</peaEntry>
-	<peaEntry>
 		<error>musicista avant-garde metal</error>
 		<pea>musicista metal d'avanguardia</pea>
 		<level1>NP</level1>
