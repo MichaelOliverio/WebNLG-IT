@@ -5799,7 +5799,7 @@
       <lex comment="good" lid="Id2" lang="it">Aston è il manifatturiero della Austin Martin V8 a cui è succeduta la Austin Martin virage, assemblata nel Regno Unito sotto la guida di Elizabeth ||.</lex>
       <lex comment="good" lid="Id3" lang="it">La casa produttrice della Aston Martin V8 è la Aston Martin e alla Aston Martin V8 è succeduta la Aston Martin Virage. L'Aston Martin V8 viene assemblata nel Regno Unito, dove regna la Regina Elisabetta II.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La Regina Elisabetta II governa il Regno Unito, dove viene assemblata la Aston Martin V8. È prodotta da Aston Martin ed è stata succeduta dalla Aston Martin Virage.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Aston è il manifatturiero dellad Austin Martin V8 a cui è succeduta lad Austin Martin virage, assemblata nel Regno Unito sotto la guida di Elizabeth ||.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Aston è il manifatturiero della Austin Martin V8 a cui è succeduta la Austin Martin virage, assemblata nel Regno Unito sotto la guida di Elizabeth ||.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="False">La casa produttrice della Aston Martin V8 è la Aston Martin e alla Aston Martin V8 è succeduta la Aston Martin Virage. L'Aston Martin V8 viene assemblata nel Regno Unito, dove regna la Regina Elisabetta II.</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id230" shape="(X (X) (X) (X (X)))" shape_type="mixed" size="4">

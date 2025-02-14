@@ -2299,7 +2299,7 @@
       <lex comment="good" lid="Id1" lang="it">La meringa si trova nell'Alaska al forno, che Francia, Stati Uniti e Cina sostengono di aver inventato.</lex>
       <lex comment="good" lid="Id2" lang="it">Si pensa che l'Alaska al forno sia nata negli Stati Uniti, in Francia o in Cina e che abbia come ingrediente la meringa.</lex>
       <lex comment="good" lid="Id3" lang="it">L'Alaska al forno con meringa proviene da Francia, Stati Uniti e Cina.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">La meringa si trova nell'omelette norvegese, che Francia, Stati Uniti e Cina sostengono di aver inventato.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La meringa si trova nell'Alaska al forno, che Francia, Stati Uniti e Cina sostengono di aver inventato.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Si pensa che l'omelette norvegese sia nata negli Stati Uniti, in Francia o in Cina e che abbia come ingrediente la meringa.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="True">L'omelette norvegese con meringa proviene da Francia, Stati Uniti e Cina.</lex>
     </entry>
@@ -2377,8 +2377,8 @@
       <lex comment="good" lid="Id2" lang="it">Baked Alaska viene dalla Francia, dove il leader è Gerard Larcher.</lex>
       <lex comment="good" lid="Id3" lang="it">Baked Alaska viene dalla Francia, dove il leader è Gérard Larcher.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'omelette norvegese proviene dalla Francia, dove il leader è Gerard Larcher.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">L'Alaska al forno viene dalla Francia, dove il leader è Gerard Larcher.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">L'Alaska al forno viene dalla Francia, dove il leader è Gérard Larcher.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">omelete norvegese viene dalla Francia, dove il leader è Gerard Larcher.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">omelete norvegese viene dalla Francia, dove il leader è Gérard Larcher.</lex>
     </entry>
     <entry category="Food" eid="Id129" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -2396,8 +2396,8 @@
       <lex comment="good" lid="Id2" lang="it">Il Christmas pudding è un ingrediente della Baked Alaska (consumata negli Stati Uniti).</lex>
       <lex comment="good" lid="Id3" lang="it">Il Christmas pudding può essere un ingrediente della Baked Alaska, che proviene dagli Stati Uniti.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'omelette norvegese proviene dagli Stati Uniti e include l'ingrediente Christmas pudding.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Il Christmas pudding è un ingrediente dell'Alaska al forno (consumata negli Stati Uniti).</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Il Christmas pudding può essere un ingrediente dell'Alaska al forno, che proviene dagli Stati Uniti.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Il Christmas pudding è un ingrediente dell'omelette norvegese (consumata negli Stati Uniti).</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Il Christmas pudding può essere un ingrediente dell'omelette norvegese, che proviene dagli Stati Uniti.</lex>
     </entry>
     <entry category="Food" eid="Id130" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -4154,7 +4154,7 @@
       <lex comment="good" lid="Id2" lang="it">Il sandesh (pasticceria) è un piatto che può essere servito come dessert, così come il Binignit.</lex>
       <lex comment="good" lid="Id3" lang="it">Due tipi di dessert che possono essere serviti sono il Binignit e il Sandesh.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Binignit e sandesh sono entrambi dessert.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Il sandesh (dolce) è un piatto che può essere servito come dessert, così come il Binignit.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il sandesh (pasticceria) è un piatto che può essere servito come dessert, così come il Binignit.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Due tipi di dessert che possono essere serviti sono il Binignit e il Sandesh.</lex>
     </entry>
     <entry category="Food" eid="Id220" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -4335,7 +4335,7 @@
       <lex comment="good" lid="Id2" lang="en">Sweet potatoes are a main ingredient of binignit and taro is also an ingredient.</lex>
       <lex comment="good" lid="Id1" lang="it">L'ingrediente principale di Binignits è la patata dolce e il taro.</lex>
       <lex comment="good" lid="Id2" lang="it">Le patate dolci sono l'ingrediente principale del binignit e anche il taro.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'ingrediente principale del Binignits è la patata dolce e il taro.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'ingrediente principale di Binignits è la patata dolce e il taro.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Le patate dolci sono l'ingrediente principale del binignit e anche il taro.</lex>
     </entry>
     <entry category="Food" eid="Id230" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -4661,7 +4661,7 @@
       <lex comment="good" lid="Id1" lang="it">L'Alaska al forno proviene da Hong Kong, dove Carrie Lam è un leader politico.</lex>
       <lex comment="good" lid="Id2" lang="it">Carrie Lam è il politico che guida Hong Kong, dove la Baked Alaska è nata.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'omelette norvegese proviene da Hong Kong, dove Carrie Lam è un leader politico.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Carrie Lam è il politico che guida Hong Kong, dove la L'Alaska al forno è nata.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Carrie Lam è il politico che guida Hong Kong, dove la omelete norvegese è nata.</lex>
     </entry>
     <entry category="Food" eid="Id248" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>

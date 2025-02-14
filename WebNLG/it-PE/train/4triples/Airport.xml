@@ -3954,7 +3954,7 @@
       <lex comment="good" lid="Id1" lang="it">L'aeroporto di Ardmore, a 34 metri sul livello del mare, si trova in Nuova Zelanda e ha un nome di pista 03R/21L con una lunghezza di 1411 e una superficie di tipo poaceae .</lex>
       <lex comment="good" lid="Id2" lang="it">La pista dell'aeroporto di Ardmore in Nuova Zelanda si chiama &quot;03R/21L&quot;. È lunga 1411 metri e si trova a 34 metri sul livello del mare. La terza pista è realizzata in Poaceae.</lex>
       <lex comment="good" lid="Id3" lang="it">03R/21L è una pista dell'aeroporto di Ardmore, in Nuova Zelanda. L'aeroporto si trova a 34 metri sul livello del mare e ha una lunghezza della pista di 1411 metri. La terza pista è realizzata in Poaceae.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'aeroporto di Ardmore, a 34 metri sul livello del mare, si trova in Nuova Zelanda e ha un nome di pista 03R/21L con una lunghezza di 1411 e una superficie di tipo poaceae.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'aeroporto di Ardmore, a 34 metri sul livello del mare, si trova in Nuova Zelanda e ha un nome di pista 03R/21L con una lunghezza di 1411 e una superficie di tipo poaceae .</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">La pista dell'aeroporto di Ardmore in Nuova Zelanda si chiama &quot;03R/21L&quot;. È lunga 1411 metri e si trova a 34 metri sul livello del mare. La terza pista è realizzata in Poaceae.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="False">03R/21L è una pista dell'aeroporto di Ardmore, in Nuova Zelanda. L'aeroporto si trova a 34 metri sul livello del mare e ha una lunghezza della pista di 1411 metri. La terza pista è realizzata in Poaceae.</lex>
     </entry>
@@ -4871,7 +4871,7 @@
       <lex comment="good" lid="Id2" lang="en">Egg Harbor Township, New Jersey, United States is the location of Atlantic City International Airport, which has a runway length pf 1873.0.</lex>
       <lex comment="good" lid="Id1" lang="it">Nel New Jersey, negli Stati Uniti, si trova Egg Harbor Township, dove si trova l'aeroporto internazionale di Atlantic City. Questo aeroporto ha una pista lunga 1873,0 metri.</lex>
       <lex comment="good" lid="Id2" lang="it">Egg Harbor Township, New Jersey, Stati Uniti, è la sede dell'Aeroporto Internazionale di Atlantic City, che ha una pista di lunghezza pari a 1873,0 metri.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Nel New Jersey, negli Stati Uniti, si trovnella cittadina di Egg Harbor, dove si trova l'aeroporto internazionale di Atlantic City. Questo aeroporto ha una pista lunga 1873,0 metri.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Nel New Jersey, negli Stati Uniti, si trova Egg Harbor Township, dove si trova l'aeroporto internazionale di Atlantic City. Questo aeroporto ha una pista lunga 1873,0 metri.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Egg Harbor Township, New Jersey, Stati Uniti, è la sede dell'Aeroporto Internazionale di Atlantic City, che ha una pista di lunghezza pari a 1873,0 metri.</lex>
     </entry>
     <entry category="Airport" eid="Id180" shape="(X (X) (X (X (X))))" shape_type="mixed" size="4">

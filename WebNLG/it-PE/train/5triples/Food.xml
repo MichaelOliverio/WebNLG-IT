@@ -2151,9 +2151,9 @@
       <lex comment="good" lid="Id1" lang="it">L'Alaska al forno proviene dalla Francia, dove ci sono leader chiamati Manuel Valls e Gerard Larcher e la lingua parlata è il francese. Il Baked Alaska si trova anche nella regione di New York.</lex>
       <lex comment="good" lid="Id2" lang="it">La Francia francofona, guidata da Gerard Larcher e Manuel Valls, è la patria dell'Alaska al forno. Il Baked Alaska è noto anche per essere originario di New York.</lex>
       <lex comment="good" lid="Id3" lang="it">Baked Alaska proviene dalla regione di New York e dalla Francia, i cui leader sono Manuel Valls e Gerard Larcher e la cui lingua nazionale è il francese.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'omelette norvegese proviene dalla Francia, dove ci sono leader chiamati Manuel Valls e Gerard Larcher e la lingua parlata è il francese. Il L'Alaska al forno si trova anche nella regione di New York.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">La Francia francofona, guidata da Gerard Larcher e Manuel Valls, è la patria dell'omelette norvegese. Il L'Alaska al forno è noto anche per essere originario di New York.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">L'Alaska al forno proviene dalla regione di New York e dalla Francia, i cui leader sono Manuel Valls e Gerard Larcher e la cui lingua nazionale è il francese.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'omelette norvegese proviene dalla Francia, dove ci sono leader chiamati Manuel Valls e Gerard Larcher e la lingua parlata è il francese. Il omelete norvegese si trova anche nella regione di New York.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">La Francia francofona, guidata da Gerard Larcher e Manuel Valls, è la patria dell'omelette norvegese. Il omelete norvegese è noto anche per essere originario di New York.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">omelete norvegese proviene dalla regione di New York e dalla Francia, i cui leader sono Manuel Valls e Gerard Larcher e la cui lingua nazionale è il francese.</lex>
     </entry>
     <entry category="Food" eid="Id88" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2205,9 +2205,9 @@
       <lex comment="good" lid="Id1" lang="it">Gérard Larcher e Manuel Valls sono leader in Francia, da dove si dice provenga il Baked Alaska. Tuttavia, si dice che provenga anche da New York, dove si parla anche francese.</lex>
       <lex comment="good" lid="Id2" lang="it">L'Alaska al forno viene da New York e dalla Francia, i cui leader sono Manuel Valls e Gerard Larcher. A NY si parla francese.</lex>
       <lex comment="good" lid="Id3" lang="it">Baked Alaska proviene dal Paese della Francia, i cui leader sono Manuel Valls e Gérard Larcher. Baked Alaska proviene dalla regione di New York, dove è possibile ascoltare la lingua francese.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Gérard Larcher e Manuel Valls sono leader in Francia, da dove si dice provenga il L'Alaska al forno. Tuttavia, si dice che provenga anche da New York, dove si parla anche francese.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Gérard Larcher e Manuel Valls sono leader in Francia, da dove si dice provenga il omelete norvegese. Tuttavia, si dice che provenga anche da New York, dove si parla anche francese.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="True">L'omelette norvegese viene da New York e dalla Francia, i cui leader sono Manuel Valls e Gerard Larcher. A NY si parla francese.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">L'Alaska al forno proviene dal Paese della Francia, i cui leader sono Manuel Valls e Gérard Larcher. L'Alaska al forno proviene dalla regione di New York, dove è possibile ascoltare la lingua francese.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">omelete norvegese proviene dal Paese della Francia, i cui leader sono Manuel Valls e Gérard Larcher. omelete norvegese proviene dalla regione di New York, dove è possibile ascoltare la lingua francese.</lex>
     </entry>
     <entry category="Food" eid="Id90" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2259,7 +2259,7 @@
       <lex comment="good" lid="Id1" lang="it">Il Baked Alaska viene dalla Francia, dove si parla francese e i leader sono Manuel Valls e Gérard Larcher. Il Baked Alaska si trova anche a Hong Kong, New York o Parigi.</lex>
       <lex comment="good" lid="Id2" lang="it">L'Alaska al forno è un piatto francese che si può trovare a Hong Kong, New York e Parigi. Il francese è la lingua parlata in Francia, dove ci sono leader chiamati Manuel Valls e Gerard Larcher.</lex>
       <lex comment="good" lid="Id3" lang="it">L'Alaska al forno proviene dalla Francia ed è popolare a Parigi, New York e Hong Kong. I leader della Francia sono Manuel Valls e Gérard Larcher. In Francia si parla francese.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Il L'Alaska al forno viene dalla Francia, dove si parla francese e i leader sono Manuel Valls e Gérard Larcher. Il L'Alaska al forno si trova anche a Hong Kong, New York o Parigi.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Il omelete norvegese viene dalla Francia, dove si parla francese e i leader sono Manuel Valls e Gérard Larcher. Il omelete norvegese si trova anche a Hong Kong, New York o Parigi.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="True">L'omelette norvegese è un piatto francese che si può trovare a Hong Kong, New York e Parigi. Il francese è la lingua parlata in Francia, dove ci sono leader chiamati Manuel Valls e Gerard Larcher.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="True">L'omelette norvegese proviene dalla Francia ed è popolare a Parigi, New York e Hong Kong. I leader della Francia sono Manuel Valls e Gérard Larcher. In Francia si parla francese.</lex>
     </entry>
@@ -2284,7 +2284,7 @@
       <lex comment="good" lid="Id1" lang="it">Il piatto francese Baked Alaska è apprezzato anche a Hong Kong, dove si parla cinese. Il piatto è originario della Francia, oggi guidata da Manuel Valls e Gerard Larcher.</lex>
       <lex comment="good" lid="Id2" lang="it">L'Alaska al forno proviene dalla Francia, dove tra i leader ci sono Manuel Valls e Gérard Larcher. Viene servita anche a Hong Kong, dove si parla cinese.</lex>
       <lex comment="good" lid="Id3" lang="it">L'Alaska al forno è originaria della Francia, ma è molto conosciuta anche a Hong Kong, dove si parla cinese. Manuel Valls è un leader in Francia insieme a Gérard Larcher.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Il piatto francese L'Alaska al forno è apprezzato anche a Hong Kong, dove si parla cinese. Il piatto è originario della Francia, oggi guidata da Manuel Valls e Gerard Larcher.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Il piatto francese omelete norvegese è apprezzato anche a Hong Kong, dove si parla cinese. Il piatto è originario della Francia, oggi guidata da Manuel Valls e Gerard Larcher.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="True">L'omelette norvegese proviene dalla Francia, dove tra i leader ci sono Manuel Valls e Gérard Larcher. Viene servita anche a Hong Kong, dove si parla cinese.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="True">L'omelette norvegese è originaria della Francia, ma è molto conosciuta anche a Hong Kong, dove si parla cinese. Manuel Valls è un leader in Francia insieme a Gérard Larcher.</lex>
     </entry>
@@ -2311,7 +2311,7 @@
       <lex comment="good" lid="Id3" lang="it">Baked Alaska è stata fondata nella Francia di Manuel Valls o a Hong Kong, dove si parla cinese (sotto la guida di Carrie Lam).</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'omelette norvegese proviene dalla Francia e viene servita anche a Hong Kong. Manuel Valls è un leader francese, mentre Carrie Lam è un leader politico di Hong Kong. Il cinese è una delle lingue parlate a Hong Kong.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="True">L'omelette norvegese viene dalla Francia (leader Manuel Valls) ma è servita anche a Hong Kong (leader Carrie Lam) dove si parla cinese.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">L'Alaska al forno è stata fondata nella Francia di Manuel Valls o a Hong Kong, dove si parla cinese (sotto la guida di Carrie Lam).</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">omelete norvegese è stata fondata nella Francia di Manuel Valls o a Hong Kong, dove si parla cinese (sotto la guida di Carrie Lam).</lex>
     </entry>
     <entry category="Food" eid="Id94" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -5885,7 +5885,7 @@
       <lex comment="good" lid="Id1" lang="it">Il Regno Unito è guidato da David Cameron. Tra i panini più popolari nel Regno Unito ci sono i panini al bacon, che hanno tra i loro ingredienti la salsa marrone. Il BLT è un tipo di club sandwich al bacon.</lex>
       <lex comment="good" lid="Id2" lang="it">Il Bacon sandwich è un alimento del Regno Unito, paese di cui David Cameron è leader. La salsa marrone è uno dei suoi ingredienti. Il Club sandwich e il BLT sono entrambi varianti del bacon sandwich.</lex>
       <lex comment="good" lid="Id3" lang="it">I panini al bacon sono originari del Regno Unito, dove David Cameron è stato Primo Ministro. Viene spesso servito con salsa marrone e le varianti del panino includono il BLT e il club sandwich.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Il Regno Unito è guidato da David Cameron. Tra i panini più popolari nel Regno Unito ci sono i panini al bacon, che hanno tra i loro ingredienti la salsa marrone. Il BLT è un tipo dle squadre sandwich al bacon.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il Regno Unito è guidato da David Cameron. Tra i panini più popolari nel Regno Unito ci sono i panini al bacon, che hanno tra i loro ingredienti la salsa marrone. Il BLT è un tipo di club sandwich al bacon.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il Bacon sandwich è un alimento del Regno Unito, paese di cui David Cameron è leader. La salsa marrone è uno dei suoi ingredienti. Il Club sandwich e il BLT sono entrambi varianti del bacon sandwich.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="True">I panini al bacon sono originari del Regno Unito, dove David Cameron è stato Primo Ministro. Viene spesso servito con salsa marrone e le varianti del panino includono il BLT e la squadra sandwich.</lex>
     </entry>

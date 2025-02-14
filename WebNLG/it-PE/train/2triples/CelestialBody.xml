@@ -737,7 +737,7 @@
       <lex comment="good" lid="Id1" lang="it">(66391) 1999 KW4 ha una peripside di 29919600000.0 e una data epocale di 2004-07.14.</lex>
       <lex comment="good" lid="Id2" lang="it">(66391) 1999 KW4 ha una data d'epoca del 14 luglio 2004 e la sua periapside è 29919600000.0.</lex>
       <lex comment="good" lid="Id3" lang="it">(66391) 1999 KW4 ha data d'epoca 14 luglio 2004 e una peripsi di 29919600000.0.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">(66391) 1999 KW4 ha un periapsidede di 29919600000.0 e una data epocale di 2004-07.14.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">(66391) 1999 KW4 ha una peripside di 29919600000.0 e una data epocale di 2004-07.14.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">(66391) 1999 KW4 ha una data d'epoca del 14 luglio 2004 e la sua periapside è 29919600000.0.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="True">(66391) 1999 KW4 ha data d'epoca 14 luglio 2004 e un periapside di 29919600000.0.</lex>
     </entry>

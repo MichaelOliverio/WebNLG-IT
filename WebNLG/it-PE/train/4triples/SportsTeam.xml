@@ -3200,7 +3200,7 @@
       <lex comment="good" lid="Id2" lang="en">Peter Stoger previously played football for SK Vorwarts Steyr and now plays for Favoritner AC. In addition he is a member of FK Austria Wien soccer club and the manager or 1.FC Koln.</lex>
       <lex comment="good" lid="Id1" lang="it">Peter Stöger è il manager dell'FC Koln e ha giocato per i seguenti club: SK Vorwärts Steyr, Favoritner AC e FK Austria Wien.</lex>
       <lex comment="good" lid="Id2" lang="it">Peter Stoger ha giocato a calcio in precedenza per l'SK Vorwarts Steyr e ora gioca per il Favoritner AC. Inoltre, è membro del club calcistico FK Austria Wien e dirigente del 1.FC Koln.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Peter Stöger è l'allenatore dell'FC Colonia e ha giocato per i seguentle squadre: SK Vorwärts Steyr, Favoritner AC e FK Austria Vienna.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Peter Stöger è l'allenatore dell'FC Colonia e ha giocato per i seguenti club: SK Vorwärts Steyr, Favoritner AC e FK Austria Vienna.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Peter Stöger ha giocato a calcio in precedenza per l'SK Vorwarts Steyr e ora gioca per il Favoritner AC. Inoltre, è membro del club calcistico FK Austria Vienna e dirigente del 1.FC Colonia.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id138" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
@@ -3247,7 +3247,7 @@
       <lex comment="good" lid="Id3" lang="it">Peter Stöger è dirigente dell'FC Koln, oltre a giocare per l'SC Wiener Neustadt. È anche nei club SK Vorwärts Steyr e FC Admira Wacker Mödling.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Peter Stöger, già giocatore dell'SC Wiener Neustadt, è ora in forza al club SK Vorwärts Steyr e allena l'1. FC Köln. Il suo club è l'FC Admira Wacker Mödling.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Peter Stöger milita nel club SK Vorwarts Steyr ed è affiliato al club SC Wiener Neustadt. Attualmente è un giocatore dell'FC Admira Wacker Modling, mentre è un dirigente del 1.FC Colonia.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Peter Stöger è dirigente dell'FC Colonia, oltre a giocare per l'SC Wiener Neustadt. È anche nele squadre SK Vorwärts Steyr e FC Admira Wacker Mödling.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Peter Stöger è dirigente dell'FC Colonia, oltre a giocare per l'SC Wiener Neustadt. È anche nei club SK Vorwärts Steyr e FC Admira Wacker Mödling.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id140" shape="(X (X (X) (X) (X)))" shape_type="mixed" size="4">
       <originaltripleset>

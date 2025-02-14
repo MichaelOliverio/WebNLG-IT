@@ -300,7 +300,7 @@
       <lex comment="good" lid="Id1" lang="it">Aaron Hunt ha giocato nel Vfl Wolfsburg e nell'Hamburger SV.</lex>
       <lex comment="good" lid="Id2" lang="it">Tra i precedenti club di Aaron Hunt figurano il VfL Wolfsburg e l'Hamburger SV.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Aaron Hunt ha giocato nel Vfl Wolfsburg e nell'Hamburger SV.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Tra i precedentle squadre di Aaron Hunt figurano il VfL Wolfsburg e l'Hamburger SV.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Tra i precedenti club di Aaron Hunt figurano il VfL Wolfsburg e l'Hamburger SV.</lex>
     </entry>
     <entry category="Athlete" eid="Id17" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -336,7 +336,7 @@
       <lex comment="good" lid="Id1" lang="it">Aaron Hunt gioca per il Vfl Wolfsburg che è gestito da Dieter Hecking .</lex>
       <lex comment="good" lid="Id2" lang="it">Aaron Hunt gioca a calcio nel Vfl Wolfsburg, dove Dieter Hecking è il manager.</lex>
       <lex comment="good" lid="Id3" lang="it">Aaron Hunt gioca a calcio per il Vfl Wolfsburg, gestito da Dieter Hecking.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Aaron Hunt gioca per il Vfl Wolfsburg che è gestito da Dieter Hecking.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Aaron Hunt gioca per il Vfl Wolfsburg che è gestito da Dieter Hecking .</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Aaron Hunt gioca a calcio nel Vfl Wolfsburg, dove Dieter Hecking è l'allenatore.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Aaron Hunt gioca a calcio per il Vfl Wolfsburg, gestito da Dieter Hecking.</lex>
     </entry>
@@ -1774,7 +1774,7 @@
       <lex comment="good" lid="Id1" lang="it">Alaa Abdul Zahra gioca per Al Shorta SC e il suo club è Shabab Al-Ordon .</lex>
       <lex comment="good" lid="Id2" lang="it">Al Shorta SC e Shabab Al-Ordon Club sono le ex squadre di Alaa Abdul-Zahra.</lex>
       <lex comment="good" lid="Id3" lang="it">Alaa Abdul-Zahra gioca nello Shabab Al-Ordon Club e nell'Al Shorta SC.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Alaa Abdul Zahra gioca per Al Shorta SC e il suo club è Shabab Al-Ordon.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Alaa Abdul Zahra gioca per Al Shorta SC e il suo club è Shabab Al-Ordon .</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Al Shorta SC e Shabab Al-Ordon Club sono le ex squadre di Alaa Abdul-Zahra.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Alaa Abdul-Zahra gioca nello Shabab Al-Ordon Club e nell'Al Shorta SC.</lex>
     </entry>
@@ -2470,7 +2470,7 @@
       <lex comment="good" lid="Id2" lang="en">Alessio Romagnoli plays for A.C. Milan managed by Sinisa Mihajlovic.</lex>
       <lex comment="good" lid="Id1" lang="it">Alessio Romagnoli gioca nel Milan, squadra gestita da Siniša Mihajlović .</lex>
       <lex comment="good" lid="Id2" lang="it">Alessio Romagnoli gioca nel Milan, sotto la direzione di Sinisa Mihajlovic.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Alessio Romagnoli gioca nel Milan, squadra gestita da Siniša Mihajlović.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Alessio Romagnoli gioca nel Milan, squadra gestita da Siniša Mihajlović .</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Alessio Romagnoli gioca nel Milan, sotto la direzione di Sinisa Mihajlovic.</lex>
     </entry>
     <entry category="Athlete" eid="Id131" shape="(X (X) (X))" shape_type="sibling" size="2">

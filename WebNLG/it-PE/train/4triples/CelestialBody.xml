@@ -3174,7 +3174,7 @@
       <lex comment="good" lid="Id2" lang="it">La data epocale di 10 Hygiea è il 27 giugno 2015. Impiega 5,57 giorni per entrare in orbita, ha una velocità di fuga di .21 km al secondo e il suo periapside è di 416.136.000.000.</lex>
       <lex comment="good" lid="Id3" lang="it">10 Hygiea ha una data epocale del 27 giugno 2015 e un periodo orbitale di 5,57 giorni. La velocità di fuga è di 0,21 chilometri al secondo e la periapside è di 416136000000,0.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="False">10 Hygiea è un asteroide con data di riferimento 27 giugno 2015 e una velocità di fuga di 0,21 km al secondo. Il periodo orbitale è di 5,57 giorni e la misura della periapside è 416136000000,0.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">La data epocale di 10 Hygiea è il 27 giugno 2015. Impiega 5,57 giorni per entrare in orbita, ha una velocità di fuga di.21 km al secondo e il suo periapside è di 416.136.000.000.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">La data epocale di 10 Hygiea è il 27 giugno 2015. Impiega 5,57 giorni per entrare in orbita, ha una velocità di fuga di .21 km al secondo e il suo periapside è di 416.136.000.000.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="False">10 Hygiea ha una data epocale del 27 giugno 2015 e un periodo orbitale di 5,57 giorni. La velocità di fuga è di 0,21 chilometri al secondo e la periapside è di 416136000000,0.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id104" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">

@@ -3675,7 +3675,7 @@
       <lex comment="good" lid="Id1" lang="it">L'ospedale di Ampara si trova nella Provincia Orientale dello Sri Lanka, governata dal Consiglio Provinciale Orientale guidato da Austin Fernando.</lex>
       <lex comment="good" lid="Id2" lang="it">L'ospedale di Ampara si trova nella Provincia Orientale dello Sri Lanka, dove il Consiglio Provinciale Orientale è l'organo di governo e Austin Fernando è il leader.</lex>
       <lex comment="good" lid="Id3" lang="it">L'ospedale di Ampara si trova nella Provincia Orientale dello Sri Lanka. Austin Fernando è il leader della Provincia Orientale dello Sri Lanka, il cui organo di governo è il Consiglio Provinciale Orientale.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'ospedale di Ampara si trova nella Provincia Orientale dello Sri Lanka, governata dal Consiglio Provinciale Orientale guidato dad Austin Fernando.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'ospedale di Ampara si trova nella Provincia Orientale dello Sri Lanka, governata dal Consiglio Provinciale Orientale guidato da Austin Fernando.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'ospedale di Ampara si trova nella Provincia Orientale dello Sri Lanka, dove il Consiglio Provinciale Orientale è l'organo di governo e Austin Fernando è il leader.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="False">L'ospedale di Ampara si trova nella Provincia Orientale dello Sri Lanka. Austin Fernando è il leader della Provincia Orientale dello Sri Lanka, il cui organo di governo è il Consiglio Provinciale Orientale.</lex>
     </entry>
@@ -3807,7 +3807,7 @@
       <lex comment="good" lid="Id1" lang="it">L'ospedale di Ampara si trova nella provincia orientale dello Sri Lanka ed è guidato da Austin Fernando. Il leader dello Sri Lanka è Ranil Wickremesinghe.</lex>
       <lex comment="good" lid="Id2" lang="it">L'ospedale di Ampara si trova nella provincia orientale dello Sri Lanka. Il leader dello Sri Lanka è Ranil Wickremesinghe. Il leader della Provincia Orientale dello Sri Lanka è Austin Fernando.</lex>
       <lex comment="good" lid="Id3" lang="it">L'ospedale di Ampara si trova nella provincia orientale dello Sri Lanka. Il leader dello Sri Lanka è Ranil Wickremesinghe e il leader della Provincia Orientale è Austin Fernando.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'ospedale di Ampara si trova nella provincia orientale dello Sri Lanka ed è guidato dad Austin Fernando. Il leader dello Sri Lanka è Ranil Wickremesinghe.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'ospedale di Ampara si trova nella provincia orientale dello Sri Lanka ed è guidato da Austin Fernando. Il leader dello Sri Lanka è Ranil Wickremesinghe.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'ospedale di Ampara si trova nella provincia orientale dello Sri Lanka. Il leader dello Sri Lanka è Ranil Wickremesinghe. Il leader della Provincia Orientale dello Sri Lanka è Austin Fernando.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="False">L'ospedale di Ampara si trova nella provincia orientale dello Sri Lanka. Il leader dello Sri Lanka è Ranil Wickremesinghe e il leader della Provincia Orientale è Austin Fernando.</lex>
     </entry>

@@ -99,7 +99,7 @@
       <lex comment="good" lid="Id3" lang="it">Abel Hernández ha giocato nelle giovanili del Central Español, la cui squadra principale milita nella Segunda Division uruguaiana. I suoi attuali club sono il Penarol, diretto da Jorge Orosman da Silva, e l'US Città di Palermo.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Abel Hernandez gioca per l'U.S. Città di Palermo e fa parte della squadra giovanile del Central Espanol, che milita nella Segunda División uruguaiana. Ha giocato nel Penarol, diretto da Jorge Orosmán da Silva.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Abel Hernández ha giocato nel Central Español (nella Segunda División uruguaiana) e nel Penarol (diretto da Jorge Orosmán da Silva). Hernandez gioca per l'U.S. Città di Palermo.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Abel Hernández ha giocato nelle giovanili del Central Español, la cui squadra principale milita nella Segunda Division uruguaiana. I suoi attualle squadre sono il Penarol, diretto da Jorge Orosman da Silva, e l'U.S. Città di Palermo.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Abel Hernández ha giocato nelle giovanili del Central Español, la cui squadra principale milita nella Segunda Division uruguaiana. I suoi attuali club sono il Penarol, diretto da Jorge Orosman da Silva, e l'U.S. Città di Palermo.</lex>
     </entry>
     <entry category="Athlete" eid="Id5" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -508,7 +508,7 @@
       <lex comment="good" lid="Id2" lang="it">Tra i precedenti club di Alaa Abdul Zahra figurano il Sanat Mes Kerman FC e l'Al Kharaitiyat SC, squadra della Qatar Stars League. L'Al Khor è il campo di casa del Kharaitiyat SC e il manager è Amar Osim.</lex>
       <lex comment="good" lid="Id3" lang="it">Il club di Alaa Abdul Zahra è l'AL Kharaitiyat SC, che gioca nella Qatar Stars League, ha sede ad Al Khor ed è gestito da Amar Osim. Gioca anche per il Sanat Mes Kerman FC.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="True">La sede dell'Al Kharaitiyat SC è Al Khor e gioca nella Qatar Stars League. La squadra di Alaa Abdul Zahra è sia il Sanat Mes Kerman F.C. che l'Al Kharaitiyat SC. dove l'Al Kharaitiyat SC. è gestito da Amar Osim.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Tra i precedentle squadre di Alaa Abdul Zahra figurano il Sanat Mes Kerman FC e l'Al Kharaitiyat SC, squadra della Qatar Stars League. L'Al Khor è il campo di casa del Kharaitiyat SC e l'allenatore è Amar Osim.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Tra i precedenti club di Alaa Abdul Zahra figurano il Sanat Mes Kerman FC e l'Al Kharaitiyat SC, squadra della Qatar Stars League. L'Al Khor è il campo di casa del Kharaitiyat SC e l'allenatore è Amar Osim.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="True">La squadra di Alaa Abdul Zahra è l'AL Kharaitiyat SC, che gioca nella Qatar Stars League, ha sede ad Al Khor ed è gestito da Amar Osim. Gioca anche per il Sanat Mes Kerman FC.</lex>
     </entry>
     <entry category="Athlete" eid="Id19" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -1637,7 +1637,7 @@
       <lex comment="good" lid="Id3" lang="it">Aleksandr Chumakov è nato a Mosca, dove il leader è Sergey Sobyanin. I suoi club sono l'FC Torpedo Moscow (gestito da Valery Petrakov) e la nazionale di calcio dell'Unione Sovietica.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Aleksandr Chumakov è nato a Mosca, nella Russia guidata da Sergey Sobyanin. Il suo club è l'FC Torpedo Moscow, di cui Valery Petrakov è l'allenatore, ma gioca anche per la Nazionale di calcio dell'Unione Sovietica.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Aleksandr Chumakov, nato a Mosca dove il leader è Sergey Sobyanin, ha fatto parte della Nazionale di calcio dell'Unione Sovietica. Il suo club è l'FC Torpedo Moscow, il cui allenatore è Valery Petrakov.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Aleksandr Chumakov è nato a Mosca, dove il leader è Sergey Sobyanin. I suole squadre sono l'FC Torpedo Moscow (gestito da Valery Petrakov) e la nazionale di calcio dell'Unione Sovietica.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Aleksandr Chumakov è nato a Mosca, dove il leader è Sergey Sobyanin. I suoi club sono l'FC Torpedo Moscow (gestito da Valery Petrakov) e la nazionale di calcio dell'Unione Sovietica.</lex>
     </entry>
     <entry category="Athlete" eid="Id60" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1736,7 +1736,7 @@
       <lex comment="good" lid="Id2" lang="it">In gioventù Abel Hernandez ha giocato nella Primera Division uruguaiana con il Penarol. I suoi club sono la Nazionale di calcio dell'Uruguay e l'US Città di Palermo, gestito da Giuseppe Iachini.</lex>
       <lex comment="good" lid="Id3" lang="it">Il Penarol, dove Abel Hernandez ha giocato nelle giovanili, milita nella Primera División uruguaiana. Hernandez, che ha rappresentato la nazionale uruguaiana, ha giocato nell'U.S. Città di Palermo, club diretto da Giuseppe Iachini.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Abel Hernández ha fatto parte del club giovanile Peñarol che partecipa alla Primera División uruguaiana. Abel Hernández gioca anche con la squadra U.S. Città di Palermo che fa parte della Nazionale di calcio dell'Uruguay. La squadra palermitano è diretto da Giuseppe Iachini.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">In gioventù Abel Hernandez ha giocato nella Primera Division uruguaiana con il Penarol. I suole squadre sono la Nazionale di calcio dell'Uruguay e l'U.S. Città di Palermo, gestito da Giuseppe Iachini.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">In gioventù Abel Hernandez ha giocato nella Primera Division uruguaiana con il Penarol. I suoi club sono la Nazionale di calcio dell'Uruguay e l'U.S. Città di Palermo, gestito da Giuseppe Iachini.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il Penarol, dove Abel Hernandez ha giocato nelle giovanili, milita nella Primera División uruguaiana. Hernandez, che ha rappresentato la nazionale uruguaiana, ha giocato nell'U.S. Città di Palermo, club diretto da Giuseppe Iachini.</lex>
     </entry>
     <entry category="Athlete" eid="Id64" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">

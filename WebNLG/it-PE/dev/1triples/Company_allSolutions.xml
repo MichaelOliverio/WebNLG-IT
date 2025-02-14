@@ -201,9 +201,9 @@
       <lex comment="good" lid="Id2" lang="it">Il County Manager è il leader di Swords, Dublino.</lex>
       <lex comment="good" lid="Id3" lang="it">Il titolo di leader di Swords, Dublino è County Manager.</lex>
       <lex comment="good" lid="Id4" lang="it">Swords, Dublino è guidata da un manager di contea.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il titolo del leader di Swords, Dublino, è County Manager.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il County Manager è il leader di Swords, Dublino.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il titolo di leader di Swords, Dublino è County Manager.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Il titolo del leader di Swords, Dublino, è amministratore di contea.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">L'amministratore di contea è il leader di Swords, Dublino.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Il titolo di leader di Swords, Dublino è amministratore di contea.</lex>
       <lex comment="good" lid="Id4" lang="it-PE" isPE="True">Swords, Dublino è guidata da un amministratore di contea.</lex>
     </entry>
     <entry category="Company" eid="Id12" shape="(X (X))" shape_type="NA" size="1">

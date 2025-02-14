@@ -1047,9 +1047,9 @@
       <lex comment="good" lid="Id1" lang="it">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus, in Danimarca, è affiliata all'Associazione Universitaria Europea, con sede a Bruxelles. La Danimarca è guidata da Lars Løkke Rasmussen e la sua religione è la Chiesa di Danimarca.</lex>
       <lex comment="good" lid="Id2" lang="it">La Scuola di Business e Scienze Sociali dell'Università di Aarhus, guidata da Lars Lokke Rasmussen, si trova in Danimarca. È affiliata all'Associazione universitaria europea, la cui sede è a Bruxelles. La religione è la Chiesa di Danimarca.</lex>
       <lex comment="good" lid="Id3" lang="it">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus si trova in Danimarca. La Scuola è affiliata all'Associazione Universitaria Europea con sede a Bruxelles. Il leader danese è Lars Løkke Rasmussen e la religione danese è la Chiesa di Danimarca.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus, in Danimarca, è affiliata all'Associazione delle università europee, con sede a Bruxelles. La Danimarca è guidata da Lars Løkke Rasmussen e la sua religione è la Chiesa di Danimarca.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus, in Danimarca, è affiliata all'Associazione delle Università Europee, con sede a Bruxelles. La Danimarca è guidata da Lars Løkke Rasmussen e la sua religione è la Chiesa di Danimarca.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">La Scuola di Business e Scienze Sociali dell'Università di Aarhus, guidata da Lars Lokke Rasmussen, si trova in Danimarca. È affiliata all'Associazione universitaria europea, la cui sede è a Bruxelles. La religione è la Chiesa di Danimarca.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus si trova in Danimarca. La Scuola è affiliata all'Associazione delle università europee con sede a Bruxelles. Il leader danese è Lars Løkke Rasmussen e la religione danese è la Chiesa di Danimarca.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus si trova in Danimarca. La Scuola è affiliata all'Associazione delle Università Europee con sede a Bruxelles. Il leader danese è Lars Løkke Rasmussen e la religione danese è la Chiesa di Danimarca.</lex>
     </entry>
     <entry category="University" eid="Id42" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -1341,7 +1341,7 @@
       <lex comment="good" lid="Id3" lang="it">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus, in Danimarca, è affiliata all'Associazione Universitaria Europea di Bruxelles. Il leader del Paese è LarsLøkke Rasmussen.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus, Danimarca, è affiliata all'Associazione delle Università Europee di Bruxelles. Il leader della Danimarca è Lars Lokke Rasmussen.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il leader della Danimarca è Lars Lokke Rasmussen e il Paese è sede della Scuola di Business e Scienze Sociali dell'Università di Aarhus, nella città di Aarhus. La Scuola è affiliata all'Associazione universitaria europea con sede a Bruxelles.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus, in Danimarca, è affiliata all'Associazione delle università europee di Bruxelles. Il leader del Paese è LarsLøkke Rasmussen.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus, in Danimarca, è affiliata all'Associazione delle Università Europee di Bruxelles. Il leader del Paese è LarsLøkke Rasmussen.</lex>
     </entry>
     <entry category="University" eid="Id52" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>

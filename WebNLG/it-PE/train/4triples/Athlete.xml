@@ -629,7 +629,7 @@
       <lex comment="good" lid="Id1" lang="it">I club di Adam Maher sono il PSV Eindhoven, il cui manager è Phillip Cocu, e l'AZ Alkmaar, che gioca le sue partite in casa all'AFAS Stadion.</lex>
       <lex comment="good" lid="Id2" lang="it">Uno dei club di Adam Maher è il PSV Eindhoven, gestito da Phillip Cocu. Un altro è l'AZ Alkmaar, il cui campo è l'AFAS Stadion.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="True">I club di Adam Maher sono il PSV Eindhoven, il cui allenatore è Phillip Cocu, e l'AZ Alkmaar, che gioca le sue partite in casa all'AFAS Stadion.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Uno dele squadre di Adam Maher è il PSV Eindhoven, gestito da Phillip Cocu. Un altro è l'AZ Alkmaar, il cui campo è l'AFAS Stadion.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Uno dei club di Adam Maher è il PSV Eindhoven, gestito da Phillip Cocu. Un altro è l'AZ Alkmaar, il cui campo è l'AFAS Stadion.</lex>
     </entry>
     <entry category="Athlete" eid="Id28" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -1580,7 +1580,7 @@
       <lex comment="good" lid="Id2" lang="it">Amar Osim è il manager dell'Al Kharaitiyat SC, che si trova ad Al Khor. È uno dei club in cui gioca Alaa Abdul Zahra, l'altro è l'Al-Khor Sports Club.</lex>
       <lex comment="good" lid="Id3" lang="it">Amar Osim è il manager dell'Al Kharaitiyat SC, la cui sede è Al Khor. Alaa Abdul Zahra, che gioca per Al-Khor Sports Club, fa parte del club, AL Kharaitiyat SC.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Alaa Abdul-Zahra è membro dell'AL Kharaitiyat SC e dell'Al-Khor Sports Club. L'Al Kharaitiyat SC è gestito da Amar Osim e la sua sede è Al Khor.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Amar Osim è l'allenatore dell'Al Kharaitiyat SC, che si trova ad Al Khor. È uno dele squadre in cui gioca Alaa Abdul Zahra, l'altro è l'Al-Khor Sports Club.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Amar Osim è l'allenatore dell'Al Kharaitiyat SC, che si trova ad Al Khor. È uno dei club in cui gioca Alaa Abdul Zahra, l'altro è l'Al-Khor Sports Club.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Amar Osim è l'allenatore dell'Al Kharaitiyat SC, la cui sede è Al Khor. Alaa Abdul Zahra, che gioca per Al-Khor Sports Club, fa parte del club, AL Kharaitiyat SC.</lex>
     </entry>
     <entry category="Athlete" eid="Id66" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -2304,7 +2304,7 @@
       <lex comment="good" lid="Id2" lang="it">Alessio Romagnoli gioca per l'AS Roman e per il Milan, gestito da Sinisa Mihajlovic, nel campionato di Serie A.</lex>
       <lex comment="good" lid="Id3" lang="it">Alessio Romagnoli, membro dell'A.S. Roma, è un membro del club A.C. Milan che gioca in Serie A. Siniša Mihajlović è il manager dell'A.C. Milan.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Alessio Romagnoli, membro dell'A.S. Roma, gioca per l'A.C. Milan, che è gestito da Siniša Mihajlović e milita nel campionato di Serie A.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Alessio Romagnoli gioca per l'A.S. Roman e per il Milan, gestito da Sinisa Mihajlovic, nel campionato di Serie A.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Alessio Romagnoli gioca per l'A.S. Roma e per il Milan, gestito da Sinisa Mihajlovic, nel campionato di Serie A.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Alessio Romagnoli, membro dell'A.S. Roma, è un membro del club A.C. Milan che gioca in Serie A. Siniša Mihajlović è l'allenatore dell'A.C. Milan.</lex>
     </entry>
     <entry category="Athlete" eid="Id95" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -3188,7 +3188,7 @@
       <lex comment="good" lid="Id2" lang="it">Il calciatore Steve Davis è il manager del Crewe Alexandra FC, uno dei club in cui gioca Alan Martin. Un altro suo club è il Motherwell FC, il cui campo di casa si trova a Fir Park.</lex>
       <lex comment="good" lid="Id3" lang="it">Alan Martin ha giocato a calcio per il Motherwell F.C., la cui sede si trova a Fir Park. Il signor Martin è un giocatore del Crewe Alexandra FC, il cui manager è Steve Davis.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Alan Martin ha giocato a calcio per il Motherwell F.C. che si trova a Fir Park. Il signor Martin gioca per il Crewe Alexandra F.C. che è gestito da Steve Davis.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Il calciatore Steve Davis è l'allenatore del Crewe Alexandra FC, uno dele squadre in cui gioca Alan Martin. Un altro suo club è il Motherwell FC, il cui campo di casa si trova a Fir Park.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Il calciatore Steve Davis è l'allenatore del Crewe Alexandra FC, uno dei club in cui gioca Alan Martin. Un altro suo club è il Motherwell FC, il cui campo di casa si trova a Fir Park.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Alan Martin ha giocato a calcio per il Motherwell F.C., la cui sede si trova a Fir Park. Il signor Martin è un giocatore del Crewe Alexandra FC, il cui allenatore è Steve Davis.</lex>
     </entry>
     <entry category="Athlete" eid="Id132" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">

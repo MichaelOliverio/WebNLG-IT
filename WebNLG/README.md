@@ -1,0 +1,4 @@
+- webnlg-it: v1.1
+- webnlg-en: v3.0 https://gitlab.com/shimorina/webnlg-dataset/-/tree/master/release_v3.0/en
+- webnlg-ge: v1.6 https://github.com/ThiagoCF05/webnlg/tree/master/data/v1.6
+- webnlg-ru: v3.0 https://gitlab.com/shimorina/webnlg-dataset/-/tree/master/release_v3.0/ru

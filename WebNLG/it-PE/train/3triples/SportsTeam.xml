@@ -271,7 +271,7 @@
       <lex comment="good" lid="Id3" lang="it">Jens Härtel è stato il manager del 1 FC Magdeburg e fa parte dei club Berliner AK 07 e 1. FC Union Berlin.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'allenatore dell'FC Magdeburg è Jens Härtel, che ha giocato per il Berliner AK 07 e appartiene al club 1. FC Union Berlino.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="True">L'allenatore del FC Magdeburg è Jens Härtel. Il suo club di appartenenza è il Berliner AK 07 e fa parte anche del club 1. FC Union Berlino.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Jens Härtel è stato l'allenatore del 1 FC Magdeburg e fa parte dele squadre Berliner AK 07 e 1. FC Union Berlin.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Jens Härtel è stato l'allenatore del 1 FC Magdeburg e fa parte dei club Berliner AK 07 e 1. FC Union Berlin.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id13" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -352,7 +352,7 @@
       <lex comment="good" lid="Id3" lang="it">Il manager dell'FC Magdeburg è Jens Härtel, che fa parte dei club SV Babelsberg 03 e 1. FC Union Berlin.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Jens Härtel ha giocato nel SV Babelsberg 03 e nel 1. FC Union Berlin. È l'allenatore del 1 FC Magdeburg.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Jens Härtel è stato l'allenatore del 1 FC Magdeburg. Gioca per l'SV Babelsberg 03 e fa parte del club 1. FC Union Berlino.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">L'allenatore dell'FC Magdeburg è Jens Härtel, che fa parte dele squadre SV Babelsberg 03 e 1. FC Union Berlin.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">L'allenatore dell'FC Magdeburg è Jens Härtel, che fa parte dei club SV Babelsberg 03 e 1. FC Union Berlin.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id17" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -647,7 +647,7 @@
       <lex comment="good" lid="Id3" lang="it">Il dirigente dell'A.C. Chievo Verona è Rolando Maran che ha militato nei seguenti club: Unione Triestina 2012 S.S.D. e Carrarese Calcio.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'Associazione Calcio Chievo Verona è gestita da Rolando Maran, che gioca per l'Unione Triestina 2012 S.S.D nella Carrarese Calcio.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Rolando Maran gioca nell'Unione Triestina 2012 S.S.D e nella Carrarese Calcio. Ha diretto anche l'A.C Chievo Verona.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Il dirigente dell'A.C. Chievo Verona è Rolando Maran che ha militato nei seguentle squadre: Unione Triestina 2012 S.S.D. e Carrarese Calcio.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il dirigente dell'A.C. Chievo Verona è Rolando Maran che ha militato nei seguenti club: Unione Triestina 2012 S.S.D. e Carrarese Calcio.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id30" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3726,7 +3726,7 @@
       <lex comment="good" lid="Id1" lang="it">L'A.S. Roma gioca nel campionato di Serie A a Roma, in Italia, ma i campioni della Serie A sono la Juventus F.C.</lex>
       <lex comment="good" lid="Id2" lang="it">La sede dell'A.S. Roma è a Roma, in Italia, e gioca in Serie A, dove i campioni sono la Juventus F.C.</lex>
       <lex comment="good" lid="Id3" lang="it">La Juventus F.C. è l'ex campione della Serie A. Anche l'AS Roma gioca nello stesso campionato e il suo campo di gioco è a Roma, in Italia.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'A.S. Roma gioca nel campionato di Serie A a Roma, in Italia, ma il campione della serie A è la Juventus F.C.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'A.S. Roma gioca nel campionato di Serie A a Roma, in Italia, ma i campioni della Serie A sono la Juventus F.C.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">La sede dell'A.S. Roma è a Roma, in Italia, e gioca in Serie A, dove i campioni sono la Juventus F.C.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="True">La Juventus F.C. è l'ex campione della Serie A. Anche l'A.S. Roma gioca nello stesso campionato e il suo campo di gioco è a Roma, in Italia.</lex>
     </entry>

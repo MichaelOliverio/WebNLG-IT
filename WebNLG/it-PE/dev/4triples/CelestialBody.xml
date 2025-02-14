@@ -110,7 +110,7 @@
       <lex comment="good" lid="Id3" lang="it">La data di riferimento di 66063 1998 RO1 è il 4 novembre 2013. Il suo periodo orbitale è di 360,29 giorni, ha una velocità di fuga di .0999 km al sec. e la sua apoapsi è di 254989570.60815 km.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="False">(66063) 1998 RO1 ha una data di riferimento del 2013-11-04 e un periodo orbitale di 360,29 giorni. La sua velocità di fuga è di 0,0999 km/sec e ha un'apoapsi di 254989570,60815 chilometri.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">(66063)1998 RO1 ha avuto la sua data epocale il 2013-11-04 e ha un periodo orbitale di 360,29 giorni. Ha una velocità di fuga di 0,0999 km/s e la sua apoapsi è di 254989570,60815 chilometri.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">La data di riferimento di 66063 1998 RO1 è il 4 novembre 2013. Il suo periodo orbitale è di 360,29 giorni, ha una velocità di fuga di.0999 km al sec. e la sua apoapsi è di 254989570.60815 km.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">La data di riferimento di 66063 1998 RO1 è il 4 novembre 2013. Il suo periodo orbitale è di 360,29 giorni, ha una velocità di fuga di .0999 km al sec. e la sua apoapsi è di 254989570.60815 km.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id4" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>

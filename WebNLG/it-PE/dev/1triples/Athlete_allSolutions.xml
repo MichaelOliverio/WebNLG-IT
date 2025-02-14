@@ -318,7 +318,7 @@
       <lex comment="good" lid="Id2" lang="it">Il club di Aleksander Barkov Jr è quello dei Florida Panthers.</lex>
       <lex comment="good" lid="Id3" lang="it">Aleksander Barkov Jr. gioca nei Florida Panthers.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Aleksander Barkov Jr ha giocato per i Florida Panthers.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">La squadra di Aleksander Barkov Jr è quella dei Florida Panthers.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">La squadra di Aleksander Barkov Jr è quello dei Florida Panthers.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Aleksander Barkov Jr. gioca nei Florida Panthers.</lex>
     </entry>
     <entry category="Athlete" eid="Id20" shape="(X (X))" shape_type="NA" size="1">

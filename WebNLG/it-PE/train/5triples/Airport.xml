@@ -1352,7 +1352,7 @@
       <lex comment="good" lid="Id2" lang="en">Afonso Pena International Airport is located in Sao Jose dos Pinhais and its ICAO identifier is SBCT. The airport is situated 911 meters above sea level and has a 2,215 km long runway called 15/33.</lex>
       <lex comment="good" lid="Id1" lang="it">L'Aeroporto Internazionale Afonso Pena ha una pista di nome 15/33 e una lunghezza di 2215,0 . Si trova a 911 metri sul livello del mare a Sao Jose dos Pinhais e ha l'identificatore di posizione ICAO di SBCT.</lex>
       <lex comment="good" lid="Id2" lang="it">L'Aeroporto Internazionale Afonso Pena si trova a Sao Jose dos Pinhais e il suo identificatore ICAO è SBCT. L'aeroporto è situato a 911 metri sul livello del mare e dispone di una pista lunga 2,215 km chiamata 15/33.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'Aeroporto Internazionale Afonso Pena ha una pista di nome 15/33 e una lunghezza di 2215,0. Si trova a 911 metri sul livello del mare a São José dos Pinhais e ha l'identificatore di posizione ICAO di SBCT.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'Aeroporto Internazionale Afonso Pena ha una pista di nome 15/33 e una lunghezza di 2215,0 . Si trova a 911 metri sul livello del mare a São José dos Pinhais e ha l'identificatore di posizione ICAO di SBCT.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="True">L'Aeroporto Internazionale Afonso Pena si trova a São José dos Pinhais e il suo identificatore ICAO è SBCT. L'aeroporto è situato a 911 metri sul livello del mare e dispone di una pista lunga 2,215 km chiamata 15/33.</lex>
     </entry>
     <entry category="Airport" eid="Id46" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
@@ -4650,7 +4650,7 @@
       <lex comment="good" lid="Id3" lang="it">A Egg Harbor Township, New Jersey, U.S.A. si trova l'aeroporto internazionale di Atlantic City. Serve la città di Atlantic City New Jersey, che è guidata da Don Guardian/.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'aeroporto internazionale di Atlantic City si trova nella cittadina di Egg Harbor, New Jersey, Stati Uniti. Serve Atlantic City, parte del New Jersey che è guidata da Don Guardian.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="True">L'aeroporto internazionale di Atlantic City si trova nella cittadina di Egg Harbor, N.J., che fa parte dello stato del New Jersey, negli Stati Uniti. L'aeroporto serve la città di Atlantic City, anch'essa situata nello stato del New Jersey, e il nome del leader di questa città è &quot;Don Guardian&quot;.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">A Egg Harbor Township, New Jersey, U.S.A. si trova l'aeroporto internazionale di Atlantic City. Serve la città di Atlantic City New Jersey, che è guidata da Don Guardian.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">A Egg Harbor Township, New Jersey, U.S.A. si trova l'aeroporto internazionale di Atlantic City. Serve la città di Atlantic City New Jersey, che è guidata da Don Guardian/.</lex>
     </entry>
     <entry category="Airport" eid="Id162" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>

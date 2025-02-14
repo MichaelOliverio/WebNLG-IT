@@ -293,7 +293,7 @@
       <lex comment="good" lid="Id2" lang="it">L'ospedale di Ampara, che dispone di 476 posti letto, si trova nella provincia orientale dello Sri Lanka, guidata da Austin Fernando. Il leader dello Sri Lanka è Ranil Wickremesinghe.</lex>
       <lex comment="good" lid="Id3" lang="it">Ci sono 476 posti letto nell'ospedale di Ampara, nella provincia orientale dello Sri Lanka, dove Austin Fernando è il leader. Un altro leader del Paese è Ranil Wickremesinghe.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'ospedale di Ampara, dotato di 476 posti letto, si trova nello Stato della Provincia Orientale dello Sri Lanka, dove Austin Fernando è il leader. Il leader del Paese è Ranil Wickremesinghe.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">L'ospedale di Ampara, che dispone di 476 posti letto, si trova nella provincia orientale dello Sri Lanka, guidata dad Austin Fernando. Il leader dello Sri Lanka è Ranil Wickremesinghe.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'ospedale di Ampara, che dispone di 476 posti letto, si trova nella provincia orientale dello Sri Lanka, guidata da Austin Fernando. Il leader dello Sri Lanka è Ranil Wickremesinghe.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Ci sono 476 posti letto nell'ospedale di Ampara, nella provincia orientale dello Sri Lanka, dove Austin Fernando è il leader. Un altro leader del Paese è Ranil Wickremesinghe.</lex>
     </entry>
     <entry category="Building" eid="Id12" shape="(X (X (X) (X) (X) (X)))" shape_type="mixed" size="5">

@@ -258,7 +258,7 @@
       <lex comment="good" lid="Id3" lang="it">Lo Shabab Al-Ordon Club è uno dei club di Alaa Abdul Zahra, un altro è l'AL Kharaitiyat SC che si trova ad Al Khor.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="True">La squadra di Alaa Abdul-Zahra è lo Shabab Al-Ordon Club e gioca per l'Al Kharaitiyat SC nella sua sede di Al Khor.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">I club di Alaa Abdul-Zahra sono lo Shabab Al-Ordon e l'Al Kharaitiyat SC, il cui terreno è Al Khor.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Lo Shabab Al-Ordon Club è uno dele squadre di Alaa Abdul Zahra, un altro è l'AL Kharaitiyat SC che si trova ad Al Khor.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Lo Shabab Al-Ordon Club è uno dei club di Alaa Abdul Zahra, un altro è l'AL Kharaitiyat SC che si trova ad Al Khor.</lex>
     </entry>
     <entry category="Athlete" eid="Id13" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>

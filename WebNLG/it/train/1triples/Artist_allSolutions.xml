@@ -1745,8 +1745,8 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" lang="en">Alfredo Zitarrosa died in Montevideo.</lex>
       <lex comment="good" lid="Id2" lang="en">Alfredo Zitarrosa death place was in Montevideo.</lex>
-      <lex comment="good" lid="Id1" lang="ir">Alfredo Zitarrosa è morto a Montevideo.</lex>
-      <lex comment="good" lid="Id2" lang="it">Alfredo Zitarrosa è morto a Montevideo.</lex>
+      <lex comment="good" lid="Id1" lang="it">Alfredo Zitarrosa è morto a Montevideo.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il luogo di morte di Alfredo Zitarrosa è Montevideo.</lex>
     </entry>
     <entry category="Artist" eid="Id131" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

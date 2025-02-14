@@ -2680,7 +2680,7 @@
       <lex comment="good" lid="Id1" lang="it">Sri Jayawardenepura Kotte è la capitale dello Sri Lanka. Nella provincia orientale del Paese, Austin Fernando è il leader. In questa regione si trova anche l'ospedale di Ampara, situato nel distretto di Ampara.</lex>
       <lex comment="good" lid="Id2" lang="it">La capitale dello Sri Lanka è Sri Jayawardenepura Kotte, ma l'ospedale di Ampara si trova nella regione del distretto di Ampara, nella provincia orientale, ed è guidato da Austin Fernando.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Sri Jayawardenepura Kotte è la capitale dello Sri Lanka. Nella provincia orientale del Paese, Austin Fernando è il leader. In questa regione si trova anche l'ospedale di Ampara, situato nel distretto di Ampara.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">La capitale dello Sri Lanka è Sri Jayawardenepura Kotte, ma l'ospedale di Ampara si trova nella regione del distretto di Ampara, nella provincia orientale, ed è guidato dad Austin Fernando.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">La capitale dello Sri Lanka è Sri Jayawardenepura Kotte, ma l'ospedale di Ampara si trova nella regione del distretto di Ampara, nella provincia orientale, ed è guidato da Austin Fernando.</lex>
     </entry>
     <entry category="Building" eid="Id97" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2723,7 +2723,7 @@
       <lex comment="good" lid="Id2" lang="it">La valuta dello Sri Lanka è la rupia e la capitale è Sri Jayawardenepura Kotte. L'ospedale di Ampara si trova nella Provincia Orientale ed è diretto da Austin Fernando.</lex>
       <lex comment="good" lid="Id3" lang="it">Sri Jayawardenepura Kotte è la capitale dello Sri Lanka, la cui moneta è la rupia. L'ospedale di Ampara si trova nella Provincia Orientale, dove il leader è Austin Fernando.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'ospedale di Ampara si trova nella provincia orientale dello Sri Lanka, dove Austin Fernando è uno dei leader principali. Sri Jayawardenepura Kotte è la capitale dello Sri Lanka, dove si usa la rupia come moneta.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">La valuta dello Sri Lanka è la rupia e la capitale è Sri Jayawardenepura Kotte. L'ospedale di Ampara si trova nella Provincia Orientale ed è diretto dad Austin Fernando.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">La valuta dello Sri Lanka è la rupia e la capitale è Sri Jayawardenepura Kotte. L'ospedale di Ampara si trova nella Provincia Orientale ed è diretto da Austin Fernando.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Sri Jayawardenepura Kotte è la capitale dello Sri Lanka, la cui moneta è la rupia. L'ospedale di Ampara si trova nella Provincia Orientale, dove il leader è Austin Fernando.</lex>
     </entry>
     <entry category="Building" eid="Id99" shape="(X (X) (X (X)) (X (X)))" shape_type="mixed" size="5">
@@ -2747,7 +2747,7 @@
       <lex comment="good" lid="Id1" lang="it">Il leader dello Sri Lanka è Ranil Wickremesinghe e il Paese è la sede dell'ospedale di Ampara. Si trova ad Ampara, nella Provincia Orientale, ed è guidato da Austin Fernando.</lex>
       <lex comment="good" lid="Id2" lang="it">L'ospedale di Ampara si trova ad Ampara, nella provincia orientale dello Sri Lanka. Austin Fernando è uno dei leader della regione. Uno dei leader dello Sri Lanka è Ranil Wickremesinghe.</lex>
       <lex comment="good" lid="Id3" lang="it">L'ospedale di Ampara si trova ad Ampara, nella provincia orientale dello Sri Lanka, dove Austin Fernando è il leader. Il leader del Paese è Ranil Wickremesinghe.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Il leader dello Sri Lanka è Ranil Wickremesinghe e il Paese è la sede dell'ospedale di Ampara. Si trova ad Ampara, nella Provincia Orientale, ed è guidato dad Austin Fernando.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il leader dello Sri Lanka è Ranil Wickremesinghe e il Paese è la sede dell'ospedale di Ampara. Si trova ad Ampara, nella Provincia Orientale, ed è guidato da Austin Fernando.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'ospedale di Ampara si trova ad Ampara, nella provincia orientale dello Sri Lanka. Austin Fernando è uno dei leader della regione. Uno dei leader dello Sri Lanka è Ranil Wickremesinghe.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="False">L'ospedale di Ampara si trova ad Ampara, nella provincia orientale dello Sri Lanka, dove Austin Fernando è il leader. Il leader del Paese è Ranil Wickremesinghe.</lex>
     </entry>
@@ -2792,8 +2792,8 @@
       <lex comment="good" lid="Id2" lang="en">Sri Lanka's leader is called Ranil Wickremesinghe and the capital is Sri Jayawardenepura Kotte. The country is the location of Ampara Hospital in the Eastern Province which is led by Austin Fernando.</lex>
       <lex comment="good" lid="Id1" lang="it">Il leader dello Sri Lanka è Ranil Wickremesinghe e la capitale è Sri Jayawardenepura Kotte. L'ospedale di Ampara si trova nella Provincia Orientale, guidata da Austin Fernando.</lex>
       <lex comment="good" lid="Id2" lang="it">Il leader dello Sri Lanka si chiama Ranil Wickremesinghe e la capitale è Sri Jayawardenepura Kotte. Nel Paese si trova l'ospedale di Ampara, nella Provincia Orientale, guidato da Austin Fernando.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Il leader dello Sri Lanka è Ranil Wickremesinghe e la capitale è Sri Jayawardenepura Kotte. L'ospedale di Ampara si trova nella Provincia Orientale, guidata dad Austin Fernando.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Il leader dello Sri Lanka si chiama Ranil Wickremesinghe e la capitale è Sri Jayawardenepura Kotte. Nel Paese si trova l'ospedale di Ampara, nella Provincia Orientale, guidato dad Austin Fernando.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il leader dello Sri Lanka è Ranil Wickremesinghe e la capitale è Sri Jayawardenepura Kotte. L'ospedale di Ampara si trova nella Provincia Orientale, guidata da Austin Fernando.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il leader dello Sri Lanka si chiama Ranil Wickremesinghe e la capitale è Sri Jayawardenepura Kotte. Nel Paese si trova l'ospedale di Ampara, nella Provincia Orientale, guidato da Austin Fernando.</lex>
     </entry>
     <entry category="Building" eid="Id102" shape="(X (X (X)) (X (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -2817,7 +2817,7 @@
       <lex comment="good" lid="Id2" lang="it">Ranil Wickremesinghe è un leader dello Sri Lanka, la cui moneta è la rupia. Nel Paese si trova l'ospedale di Ampara, nella Provincia Orientale, guidato da Austin Fernando.</lex>
       <lex comment="good" lid="Id3" lang="it">L'ospedale di Ampara si trova nella provincia orientale dello Sri Lanka, dove Austin Fernando è il leader. Ranil Wickremesinghe è un leader dello Sri Lanka, dove la moneta è la rupia.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="False">L'ospedale di Ampara si trova nella Provincia Orientale (leader: Austin Fernando), in Sri Lanka. Il leader dello Sri Lanka è Ranil Wickremesinghe e la valuta utilizzata nel Paese è la Rupia dello Sri Lanka.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Ranil Wickremesinghe è un leader dello Sri Lanka, la cui moneta è la rupia. Nel Paese si trova l'ospedale di Ampara, nella Provincia Orientale, guidato dad Austin Fernando.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Ranil Wickremesinghe è un leader dello Sri Lanka, la cui moneta è la rupia. Nel Paese si trova l'ospedale di Ampara, nella Provincia Orientale, guidato da Austin Fernando.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="False">L'ospedale di Ampara si trova nella provincia orientale dello Sri Lanka, dove Austin Fernando è il leader. Ranil Wickremesinghe è un leader dello Sri Lanka, dove la moneta è la rupia.</lex>
     </entry>
     <entry category="Building" eid="Id103" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">

@@ -4440,7 +4440,7 @@
       <lex comment="good" lid="Id1" lang="it">Sia Aaron S. Daggett che Robert .E. Lee (comandante) parteciparono alla battaglia di Antietam.</lex>
       <lex comment="good" lid="Id2" lang="it">Aaron S Daggett combatté nella battaglia di Antietam, dove Robert E Lee era comandante.</lex>
       <lex comment="good" lid="Id3" lang="it">Robert E. Lee fu comandante nella battaglia di Antietam, nella quale combatté anche Aaron S. Daggett.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Sia Aaron S. Daggett che Robert.E. Lee (comandante) parteciparono alla battaglia di Antietam.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Sia Aaron S. Daggett che Robert .E. Lee (comandante) parteciparono alla battaglia di Antietam.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Aaron S Daggett combatté nella battaglia di Antietam, dove Robert E Lee era comandante.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Robert E. Lee fu comandante nella battaglia di Antietam, nella quale combatté anche Aaron S. Daggett.</lex>
     </entry>

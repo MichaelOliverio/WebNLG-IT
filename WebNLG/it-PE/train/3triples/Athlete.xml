@@ -459,7 +459,7 @@
       <lex comment="good" lid="Id2" lang="it">Abel Hernandez ha militato nelle giovanili del Penarol e ora fa parte dei club Central Español e della Nazionale di calcio dell'Uruguay.</lex>
       <lex comment="good" lid="Id3" lang="it">Abel Hernández, calciatore internazionale dell'Uruguay, ha fatto parte della squadra giovanile del Peñarol e in seguito ha giocato nel Central Español.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="False">In gioventù, Abel Hernández ha giocato nel Peñarol e nel Central Español, ma attualmente gioca nella nazionale di calcio dell'Uruguay.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Abel Hernandez ha militato nelle giovanili del Penarol e ora fa parte dele squadre Central Español e della Nazionale di calcio dell'Uruguay.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Abel Hernandez ha militato nelle giovanili del Penarol e ora fa parte dei club Central Español e della Nazionale di calcio dell'Uruguay.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Abel Hernández, calciatore internazionale dell'Uruguay, ha fatto parte della squadra giovanile del Peñarol e in seguito ha giocato nel Central Español.</lex>
     </entry>
     <entry category="Athlete" eid="Id23" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -1013,7 +1013,7 @@
       <lex comment="good" lid="Id2" lang="en">Ahmad Kadhim Assad, whose birthdate is 1 July 1976, plays for Al-Naft and his club is Steel Azin FC.</lex>
       <lex comment="good" lid="Id1" lang="it">Ahmad Kadhim Assad è nato il 1° luglio 1976 e i suoi club sono Steel Azin F.C. e Al-Naft.</lex>
       <lex comment="good" lid="Id2" lang="it">Ahmad Kadhim Assad, nato il 1° luglio 1976, gioca nell'Al-Naft e il suo club è lo Steel Azin FC.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Ahmad Kadhim Assad è nato il 1° luglio 1976 e i suole squadre sono Steel Azin F.C. e Al-Naft.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Ahmad Kadhim Assad è nato il 1° luglio 1976 e i suoi club sono Steel Azin F.C. e Al-Naft.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Ahmad Kadhim Assad, nato il 1° luglio 1976, gioca nell'Al-Naft e il suo club è lo Steel Azin FC.</lex>
     </entry>
     <entry category="Athlete" eid="Id49" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -1132,7 +1132,7 @@
       <lex comment="good" lid="Id2" lang="en">Akeem Adams, who was born in Point Fortin, Trinidad and Tobago, played for his country's national under 17 football team and currently for Ferencvarosi TC.</lex>
       <lex comment="good" lid="Id1" lang="it">Akeem Adams è nato a Point Fortin, Trinidad e Tobago, e i suoi club sono il Ferencvarosi TC e la nazionale di calcio under 17 di Trinidad e Tobago.</lex>
       <lex comment="good" lid="Id2" lang="it">Akeem Adams, nato a Point Fortin, Trinidad e Tobago, ha giocato nella nazionale di calcio under 17 del suo Paese e attualmente nel Ferencvarosi TC.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Akeem Adams è nato a Point Fortin, Trinidad e Tobago, e i suole squadre sono il Ferencvarosi TC e la nazionale di calcio under 17 di Trinidad e Tobago.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Akeem Adams è nato a Point Fortin, Trinidad e Tobago, e i suoi club sono il Ferencvarosi TC e la nazionale di calcio under 17 di Trinidad e Tobago.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Akeem Adams, nato a Point Fortin, Trinidad e Tobago, ha giocato nella nazionale di calcio under 17 del suo Paese e attualmente nel Ferencvarosi TC.</lex>
     </entry>
     <entry category="Athlete" eid="Id54" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -2010,7 +2010,7 @@
       <lex comment="good" lid="Id2" lang="en">Iraqi born, Alaa Abdul Zahra, belongs to the clubs, AL Kharaitiyat SC and Sanat Mes Kerman F.C.</lex>
       <lex comment="good" lid="Id1" lang="it">Alaa Abdul Zahra, iracheno di nascita, è un membro dei club AL Kharaitiyat SC e Sanat Mes Kerman F.C.</lex>
       <lex comment="good" lid="Id2" lang="it">Alaa Abdul Zahra, iracheno di nascita, appartiene ai club AL Kharaitiyat SC e Sanat Mes Kerman F.C.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Alaa Abdul Zahra, iracheno di nascita, è un membro dele squadre AL Kharaitiyat SC e Sanat Mes Kerman F.C.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Alaa Abdul Zahra, iracheno di nascita, è un membro dei club AL Kharaitiyat SC e Sanat Mes Kerman F.C.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Alaa Abdul Zahra, iracheno di nascita, appartiene alle squadre AL Kharaitiyat SC e Sanat Mes Kerman F.C.</lex>
     </entry>
     <entry category="Athlete" eid="Id94" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -2934,7 +2934,7 @@
       <lex comment="good" lid="Id3" lang="it">L'Otkrytiye Arena è la sede dell'FC Spartak Moscow, uno dei club in cui Aleksandr Prudnikov ha giocato. Ha giocato anche per l'FC Rubin Kazan.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Aleksandr Prudnikov gioca per l'FC Rubin Kazan e il suo club è l'FC Spartak Moscow, il cui terreno di gioco è l'Otkrytiye Arena.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Aleksandr Prudnikov gioca con lo Spartak Moscow FC, il cui territorio di residenza è la Otkrytiye Arena. Gioca anche per il Rubin Kazan FC.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">L'Otkrytiye Arena è la sede dell'FC Spartak Moscow, uno dele squadre in cui Aleksandr Prudnikov ha giocato. Ha giocato anche per l'FC Rubin Kazan.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">L'Otkrytiye Arena è la sede dell'FC Spartak Moscow, uno dei club in cui Aleksandr Prudnikov ha giocato. Ha giocato anche per l'FC Rubin Kazan.</lex>
     </entry>
     <entry category="Athlete" eid="Id138" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2984,7 +2984,7 @@
       <lex comment="good" lid="Id1" lang="it">Aleksandre Guruli è alto 178,0 cm e i suoi club sono FC Karpaty Lviv e AS Lyon-Duchere.</lex>
       <lex comment="good" lid="Id2" lang="it">Aleksandre Guruli, alto 178 cm, ha giocato nel Karpaty Lviv FC e nell'AS Lyon-Duchère FC.</lex>
       <lex comment="good" lid="Id3" lang="it">Alto 178 cm, il calciatore Aleksandre Guruli ha giocato in precedenza per i club FC Karpaty Lviv e AS Lyon-Duchère.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Aleksandre Guruli è alto 178,0 cm e i suole squadre sono FC Karpaty Lviv e AS Lyon-Duchere.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Aleksandre Guruli è alto 178,0 cm e i suoi club sono FC Karpaty Lviv e AS Lyon-Duchere.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Aleksandre Guruli, alto 178 cm, ha giocato nel Karpaty Lviv FC e nell'AS Lyon-Duchère FC.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Alto 178 cm, il calciatore Aleksandre Guruli ha giocato in precedenza per le squadre FC Karpaty Lviv e AS Lyon-Duchère.</lex>
     </entry>

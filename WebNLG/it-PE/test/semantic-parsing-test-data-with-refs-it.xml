@@ -2486,7 +2486,7 @@
       </modifiedtripleset>
       <lex lang="en" lid="1">Ciudad Ayala is a city in which the government type is a council-manager government. One of the leaders of Ciudad Ayala is called the City Manager.</lex>
       <lex lang="it" lid="1">Ciudad Ayala è una città in cui il tipo di governo è un governo di tipo comunale-manageriale. Uno dei leader di Ciudad Ayala è chiamato City Manager.</lex>
-      <lex lid="1" lang="it-PE" isPE="True">Ciudad Ayala è una città in cui il tipo di governo è un governo di tipo comunale-manageriale. Uno dei leader di Ciudad Ayala è chiamato amministratore comunale.</lex>
+      <lex lid="1" lang="it-PE" isPE="True">Ciudad Ayala è una città in cui il tipo di governo è un governo di tipo di consiglio amministrativo. Uno dei leader di Ciudad Ayala è chiamato amministratore comunale.</lex>
     </entry>
     <entry category="MusicalWork" eid="Id150" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -5861,7 +5861,7 @@
       </modifiedtripleset>
       <lex lang="en" lid="1">Ciudad Ayala has a population density of 1604, a UTC offset of -6, a government type of council-manager, and a leader title in the city is called the City Manager.</lex>
       <lex lang="it" lid="1">Ciudad Ayala ha una densità di popolazione di 1604 abitanti, uno scostamento UTC di -6, un tipo di governo di tipo comunale-manageriale e il titolo di leader della città è chiamato City Manager.</lex>
-      <lex lid="1" lang="it-PE" isPE="True">Ciudad Ayala ha una densità di popolazione di 1604 abitanti, uno scostamento UTC di -6, un tipo di governo di tipo comunale-manageriale e il titolo di leader della città è chiamato amministratore comunale.</lex>
+      <lex lid="1" lang="it-PE" isPE="True">Ciudad Ayala ha una densità di popolazione di 1604 abitanti, uno scostamento UTC di -6, un tipo di governo di tipo di consiglio amministrativo e il titolo di leader della città è chiamato amministratore comunale.</lex>
     </entry>
     <entry category="MusicalWork" eid="Id355" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -8643,7 +8643,7 @@
       </modifiedtripleset>
       <lex lang="en" lid="1">The founding date of Gdynia in Poland was 1926-02-10 .</lex>
       <lex lang="it" lid="1">La data di fondazione di Gdynia in Polonia è il 1926-02-10 .</lex>
-      <lex lid="1" lang="it-PE" isPE="True">La data di fondazione di Gdynia in Polonia è il 1926-02-10.</lex>
+      <lex lid="1" lang="it-PE" isPE="False">La data di fondazione di Gdynia in Polonia è il 1926-02-10 .</lex>
     </entry>
     <entry category="Film" eid="Id529" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
@@ -12103,7 +12103,7 @@
       </modifiedtripleset>
       <lex lang="en" lid="1">The COSPAR ID of Shenzhou 6 was 2005-040A .</lex>
       <lex lang="it" lid="1">L'ID COSPAR di Shenzhou 6 era 2005-040A .</lex>
-      <lex lid="1" lang="it-PE" isPE="True">L'ID COSPAR di Shenzhou 6 era 2005-040A.</lex>
+      <lex lid="1" lang="it-PE" isPE="False">L'ID COSPAR di Shenzhou 6 era 2005-040A .</lex>
     </entry>
     <entry category="Scientist" eid="Id745" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -13151,7 +13151,7 @@
       </modifiedtripleset>
       <lex lang="en" lid="1">Grigory Neujmin discovered the 1147 Stavropolis asteroid on 11 June 1929. The asteroid has an apoapsis of 418476000000.0 AU, orbital period of 1249.6, and absolute magnitude of 11.5.</lex>
       <lex lang="it" lid="1">Grigory Neujmin ha scoperto l'asteroide 1147 Stavropolis l'11 giugno 1929. L'asteroide ha un'apopside di 418476000000,0 UA, un periodo orbitale di 1249,6 e una magnitudine assoluta di 11,5.</lex>
-      <lex lid="1" lang="it-PE" isPE="True">Grigory Neujmin ha scoperto l'asteroide 1147 Stavropolis l'11 giugno 1929. L'asteroide ha un apoapsidede di 418476000000,0 UA, un periodo orbitale di 1249,6 e una magnitudine assoluta di 11,5.</lex>
+      <lex lid="1" lang="it-PE" isPE="False">Grigory Neujmin ha scoperto l'asteroide 1147 Stavropolis l'11 giugno 1929. L'asteroide ha un'apopside di 418476000000,0 UA, un periodo orbitale di 1249,6 e una magnitudine assoluta di 11,5.</lex>
     </entry>
     <entry category="University" eid="Id814" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -15837,7 +15837,7 @@
       </modifiedtripleset>
       <lex lang="en" lid="1">The orbital period of 1147 Stavropolis is 1249.6 with absolute magnitude of 11.5 .</lex>
       <lex lang="it" lid="1">Il periodo orbitale di 1147 Stavropolis è di 1249,6 con una magnitudine assoluta di 11,5 .</lex>
-      <lex lid="1" lang="it-PE" isPE="True">Il periodo orbitale di 1147 Stavropolis è di 1249,6 con una magnitudine assoluta di 11,5.</lex>
+      <lex lid="1" lang="it-PE" isPE="False">Il periodo orbitale di 1147 Stavropolis è di 1249,6 con una magnitudine assoluta di 11,5 .</lex>
     </entry>
     <entry category="MusicalWork" eid="Id982" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>
@@ -23438,7 +23438,7 @@
       </modifiedtripleset>
       <lex lang="en" lid="1">Mexico inhabited by Mexicans has peso as its currency. Bionico, a dessert with condensed milk, is found in Guadalajara, Mexico. Sandesh (confectionery) is also a dish that can be served as a dessert.</lex>
       <lex lang="it" lid="1">Il Messico, abitato da messicani, ha come moneta il peso. Il bionico, un dolce con latte condensato, si trova a Guadalajara, in Messico. Anche il sandesh (pasticceria) è un piatto che può essere servito come dessert.</lex>
-      <lex lid="1" lang="it-PE" isPE="True">Il Messico, abitato da messicani, ha come moneta il peso. Il bionico, un dolce con latte condensato, si trova a Guadalajara, in Messico. Anche il sandesh (dolce) è un piatto che può essere servito come dessert.</lex>
+      <lex lid="1" lang="it-PE" isPE="False">Il Messico, abitato da messicani, ha come moneta il peso. Il bionico, un dolce con latte condensato, si trova a Guadalajara, in Messico. Anche il sandesh (pasticceria) è un piatto che può essere servito come dessert.</lex>
     </entry>
     <entry category="Airport" eid="Id1452" shape="(X (X) (X) (X) (X (X)))" shape_type="mixed" size="5">
       <originaltripleset>
@@ -25370,7 +25370,7 @@
       </modifiedtripleset>
       <lex lang="en" lid="1">Darlington is located in the United Kingdom,.</lex>
       <lex lang="it" lid="1">Darlington si trova nel Regno Unito,.</lex>
-      <lex lid="1" lang="it-PE" isPE="True">Darlington si trova nel Regno Unito.</lex>
+      <lex lid="1" lang="it-PE" isPE="False">Darlington si trova nel Regno Unito,.</lex>
     </entry>
     <entry category="University" eid="Id1568" shape="(X (X) (X) (X) (X) (X (X)))" shape_type="mixed" size="6">
       <originaltripleset>
@@ -32625,7 +32625,7 @@
       </modifiedtripleset>
       <lex lang="en" lid="1">Brandon Carter (born in England) graduated from the University of Cambridge and studied in the field of general relativity. His doctoral advisor is Dennis William Sciama .</lex>
       <lex lang="it" lid="1">Brandon Carter (nato in Inghilterra) si è laureato all'Università di Cambridge e ha studiato nel campo della relatività generale. Il suo relatore di dottorato è Dennis William Sciama .</lex>
-      <lex lid="1" lang="it-PE" isPE="True">Brandon Carter (nato in Inghilterra) si è laureato all'Università di Cambridge e ha studiato nel campo della relatività generale. Il suo relatore di dottorato è Dennis William Sciama.</lex>
+      <lex lid="1" lang="it-PE" isPE="False">Brandon Carter (nato in Inghilterra) si è laureato all'Università di Cambridge e ha studiato nel campo della relatività generale. Il suo relatore di dottorato è Dennis William Sciama .</lex>
     </entry>
     <entry category="WrittenWork" eid="Id2003" shape="(X (X (X)))" shape_type="chain" size="2">
       <originaltripleset>
@@ -33851,7 +33851,7 @@
       </modifiedtripleset>
       <lex lang="en" lid="1">Brandon Carter, who was born in England, is known for Carter Constant and his contributions to the no-hair theorem. His doctoral advisor was Dennis William Sciama .</lex>
       <lex lang="it" lid="1">Brandon Carter, nato in Inghilterra, è noto per la costante di Carter e per i suoi contributi al teorema dell'assenza di peli. Il suo consulente di dottorato è stato Dennis William Sciama .</lex>
-      <lex lid="1" lang="it-PE" isPE="True">Brandon Carter, nato in Inghilterra, è noto per la costante di Carter e per i suoi contributi al teorema dell'assenza di peli. Il suo consulente di dottorato è stato Dennis William Sciama.</lex>
+      <lex lid="1" lang="it-PE" isPE="False">Brandon Carter, nato in Inghilterra, è noto per la costante di Carter e per i suoi contributi al teorema dell'assenza di peli. Il suo consulente di dottorato è stato Dennis William Sciama .</lex>
     </entry>
     <entry category="Scientist" eid="Id2079" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>

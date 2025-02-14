@@ -3592,7 +3592,7 @@
       <lex comment="good" lid="Id3" lang="it">Gli Stati Uniti hanno la capitale Washington DC e la sede di Auburn, nella contea di Pierce, .</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Auburn fa parte della Contea di Pierce, Washington, negli Stati Uniti, la cui capitale è Washington DC.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Auburn fa parte della Contea di Pierce, Washington, negli Stati Uniti. Washington, D.C. è anche la capitale degli Stati Uniti.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Gli Stati Uniti hanno la capitale Washington DC e la sede di Auburn, nella contea di Pierce.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Gli Stati Uniti hanno la capitale Washington DC e la sede di Auburn, nella contea di Pierce, .</lex>
     </entry>
     <entry category="City" eid="Id146" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -3799,7 +3799,7 @@
       <lex comment="good" lid="Id2" lang="it">San Marcos è la città più grande della Contea di Hays, dove si trova Austin, Texas.</lex>
       <lex comment="good" lid="Id3" lang="it">San Marcos è la città più grande della contea di Hays, in Texas. Anche Austin si trova all'interno della contea.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Austin fa parte della contea di Hays in Texas. San Marcos è la città più grande dello Stato.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">San Marcos è la città più grande della Contea di Hays, dove si trovad Austin, Texas.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">San Marcos è la città più grande della Contea di Hays, dove si trova Austin, Texas.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="False">San Marcos è la città più grande della contea di Hays, in Texas. Anche Austin si trova all'interno della contea.</lex>
     </entry>
     <entry category="City" eid="Id154" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -5030,7 +5030,7 @@
       <lex comment="good" lid="Id2" lang="it">Gli asiatici americani sono un gruppo etnico degli Stati Uniti, dove si trova Austin, in Texas. Il leader di Austin ha il titolo di &quot;City Manager&quot;.</lex>
       <lex comment="good" lid="Id3" lang="it">Uno dei gruppi etnici che vivono negli Stati Uniti sono gli asiatici americani. Il Paese è la sede di Austin, in Texas, che è guidata dal City Manager.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Il amministratore comunale guida la città di Austin, in Texas, negli Stati Uniti, dove gli asiatici americani sono un gruppo etnico.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Gli asiatici americani sono un gruppo etnico degli Stati Uniti, dove si trovad Austin, in Texas. Il leader di Austin ha il titolo di &quot;amministratore comunale&quot;.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Gli asiatici americani sono un gruppo etnico degli Stati Uniti, dove si trova Austin, in Texas. Il leader di Austin ha il titolo di &quot;amministratore comunale&quot;.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Uno dei gruppi etnici che vivono negli Stati Uniti sono gli asiatici americani. Il Paese è la sede di Austin, in Texas, che è guidata dal amministratore comunale.</lex>
     </entry>
     <entry category="City" eid="Id210" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -5508,7 +5508,7 @@
       <lex comment="good" lid="Id3" lang="it">Il presidente è il leader degli Stati Uniti. Il Paese in cui si trova Austin, Texas. Anche dove i nativi americani sono uno dei gruppi etnici.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Austin, Texas, si trova negli Stati Uniti, un Paese guidato dal Presidente. I nativi americani sono un gruppo etnico degli Stati Uniti.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Austin, Texas, si trova negli Stati Uniti, un Paese in cui uno dei gruppi etnici sono i nativi americani e in cui il leader è chiamato Presidente degli Stati Uniti.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Il presidente è il leader degli Stati Uniti. Il Paese in cui si trovad Austin, Texas. Anche dove i nativi americani sono uno dei gruppi etnici.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il presidente è il leader degli Stati Uniti. Il Paese in cui si trova Austin, Texas. Anche dove i nativi americani sono uno dei gruppi etnici.</lex>
     </entry>
     <entry category="City" eid="Id233" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>

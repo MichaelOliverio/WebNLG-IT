@@ -2598,7 +2598,7 @@
       <lex comment="good" lid="Id2" lang="it">La Baked Alaska, famosa a New York, è originaria della Francia. Il leader della Francia è Gérard Larcher e/o Manuel Valls.</lex>
       <lex comment="good" lid="Id3" lang="it">L'Alaska al forno arriva da New York e anche dalla Francia, dove i leader sono Manuel Valls e Gerard Larcher.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'omelette norvegese viene dalla Francia, dove Gerard Larcher e Manuel Valls sono i leader. Si trova anche a New York.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">La L'Alaska al forno, famosa a New York, è originaria della Francia. Il leader della Francia è Gérard Larcher e/o Manuel Valls.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">La omelete norvegese, famosa a New York, è originaria della Francia. Il leader della Francia è Gérard Larcher e/o Manuel Valls.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="True">L'omelette norvegese arriva da New York e anche dalla Francia, dove i leader sono Manuel Valls e Gerard Larcher.</lex>
     </entry>
     <entry category="Food" eid="Id110" shape="(X (X) (X (X) (X)))" shape_type="mixed" size="4">
@@ -2647,7 +2647,7 @@
       <lex comment="good" lid="Id2" lang="en">Baked Alaska hail from France and is found in Hong Kong. France is led by Manuel Valls; Hong Kong, Carrie Lam.</lex>
       <lex comment="good" lid="Id1" lang="it">Baked Alaska viene dalla Francia e ha prestato servizio anche a Hong Kong. Carrie Lam è la leader di Hong Kong e Manuel Valls è un leader francese.</lex>
       <lex comment="good" lid="Id2" lang="it">L'Alaska al forno proviene dalla Francia e si trova a Hong Kong. La Francia è guidata da Manuel Valls; Hong Kong da Carrie Lam.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'Alaska al forno viene dalla Francia e ha prestato servizio anche a Hong Kong. Carrie Lam è la leader di Hong Kong e Manuel Valls è un leader francese.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">omelete norvegese viene dalla Francia e ha prestato servizio anche a Hong Kong. Carrie Lam è la leader di Hong Kong e Manuel Valls è un leader francese.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="True">L'omelette norvegese proviene dalla Francia e si trova a Hong Kong. La Francia è guidata da Manuel Valls; Hong Kong da Carrie Lam.</lex>
     </entry>
     <entry category="Food" eid="Id112" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
@@ -2669,9 +2669,9 @@
       <lex comment="good" lid="Id1" lang="it">Si dice che provenga dalla Francia (il cui leader è Gérard Larcher), la Baked Alaska viene servita a Hong Kong (Carrie Lam è il leader).</lex>
       <lex comment="good" lid="Id2" lang="it">L'Alaska al forno proviene dalla Francia, dove il leader è Gerard Larcher. Anche Hong Kong sostiene di averla inventata e il leader è Carrie Lam.</lex>
       <lex comment="good" lid="Id3" lang="it">Baked Alaska proviene da Hong Kong e dalla Francia. Il leader di Hong Kong è Carrie Lam e quello della Francia è Gerard Larcher.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Si dice che provenga dalla Francia (il cui leader è Gérard Larcher), la L'Alaska al forno viene servita a Hong Kong (Carrie Lam è il leader).</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Si dice che provenga dalla Francia (il cui leader è Gérard Larcher), la omelete norvegese viene servita a Hong Kong (Carrie Lam è il leader).</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="True">L'omelette norvegese proviene dalla Francia, dove il leader è Gerard Larcher. Anche Hong Kong sostiene di averla inventata e il leader è Carrie Lam.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">L'Alaska al forno proviene da Hong Kong e dalla Francia. Il leader di Hong Kong è Carrie Lam e quello della Francia è Gerard Larcher.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">omelete norvegese proviene da Hong Kong e dalla Francia. Il leader di Hong Kong è Carrie Lam e quello della Francia è Gerard Larcher.</lex>
     </entry>
     <entry category="Food" eid="Id113" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2714,7 +2714,7 @@
       <lex comment="good" lid="Id3" lang="it">Il Sandesh è un dessert, insieme all'Alaska al forno, che proviene dalla Francia, dove il leader è Gérard Larcher.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Il Sandesh è un bel dessert di pasticceria, così come l'omelette norvegese. L'omelette norvegese proviene dalla Francia, dove Gerard Larcher è un leader.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="True">L'omelette norvegese è un dessert francese. Il leader del Paese è Gerard Larcher e, fatto divertente, anche il Sandesh è un dessert!</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Il Sandesh è un dessert, insieme all'omelette norvegese, che proviene dalla Francia, dove il leader è Gérard Larcher.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il Sandesh è un dessert, insieme all'Alaska al forno, che proviene dalla Francia, dove il leader è Gérard Larcher.</lex>
     </entry>
     <entry category="Food" eid="Id115" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2737,7 +2737,7 @@
       <lex comment="good" lid="Id3" lang="it">Sandesh (pasticceria) e Baked Alaska sono entrambi serviti come dessert. Quest'ultimo piatto proviene dalla Francia, dove il leader è Manuel Valls.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'omelette norvegese è un dessert originario della Francia e il leader del Paese è Manuel Valls. Il Sandesh è un simpatico dessert di pasticceria.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Come dessert si possono servire il Sandesh (pasticceria) e l'omelette norvegese. Quest'ultimo piatto proviene dalla Francia, dove Manuel Valls è il leader.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Sandesh (pasticceria) e L'Alaska al forno sono entrambi serviti come dessert. Quest'ultimo piatto proviene dalla Francia, dove il leader è Manuel Valls.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Sandesh (pasticceria) e omelete norvegese sono entrambi serviti come dessert. Quest'ultimo piatto proviene dalla Francia, dove il leader è Manuel Valls.</lex>
     </entry>
     <entry category="Food" eid="Id116" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2826,7 +2826,7 @@
       <lex comment="good" lid="Id1" lang="it">Due tipi di dessert sono i biscotti e l'Alaska al forno. Quest'ultimo è un piatto degli Stati Uniti, dove i nativi americani sono uno dei gruppi etnici.</lex>
       <lex comment="good" lid="Id2" lang="it">Un biscotto è un dessert e lo è anche la Baked Alaska, che proviene dagli Stati Uniti, dove i nativi americani sono un gruppo etnico.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Due tipi di dessert sono i biscotti e l'omelette norvegese. Quest'ultimo è un piatto degli Stati Uniti, dove i nativi americani sono uno dei gruppi etnici.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Un biscotto è un dessert e lo è anche la L'Alaska al forno, che proviene dagli Stati Uniti, dove i nativi americani sono un gruppo etnico.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Un biscotto è un dessert e lo è anche la omelete norvegese, che proviene dagli Stati Uniti, dove i nativi americani sono un gruppo etnico.</lex>
     </entry>
     <entry category="Food" eid="Id120" shape="(X (X (X)) (X (X)))" shape_type="mixed" size="4">
       <originaltripleset>
@@ -2847,7 +2847,7 @@
       <lex comment="good" lid="Id1" lang="it">Sandesh (pasticceria) e Baked Alaska sono tipi di dessert. Il secondo proviene dagli Stati Uniti, dove gli afroamericani sono un gruppo etnico.</lex>
       <lex comment="good" lid="Id2" lang="it">L'Alaska al forno è un dolce diffuso negli Stati Uniti. Gli afroamericani sono un gruppo etnico e il Sandesh è un altro dolce.</lex>
       <lex comment="good" lid="Id3" lang="it">Il sandesh è un dessert, così come l'Alaska al forno, che si trova negli Stati Uniti, dove gli afroamericani sono un gruppo etnico.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Sandesh (pasticceria) e L'Alaska al forno sono tipi di dessert. Il secondo proviene dagli Stati Uniti, dove gli afroamericani sono un gruppo etnico.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Sandesh (pasticceria) e omelete norvegese sono tipi di dessert. Il secondo proviene dagli Stati Uniti, dove gli afroamericani sono un gruppo etnico.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="True">L'omelette norvegese è un dolce diffuso negli Stati Uniti. Gli afroamericani sono un gruppo etnico e il Sandesh è un altro dolce.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Il sandesh è un dessert, così come l'omelette norvegese, che si trova negli Stati Uniti, dove gli afroamericani sono un gruppo etnico.</lex>
     </entry>
@@ -2892,7 +2892,7 @@
       <lex comment="good" lid="Id1" lang="it">L'Alaska al forno proviene dalla Francia, dagli Stati Uniti o dalla Cina. Meringa, gelato, pan di Spagna o budino di Natale sono gli ingredienti principali. Questo piatto è apprezzato a Parigi, New York e Hong Kong.</lex>
       <lex comment="good" lid="Id2" lang="it">Il dessert Baked Alaska, che si pensa abbia avuto origine negli Stati Uniti, in Francia o in Cina, comprende gli ingredienti meringa, gelato e pan di Spagna (o budino di Natale). Il piatto è popolare a Parigi, New York e Hong Kong.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'omelette norvegese proviene dalla Francia, dagli Stati Uniti o dalla Cina. Meringa, gelato, pan di Spagna o budino di Natale sono gli ingredienti principali. Questo piatto è apprezzato a Parigi, New York e Hong Kong.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Il dessert L'Alaska al forno, che si pensa abbia avuto origine negli Stati Uniti, in Francia o in Cina, comprende gli ingredienti meringa, gelato e pan di Spagna (o budino di Natale). Il piatto è popolare a Parigi, New York e Hong Kong.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Il dessert omelete norvegese, che si pensa abbia avuto origine negli Stati Uniti, in Francia o in Cina, comprende gli ingredienti meringa, gelato e pan di Spagna (o budino di Natale). Il piatto è popolare a Parigi, New York e Hong Kong.</lex>
     </entry>
     <entry category="Food" eid="Id123" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -2951,7 +2951,7 @@
       <lex comment="good" lid="Id2" lang="it">Hong Kong, Cina, New York o Parigi sono le regioni in cui si trova la Baked Alaska. Gli ingredienti principali dell'Alaska al forno sono la meringa, il gelato e il pan di Spagna (o il budino di Natale).</lex>
       <lex comment="good" lid="Id3" lang="it">Gli ingredienti principali dell'Alaska al forno sono la meringa, il gelato e il pan di Spagna o il budino di Natale. Il piatto è originario di Parigi, New York, Hong Kong o della Cina.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'omelette norvegese, piatto originario della Cina, è popolare anche a Parigi, New York e Hong Kong. I suoi ingredienti principali sono la meringa, il gelato, il pan di Spagna o il budino di Natale.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Hong Kong, Cina, New York o Parigi sono le regioni in cui si trova la L'Alaska al forno. Gli ingredienti principali dell'omelette norvegese sono la meringa, il gelato e il pan di Spagna (o il budino di Natale).</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Hong Kong, Cina, New York o Parigi sono le regioni in cui si trova la omelete norvegese. Gli ingredienti principali dell'omelette norvegese sono la meringa, il gelato e il pan di Spagna (o il budino di Natale).</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Gli ingredienti principali dell'omelette norvegese sono la meringa, il gelato e il pan di Spagna o il budino di Natale. Il piatto è originario di Parigi, New York, Hong Kong o della Cina.</lex>
     </entry>
     <entry category="Food" eid="Id126" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -3035,7 +3035,7 @@
       <lex comment="good" lid="Id1" lang="it">L'Alaska al forno, i cui ingredienti principali sono la meringa, il gelato, il pan di Spagna o il budino di Natale, proviene da Hong Kong e si pensa che sia originaria degli Stati Uniti, della Francia o della Cina.</lex>
       <lex comment="good" lid="Id2" lang="it">Meringa, gelato, pan di Spagna o budino di Natale sono gli ingredienti principali della Baked Alaska, originaria di Hong Kong, ma Francia, Stati Uniti e Cina sostengono di averla inventata.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'omelette norvegese, i cui ingredienti principali sono la meringa, il gelato, il pan di Spagna o il budino di Natale, proviene da Hong Kong e si pensa che sia originaria degli Stati Uniti, della Francia o della Cina.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Meringa, gelato, pan di Spagna o budino di Natale sono gli ingredienti principali dell'Alaska al forno, originaria di Hong Kong, ma Francia, Stati Uniti e Cina sostengono di averla inventata.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Meringa, gelato, pan di Spagna o budino di Natale sono gli ingredienti principali dell'omelette norvegese, originaria di Hong Kong, ma Francia, Stati Uniti e Cina sostengono di averla inventata.</lex>
     </entry>
     <entry category="Food" eid="Id130" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -3056,7 +3056,7 @@
       <lex comment="good" lid="Id1" lang="it">Meringa, gelato e pan di Spagna (o budino di Natale) sono gli ingredienti principali della Baked Alaska, che si dice provenga da Hong Kong e dalla Cina.</lex>
       <lex comment="good" lid="Id2" lang="it">L'Alaska al forno, originaria di Hong Kong e presente anche nella Cina continentale, ha come ingredienti principali la meringa e il pan di Spagna (o budino di Natale). L'ingrediente principale è il gelato.</lex>
       <lex comment="good" lid="Id3" lang="it">L'Alaska al forno proviene da Hong Kong, in Cina. Gli ingredienti principali sono meringa, gelato e pan di Spagna (o budino di Natale).</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Meringa, gelato e pan di Spagna (o budino di Natale) sono gli ingredienti principali dell'Alaska al forno, che si dice provenga da Hong Kong e dalla Cina.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Meringa, gelato e pan di Spagna (o budino di Natale) sono gli ingredienti principali dell'omelette norvegese, che si dice provenga da Hong Kong e dalla Cina.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="True">L'omelette norvegese, originaria di Hong Kong e presente anche nella Cina continentale, ha come ingredienti principali la meringa e il pan di Spagna (o budino di Natale). L'ingrediente principale è il gelato.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="True">L'omelette norvegese proviene da Hong Kong, in Cina. Gli ingredienti principali sono meringa, gelato e pan di Spagna (o budino di Natale).</lex>
     </entry>

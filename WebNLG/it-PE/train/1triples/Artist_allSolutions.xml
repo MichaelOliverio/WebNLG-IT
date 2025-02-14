@@ -1397,7 +1397,7 @@
       <lex comment="good" lid="Id3" lang="it">Newmarket Ontario è il luogo di origine di Alan Frew.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Alan Frew viene da Newmarket, Ontario.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Alan Frew viene da Newmarket, Ontario.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Newmarket, in Ontario, è il luogo di origine di Alan Frew.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Newmarket, in Ontario è il luogo di origine di Alan Frew.</lex>
     </entry>
     <entry category="Artist" eid="Id91" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -2029,9 +2029,10 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" lang="en">Alfredo Zitarrosa died in Montevideo.</lex>
       <lex comment="good" lid="Id2" lang="en">Alfredo Zitarrosa death place was in Montevideo.</lex>
-      <lex comment="good" lid="Id1" lang="ir">Alfredo Zitarrosa è morto a Montevideo.</lex>
-      <lex comment="good" lid="Id2" lang="it">Alfredo Zitarrosa è morto a Montevideo.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Alfredo Zitarrosa è morto a Montevideo.</lex>
+      <lex comment="good" lid="Id1" lang="it">Alfredo Zitarrosa è morto a Montevideo.</lex>
+      <lex comment="good" lid="Id2" lang="it">Il luogo di morte di Alfredo Zitarrosa è Montevideo.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Alfredo Zitarrosa è morto a Montevideo.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il luogo di morte di Alfredo Zitarrosa è Montevideo.</lex>
     </entry>
     <entry category="Artist" eid="Id131" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

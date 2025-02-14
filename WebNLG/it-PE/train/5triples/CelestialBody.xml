@@ -209,7 +209,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" lang="en">19255 1994 VK8 has a mass of 5.6 kilograms and an orbital period of 8,788,850,000 days. Its escape velocity is .0925 kilometres per second, it has an apoapsis of 6,603,633,000 kilometres and an epoch of December 31st, 2006.</lex>
       <lex comment="good" lid="Id1" lang="it">19255 1994 VK8 ha una massa di 5,6 chilogrammi e un periodo orbitale di 8.788.850.000 giorni. La sua velocità di fuga è di .0925 chilometri al secondo, ha un'apoapsi di 6.603.633.000 chilometri e un'epoca del 31 dicembre 2006.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">19255 1994 VK8 ha una massa di 5,6 chilogrammi e un periodo orbitale di 8.788.850.000 giorni. La sua velocità di fuga è di.0925 chilometri al secondo, ha un'apoapsi di 6.603.633.000 chilometri e un'epoca del 31 dicembre 2006.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">19255 1994 VK8 ha una massa di 5,6 chilogrammi e un periodo orbitale di 8.788.850.000 giorni. La sua velocità di fuga è di .0925 chilometri al secondo, ha un'apoapsi di 6.603.633.000 chilometri e un'epoca del 31 dicembre 2006.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id6" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -790,8 +790,8 @@
       <lex comment="good" lid="Id2" lang="it">L'epoca dell'asteroide scuro 1000 Piazzia è il 27 giugno 2015. Il suo nome precedente è 1923 NZ1951 OB e la sua velocità di fuga è di .0252 chilometri al secondo mentre la sua periapside è di 352.497.000.000 chilometri. Il suo periodo orbitale è di 488160.</lex>
       <lex comment="good" lid="Id3" lang="it">L'epoca di 1000 Piazzia, che in precedenza si chiamava 1923 NZ1951 OB, è il 27 giugno 2015. La sua velocità di fuga è di .0252 chilometri al secondo, ha un periodo orbitale di 488.160 e una periapside di 352.497.000.000 chilometri.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="False">1000 Piazzia - nome precedente &quot;1923 NZ1951 OB&quot; - ha una velocità di fuga di 0,0252 chilometri al secondo e la sua data epocale è stata il 2015-06-27. Ha un periodo orbitale di 488160,0 e la sua periapside è di 3524970000,0.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">L'epoca dell'asteroide scuro 1000 Piazzia è il 27 giugno 2015. Il suo nome precedente è 1923 NZ1951 OB e la sua velocità di fuga è di.0252 chilometri al secondo mentre la sua periapside è di 352.497.000.000 chilometri. Il suo periodo orbitale è di 488160.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">L'epoca di 1000 Piazzia, che in precedenza si chiamava 1923 NZ1951 OB, è il 27 giugno 2015. La sua velocità di fuga è di.0252 chilometri al secondo, ha un periodo orbitale di 488.160 e una periapside di 352.497.000.000 chilometri.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'epoca dell'asteroide scuro 1000 Piazzia è il 27 giugno 2015. Il suo nome precedente è 1923 NZ1951 OB e la sua velocità di fuga è di .0252 chilometri al secondo mentre la sua periapside è di 352.497.000.000 chilometri. Il suo periodo orbitale è di 488160.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">L'epoca di 1000 Piazzia, che in precedenza si chiamava 1923 NZ1951 OB, è il 27 giugno 2015. La sua velocità di fuga è di .0252 chilometri al secondo, ha un periodo orbitale di 488.160 e una periapside di 352.497.000.000 chilometri.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id19" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -2168,7 +2168,7 @@
       <lex comment="good" lid="Id2" lang="it">L'epoca di 1089 Tama, che ha una velocità di fuga di .0068 chilometri al secondo ed era precedentemente noto come A894 VA; A904 VD, è il 26 novembre 2005. Ha un periodo orbitale di 1.202,846 giorni e una periapside di 288.749.000.000 chilometri.</lex>
       <lex comment="good" lid="Id3" lang="it">La data epocale di 1089 Tama è il 26 novembre 2005 e il suo nome precedente è &quot;A894 VA; A904 VD&quot;. 1089 Tama ha un periodo orbitale di 1202,846 giorni, una periapside di 288749000000.0 e una velocità di fuga di 0,0068 km/sec.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="False">1089 Tama era precedentemente chiamato &quot;A894 VA; A904 VD;&quot; e ha come data di riferimento il 26 novembre 2005. Ha un periodo orbitale di 1202,846 giorni, una velocità di fuga di 0,0068 km al secondo e una misura della periapside di 288749000000,0.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">L'epoca di 1089 Tama, che ha una velocità di fuga di.0068 chilometri al secondo ed era precedentemente noto come A894 VA; A904 VD, è il 26 novembre 2005. Ha un periodo orbitale di 1.202,846 giorni e una periapside di 288.749.000.000 chilometri.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">L'epoca di 1089 Tama, che ha una velocità di fuga di .0068 chilometri al secondo ed era precedentemente noto come A894 VA; A904 VD, è il 26 novembre 2005. Ha un periodo orbitale di 1.202,846 giorni e una periapside di 288.749.000.000 chilometri.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="False">La data epocale di 1089 Tama è il 26 novembre 2005 e il suo nome precedente è &quot;A894 VA; A904 VD&quot;. 1089 Tama ha un periodo orbitale di 1202,846 giorni, una periapside di 288749000000.0 e una velocità di fuga di 0,0068 km/sec.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id61" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -2333,7 +2333,7 @@
       <lex comment="good" lid="Id3" lang="it">La data epocale di 1099 Figneria, precedentemente noto come 1928 RQ, è il 31 dicembre 2006. Ha una velocità di fuga di .0155 chilometri al secondo, un periodo orbitale di 179.942.000 chilometri e una periapside di 349.206.000.000 chilometri.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="False">1099 Figneria - precedentemente noto come &quot;1928 RQ&quot; - ha una velocità di fuga di 0,0155 chilometri al secondo e la sua data epocale è il 31 dicembre 2006. La sua periapside è 349206000000 e ha un periodo orbitale di 179942000,0.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">La data di riferimento di 1099 Figneria, precedentemente noto come 1928 RQ, è il 31 dicembre 2006. 1099 Figneria ha una velocità di fuga di 0,0155 km/sec, un periodo orbitale di 179942000,0 e una periapside di 349206000000,0.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">La data epocale di 1099 Figneria, precedentemente noto come 1928 RQ, è il 31 dicembre 2006. Ha una velocità di fuga di.0155 chilometri al secondo, un periodo orbitale di 179.942.000 chilometri e una periapside di 349.206.000.000 chilometri.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">La data epocale di 1099 Figneria, precedentemente noto come 1928 RQ, è il 31 dicembre 2006. Ha una velocità di fuga di .0155 chilometri al secondo, un periodo orbitale di 179.942.000 chilometri e una periapside di 349.206.000.000 chilometri.</lex>
     </entry>
     <entry category="CelestialBody" eid="Id65" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>

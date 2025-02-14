@@ -22,9 +22,9 @@
       <lex comment="good" lid="Id1" lang="it">Alan Bean (nato il 15 marzo 1932) si è laureato alla UT Austin nel 1955 con un B.S. Alan Bean, scelto dalla NASA nel 1963, è un americano nato a Wheeler, in Texas.</lex>
       <lex comment="good" lid="Id2" lang="it">Alan Bean è stato un astronauta americano, nato il 15 marzo 1932 a Wheeler, in Texas. Ha conseguito una laurea in scienze presso l'Università del Texas ad Austin nel 1955 ed è stato scelto dalla NASA nel 1963.</lex>
       <lex comment="good" lid="Id3" lang="it">Alan Bean è nato a Wheeler, Texas, USA, nel 1932 e si è laureato nel 1955 alla UT Austin. Alan Bean è poi entrato a far parte della NASA nel 1963.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Alan Bean (nato il 15 marzo 1932) si è laureato all'Università Austin nel 1955 con un B.S. Alan Bean, scelto dalla NASA nel 1963, è un americano nato a Wheeler, in Texas.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Alan Bean (nato il 15 marzo 1932) si è laureato all'Università di Austin nel 1955 con un B.S. Alan Bean, scelto dalla NASA nel 1963, è un americano nato a Wheeler, in Texas.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Alan Bean è stato un astronauta americano, nato il 15 marzo 1932 a Wheeler, in Texas. Ha conseguito una laurea in scienze presso l'Università del Texas ad Austin nel 1955 ed è stato scelto dalla NASA nel 1963.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Alan Bean è nato a Wheeler, Texas, USA, nel 1932 e si è laureato nel 1955 all'Università Austin. Alan Bean è poi entrato a far parte della NASA nel 1963.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Alan Bean è nato a Wheeler, Texas, USA, nel 1932 e si è laureato nel 1955 all'Università di Austin. Alan Bean è poi entrato a far parte della NASA nel 1963.</lex>
     </entry>
     <entry category="Astronaut" eid="Id2" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -47,7 +47,7 @@
       <lex comment="good" lid="Id1" lang="it">Alan Bean era un cittadino statunitense nato a Wheeler, in Texas, e si era laureato alla UT Austin nel 1955. Era un pilota collaudatore e ha fatto parte dell'equipaggio dell'Apollo 12.</lex>
       <lex comment="good" lid="Id2" lang="it">Il pilota collaudatore americano Alan Bean, originario di Wheeler (Texas), si è laureato nel 1955 presso l'Università del Texas ad Austin ed è diventato membro dell'equipaggio della missione Apollo 12.</lex>
       <lex comment="good" lid="Id3" lang="it">Alan Bean (nato a Wheeler, Texas) è un cittadino statunitense che è diventato membro dell'equipaggio dell'Apollo 12 dopo aver prestato servizio come pilota collaudatore. Ha conseguito una laurea in scienze presso l'Università del Texas ad Austin nel 1955.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Alan Bean era un cittadino statunitense nato a Wheeler, in Texas, e si era laureato all'Università Austin nel 1955. Era un pilota collaudatore e ha fatto parte dell'equipaggio dell'Apollo 12.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Alan Bean era un cittadino statunitense nato a Wheeler, in Texas, e si era laureato all'Università di Austin nel 1955. Era un pilota collaudatore e ha fatto parte dell'equipaggio dell'Apollo 12.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il pilota collaudatore americano Alan Bean, originario di Wheeler (Texas), si è laureato nel 1955 presso l'Università del Texas ad Austin ed è diventato membro dell'equipaggio della missione Apollo 12.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Alan Bean (nato a Wheeler, Texas) è un cittadino statunitense che è diventato membro dell'equipaggio dell'Apollo 12 dopo aver prestato servizio come pilota collaudatore. Ha conseguito una laurea in scienze presso l'Università del Texas ad Austin nel 1955.</lex>
     </entry>
@@ -72,9 +72,9 @@
       <lex comment="good" lid="Id1" lang="it">L'americano Alan Bean è nato il 15 marzo 1932 a Wheeler, in Texas. Si è laureato nel 1955 alla UT Austin con un B.S. Ha lavorato come pilota collaudatore.</lex>
       <lex comment="good" lid="Id2" lang="it">Il pilota collaudatore americano Alan Bean, nato il 15 marzo 1932 a Wheeler, Texas, si è laureato alla UT Austin nel 1955.</lex>
       <lex comment="good" lid="Id3" lang="it">Alan Bean, pilota collaudatore statunitense, è nato il 15 marzo 1932 a Wheeler, in Texas. Dopo essersi laureato nel 1955 alla UT di Austin, è diventato pilota collaudatore.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'americano Alan Bean è nato il 15 marzo 1932 a Wheeler, in Texas. Si è laureato nel 1955 all'Università Austin con un B.S. Ha lavorato come pilota collaudatore.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Il pilota collaudatore americano Alan Bean, nato il 15 marzo 1932 a Wheeler, Texas, si è laureato all'Università Austin nel 1955.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Alan Bean, pilota collaudatore statunitense, è nato il 15 marzo 1932 a Wheeler, in Texas. Dopo essersi laureato nel 1955 all'Università di Austin, è diventato pilota collaudatore.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'americano Alan Bean è nato il 15 marzo 1932 a Wheeler, in Texas. Si è laureato nel 1955 all'Università di Austin con un B.S. Ha lavorato come pilota collaudatore.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Il pilota collaudatore americano Alan Bean, nato il 15 marzo 1932 a Wheeler, Texas, si è laureato all'Università di Austin nel 1955.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Alan Bean, pilota collaudatore statunitense, è nato il 15 marzo 1932 a Wheeler, in Texas. Dopo essersi laureato nel 1955 alla UT di Austin, è diventato pilota collaudatore.</lex>
     </entry>
     <entry category="Astronaut" eid="Id4" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -195,8 +195,8 @@
       <lex comment="good" lid="Id2" lang="en">Alan Bean, who was born in Wheeler, Texas, graduated from UT Austin in 1955 with a Bachelor of Science degree. He became a test pilot before joining NASA in 1963. He is now retired.</lex>
       <lex comment="good" lid="Id1" lang="it">Alan Bean, pilota collaudatore della NASA in pensione, è stato uno studente della UT Austin. Ha conseguito la laurea nel 1955. Alan Bean è nato a Wheeler, in Texas, ed è stato scelto dalla NASA nel 1963.</lex>
       <lex comment="good" lid="Id2" lang="it">Alan Bean, nato a Wheeler, in Texas, si è laureato alla UT Austin nel 1955. È diventato pilota collaudatore prima di entrare alla NASA nel 1963. Ora è in pensione.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Alan Bean, pilota collaudatore della NASA in pensione, è stato uno studente dell'Università Austin. Ha conseguito la laurea nel 1955. Alan Bean è nato a Wheeler, in Texas, ed è stato scelto dalla NASA nel 1963.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Alan Bean, nato a Wheeler, in Texas, si è laureato all'Università Austin nel 1955. È diventato pilota collaudatore prima di entrare alla NASA nel 1963. Ora è in pensione.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Alan Bean, pilota collaudatore della NASA in pensione, è stato uno studente della UT Austin. Ha conseguito la laurea nel 1955. Alan Bean è nato a Wheeler, in Texas, ed è stato scelto dalla NASA nel 1963.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Alan Bean, nato a Wheeler, in Texas, si è laureato all'Università di Austin nel 1955. È diventato pilota collaudatore prima di entrare alla NASA nel 1963. Ora è in pensione.</lex>
     </entry>
     <entry category="Astronaut" eid="Id9" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -219,9 +219,9 @@
       <lex comment="good" lid="Id1" lang="it">Alan Bean è nato a Wheeler, in Texas, e si è laureato nel 1955 alla UT Austin. Si è esibito come pilota collaudatore e nel 1963 è stato scelto dalla NASA per far parte dell'equipaggio dell'Apollo 12.</lex>
       <lex comment="good" lid="Id2" lang="it">Alan Bean (la cui Alma Mater è UT Austin, B.S. 1955) è nato a Wheeler, in Texas. Ha prestato servizio come pilota collaudatore prima di entrare a far parte della NASA nel 1963 e, infine, di far parte dell'equipaggio della missione Apollo 12.</lex>
       <lex comment="good" lid="Id3" lang="it">Alan Bean, nato a Wheeler, Texas, si è laureato alla UT Austin nel 1955 con un Bachelor of Science. In seguito è stato selezionato come pilota collaudatore e membro dell'equipaggio dell'Apollo 12 nel 1963.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Alan Bean è nato a Wheeler, in Texas, e si è laureato nel 1955 all'Università Austin. Si è esibito come pilota collaudatore e nel 1963 è stato scelto dalla NASA per far parte dell'equipaggio dell'Apollo 12.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Alan Bean è nato a Wheeler, in Texas, e si è laureato nel 1955 all'Università di Austin. Si è esibito come pilota collaudatore e nel 1963 è stato scelto dalla NASA per far parte dell'equipaggio dell'Apollo 12.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Alan Bean (la cui Alma Mater è UT Austin, B.S. 1955) è nato a Wheeler, in Texas. Ha prestato servizio come pilota collaudatore prima di entrare a far parte della NASA nel 1963 e, infine, di far parte dell'equipaggio della missione Apollo 12.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Alan Bean, nato a Wheeler, Texas, si è laureato all'Università Austin nel 1955 con un Bachelor of Science. In seguito è stato selezionato come pilota collaudatore e membro dell'equipaggio dell'Apollo 12 nel 1963.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Alan Bean, nato a Wheeler, Texas, si è laureato all'Università di Austin nel 1955 con un Bachelor of Science. In seguito è stato selezionato come pilota collaudatore e membro dell'equipaggio dell'Apollo 12 nel 1963.</lex>
     </entry>
     <entry category="Astronaut" eid="Id10" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -341,7 +341,7 @@
       <lex comment="good" lid="Id1" lang="it">Alan Bean si è laureato nel 1955 alla UT Austin e nel 1963 è stato scelto dalla NASA come membro dell'equipaggio dell'Apollo 12, dove David Scott era il comandante.</lex>
       <lex comment="good" lid="Id2" lang="it">Alan Bean ha fatto parte dell'equipaggio dell'Apollo 12 gestito dalla NASA, di cui David Scott era il comandante. È stato selezionato dalla NASA nel 1963 e la sua Alma Mater è la UT Austin, laurea del 1955.</lex>
       <lex comment="good" lid="Id3" lang="it">Alan Bean è stato membro dell'equipaggio della missione Apollo 12 della NASA sotto il comandante David Scott. Bean, la cui Alma Mater è la UT Austin, B.S. 1955, è stato selezionato per il servizio NASA nel 1963.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Alan Bean si è laureato nel 1955 all'Università Austin e nel 1963 è stato scelto dalla NASA come membro dell'equipaggio dell'Apollo 12, dove David Scott era il comandante.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Alan Bean si è laureato nel 1955 all'Università di Austin e nel 1963 è stato scelto dalla NASA come membro dell'equipaggio dell'Apollo 12, dove David Scott era il comandante.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Alan Bean ha fatto parte dell'equipaggio dell'Apollo 12 gestito dalla NASA, di cui David Scott era il comandante. È stato selezionato dalla NASA nel 1963 e la sua Alma Mater è l'Università Austin, laurea del 1955.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Alan Bean è stato membro dell'equipaggio della missione Apollo 12 della NASA sotto il comandante David Scott. Bean, la cui Alma Mater è l'Università Austin, B.S. 1955, è stato selezionato per il servizio NASA nel 1963.</lex>
     </entry>
@@ -733,8 +733,8 @@
       <lex comment="good" lid="Id2" lang="en">Alan Bean graduated from UT Austin in 1955 with a BS degree. He was a crewman on the NASA operated Apollo 12 on which Alfred Worden was backup pilot. He has now retired.</lex>
       <lex comment="good" lid="Id1" lang="it">Alan Bean, laureato nel 1955 alla UT Austin (B.S.), è stato membro dell'equipaggio della missione Apollo 12 della NASA (per la quale Alfred Worden era il pilota di riserva). Bean è ora in pensione.</lex>
       <lex comment="good" lid="Id2" lang="it">Alan Bean si è laureato alla UT Austin nel 1955. È stato membro dell'equipaggio dell'Apollo 12, operato dalla NASA, su cui Alfred Worden era il pilota di riserva. Ora è in pensione.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Alan Bean, laureato nel 1955 all'Università Austin (B.S.), è stato membro dell'equipaggio della missione Apollo 12 della NASA (per la quale Alfred Worden era il pilota di riserva). Bean è ora in pensione.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Alan Bean si è laureato all'Università Austin nel 1955. È stato membro dell'equipaggio dell'Apollo 12, operato dalla NASA, su cui Alfred Worden era il pilota di riserva. Ora è in pensione.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Alan Bean, laureato nel 1955 all'Università di Austin (B.S.), è stato membro dell'equipaggio della missione Apollo 12 della NASA (per la quale Alfred Worden era il pilota di riserva). Bean è ora in pensione.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Alan Bean si è laureato all'Università di Austin nel 1955. È stato membro dell'equipaggio dell'Apollo 12, operato dalla NASA, su cui Alfred Worden era il pilota di riserva. Ora è in pensione.</lex>
     </entry>
     <entry category="Astronaut" eid="Id31" shape="(X (X) (X (X) (X) (X)))" shape_type="mixed" size="5">
       <originaltripleset>

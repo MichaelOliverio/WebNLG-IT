@@ -2611,7 +2611,7 @@
       <lex comment="good" lid="Id1" lang="it">Il city manager è il leader di Austin, Texas.</lex>
       <lex comment="good" lid="Id2" lang="it">Il City Manager guida Austin, Texas.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Il amministratore comunale è il leader di Austin, Texas.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Il amministratore comunale guidad Austin, Texas.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Il amministratore comunale guida Austin, Texas.</lex>
     </entry>
     <entry category="City" eid="Id161" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

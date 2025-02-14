@@ -2724,9 +2724,12 @@
       <lex comment="good" lid="Id1" lang="en">Alfredo Zitarrosa died in Montevideo in Uruguay.</lex>
       <lex comment="good" lid="Id2" lang="en">Alfredo Zitarrosa died in Montevideo, Uruguay.</lex>
       <lex comment="good" lid="Id3" lang="en">Alfredo Zitarrosa died in Montevideo, in Uruguay.</lex>
-      <lex comment="good" lid="Id1" lang="ir">Alfredo Zitarrosa è morto a Montevideo in Uruguay.</lex>
-      <lex comment="good" lid="Id2" lang="ir">Alfredo Zitarrosa è morto a Montevideo, Uruguay.</lex>
-      <lex comment="good" lid="Id3" lang="ir">Alfredo Zitarrosa è morto a Montevideo, in Uruguay.</lex>
+      <lex comment="good" lid="Id1" lang="it">Alfredo Zitarrosa è morto a Montevideo in Uruguay.</lex>
+      <lex comment="good" lid="Id2" lang="it">Alfredo Zitarrosa è morto a Montevideo, Uruguay.</lex>
+      <lex comment="good" lid="Id3" lang="it">Alfredo Zitarrosa è morto a Montevideo, in Uruguay.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Alfredo Zitarrosa è morto a Montevideo in Uruguay.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Alfredo Zitarrosa è morto a Montevideo, Uruguay.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Alfredo Zitarrosa è morto a Montevideo, in Uruguay.</lex>
     </entry>
     <entry category="Artist" eid="Id134" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>

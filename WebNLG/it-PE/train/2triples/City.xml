@@ -2875,8 +2875,8 @@
       <lex comment="good" lid="Id1" lang="it">Gli afroamericani sono un gruppo etnico degli Stati Uniti, dove si trova Austin, Texas.</lex>
       <lex comment="good" lid="Id2" lang="it">Uno dei gruppi etnici degli Stati Uniti (dove si trova Austin, Texas) sono gli afroamericani.</lex>
       <lex comment="good" lid="Id3" lang="it">Austin, Texas, fa parte degli Stati Uniti d'America dove uno dei gruppi etnici è quello degli afroamericani.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Gli afroamericani sono un gruppo etnico degli Stati Uniti, dove si trovad Austin, Texas.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Uno dei gruppi etnici degli Stati Uniti (dove si trovad Austin, Texas) sono gli afroamericani.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Gli afroamericani sono un gruppo etnico degli Stati Uniti, dove si trova Austin, Texas.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Uno dei gruppi etnici degli Stati Uniti (dove si trova Austin, Texas) sono gli afroamericani.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Austin, Texas, fa parte degli Stati Uniti d'America dove uno dei gruppi etnici è quello degli afroamericani.</lex>
     </entry>
     <entry category="City" eid="Id129" shape="(X (X (X)))" shape_type="chain" size="2">

@@ -20,8 +20,8 @@
       <lex comment="good" lid="Id5" lang="it">Alan Bean ha conseguito una laurea in scienze presso l'Università del Texas ad Austin nel 1955.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'alma mater di Alan Bean è l'Università Austin. Si è laureato nel 1955.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Alan Bean si è laureato nel 1955 presso l'Università Austin con un B.S.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Alan Bean si è laureato all'Università Austin nel 1955 con un B.S.</lex>
-      <lex comment="good" lid="Id4" lang="it-PE" isPE="True">Alan Bean si è laureato all'Università Austin nel 1955 con un Bachelor of Science.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Alan Bean si è laureato all'Università di Austin nel 1955 con un B.S.</lex>
+      <lex comment="good" lid="Id4" lang="it-PE" isPE="True">Alan Bean si è laureato all'Università di Austin nel 1955 con un Bachelor of Science.</lex>
       <lex comment="good" lid="Id5" lang="it-PE" isPE="False">Alan Bean ha conseguito una laurea in scienze presso l'Università del Texas ad Austin nel 1955.</lex>
     </entry>
     <entry category="Astronaut" eid="Id2" shape="(X (X))" shape_type="NA" size="1">

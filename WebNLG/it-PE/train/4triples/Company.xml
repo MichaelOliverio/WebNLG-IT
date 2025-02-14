@@ -1217,7 +1217,7 @@
       <lex comment="good" lid="Id3" lang="it">Trane, con sede a Swords, Dublino, è un'azienda che produce sistemi di gestione degli edifici, tra cui sistemi HVAC; il titolo del loro leader è County Manager.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Trane è un'azienda produttrice di sistemi di gestione degli edifici che produce apparecchiature HVAC a Swords, Dublino, dove un allenatore della contea ricopre il ruolo di leader.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Trane, con sede a Swords, Dublino, è un produttore di sistemi di gestione degli edifici, compresi i prodotti HVAC. Il leader di Swords, Dublino, è il direttore della contea.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Trane, con sede a Swords, Dublino, è un'azienda che produce sistemi di gestione degli edifici, tra cui sistemi HVAC; il titolo del loro leader è County Manager.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Trane, con sede a Swords, Dublino, è un'azienda che produce sistemi di gestione degli edifici, tra cui sistemi HVAC; il titolo del loro leader è amministratore di contea.</lex>
     </entry>
     <entry category="Company" eid="Id52" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>

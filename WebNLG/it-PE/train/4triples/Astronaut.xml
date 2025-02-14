@@ -63,8 +63,8 @@
       <lex comment="good" lid="Id1" lang="it">Alan Bean è cittadino degli Stati Uniti e si è laureato alla UT Austin nel 1955 con un B.Sc. È stato membro dell'equipaggio dell'Apollo 12 e attualmente è in pensione.</lex>
       <lex comment="good" lid="Id2" lang="it">Alan Bean, ora in pensione, è un cittadino degli Stati Uniti che si è laureato alla UT Austin nel 1955 ed è stato membro dell'equipaggio dell'Apollo 12.</lex>
       <lex comment="good" lid="Id3" lang="it">Alan Bean era un cittadino statunitense. La sua Alma mater era la UT Austin e si era laureato nel 1955. È stato membro dell'equipaggio dell'Apollo 12. Ora è in pensione.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Alan Bean è cittadino degli Stati Uniti e si è laureato all'Università Austin nel 1955 con un B.Sc. È stato membro dell'equipaggio dell'Apollo 12 e attualmente è in pensione.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Alan Bean, ora in pensione, è un cittadino degli Stati Uniti che si è laureato all'Università Austin nel 1955 ed è stato membro dell'equipaggio dell'Apollo 12.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Alan Bean è cittadino degli Stati Uniti e si è laureato all'Università di Austin nel 1955 con un B.Sc. È stato membro dell'equipaggio dell'Apollo 12 e attualmente è in pensione.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Alan Bean, ora in pensione, è un cittadino degli Stati Uniti che si è laureato all'Università di Austin nel 1955 ed è stato membro dell'equipaggio dell'Apollo 12.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Alan Bean era un cittadino statunitense. La sua Alma mater era l'Università Austin e si era laureato nel 1955. È stato membro dell'equipaggio dell'Apollo 12. Ora è in pensione.</lex>
     </entry>
     <entry category="Astronaut" eid="Id4" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -84,7 +84,7 @@
       <lex comment="good" lid="Id2" lang="en">Alan Bean was born on March 15, 1932 in Wheeler, Texas. He was a United States citizen. His Alma mater was UT, Austin and he graduated with a B.S. in 1955.</lex>
       <lex comment="good" lid="Id1" lang="it">Alan Bean è un cittadino statunitense nato a Wheeler, in Texas, il 15 marzo 1932 e laureatosi alla UT Austin nel 1955.</lex>
       <lex comment="good" lid="Id2" lang="it">Alan Bean è nato il 15 marzo 1932 a Wheeler, in Texas. Era cittadino degli Stati Uniti. La sua Alma mater era la UT di Austin e si è laureato nel 1955.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Alan Bean è un cittadino statunitense nato a Wheeler, in Texas, il 15 marzo 1932 e laureatosi all'Università Austin nel 1955.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Alan Bean è un cittadino statunitense nato a Wheeler, in Texas, il 15 marzo 1932 e laureatosi all'Università di Austin nel 1955.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Alan Bean è nato il 15 marzo 1932 a Wheeler, in Texas. Era cittadino degli Stati Uniti. La sua Alma mater era l'Università di Austin e si è laureato nel 1955.</lex>
     </entry>
     <entry category="Astronaut" eid="Id5" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
@@ -168,7 +168,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" lang="en">Alan Bean is a retired test pilot who was born in Wheeler, Texas. He graduated from UT Austin in 1955 with a B.S.</lex>
       <lex comment="good" lid="Id1" lang="it">Alan Bean è un pilota collaudatore in pensione nato a Wheeler, in Texas. Si è laureato alla UT Austin nel 1955 con un B.S.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Alan Bean è un pilota collaudatore in pensione nato a Wheeler, in Texas. Si è laureato all'Università Austin nel 1955 con un B.S.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Alan Bean è un pilota collaudatore in pensione nato a Wheeler, in Texas. Si è laureato all'Università di Austin nel 1955 con un B.S.</lex>
     </entry>
     <entry category="Astronaut" eid="Id9" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>
@@ -308,7 +308,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" lang="en">Alan Bean graduated from UT Austin BS in 1955. He was selected as a crew member for the NASA operated Apollo 12 in 1963.</lex>
       <lex comment="good" lid="Id1" lang="it">Alan Bean si è laureato alla UT Austin nel 1955. È stato scelto come membro dell'equipaggio dell'Apollo 12 della NASA nel 1963.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Alan Bean si è laureato all'Università Austin nel 1955. È stato scelto come membro dell'equipaggio dell'Apollo 12 della NASA nel 1963.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Alan Bean si è laureato all'Università di Austin nel 1955. È stato scelto come membro dell'equipaggio dell'Apollo 12 della NASA nel 1963.</lex>
     </entry>
     <entry category="Astronaut" eid="Id16" shape="(X (X) (X) (X) (X))" shape_type="sibling" size="4">
       <originaltripleset>

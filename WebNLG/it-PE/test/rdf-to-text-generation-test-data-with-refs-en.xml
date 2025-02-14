@@ -107,7 +107,7 @@
       <lex lang="it" lid="Id2">La città di Ciudad Ayala, con una popolazione di 1.777.539 abitanti, è guidata da un City Manager, con un sistema di governo di tipo &quot;council-manager&quot;. La densità di popolazione è di 1604 abitanti.</lex>
       <lex lang="it" lid="Id3">Ciudad Ayala, una città con una densità demografica e una popolazione rispettivamente di 1604,0 e 1.777.539 abitanti, utilizza un tipo di governo chiamato amministrazione comunale. Uno dei leader di Ciudad Ayala è il City Manager.</lex>
       <lex lid="Id1" lang="it-PE" isPE="True">Ciudad Ayala è una città con una densità demografica e una popolazione rispettivamente di 1604 e 1777539 abitanti, dove il leader è chiamato amministratore comunale. Il tipo di governo della città di Ciudad Ayala è di tipo comunale.</lex>
-      <lex lid="Id2" lang="it-PE" isPE="True">La città di Ciudad Ayala, con una popolazione di 1.777.539 abitanti, è guidata da un amministratore comunale, con un sistema di governo di consiglio amministrativo. La densità di popolazione è di 1604 abitanti.</lex>
+      <lex lid="Id2" lang="it-PE" isPE="True">La città di Ciudad Ayala, con una popolazione di 1.777.539 abitanti, è guidata da un amministratore comunale, con un sistema di governo di tipo &quot;consiglio amministativo&quot;. La densità di popolazione è di 1604 abitanti.</lex>
       <lex lid="Id3" lang="it-PE" isPE="True">Ciudad Ayala, una città con una densità demografica e una popolazione rispettivamente di 1604,0 e 1.777.539 abitanti, utilizza un tipo di governo chiamato amministrazione comunale. Uno dei leader di Ciudad Ayala è l'amministratore comunale.</lex>
     </entry>
     <entry category="MusicalWork" eid="Id6" shape="(X (X (X)))" shape_type="chain" size="2">
@@ -951,7 +951,7 @@
       <lex lang="it" lid="Id1">Uno dei leader di Ciudad Ayala (una città) si chiama City Manager. Con una densità di popolazione di 1604,0 abitanti.</lex>
       <lex lang="it" lid="Id2">Ciudad Ayala è una città con una densità di popolazione di 1.604 abitanti. Uno dei leader è chiamato City Manager.</lex>
       <lex lang="it" lid="Id3">Uno dei leader di Ciudad Ayala, una città con una densità di popolazione di 1604,0 abitanti, è il City Manager.</lex>
-      <lex lid="Id1" lang="it-PE" isPE="True">Uno dei leader di Ciudad Ayala (una città) è chiamato amministratore comunale. Con una densità di popolazione di 1604,0 abitanti.</lex>
+      <lex lid="Id1" lang="it-PE" isPE="True">Uno dei leader di Ciudad Ayala (una città) si chiama amministratore comunale. Con una densità di popolazione di 1604,0 abitanti.</lex>
       <lex lid="Id2" lang="it-PE" isPE="True">Ciudad Ayala è una città con una densità di popolazione di 1.604 abitanti. Uno dei leader è chiamato amministratore comunale.</lex>
       <lex lid="Id3" lang="it-PE" isPE="True">Uno dei leader di Ciudad Ayala, una città con una densità di popolazione di 1604,0 abitanti, è l'amministratore comunale.</lex>
     </entry>
@@ -1516,7 +1516,7 @@
       <lex lang="it" lid="Id1">La città di Gdynia in Polonia ha il fuso orario di UTC +2 .</lex>
       <lex lang="it" lid="Id2">Gdynia, in Polonia, ha uno sfasamento UTC (Coordinate Universal Time) di +2.</lex>
       <lex lang="it" lid="Id3">Gdynia, in Polonia, ha un UTC di +02:00.</lex>
-      <lex lid="Id1" lang="it-PE" isPE="True">La città di Gdynia in Polonia ha il fuso orario di UTC +2.</lex>
+      <lex lid="Id1" lang="it-PE" isPE="False">La città di Gdynia in Polonia ha il fuso orario di UTC +2 .</lex>
       <lex lid="Id2" lang="it-PE" isPE="False">Gdynia, in Polonia, ha uno sfasamento UTC (Coordinate Universal Time) di +2.</lex>
       <lex lid="Id3" lang="it-PE" isPE="False">Gdynia, in Polonia, ha un UTC di +02:00.</lex>
     </entry>
@@ -4401,7 +4401,7 @@
       <lex lang="en" lid="Id2">Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league in 2015 where Vila Nova Futebol Clube were declared as the champions of the league.</lex>
       <lex lang="it" lid="Id1">L'Agremiação Sportiva Arapiraquense ha partecipato al campionato Campeonato Brasileiro Serie C nel 2015 . Il Vila Nova Futebol Clube è stato campione in quel torneo.</lex>
       <lex lang="it" lid="Id2">L'Agremiação Sportiva Arapiraquense gioca nel campionato Campeonato Brasileiro Série C nel 2015, dove il Vila Nova Futebol Clube è stato dichiarato campione del campionato.</lex>
-      <lex lid="Id1" lang="it-PE" isPE="True">L'Agremiação Sportiva Arapiraquense ha partecipato al campionato Campeonato Brasileiro Serie C nel 2015. Il Vila Nova Futebol Clube è stato campione in quel torneo.</lex>
+      <lex lid="Id1" lang="it-PE" isPE="False">L'Agremiação Sportiva Arapiraquense ha partecipato al campionato Campeonato Brasileiro Serie C nel 2015 . Il Vila Nova Futebol Clube è stato campione in quel torneo.</lex>
       <lex lid="Id2" lang="it-PE" isPE="False">L'Agremiação Sportiva Arapiraquense gioca nel campionato Campeonato Brasileiro Série C nel 2015, dove il Vila Nova Futebol Clube è stato dichiarato campione del campionato.</lex>
     </entry>
     <entry category="Politician" eid="Id201" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
@@ -5780,7 +5780,7 @@
       <lex lang="it" lid="Id1">Il pop barocco è un genere fusion che include alcuni elementi del pop rock, come ad esempio la canzone Train dei Mermaid .</lex>
       <lex lang="it" lid="Id2">Mermaid, pubblicata dalla band Train, è una canzone del genere pop rock che comprende anche il genere fusion Baroque pop.</lex>
       <lex lang="it" lid="Id3">Mermaid, canzone del gruppo Train, appartiene al genere pop rock. Una derivazione del pop rock è il genere fusion pop barocco.</lex>
-      <lex lid="Id1" lang="it-PE" isPE="True">Il pop barocco è un genere fusion che include alcuni elementi del pop rock, come ad esempio la canzone Train dei Mermaid.</lex>
+      <lex lid="Id1" lang="it-PE" isPE="False">Il pop barocco è un genere fusion che include alcuni elementi del pop rock, come ad esempio la canzone Train dei Mermaid .</lex>
       <lex lid="Id2" lang="it-PE" isPE="False">Mermaid, pubblicata dalla band Train, è una canzone del genere pop rock che comprende anche il genere fusion Baroque pop.</lex>
       <lex lid="Id3" lang="it-PE" isPE="False">Mermaid, canzone del gruppo Train, appartiene al genere pop rock. Una derivazione del pop rock è il genere fusion pop barocco.</lex>
     </entry>
@@ -6951,7 +6951,7 @@
       <lex lang="it" lid="Id2">Brandon Carter, nato in Inghilterra, è noto per la costante di Carter e per i suoi contributi al teorema dell'assenza di peli. Il suo consulente di dottorato è stato Dennis William Sciama .</lex>
       <lex lang="it" lid="Id3">Brandon Carter, inglese di nascita, è noto per l'invenzione della costante di Carter e del teorema dell'assenza di peli. Il dottorando di Carter è stato Dennis William Sciama.</lex>
       <lex lid="Id1" lang="it-PE" isPE="False">Brandon Carter (nato in Inghilterra) è noto per la costante di Carter e per il teorema No-hair. Il suo consulente di dottorato è Dennis William Sciama.</lex>
-      <lex lid="Id2" lang="it-PE" isPE="True">Brandon Carter, nato in Inghilterra, è noto per la costante di Carter e per i suoi contributi al teorema dell'assenza di peli. Il suo consulente di dottorato è stato Dennis William Sciama.</lex>
+      <lex lid="Id2" lang="it-PE" isPE="False">Brandon Carter, nato in Inghilterra, è noto per la costante di Carter e per i suoi contributi al teorema dell'assenza di peli. Il suo consulente di dottorato è stato Dennis William Sciama .</lex>
       <lex lid="Id3" lang="it-PE" isPE="False">Brandon Carter, inglese di nascita, è noto per l'invenzione della costante di Carter e del teorema dell'assenza di peli. Il dottorando di Carter è stato Dennis William Sciama.</lex>
     </entry>
     <entry category="Film" eid="Id316" shape="(X (X) (X))" shape_type="sibling" size="2">
@@ -10215,7 +10215,7 @@
       <lex lang="it" lid="Id1">1147 Stavropolis, scoperta da Grigory Neujmin con un'apopsi di 418476000000.0, ha una magnitudine assoluta di 11,5 .</lex>
       <lex lang="it" lid="Id2">1147 Stavropolis, scoperta da Grigory Neujmin, ha un'apopsi di 418476000000,0 e una magnitudine assoluta di 11,5.</lex>
       <lex lang="it" lid="Id3">1147 Stavropolis ha una magnitudine assoluta di 11,5. L'apopsi dell'asteroide è 418476000000.0 UA e il suo scopritore è Grigory Neujmin.</lex>
-      <lex lid="Id1" lang="it-PE" isPE="True">1147 Stavropolis, scoperta da Grigory Neujmin con un apoapside di 418476000000.0, ha una magnitudine assoluta di 11,5.</lex>
+      <lex lid="Id1" lang="it-PE" isPE="True">1147 Stavropolis, scoperta da Grigory Neujmin con un apoapside di 418476000000.0, ha una magnitudine assoluta di 11,5 .</lex>
       <lex lid="Id2" lang="it-PE" isPE="True">1147 Stavropolis, scoperta da Grigory Neujmin, ha un apoapside di 418476000000,0 e una magnitudine assoluta di 11,5.</lex>
       <lex lid="Id3" lang="it-PE" isPE="True">1147 Stavropolis ha una magnitudine assoluta di 11,5. L'apopside dell'asteroide è 418476000000.0 UA e il suo scopritore è Grigory Neujmin.</lex>
     </entry>
@@ -15712,7 +15712,7 @@
       <lex lang="it" lid="Id3">Ciudad Ayala, con una densità di popolazione di 1604,0 abitanti, rientra nel fuso orario UTC -6 e utilizza un tipo di governo chiamato governo comunale-manageriale.</lex>
       <lex lid="Id1" lang="it-PE" isPE="False">La densità di popolazione di Ciudad Ayala è di 1604 abitanti. La città ha un offset UTC di -6. Il tipo di governo della città è il consiglio direttivo.</lex>
       <lex lid="Id2" lang="it-PE" isPE="True">Ciudad Ayala ha una densità di 1604,0, l'offset UTC è di -6, e il tipo di governo è chiamato governo di consiglio amministrativo.</lex>
-      <lex lid="Id3" lang="it-PE" isPE="True">Ciudad Ayala, con una densità di popolazione di 1604,0 abitanti, rientra nel fuso orario UTC -6 e utilizza un tipo di governo chiamato governo comunale-allenatoreiale.</lex>
+      <lex lid="Id3" lang="it-PE" isPE="True">Ciudad Ayala, con una densità di popolazione di 1604,0 abitanti, rientra nel fuso orario UTC -6 e utilizza un tipo di governo chiamato governo di consiglio amministrativo.</lex>
     </entry>
     <entry category="City" eid="Id716" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -17475,7 +17475,7 @@
       <lex lang="it" lid="Id1">Nie Haisheng è nato a Zaoyang.</lex>
       <lex lang="it" lid="Id2">Il luogo di nascita di Nie Haisheng è Zaoyang .</lex>
       <lex lid="Id1" lang="it-PE" isPE="False">Nie Haisheng è nato a Zaoyang.</lex>
-      <lex lid="Id2" lang="it-PE" isPE="True">Il luogo di nascita di Nie Haisheng è Zaoyang.</lex>
+      <lex lid="Id2" lang="it-PE" isPE="False">Il luogo di nascita di Nie Haisheng è Zaoyang .</lex>
     </entry>
     <entry category="MusicalWork" eid="Id794" shape="(X (X) (X))" shape_type="sibling" size="2">
       <originaltripleset>
@@ -19905,7 +19905,7 @@
       <lex lang="it" lid="Id2">La 1147 Stavropolis, scoperta l'11 giugno 1929, ha un periodo di rotazione di 20378,5 e un'apopside di 418476000000,0.</lex>
       <lex lang="it" lid="Id3">1147 Stavropolis è un asteroide, scoperto l'11 giugno 1929, ha un'apopsi di 418476000000,0 UA e un periodo di rotazione di 20378,5.</lex>
       <lex lid="Id1" lang="it-PE" isPE="True">L'asteroide 1147 Stavropolis, scoperto l'11 giugno 1929, con un periodo di rotazione di 20378,5 ha un apoapside di 418476000000,0.</lex>
-      <lex lid="Id2" lang="it-PE" isPE="True">La 1147 Stavropolis, scoperta l'11 giugno 1929, ha un periodo di rotazione di 20378,5 e un apoapsidede di 418476000000,0.</lex>
+      <lex lid="Id2" lang="it-PE" isPE="False">La 1147 Stavropolis, scoperta l'11 giugno 1929, ha un periodo di rotazione di 20378,5 e un'apopside di 418476000000,0.</lex>
       <lex lid="Id3" lang="it-PE" isPE="True">1147 Stavropolis è un asteroide, scoperto l'11 giugno 1929, ha un apoapside di 418476000000,0 UA e un periodo di rotazione di 20378,5.</lex>
     </entry>
     <entry category="University" eid="Id905" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -26330,7 +26330,7 @@
       <lex lang="it" lid="Id3">Uno dei leader del Messico è Roberto Gil Zuarth .</lex>
       <lex lid="Id1" lang="it-PE" isPE="False">Il leader del Messico è Roberto Gil Zuarth.</lex>
       <lex lid="Id2" lang="it-PE" isPE="False">Uno dei leader del Messico è Roberto Gil Zuarth.</lex>
-      <lex lid="Id3" lang="it-PE" isPE="True">Uno dei leader del Messico è Roberto Gil Zuarth.</lex>
+      <lex lid="Id3" lang="it-PE" isPE="False">Uno dei leader del Messico è Roberto Gil Zuarth .</lex>
     </entry>
     <entry category="Scientist" eid="Id1206" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">
       <originaltripleset>
@@ -26701,7 +26701,7 @@
       <lex lang="it" lid="Id2">Brandon Carter (nato in Inghilterra) si è laureato all'Università di Cambridge e ha studiato nel campo della relatività generale. Il suo relatore di dottorato è Dennis William Sciama .</lex>
       <lex lang="it" lid="Id3">Brandon Carter (nato in Inghilterra) è un fisico nel campo della relatività generale. Si è laureato all'Università di Cambridge, dove il suo consulente è stato Dennis William Sciama.</lex>
       <lex lid="Id1" lang="it-PE" isPE="False">Brandon Carter, nato in Inghilterra, si è laureato all'Università di Cambridge e ha sviluppato la Relatività Generale come professione. Il suo relatore di dottorato è stato Dennis William Sciama.</lex>
-      <lex lid="Id2" lang="it-PE" isPE="True">Brandon Carter (nato in Inghilterra) si è laureato all'Università di Cambridge e ha studiato nel campo della relatività generale. Il suo relatore di dottorato è Dennis William Sciama.</lex>
+      <lex lid="Id2" lang="it-PE" isPE="False">Brandon Carter (nato in Inghilterra) si è laureato all'Università di Cambridge e ha studiato nel campo della relatività generale. Il suo relatore di dottorato è Dennis William Sciama .</lex>
       <lex lid="Id3" lang="it-PE" isPE="False">Brandon Carter (nato in Inghilterra) è un fisico nel campo della relatività generale. Si è laureato all'Università di Cambridge, dove il suo consulente è stato Dennis William Sciama.</lex>
     </entry>
     <entry category="University" eid="Id1224" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -27374,7 +27374,7 @@
       <lex lang="it" lid="Id2">La Compagnia dell'Anello è stato scritto da J.R.R . Tolkien e pubblicato da George Allen &amp; Unwin.</lex>
       <lex lang="it" lid="Id3">L'autore de La Compagnia dell'Anello, pubblicato da George Allen &amp; Unwin, è J.R.R. Tolkien.</lex>
       <lex lid="Id1" lang="it-PE" isPE="False">La Compagnia dell'Anello è stato scritto da J.R.R. Tolkien e pubblicato da George Allen &amp; Unwin.</lex>
-      <lex lid="Id2" lang="it-PE" isPE="True">La Compagnia dell'Anello è stato scritto da J.R.R. Tolkien e pubblicato da George Allen &amp; Unwin.</lex>
+      <lex lid="Id2" lang="it-PE" isPE="False">La Compagnia dell'Anello è stato scritto da J.R.R . Tolkien e pubblicato da George Allen &amp; Unwin.</lex>
       <lex lid="Id3" lang="it-PE" isPE="False">L'autore de La Compagnia dell'Anello, pubblicato da George Allen &amp; Unwin, è J.R.R. Tolkien.</lex>
     </entry>
     <entry category="SportsTeam" eid="Id1254" shape="(X (X) (X) (X (X)) (X (X) (X)))" shape_type="mixed" size="7">
@@ -31063,7 +31063,7 @@
       <lex lang="it" lid="Id3">Ciudad Ayala, che si trova nel fuso orario UTC -6, ha una densità di popolazione di 1604,0 abitanti nell'area metropolitana con un raggio d'azione di 1.777.539 e si avvale di un governo di tipo council manager.</lex>
       <lex lid="Id1" lang="it-PE" isPE="False">La popolazione dell'area metropolitana di Ciudad Ayala è di 1.777.539 abitanti, con una densità di popolazione di 1604,0 e uno scostamento UTC di -6. Il governo di Ciudad Ayala è un governo di tipo comunale.</lex>
       <lex lid="Id2" lang="it-PE" isPE="False">La città di Ciudad Ayala ha un offset UTC di -6 e una densità di popolazione di 1604 abitanti. La sua popolazione è di 1777539 abitanti ed è governata da un consiglio comunale.</lex>
-      <lex lid="Id3" lang="it-PE" isPE="True">Ciudad Ayala, che si trova nel fuso orario UTC -6, ha una densità di popolazione di 1604,0 abitanti nell'area metropolitana con un raggio d'azione di 1.777.539 e si avvale di un governo di tipo councl'allenatore.</lex>
+      <lex lid="Id3" lang="it-PE" isPE="True">Ciudad Ayala, che si trova nel fuso orario UTC -6, ha una densità di popolazione di 1604,0 abitanti nell'area metropolitana con un raggio d'azione di 1.777.539 e si avvale di un governo di tipo consiglio amministrativo.</lex>
     </entry>
     <entry category="Scientist" eid="Id1425" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -34498,7 +34498,7 @@
       <lex lang="it" lid="Id1">1147 Stavropolis è un asteroide, scoperto l'11 giugno 1929, ha un periodo orbitale di 1249,6, un'apopsi di 418476000000,0 UA. e una magnitudine assoluta di 11,5 .</lex>
       <lex lang="it" lid="Id2">1147 Stavropolis è stata scoperta l'11 giugno 1929 con un periodo orbitale di 1249,6 giorni e un'apopsi di 418476000000.0. Ha una magnitudine assoluta di 11,5.</lex>
       <lex lang="it" lid="Id3">Con una magnitudine assoluta di 11,5, l'asteroide 1147 Stavropolis è stato scoperto nel giugno del 1929. Ha un periodo orbitale di 1249,6 giorni e un'apoapsi di 418476000000,0.</lex>
-      <lex lid="Id1" lang="it-PE" isPE="True">1147 Stavropolis è un asteroide, scoperto l'11 giugno 1929, ha un periodo orbitale di 1249,6, un apoapside di 418476000000,0 UA. e una magnitudine assoluta di 11,5.</lex>
+      <lex lid="Id1" lang="it-PE" isPE="True">1147 Stavropolis è un asteroide, scoperto l'11 giugno 1929, ha un periodo orbitale di 1249,6, un apoapside di 418476000000,0 UA. e una magnitudine assoluta di 11,5 .</lex>
       <lex lid="Id2" lang="it-PE" isPE="True">1147 Stavropolis è stata scoperta l'11 giugno 1929 con un periodo orbitale di 1249,6 giorni e un apoapside di 418476000000.0. Ha una magnitudine assoluta di 11,5.</lex>
       <lex lid="Id3" lang="it-PE" isPE="False">Con una magnitudine assoluta di 11,5, l'asteroide 1147 Stavropolis è stato scoperto nel giugno del 1929. Ha un periodo orbitale di 1249,6 giorni e un'apoapsi di 418476000000,0.</lex>
     </entry>
@@ -34624,9 +34624,9 @@
       <lex lang="it" lid="Id1">La sede di Trane è Swords Dublin, dove il County Manager è il leader.</lex>
       <lex lang="it" lid="Id2">Il titolo del leader di Swords, Dublino, dove Trane ha sede, è County Manager.</lex>
       <lex lang="it" lid="Id3">Trane ha sede a Swords, Dublino, dove il titolo di leader si chiama &quot;County Manager&quot;.</lex>
-      <lex lid="Id1" lang="it-PE" isPE="False">La sede di Trane è Swords Dublin, dove il County Manager è il leader.</lex>
-      <lex lid="Id2" lang="it-PE" isPE="False">Il titolo del leader di Swords, Dublino, dove Trane ha sede, è County Manager.</lex>
-      <lex lid="Id3" lang="it-PE" isPE="False">Trane ha sede a Swords, Dublino, dove il titolo di leader si chiama &quot;County Manager&quot;.</lex>
+      <lex lid="Id1" lang="it-PE" isPE="True">La sede di Trane è Swords Dublin, dove l'amministratore di contea è il leader.</lex>
+      <lex lid="Id2" lang="it-PE" isPE="True">Il titolo del leader di Swords, Dublino, dove Trane ha sede, è amministratore di contea.</lex>
+      <lex lid="Id3" lang="it-PE" isPE="True">Trane ha sede a Swords, Dublino, dove il titolo di leader si chiama &quot;amministratore di contea&quot;.</lex>
     </entry>
     <entry category="Scientist" eid="Id1586" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -35236,7 +35236,7 @@
       <lex lang="it" lid="Id2">Il bionico è un alimento che si trova in Messico e viene servito come dessert. Anche il sandesh (pasticceria) è un piatto che può essere servito come dessert.</lex>
       <lex lang="it" lid="Id3">Bionico e Sandesh sono entrambi cibi da dessert che si trovano in Messico.</lex>
       <lex lid="Id1" lang="it-PE" isPE="False">Il bionico (piatto servito come dessert) è un alimento diffuso in Messico. Il sandesh è un simpatico dessert di pasticceria.</lex>
-      <lex lid="Id2" lang="it-PE" isPE="True">Il bionico è un alimento che si trova in Messico e viene servito come dessert. Anche il sandesh (dolce) è un piatto che può essere servito come dessert.</lex>
+      <lex lid="Id2" lang="it-PE" isPE="False">Il bionico è un alimento che si trova in Messico e viene servito come dessert. Anche il sandesh (pasticceria) è un piatto che può essere servito come dessert.</lex>
       <lex lid="Id3" lang="it-PE" isPE="False">Bionico e Sandesh sono entrambi cibi da dessert che si trovano in Messico.</lex>
     </entry>
     <entry category="City" eid="Id1616" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -36473,7 +36473,7 @@
       <lex lang="it" lid="Id3">Il New Jersey ha una superficie d'acqua di 3.544,04 km^2 .</lex>
       <lex lid="Id1" lang="it-PE" isPE="False">La superficie totale delle acque del New Jersey è di 3.544 chilometri quadrati.</lex>
       <lex lid="Id2" lang="it-PE" isPE="False">Il New Jersey ha una superficie d'acqua di 3.544,04 metri.</lex>
-      <lex lid="Id3" lang="it-PE" isPE="True">Il New Jersey ha una superficie d'acqua di 3.544,04 km^2.</lex>
+      <lex lid="Id3" lang="it-PE" isPE="False">Il New Jersey ha una superficie d'acqua di 3.544,04 km^2 .</lex>
     </entry>
     <entry category="MeanOfTransportation" eid="Id1672" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>
@@ -37035,7 +37035,7 @@
       <lex lang="it" lid="Id1">1147 Stavropolis, scoperta l'11 giugno 1929 da Grigory Neujmin con epoca 31 luglio 2016 (giorno giuliano 2457600,5), ha un'apopside di 418476000000,0. Con un periodo orbitale di 1249,6 giorni, 1147 Stavropolis ha una magnitudine assoluta di 11,5.</lex>
       <lex lang="it" lid="Id2">L'11 giugno 1929, Grigorij Neujmin scoprì l'asteroide 1147 Stavropolis. L'asteroide ha una magnitudine assoluta di 11,5, un periodo orbitale di 1249,6 giorni e un'apoapsi di 418476000000,0. L'epoca di 1147 Stavropolis è il 31 luglio 2016.</lex>
       <lex lang="it" lid="Id3">1147 Stavropolis è un asteroide scoperto da Grigory Neujmin l'11 giugno 1929. Ha una magnitudine assoluta di 11,5, un periodo orbitale di 1249,6, un'apopsi di 418476000000,0 UA e un'epoca del 31 luglio 2016 (JD2457600,5).</lex>
-      <lex lid="Id1" lang="it-PE" isPE="True">1147 Stavropolis, scoperta l'11 giugno 1929 da Grigory Neujmin con epoca 31 luglio 2016 (giorno giuliano 2457600,5), ha un apoapsidede di 418476000000,0. Con un periodo orbitale di 1249,6 giorni, 1147 Stavropolis ha una magnitudine assoluta di 11,5.</lex>
+      <lex lid="Id1" lang="it-PE" isPE="False">1147 Stavropolis, scoperta l'11 giugno 1929 da Grigory Neujmin con epoca 31 luglio 2016 (giorno giuliano 2457600,5), ha un'apopside di 418476000000,0. Con un periodo orbitale di 1249,6 giorni, 1147 Stavropolis ha una magnitudine assoluta di 11,5.</lex>
       <lex lid="Id2" lang="it-PE" isPE="False">L'11 giugno 1929, Grigorij Neujmin scoprì l'asteroide 1147 Stavropolis. L'asteroide ha una magnitudine assoluta di 11,5, un periodo orbitale di 1249,6 giorni e un'apoapsi di 418476000000,0. L'epoca di 1147 Stavropolis è il 31 luglio 2016.</lex>
       <lex lid="Id3" lang="it-PE" isPE="True">1147 Stavropolis è un asteroide scoperto da Grigory Neujmin l'11 giugno 1929. Ha una magnitudine assoluta di 11,5, un periodo orbitale di 1249,6, un apoapside di 418476000000,0 UA e un'epoca del 31 luglio 2016 (JD2457600,5).</lex>
     </entry>
@@ -38444,7 +38444,7 @@
       <lex lang="it" lid="Id2">1147 Stavropolis ha una magnitudine assoluta di 11,5 .</lex>
       <lex lang="it" lid="Id3">1147 Stavropolis ha una magnitudine assoluta di 11,5.</lex>
       <lex lid="Id1" lang="it-PE" isPE="False">La magnitudine assoluta di 1147 Stavropolis è 11,5.</lex>
-      <lex lid="Id2" lang="it-PE" isPE="True">1147 Stavropolis ha una magnitudine assoluta di 11,5.</lex>
+      <lex lid="Id2" lang="it-PE" isPE="False">1147 Stavropolis ha una magnitudine assoluta di 11,5 .</lex>
       <lex lid="Id3" lang="it-PE" isPE="False">1147 Stavropolis ha una magnitudine assoluta di 11,5.</lex>
     </entry>
     <entry category="Film" eid="Id1765" shape="(X (X) (X) (X) (X) (X))" shape_type="sibling" size="5">

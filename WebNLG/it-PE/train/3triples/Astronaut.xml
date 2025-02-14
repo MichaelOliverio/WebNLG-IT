@@ -16,7 +16,7 @@
       <lex comment="good" lid="Id2" lang="en">Alan Bean went to UT Austin, B.S. 1955. He was selected by NASA in 1963 and spent 100305.0&quot;(minutes) in space.</lex>
       <lex comment="good" lid="Id1" lang="it">Alan Bean, laureato nel 1955 alla UT Austin e selezionato dalla NASA nel 1963, ha trascorso 100305,0 minuti nello spazio.</lex>
       <lex comment="good" lid="Id2" lang="it">Alan Bean ha frequentato la UT Austin, laureandosi nel 1955. È stato selezionato dalla NASA nel 1963 e ha trascorso 100305.0&quot; (minuti) nello spazio.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Alan Bean, laureato nel 1955 all'Università Austin e selezionato dalla NASA nel 1963, ha trascorso 100305,0 minuti nello spazio.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Alan Bean, laureato nel 1955 all'Università di Austin e selezionato dalla NASA nel 1963, ha trascorso 100305,0 minuti nello spazio.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Alan Bean ha frequentato l'Università Austin, laureandosi nel 1955. È stato selezionato dalla NASA nel 1963 e ha trascorso 100305.0&quot; (minuti) nello spazio.</lex>
     </entry>
     <entry category="Astronaut" eid="Id2" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -38,7 +38,7 @@
       <lex comment="good" lid="Id3" lang="it">Alan Bean si è laureato alla UT Austin nel 1955 e ha fatto parte dell'equipaggio dell'Apollo 12 prima di ritirarsi nel giugno 1981.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Alan Bean, che ha conseguito una laurea in scienze presso l'Università del Texas ad Austin nel 1955 ed è stato membro dell'equipaggio della missione Apollo 12, è andato in pensione nel giugno 1981.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Alan Bean si è laureato all'Università del Texas ad Austin nel 1955, è stato membro dell'equipaggio della missione Apollo 12 e si è ritirato nel giugno del 1981.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Alan Bean si è laureato all'Università Austin nel 1955 e ha fatto parte dell'equipaggio dell'Apollo 12 prima di ritirarsi nel giugno 1981.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Alan Bean si è laureato all'Università di Austin nel 1955 e ha fatto parte dell'equipaggio dell'Apollo 12 prima di ritirarsi nel giugno 1981.</lex>
     </entry>
     <entry category="Astronaut" eid="Id3" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>
@@ -102,9 +102,9 @@
       <lex comment="good" lid="Id1" lang="it">Alan Bean, cittadino statunitense laureatosi alla UT Austin nel 1955, è ora in pensione.</lex>
       <lex comment="good" lid="Id2" lang="it">Alan Bean, nato negli Stati Uniti e laureatosi alla UT Austin nel 1955, è ora in pensione.</lex>
       <lex comment="good" lid="Id3" lang="it">Alan Bean, cittadino statunitense, si è laureato alla UT Austin nel 1955 e ora è in pensione.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Alan Bean, cittadino statunitense laureatosi all'Università Austin nel 1955, è ora in pensione.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Alan Bean, nato negli Stati Uniti e laureatosi all'Università Austin nel 1955, è ora in pensione.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Alan Bean, cittadino statunitense, si è laureato all'Università Austin nel 1955 e ora è in pensione.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Alan Bean, cittadino statunitense laureatosi all'Università di Austin nel 1955, è ora in pensione.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Alan Bean, nato negli Stati Uniti e laureatosi all'Università di Austin nel 1955, è ora in pensione.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Alan Bean, cittadino statunitense, si è laureato all'Università di Austin nel 1955 e ora è in pensione.</lex>
     </entry>
     <entry category="Astronaut" eid="Id6" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
       <originaltripleset>

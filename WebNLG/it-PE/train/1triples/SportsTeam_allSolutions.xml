@@ -2100,7 +2100,7 @@
       <lex comment="good" lid="Id1" lang="it">Dave Challinor è un giocatore dell'A.F.C. Fylde .</lex>
       <lex comment="good" lid="Id2" lang="it">Dave Challinor è al club A.F.C. Fylde.</lex>
       <lex comment="good" lid="Id3" lang="it">Dave Challinor gioca nell'A.F.C. Fylde.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Dave Challinor è un giocatore dell'A.F.C. Fylde.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Dave Challinor è un giocatore dell'A.F.C. Fylde .</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Dave Challinor è al club A.F.C. Fylde.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Dave Challinor gioca nell'A.F.C. Fylde.</lex>
     </entry>
@@ -3383,7 +3383,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" lang="en">Rolando Maran is attached to AC Chievo Verona .</lex>
       <lex comment="good" lid="Id1" lang="it">Rolando Maran è legato all'AC Chievo Verona .</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Rolando Maran è legato all'A.C Chievo Verona.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Rolando Maran è legato all'A.C Chievo Verona .</lex>
     </entry>
     <entry category="SportsTeam" eid="Id226" shape="(X (X))" shape_type="NA" size="1">
       <originaltripleset>

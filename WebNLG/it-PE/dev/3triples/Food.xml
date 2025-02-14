@@ -383,8 +383,8 @@
       <lex comment="good" lid="Id1" lang="it">Il pan di Spagna è uno degli ingredienti della Baked Alaska, un piatto originario della regione di New York e diffuso negli Stati Uniti.</lex>
       <lex comment="good" lid="Id2" lang="it">Il pan di Spagna è un ingrediente del Baked Alaska, originario della regione di New York e diffuso negli Stati Uniti.</lex>
       <lex comment="good" lid="Id3" lang="it">Un ingrediente dell'Alaska al forno è il pan di Spagna, piatto originario di New York, negli Stati Uniti.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Il pan di Spagna è uno degli ingredienti dell'Alaska al forno, un piatto originario della regione di New York e diffuso negli Stati Uniti.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Il pan di Spagna è un ingrediente dell'Alaska al forno, originario della regione di New York e diffuso negli Stati Uniti.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Il pan di Spagna è uno degli ingredienti dell'omelette norvegese, un piatto originario della regione di New York e diffuso negli Stati Uniti.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Il pan di Spagna è un ingrediente dell'omelette norvegese, originario della regione di New York e diffuso negli Stati Uniti.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Un ingrediente dell'omelette norvegese è il pan di Spagna, piatto originario di New York, negli Stati Uniti.</lex>
     </entry>
     <entry category="Food" eid="Id19" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -425,7 +425,7 @@
       <lex comment="good" lid="Id1" lang="it">Il sandesh (pasticceria) è un piatto che può essere servito come dessert. Un altro piatto che è un dessert è l'Alaska al forno, che ha come ingrediente il budino di Natale.</lex>
       <lex comment="good" lid="Id2" lang="it">Il Sandesh e l'Alaska al forno sono dessert. L'Alaska al forno utilizza come ingrediente il budino di Natale.</lex>
       <lex comment="good" lid="Id3" lang="it">Il Christmas pudding è un ingrediente dell'Alaska al forno, che è un dessert, come il sandesh.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Il sandesh (dolce) è un piatto che può essere servito come dessert. Un altro piatto che è un dessert è l'omelette norvegese, che ha come ingrediente il budino di Natale.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Il sandesh (pasticceria) è un piatto che può essere servito come dessert. Un altro piatto che è un dessert è l'omelette norvegese, che ha come ingrediente il budino di Natale.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Il Sandesh e l'omelette norvegese sono dessert. L'omelette norvegese utilizza come ingrediente il budino di Natale.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Il Christmas pudding è un ingrediente dell'omelette norvegese, che è un dessert, come il sandesh.</lex>
     </entry>

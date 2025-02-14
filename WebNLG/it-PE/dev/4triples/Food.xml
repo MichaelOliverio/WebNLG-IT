@@ -399,7 +399,7 @@
       <lex comment="good" lid="Id1" lang="it">L'Alaska al forno proviene da Parigi, New York, Stati Uniti o Hong Kong. Meringa, gelato, pan di Spagna o budino di Natale sono gli ingredienti principali dell'Alaska al forno.</lex>
       <lex comment="good" lid="Id2" lang="it">Il piatto americano Baked Alaska si trova a Hong Kong, New York e Parigi. Meringa, gelato, pan di Spagna o budino di Natale sono i suoi ingredienti principali.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'omelette norvegese proviene da Parigi, New York, Stati Uniti o Hong Kong. Meringa, gelato, pan di Spagna o budino di Natale sono gli ingredienti principali dell'omelette norvegese.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Il piatto americano L'Alaska al forno si trova a Hong Kong, New York e Parigi. Meringa, gelato, pan di Spagna o budino di Natale sono i suoi ingredienti principali.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Il piatto americano omelete norvegese si trova a Hong Kong, New York e Parigi. Meringa, gelato, pan di Spagna o budino di Natale sono i suoi ingredienti principali.</lex>
     </entry>
     <entry category="Food" eid="Id18" shape="(X (X (X) (X (X))))" shape_type="mixed" size="4">
       <originaltripleset>

@@ -166,7 +166,7 @@
       <lex comment="good" lid="Id3" lang="it">Chinabank, fondata il 1920-08-16, è una società bancaria pubblica, che conta 5594 dipendenti con 295 filiali e un reddito netto di 15.100.000.000,.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Chinabank è stata fondata il 16 agosto 1920. Chinabank offre ai clienti servizi bancari. Chinabank impiega 5594 dipendenti. Il reddito netto della Chinabank è di 15.100.000.000. Ci sono 295 centri bancari Chinabank. Chinabank è una società pubblica quotata in borsa.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Chinabank (fondata il 16 agosto 1920) è una società quotata in borsa che offre servizi bancari in 295 sedi. Con 5594 dipendenti, Chinabank ha un reddito netto di 15.100.000.000.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Chinabank, fondata il 1920-08-16, è una società bancaria pubblica, che conta 5594 dipendenti con 295 filiali e un reddito netto di 15.100.000.000.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Chinabank, fondata il 1920-08-16, è una società bancaria pubblica, che conta 5594 dipendenti con 295 filiali e un reddito netto di 15.100.000.000,.</lex>
     </entry>
     <entry category="Company" eid="Id6" shape="(X (X) (X) (X) (X) (X) (X))" shape_type="sibling" size="6">
       <originaltripleset>

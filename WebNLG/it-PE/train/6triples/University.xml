@@ -1175,7 +1175,7 @@
       <lex comment="good" lid="Id3" lang="it">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus ad Aarus, in Danimarca, è affiliata all'Associazione Universitaria Europea con sede a Bruxelles. La Danimarca è governata da un magistrato, il cui leader si chiama Lars Løkke Rasmussen.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus, ad Aarhus, in Danimarca, è affiliata all'Associazione delle Università Europee (che ha sede a Bruxelles). Aarhus ha un governo di magistrati. Il leader della Danimarca è Lars Lokke Rasmussen.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">La città di Aarhus, in Danimarca, che ha un governo guidato da magistrati, è la sede della Scuola di economia e scienze sociali. La Scuola è affiliata all'Associazione universitaria europea con sede a Bruxelles. L'attuale leader del Paese è Lars Lokke Rasmussen.</lex>
-      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus ad Aarus, in Danimarca, è affiliata all'Associazione delle università europee con sede a Bruxelles. La Danimarca è governata da un magistrato, il cui leader si chiama Lars Løkke Rasmussen.</lex>
+      <lex comment="good" lid="Id3" lang="it-PE" isPE="True">La Scuola di Economia e Scienze Sociali dell'Università di Aarhus ad Aarus, in Danimarca, è affiliata all'Associazione delle Università Europee con sede a Bruxelles. La Danimarca è governata da un magistrato, il cui leader si chiama Lars Løkke Rasmussen.</lex>
     </entry>
     <entry category="University" eid="Id43" shape="(X (X) (X) (X) (X (X) (X)))" shape_type="mixed" size="6">
       <originaltripleset>

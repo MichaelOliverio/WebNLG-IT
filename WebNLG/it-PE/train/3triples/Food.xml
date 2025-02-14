@@ -2631,7 +2631,7 @@
       <lex comment="good" lid="Id2" lang="it">Il gelato è un ingrediente della Baked Alaska, che si dice provenga da New York e dalla Francia.</lex>
       <lex comment="good" lid="Id3" lang="it">Il gelato è un ingrediente dell'Alaska al forno che proviene sia dalla Francia che dalla regione di New York.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Il gelato è un ingrediente dell'omelette norvegese, che proviene sia dal paese francese che dalla regione di New York.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Il gelato è un ingrediente dell'Alaska al forno, che si dice provenga da New York e dalla Francia.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Il gelato è un ingrediente dell'omelette norvegese, che si dice provenga da New York e dalla Francia.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Il gelato è un ingrediente dell'omelette norvegese che proviene sia dalla Francia che dalla regione di New York.</lex>
     </entry>
     <entry category="Food" eid="Id127" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -2651,8 +2651,8 @@
       <lex comment="good" lid="Id1" lang="it">Baked Alaska viene dalla Francia, dove il leader è Gerard Larcher e la valuta è l'euro.</lex>
       <lex comment="good" lid="Id2" lang="it">Baked Alaska viene dalla Francia, la sua moneta è l'euro e il suo leader è Gérard Larcher.</lex>
       <lex comment="good" lid="Id3" lang="it">L'Alaska al forno proviene dalla Francia, dove la moneta è l'euro e il leader è Gerard Larcher.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'Alaska al forno viene dalla Francia, dove il leader è Gerard Larcher e la valuta è l'euro.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">L'Alaska al forno viene dalla Francia, la sua moneta è l'euro e il suo leader è Gérard Larcher.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">omelete norvegese viene dalla Francia, dove il leader è Gerard Larcher e la valuta è l'euro.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">omelete norvegese viene dalla Francia, la sua moneta è l'euro e il suo leader è Gérard Larcher.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="True">L'omelette norvegese proviene dalla Francia, dove la moneta è l'euro e il leader è Gerard Larcher.</lex>
     </entry>
     <entry category="Food" eid="Id128" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
@@ -2676,7 +2676,7 @@
       <lex comment="good" lid="Id1" lang="it">L'Alaska al forno viene dalla Francia, dove il francese è la lingua nazionale e il leader è Gerard Larcher.</lex>
       <lex comment="good" lid="Id2" lang="it">Baked Alaska viene dalla Francia, dove il francese è la lingua parlata e Gerard Larcher è il leader.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'omelette norvegese viene dalla Francia, dove il francese è la lingua nazionale e il leader è Gerard Larcher.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">L'Alaska al forno viene dalla Francia, dove il francese è la lingua parlata e Gerard Larcher è il leader.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">omelete norvegese viene dalla Francia, dove il francese è la lingua parlata e Gerard Larcher è il leader.</lex>
     </entry>
     <entry category="Food" eid="Id129" shape="(X (X (X) (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -2835,7 +2835,7 @@
       <lex comment="good" lid="Id2" lang="en">Baked Alaska (which has ice cream as an ingredient) and sandesh are both types of dessert.</lex>
       <lex comment="good" lid="Id1" lang="it">Sandesh e Baked Alaska (che contiene gelato) sono entrambi dessert.</lex>
       <lex comment="good" lid="Id2" lang="it">L'Alaska al forno (che ha come ingrediente il gelato) e il sandesh sono entrambi tipi di dessert.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Sandesh e L'Alaska al forno (che contiene gelato) sono entrambi dessert.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Sandesh e omelete norvegese (che contiene gelato) sono entrambi dessert.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="True">L'omelette norvegese (che ha come ingrediente il gelato) e il sandesh sono entrambi tipi di dessert.</lex>
     </entry>
     <entry category="Food" eid="Id137" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -2853,7 +2853,7 @@
       <lex comment="good" lid="Id2" lang="en">Meringue is an ingredient of the dessert Baked Alaska. Sandesh is also a dessert.</lex>
       <lex comment="good" lid="Id1" lang="it">Un ingrediente del dessert Alaska al forno è la meringa. Il sandesh (pasticceria) è un piatto che può essere servito anche come dessert.</lex>
       <lex comment="good" lid="Id2" lang="it">La meringa è un ingrediente del dessert Alaska al forno. Anche il sandesh è un dessert.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Un ingrediente del dessert Alaska al forno è la meringa. Il sandesh (dolce) è un piatto che può essere servito anche come dessert.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Un ingrediente del dessert Alaska al forno è la meringa. Il sandesh (pasticceria) è un piatto che può essere servito anche come dessert.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">La meringa è un ingrediente del dessert Alaska al forno. Anche il sandesh è un dessert.</lex>
     </entry>
     <entry category="Food" eid="Id138" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -2916,7 +2916,7 @@
       <lex comment="good" lid="Id2" lang="it">Il gelato è un ingrediente della Baked Alaska, che si dice sia nata negli Stati Uniti ed è popolare a Parigi, New York e Hong Kong.</lex>
       <lex comment="good" lid="Id3" lang="it">Il gelato è un ingrediente dell'Alaska al forno, un piatto diffuso negli Stati Uniti, a Hong Kong, New York e Parigi.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'omelette norvegese, con il gelato come ingrediente, è un piatto statunitense, popolare a Parigi, New York e Hong Kong.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Il gelato è un ingrediente dell'Alaska al forno, che si dice sia nata negli Stati Uniti ed è popolare a Parigi, New York e Hong Kong.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Il gelato è un ingrediente dell'omelette norvegese, che si dice sia nata negli Stati Uniti ed è popolare a Parigi, New York e Hong Kong.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="True">Il gelato è un ingrediente dell'omelette norvegese, un piatto diffuso negli Stati Uniti, a Hong Kong, New York e Parigi.</lex>
     </entry>
     <entry category="Food" eid="Id141" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -2937,7 +2937,7 @@
       <lex comment="good" lid="Id2" lang="it">Il Christmas pudding è un ingrediente del Baked Alaska, originario sia di Hong Kong che della Francia.</lex>
       <lex comment="good" lid="Id3" lang="it">L'Alaska al forno, contenente il budino di Natale, proviene dalla Francia e da Hong Kong.</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="True">L'omelette norvegese, che contiene il budino di Natale, proviene dalla Francia. L'omelette norvegese viene servita nella regione di Hong Kong.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Il Christmas pudding è un ingrediente dell'Alaska al forno, originario sia di Hong Kong che della Francia.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">Il Christmas pudding è un ingrediente dell'omelette norvegese, originario sia di Hong Kong che della Francia.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="True">L'omelette norvegese, contenente il budino di Natale, proviene dalla Francia e da Hong Kong.</lex>
     </entry>
     <entry category="Food" eid="Id142" shape="(X (X) (X) (X))" shape_type="sibling" size="3">
@@ -4762,7 +4762,7 @@
       <lex comment="good" lid="Id2" lang="it">La banana è un ingrediente del binignit, un tipo di dessert. Il sandesh (pasticceria) è un piatto che può essere servito come dessert.</lex>
       <lex comment="good" lid="Id3" lang="it">La banana è un ingrediente del binignit, che viene servito come dessert, come il Sandesh (pasticceria).</lex>
       <lex comment="good" lid="Id1" lang="it-PE" isPE="False">La banana è un ingrediente del binignit, che insieme al sandesh è un tipo di dessert.</lex>
-      <lex comment="good" lid="Id2" lang="it-PE" isPE="True">La banana è un ingrediente del binignit, un tipo di dessert. Il sandesh (dolce) è un piatto che può essere servito come dessert.</lex>
+      <lex comment="good" lid="Id2" lang="it-PE" isPE="False">La banana è un ingrediente del binignit, un tipo di dessert. Il sandesh (pasticceria) è un piatto che può essere servito come dessert.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="False">La banana è un ingrediente del binignit, che viene servito come dessert, come il Sandesh (pasticceria).</lex>
     </entry>
     <entry category="Food" eid="Id225" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
@@ -4856,7 +4856,7 @@
       </modifiedtripleset>
       <lex comment="good" lid="Id1" lang="en">Binignit is a dessert which contains sweet potato. Sandesh (confectionery) is also a dessert.</lex>
       <lex comment="good" lid="Id1" lang="it">Il Binignit è un dessert che contiene patate dolci. Anche il sandesh (pasticceria) è un dessert.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Il Binignit è un dessert che contiene patate dolci. Anche il sandesh (dolce) è un dessert.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il Binignit è un dessert che contiene patate dolci. Anche il sandesh (pasticceria) è un dessert.</lex>
     </entry>
     <entry category="Food" eid="Id230" shape="(X (X) (X (X)))" shape_type="mixed" size="3">
       <originaltripleset>
@@ -5013,7 +5013,7 @@
       <lex comment="good" lid="Id1" lang="it">Il taro è un ingrediente del dolce Binignit. Anche il sandesh (pasticceria) è un piatto che può essere servito come dessert.</lex>
       <lex comment="good" lid="Id2" lang="it">Il Binignit si ottiene dal taro e viene servito come dessert, così come il Sandesh.</lex>
       <lex comment="good" lid="Id3" lang="it">Il taro è un ingrediente del Binignit, che è un dessert. Anche il sandesh è un dessert.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Il taro è un ingrediente del dolce Binignit. Anche il sandesh (dolce) è un piatto che può essere servito come dessert.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il taro è un ingrediente del dolce Binignit. Anche il sandesh (pasticceria) è un piatto che può essere servito come dessert.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il Binignit si ottiene dal taro e viene servito come dessert, così come il Sandesh.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Il taro è un ingrediente del Binignit, che è un dessert. Anche il sandesh è un dessert.</lex>
     </entry>

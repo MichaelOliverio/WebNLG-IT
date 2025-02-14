@@ -2724,7 +2724,7 @@
       <lex comment="good" lid="Id1" lang="it">Il sandesh (pasticceria) è un piatto che può essere servito come dessert.</lex>
       <lex comment="good" lid="Id2" lang="it">Il sandesh è un simpatico dessert di pasticceria.</lex>
       <lex comment="good" lid="Id3" lang="it">Sandesh è un dessert.</lex>
-      <lex comment="good" lid="Id1" lang="it-PE" isPE="True">Il sandesh (dolce) è un piatto che può essere servito come dessert.</lex>
+      <lex comment="good" lid="Id1" lang="it-PE" isPE="False">Il sandesh (pasticceria) è un piatto che può essere servito come dessert.</lex>
       <lex comment="good" lid="Id2" lang="it-PE" isPE="False">Il sandesh è un simpatico dessert di pasticceria.</lex>
       <lex comment="good" lid="Id3" lang="it-PE" isPE="False">Sandesh è un dessert.</lex>
     </entry>
